@@ -1,0 +1,501 @@
+I:abc-charset utf-8
+%%titleleft
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%stemheight 22
+%%headerfont Times-Roman 12
+%%header edyother.com
+%%footerfont Times-Roman 13
+%%footer $P
+%%scale 1
+
+%%textfont Times-Roman 48
+%%vskip 10
+%%begintext center
+Ed's Songbook
+%%endtext
+%%textfont Times-Roman 22
+%%begintext center
+Transcribed and compiled by 
+Ed Yother
+
+http://edyother.com
+ed@edyother.com
+%%endtext
+
+%%newpage
+%%titlefont Times-Roman 24
+%%scale .8
+%%staffsep 40
+
+X:1
+T:Aikendrum
+C:Traditional
+S:Ewan McColl and Peggy Seeger
+K:Ddor
+M:4/4
+L:1/8
+A,A, | D>E DC A,G, A,C | F2 ED E2 A,A, | D>E DC A,G, A,C | D6 AA | A>G AB c2 BA | 
+GF EF G2 FG | AG FD A2 A,A, | DC DE FE FG | AG FD A2 A,A, | D6 :|
+%%textfont Times-Roman 20
+%%begintext
+Ken ya who a whig can fight: Aikendrum, Aikendrum
+Ken ya who a whig can fight: Aikendrum
+He can fight the hero bright: With his heels and armor light
+And the wind of heav'nly might: Aikendrum, Aikendrum
+Is not Rowley in the right: Aikendrum
+
+Did ya hear of Sunderland: Aikendrum, Aikendrum
+Did ya hear of Sunderland: Aikendrum
+That man of high command: Who has sworn to clear the land
+He is vanished from our strand: Aikendrum, Aikendrum
+Or the eel has ta'en the sand: Aikendrum
+
+Donald's running around and 'round: Aikendrum, Aikendrum
+Donald's running around and 'round: Aikendrum
+But the chief cannot be found: And the Dutchmen they are drowned
+And King Jamie he is crowned: Aikendrum, Aikendrum
+But the dogs will get a 'stound: Aikendrum
+
+We have heard of Whigs galore: Aikendrum, Aikendrum
+We have heard of Whigs galore: Aikendrum
+We have searched the country o'er: With cannons and claymore
+But still they are before: Aikendrum, Aikendrum
+We may seek forever more: : Aikendrum
+
+Ken ya who to gain a Whig: Aikendrum, Aikendrum
+Ken ya who to gain a Whig: Aikendrum
+Look jolly blithe and big: Take his ain blest side a prig
+And the poor worm eaten whig: Aikendrum, Aikendrum
+For opposition's sake we will win
+%%endtext
+%%newpage
+
+X:2
+T:Bold McShane
+C:Traditional
+S:Eddie and Finbar Furey
+K:Ador
+M:3/4
+L:1/8
+A2 | A3 B c2 | d3 e d2 | c3 A B2 | c4 c2 | A3 B c2 | d3 e d2 | c3 A B2 | c4 c2 |
+A3 B c2 | d2 e2 d2 | c2 A2 G2 | F2 G2 A2 | B3 B B2 | c2 A2 G2 | F3 D D2 | D6 |
+D3 E F2 | G6 | A2 F2 D2 | F(A A3) | B3 B B2 | c3 A G2 | F3 D D2 | D6 |
+| B3 B B2 | c3 A G2 | F3 D D2 | D4 :|
+%%textfont Times-Roman 24
+%%begintext
+My name is McShane from the plains of Kildare
+A farmer I was until the last year
+Till I took a notion oh via promotion
+Went over to England the harvest the shear
+
+Rum toora la rum toora laddie rum toora la musha rum toora lay
+
+I parted with money so blithe and so jolly
+Picked up a stick for a staff in me hand
+And to keep myself cheery for fear I'd get weary
+I sang Paddywhack as I went on my way.
+
+I landed at Dumbarton on a fine summers evening
+Me bundle and staff I held them in me hands
+There were some of them laughing and some of them chaffin'
+More of them trying to stick Paddy away.
+
+I went into a woman to ask her for lodgings
+She said "Me young man, now don't look so dull!
+For I will tell you where you will get lodgings
+With a woman who lives next door to The Black Bull."
+
+So I went to this woman and asked her for lodgings
+She instantly showed me to a bed in a room
+And I being so tired and worn out from walking
+I threw myself down on me bed in the room.
+
+But a lump of a Tinker lay up in the corner
+He swore 'pon his soul sure he'd kill all was there
+Says I "Me bold Tinker, give over your braggin',
+I'm bold McShane from the plains of Kildare!"
+
+But he tried for to hit me a punch in the stomach
+I instantly fetched him a one in the throat
+And he tumbled heels over his head in the corner
+And put all his head in an old rusty pot.
+
+He lay on the floor like a sheep he was bleeding
+I swore 'pon my soul sure I'd cut off his life
+But I lifted him up and sent down for to Megan
+Me and the Tinker we ended the strife.
+%%endtext
+%%newpage
+
+X:3
+T:The Blacksmith
+C:Traditional
+S:Andy Irvine
+K:Ddor
+M:4/4
+L:1/8
+(ed) | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) ed | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) de |
+g2 g2 ag ed | e6 ed | c3 A cd (d2 | d6) AB | c2 d2 eg ^fd | e6 AB | cd e2 G2 A2 | A6 :|
+%%textfont Times-Roman 24
+%%begintext
+A Blacksmith courted me, nine months and better
+He fairly one my heart, wrote me a letter
+With his hammer in his hand he looked quite clever
+And if I was with my love, I'd live forever
+
+But where has my love gone, with his cheeks like roses
+And his good black billycock on, all decked 'round with primroses
+I'm afraid the scorching sun will shine, and burn his beauty
+And if I was with my love, I'd do my duty
+
+Strange news has come to town, strange news is carried
+Strange news flies up and down, that my love is married
+I wish them both much joy, though they can't hear me
+And may God reward him well for the slighting of me
+
+Don't you remember when you lay beside me?
+And you said you'd marry me, and not deny me
+If I said I'd marry you, it was only for to try you
+So bring your witness love, and I'll not deny you
+
+But witness have I none, save God almighty
+And may he reward you well for the slighting of me
+Her lips grew pale and wan, it made her poor heart to tremble
+To think she'd loved the one, and he proved deceitful
+%%endtext
+%%newpage
+
+X:4
+T:Dirty Old Town
+C:Ewan McColl
+K:D
+M:4/4
+L:1/8
+(3DDD | G2 A2 (B4 | B6) GA | B3 G (D4 | D8) | B2 d2 (e4 | e6) dB | A3 G (B4 | B6) dd |
+e2 d2 (B4 | B6) GA | B3 G (D4 | D8) | ED DG BG (A2 | A8) | AG AG ED (E2 | E6) :|
+%%textfont Times-Roman 20
+%%begintext
+I found my love by the gas works croft
+Dreamed a dream by the old canal
+I kissed my girl by the factory wall
+Dirty old town
+Dirty old town
+
+Clouds are drifting across the moon
+Cats are prowling on their beat
+Out springs a girl from the streets at night
+Dirty old town
+Dirty old town
+
+I heard a siren from the docks
+Saw a train set the night on fire
+I smelled the spring on the smoky wind
+Dirty old town
+Dirty old town
+
+I'm gonna make me a big sharp axe
+Shining steel tempered in the fire
+I'll cut you down like an old dead tree
+Dirty old town
+Dirty old town
+
+I found my love by the gas works wall
+Dreamed a dream by the old canal
+I kissed my girl by the factory wall
+Dirty old town
+Dirty old town
+Dirty old town
+Dirty old town
+%%endtext
+%%newpage
+
+X:5
+T:Felix the Soldier
+C:Traditional
+S:Jeff Davis
+K:Ador
+M:4/4
+L:1/8
+BA | GE ED E3 D | A,D D^C D=C CA, | EF GA (3(BcB) AB | GE ED E2 BA |
+GE ED E3 D | A,D D^C D=C CA, | EF GA (3(BcB) AB | GE ED E2 d2 |
+(3(BcB) Ac BA GE | DA AG AF ED | EF GA (3(BcB) AB | GE ED E2 BA |
+GE ED E3 D | A,D D^C D=C CA, | EF GA (3(BcB) AB | GE ED E2 :|
+%%textfont Times-Roman 22
+%%begintext
+Well they took away me brouges and they robbed me of my spade
+Put me in the Army and a soldier of me made
+But I could not beat the drum and I could not play the flute
+They put me in the Army and they taught me how to shoot
+
+Well we had a bloody fight after we had gained the wall
+the devil a bit of mercy did the Frenchies show at all
+Well the Indians they were sly and the Frenchies they were coy
+They shot off the left leg of this poor Irish boy
+
+Then they put me on a ship and they sent me home again
+With all the Army's training after battle strife and then
+Well we headed for the down and we landed at the keys
+Me mother came to see me and these words did say to me
+Oh Felix were you drunk, and Felix were you mad
+oh what has become of the fine two legs you had
+
+Well I bid my spade adieu, for I could not dig the bog
+But I can play my fiddle and I can drink my grog
+I've learned to smoke a pipe, and I can fire a gun
+To the devil with the fighting I am glad this war is done
+%%endtext
+%%newpage
+
+X:6
+T:Go to Sea Once More
+C:Traditional
+S:Louis Killen
+K:Ddor
+M:3/4
+L:1/8
+A2 | A4 A2 | F2 G2 (3(ABA) | G2 E2 D2 | C3 D E2 | F3 E D2 | E4 C2 | (D6 | D4) F2 |
+F2 E2 D2 | E4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) A2 |
+A2 G2 F2| G4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) FG | 
+A3 A A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F3 E D2 | E4 C2 | (D6 | D4) c2 |
+(c6 | c4) A2 | (G6 | G4) A2 | A2 G2 F2 | D4 A,2 | (C6 | C4) FG |
+A2 A2 A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F2 E2 D2 | E4 C2 | (D6 | D4) :|
+%%textfont Times-Roman 19
+%%begintext
+At once I landed in Liverpool, I went upon a spree
+Me money at last, I spent it fast, got drunk as drunk could be
+And when me money was all gone, 'twas then that I wanted more
+But a man must be blind to make up his mind to go to sea once more
+
+Once more, once more, to go to sea once more
+But a man must be blind to make up his mind to go to sea once more
+
+I spent the night with Angelie, too drunk to roll in bed
+Me watch new, and me money too, in the morning with them she'd fled
+And as I wandered the streets of town, oh how them whores did roar
+Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
+
+Once more, once more, to go to sea once more
+Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
+
+As I went walking down London road, I met with rapper Brown
+I asked him if he'd take me in, he looked at me with a frown
+He said last time you was paid off, with me you've chalked no score
+But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
+
+Once more, once more, to go to sea once more
+But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
+
+He shipped me aboards of a whaling barque, that was bound for them arctic seas
+Where there's ice and snow, and them cold winds blow, why Jamakee rum would freeze
+And hardest to bear, I'd no hard weather gear, for I'd spent all me money ashore
+Why 'twas then that I wished that I was dead, and could go to sea no more.
+
+Once more, once more, to go to sea once more
+Why 'twas then that I wished that I was dead, and could go to sea no more.
+
+Some days we was catching whales me boys and some days we was catching none
+With a twenty foot oar in your hand you roll the whole day long
+And when them shades of night come you rest on your weary oar
+Why your back is so weak, that you never would seek a berth at sea once more
+
+Once more, once more, to go to sea once more
+Why your back is so weak, that you never would seek a berth at sea once more
+
+So come all you hard weather sailing men, and listen to me song
+When you get back from them long trips, I'll have you not go wrong
+Take my advice, drink no strong drink, and go sleeping with no whore
+But get married instead, and have all night in, and go to sea no more
+
+Once more, once more, to go to sea once more
+But get married instead, and have all night in, and go to sea no more
+%%endtext
+%%newpage
+
+X:7
+T:Man You Don't Meet Everyday
+C:Traditional
+S:The Pogues
+K:A
+M:3/4
+L:1/8
+AB | c3e ec | B4 AB | c2 a2 g2 | f4 fg |
+a3f e2 | B4 AB | c3e ec | B4 AB | 
+c3e ec | B4 AB | c2 a2 g2 | f4 fg | 
+a3f e2 | B4 AB | (A6 | A4) :|
+%%begintext
+Arragned mandolin part
+%%endtext
+M:3/4
+AB | cE dE cE | BA FG AB | cE ac gc | fe de fg |
+ag fe dc | BA FG AB | cE dE cE | BA FG AB | 
+cE dE cE | BA FG AB | cE ac gc | fe de fg | 
+ag fe dc | BA FG AB | A3B AG | A4 :|
+%%textfont Times-Roman 28
+%%begintext
+My name is Jock Stewart, I'm a crafty young boy
+And a roving young fellow I have been
+So be easy and free when you're drinking with me
+I'm a man you don't meet everyday
+
+I have acres of land, I have men I command
+I have always a shilling to spare
+So be easy and free when you're drinking with me
+I'm a man you don't meet everyday
+
+So fill up your glasses with brandy and wine
+Whatever it costs I will pay
+So be easy and free when you're drinking with me
+I'm a man you don't meet everyday
+
+I went out with my dog, and with him I did shoot
+All down in the county kildare
+So be easy and free when you're drinking with me
+I'm a man you don't meet everyday
+
+So fill up your glasses with brandy and wine
+Whatever it costs I will pay
+So be easy and free when you're drinking with me
+I'm a man you don't meet everyday
+%%endtext
+%%newpage
+
+
+X:8
+T:Paddy West
+C:Traditional
+S:A. L. Lloyd
+M:3/4
+K:G
+L:1/8
+f3 | edB | e2f | d2B | A2B | d2e | (d3 | d3)
+a3 | fga | b3 | afe | d2f | e2d | (B3 | B3)
+a3 | fga | b3 | afe | d2f | e2d | (B3 | B3)
+f2f | edB | e2f | d2B | A2B | d2e | (d3 | d3)
+a2b | d'2e' | (d'3 | d'3) :|
+%%textfont Times-Roman 21
+%%begintext
+As I went walking down London road, I come to Paddy West's house
+He give me a plate of American hash, and calls it Liverpool scouse
+He said there's a ship that's wanting hands, and on her you must sign
+The mate's a bastard, the bosun's worse, but she will suit you fine
+
+Take off your dungaree jacket, and give yourself a rest
+And we'll think on them cold n'or westers that we had at Paddy West
+
+After I finished the plate me boys, the wind began to blow
+He sent me up to the attic, the mail royal for to stow
+But when I get up to the attic, no main royal could I find
+So I turned around to the window and I furled the window blind
+
+Take off your dungaree jacket, and give yourself a rest
+And we'll think on them cold n'or westers that we had at Paddy West
+
+Paddy he piped “All hands on deck, their stations for to man”
+His wife, she stood in the doorway, with a bucket in her hand
+Paddy he cried “Now let her rip” and she flung the water our way
+Saying “Clew up yer 'fore t'gansls boys, she's takin' in the spray”
+
+Take off your dungaree jacket, and give yourself a rest
+And we'll think on them cold n'or westers that we had at Paddy West
+
+Since your headed away to the south me boys, to Frisco you are bound
+Paddy he called for a length of rope and layed on the ground
+He had us step over and back again and he says to me “that's fine”
+And if ever they ask was you ever at sea, you can say you've crossed the line
+
+Take off your dungaree jacket, and give yourself a rest
+And we'll think on them cold n'or westers that we had at Paddy West
+
+There's only one thing left that you must do before you sail away
+Walk around the table, where the bullocks horn does lay
+And if ever they ask, was you ever at sea, you can say ten times 'round the Horn
+And be'Jesus that you was a sailorman since the day that you was born
+
+Put on your dungaree jacket, and walk up looking your best
+And tell 'em that you're an old sailorman since the day that you was born
+Put on your dungaree jacket, and walk up looking your best
+And tell 'em that you're an old sailorman since the day that you was born
+%%endtext
+%%newpage
+
+X:9
+T:Roving Peddler
+C:Traditional
+M:9/4
+L:1/8
+K:Ador
+E | ABcd e2 d2 e2 dcAG A4 | ed (3efg a2 g2 a2 beed e4 |
+ed (3efg a2 g2 a2 beef g4 | ageg f2 d2 e2 dcAG A3 :|
+%%textfont Times-Roman 18
+%%begintext
+I am a jolly peddler and I've roamed this country 'round
+Until I took a notion to view some other ground
+With my pack upon my shoulder and my cudgel in my hand
+I went into New Hampshire to view that happy land
+
+I went into New Hampshire and the girls all jumped for joy
+Said one girl to another "There's that handsome peddler boy" 
+They invited me to dine with them, they took me by the hand
+The toast they gave primarily, Success to the peddler man
+
+I went into New Hampshire where the girls they are so neat
+They're kind in every feature, their kisses are so sweet
+There's handsome Jane and Molly and fair young Betsy, too
+Along with one of these fair maids I'll roam the country through
+
+I went into New Hampshire and there among the maids
+With my bold conversation they seemed but not afraid
+While such fine things I sold to them they came to understand
+The humor and good nature of the handsome peddler man
+
+I went into a tavern and there all night I stayed
+The landlady's fair daughter of me was not afraid
+She held me and she kissed me, she took me by the hand
+And shyly told her momma that she loved the peddler man
+
+But early the next morning as I was going away
+The landlady's fair daughter these words to me did say
+"How can you be so cruel and treat me so unkind
+And go onece more a roaming and to leave me here behind"
+
+But I'll leave off my peddling and I'll take to me a wife
+For with this handsome fair maid I'd gladly spend my life
+I'll embrace her late and early and do the best I can
+To make her bless the day she wed the handsome peddler man
+%%endtext
+%%newpage
+
+X:9
+T:Wings of a Goney
+C:Traditional
+L:1/8
+M:4/4
+K:Dm
+DE |: F2 AA E2 GE | D>E DC A,2 CD | E2 G2 A2 EC | C D D4 :|
+DA | A3G c2 BG | A2 GE D2 DA | A3G c2 BG | GA A4 |
+DE | F2 AA E2 GE | D>E DC A,2 CD | E2 G2 A2 EC | C D D4 :|
+%%textfont Times-Roman 20
+%%begintext
+Oh if I had the wings of a goney boys I'd spread 'em and fly home
+I'd leave all of Greenland's icy shores, for the right whale here is none
+Oh the weather's rough and the winds do blow, and there's little comfort here
+I'd rather be snug in a Deptford pub a-drinking a strong beer
+
+Oh a man must be mad or wanting money bad to go venture catching whales
+For he may be drowned when the fish turns around or his head smashed in by its' tail
+They world seems grand to a young greenhand, and his heart is high when he goes
+In a very short burst he'd as soon as hear a curse as the cry of "There she blows"
+
+All hands on deck, now for God's sake, move quickly if you can
+Oh he stumbles on deck, so dizzy and so sick, for his life he don't give a damn
+High overhead the great flukes spread, and the mate gives the whale the iron
+And soon the blood, in purple flood, from his spout all comes a-flyin'
+
+Oh these trials we bare for neigh on four years, till our flyin' jib points to home
+We're supposed for our toil to get a bonus on the oil, and an equal share of the bone
+So we go to the agent to settle for our debt, and it's there we have cause to repent
+For we've slaved away four years of our lives, and we've earned about three pounds, ten
+%%endtext

@@ -1,0 +1,418 @@
+%%titleleft
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%stemheight 22
+%%headerfont Times-Roman 12
+%%header edyother.com
+%%footerfont Times-Roman 13
+%%footer $P
+%%scale 1
+
+%%textfont Times-Roman 48
+%%vskip 80
+%%begintext center
+Ed's Tunes
+%%endtext
+%%textfont Times-Roman 22
+%%begintext center
+All composed by
+Ed Yother
+
+http://edyother.com
+ed@edyother.com
+%%endtext
+%%textfont Times-Roman 16
+%%begintext
+
+
+
+
+
+     The tunes in here that I have written are included under a Creative Commons
+Attribution License 3.0. Use them however you like, as long as I get credit.
+More on that at http://creativecommons.org/licenses/by/3.0/us/
+%%endtext
+%%newpage
+
+%%textfont Times-Roman 32
+%%vskip 40
+%%begintext center
+Table of Contents
+%%endtext
+%%textfont Times-Roman 15
+%%begintext
+
+
+
+
+
+Reels ~ Page 3
+
+Jigs ~ Page 6
+
+Polkas ~ Page 10
+
+Hornpipes ~ Page 12
+
+Waltzes ~ Page 13
+
+
+%%endtext
+%%newpage
+%%textfont Times-Roman 32
+%%begintext
+Reels
+%%endtext
+%%titlefont Times-Roman 20
+%%scale .75
+%%staffsep 35
+
+X:1
+T:A Day Before the Pyper
+C:Ed Yother
+C:http://edyother.com
+M:4/4
+R:Reel
+K:Dm
+DG (3GGG FGAB | cBAc  dcA2 | FA (3AAA cBAG | FGAB cdc2 |
+ DG (3GGG FGAB | cBAc  dcA2 | (3fff fe dcAc | dcBA G2G2 :|
+|:(3ggg ga gfde | (3fff fg fdcd | (3ggg ga gfde | fdef gbaf |
+ (3ggg ga gfde | (3fff fg fdcd | (3ggg ga gfde | fdcA  G2G2 :|
+
+X:1
+T:Waiting for Tracy
+C:Ed Yother
+C:http://edyother.com
+M:4/4
+L:1/8
+R:Reel
+K:G
+|:d2 dA BcBA | GAGD E2 ED | EGAB cBAG | AGAB dBAG |
+d2 dA BcBA | GAGD E2 ED | EGAB cBAG | ED C2 D4 :|
+|:E2 EG AGAB | cBAG A2 AB | cBAG AGEG | AGAB G2 GD |
+E2 EG AGAB | cBAG A2 AB | dBAG A2 BA | GE C2 D4 :|
+
+X:27
+T:Kitty on the Rail
+M:C|
+R:reel
+C:Ed Yother
+C:http://edyother.com
+K:Ddor
+|: (3ddd ed fded | cdef edcA | (3ddd ed fded | cdgc acgc |
+(3ddd ed fded | cdef edcA | fedc AGAB | cAdc AFD2 :|
+| (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABA2 |
+(3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABc2 |
+| ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | ({c}d2)d2 dcAG | (3(ABc) de f2ff |
+({c}d2)d2 dcAG | (3ABA AG (3ABA AG | (3DEF AB cAdc | AFE2 D4 |
+
+X:1
+T:The Fat Cardinal
+C:Ed Yother
+C:http://edyother.com
+M:C|
+R:Reel
+K:Edor
+EFGA (3(BcB) Bc | BAFA BAdB | DEFA (3(ABA) dB | AFAB AFED :|
+|: Egfe defe | ABde fedB | DEFA (3(ABA) fe | dBAF EDB,D :||
+
+X:1
+T:O'Dowd's Pitch
+C:Ed Yother
+C:http://edyother.com
+K:Gdor
+R:Reel
+M:C|
+BAGB AGFD | CD (3DDD EDCD | FEDG FDCF | DCA,D CA,G,2 |
+BAGB AGFA | (3ccc cA GAdA | BAGd cAGB | AGFD CA,G,2 :|
+|: BAGd cAGB | AGFA cAFA | BAGd cAGB | AGFD CDFA |
+BAGd cAGB | AGFA cAFA | (3BBB Bc BAGA | BAGF DFGA :||
+
+X:1
+T:Oak Cliff Road
+C:Ed Yother
+C:http://edyother.com
+K:Gdor
+R:Reel
+M:4/4
+DGG^F (3GGG GA | BAGd cAGF | DFFE (3FFF FA | cFdF cAGF |
+DGG^F (3GGG GA | BAGd cAGF | dcde fedc | AdcA GFDC :|
+|: GABc (3ddd dg | fagd fdcA | cAGD FEFD | CDFG AGFD |
+GABc (3ddd dg | fagd fdcA | c=Bcd fdcA |[1 GBAG FDCD :|]2 (3ccc cA GFDC ||
+
+X:1
+T:Untitled Reel
+C:Ed Yother
+C:http://edyother.com
+K:Edor
+R:Reel
+M:4/4
+EAAG EDB,D | GBAd cAGF | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
+EAAG EDB,D | (3DEF AB dBAG | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
+|:  EAAd cAGF | Eeef gfed | (3BcB Bc dcBA | FBAF EDB,D :|
+
+%%newpage
+%%begintext
+Jigs
+%%endtext
+
+
+X:36
+T:Salt River Road
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:Dmix
+A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
+A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
+|: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
+[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
+[2 dcd ecA | gfg agf | def gde | ceB A3 |]
+
+X:1
+T:Coffee on the Bricks
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:Dmix
+Dfe dBA | FAB AFE | Ec/c/c cBA | Ec/c/c cBA |
+Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
+|: Af/f/f Af/f/f | gfe def | edc ABc | ABA FED |
+[1 Af/f/f Af/f/f | gfe def | afb afe | ed^c d3 :|
+[2 Ec/c/c cBA | ged cAG | Ec/c/c cBE | EDD D3 ||
+
+X:50
+T:Lydia has no Faith in Cats
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+L:1/8
+R:jig
+K:Bm
+FBB dBc | ded cBA | eA/A/A cAc | dcB AFE |
+FB/B/B dBc | ded cBA | gfe dAB | cdc BB/B/B :|
+|: fd/d/d Bdd | FBd fed | ec/c/c Acc | EAc edc |
+dc/d/d ede | fdf bb/b/b | afd eAB | cdc BB/B/B:|
+
+X:49
+T:Oddfellows in Plainville, The
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:G
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EDB, |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EE/E/E :|
+|: dd/d/d dcB | GBd gfe | dd/d/d dcB | GAB cBA |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF E3 :|
+
+X:30
+T:Persistence of Noel Reid, The
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:G
+DFA DFA | cBc G2A | cBc GBc | ({c}d2) d/d/ dcA |
+DFA DFA | cBc GBc | dcd Acd | age cBA :|
+|: aa/a/a age | ged e2 f | gfg def | gfg age |
+aa/a/a age | ged e2 f | gfg dfg | age cBA :|
+
+X:28
+T:Where I Told Her I Loved Her and Sprained Her Ankle
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:G
+GED DEG | (B/c/B)G AGE | GED DEG | AA/A/A AGE |
+GED DEG | (B/c/B)G AGE | GED DEF |[1 GG/G/G GFE :|[2 GG/G/G GBc |
+|: dB/B/B BGB | FGA BAB | cA/A/A AFA | DEF GF/F/G |
+DEF GF/F/G | AGE GAB | cBA DEF |[1 GG/G/G GBc :|[2 GG/G/G GED |]
+
+X: 1
+T:Untitled Jig
+C:Ed Yother 8/2015
+C:http://edyother.com
+R: Jig
+M: 6/8
+L: 1/8
+K: Dmaj
+AFD DFA | dfe d3 | Bcd cBA | FAB AFD | 
+AFD DFA | dfe d3 | Bcd cBA | FED D3 :|
+|: def afd | afb afe | def afe | dBA ABd | 
+def afd | afb afe | def afe | dBB B3 :|
+
+X:54
+T:Untitled Four Part Jig
+C:Ed Yother 12/2016
+C:http://edyother.com
+M:6/8
+L:1/8
+R:Jig
+K:Dmix
+|: dcA FGA | BAB AFD | dcA FGA | BAB cBc | 
+dcA FGA | BAB AFD | FEF GFG | AFD D3 :|
+|: FEF GFG | AFD AFD | FEF GFG | AFD DFA | 
+FEF GFG | AFD AFD | BAB cBA | FGA D3 :| 
+|: dcA dcA | FAd fed | dcA dcA | FGA AFD | 
+dcA dcA | FAd fed | cAB cBA | FGA D3 :|
+|: cAB cAd | cAd cAB | cAB cAd | cAF GAB | 
+cAB cAd | cAd cAB | cAd cAF | FGA D3 :| 
+
+X:1
+T:Untitled
+C:Ed Yother 2/2017
+C:http://edyother.com
+M:6/8
+L:1/8
+R:Jig
+K:D
+|: FAd ede | fed edB | GBc dcB | dcB A3 |
+GBc dcB | FAd efg | Bcd ecA |1 dcB AGE :|2 d6 | 
+|: cde efg | Bcd ecA | ecA Bcd | ecA Bcd | 
+cde efg | Bcd ecA |1 ecA Bcd | ecA G3 :|2  Bcd ecA | dcB AGE ||
+
+%%newpage
+%%begintext
+Polkas
+%%endtext
+%%scale .75
+
+
+X:39
+T:Face the Table
+C:Ed Yother
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+DD/E/ FA | BA Bd | DD/E/ FB | AF ED |
+DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
+|: dd/d/ df | ed ef | dd/d/ df | ed BA |
+dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
+
+
+X:1
+T:Untitled Polka
+C:Ed Yother
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+af/f/ ed | ef ed | Bg/g/ gf | fe fg |
+af/f/ ed | ef ed | Bg BA | EF D2 :|
+|: EF DE | FA dB/B/ | Bg BA | Bc BA |
+EF DE | FA dB/B/ | Bg BA | EF D2 :|
+
+X:1
+T:Whistling Wrangler, The
+C:Ed Yother
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+Bd AF | Ad ff/f/ | gf ed | fe dB |
+Bd AF | Ad ff/f/ | gf ea | fe d2 :|
+|: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
+Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 || 
+
+%%newpage
+%%begintext
+Hornpipes
+%%endtext
+
+
+X:1
+T:Cappy's Hill
+M:4/4
+L:1/8
+C:Ed Yother
+C:http://edyother.com
+R:Hornpipe
+K:G
+(3DEF|G2G2BG Bc|de dcB2(3AGF|A2A2cB cG|AB AF D2(3DEF|
+GF GA BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2:|[2 G2B2G2(3def|
+|: gf gd BA Bc|de dc B2(3AGF|A2A2cB cG|Bc d2d2(3def|
+gf gd BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2 (3def:|[2 G2B2G2||
+
+X:1
+T:Untitled Hornpipe
+R:Hornpipe
+M:4/4
+C:Ed Yother 2/2018
+C:http://edyother.com
+L:1/8
+K:D
+ag | (3fgf ef decd | =cAGB A2 (3ABc | dBG=c AFDF | ABAF G2ag |
+(3fgf ef decd | =cAGB A2 (3ABc | dBGB dgae | fgaf g2 :|
+|:gf | (3efe ef gege | edBc d2=cB | (3ABA AB =cAFG | AB=c^c d2gf |
+(3efe ef gege | edBc d2=cB | (3ABA AB =cAFD | GBAF G2 :|
+
+%%newpage
+%%begintext
+Waltzes
+%%endtext
+
+X:52
+T:Edna's Vase
+C:Ed Yother
+C:http://edyother.com
+M:3/4
+L:1/4
+R:Waltz
+K:D
+|:  D F A | d d/c/ d/e/ | fe(3(d/e/d/) |  B>d c/2B/2 |
+ AFD | E E/G/ F/2E/2 |[1  DFA | BA (3(F/G/F/) :|[2  D D B, |  DFA |
+|:  B B/A/ B/2c/2 | dAF | B A B | d c (3(B/c/B/) |
+[1 A A/F/ A/2B/2 | AFD | E E/F/ G/2A/2 | BAF :|
+[2 A A/F/ A/2B/2 | AF (3E/E/E/ |  EDC |  D>G F/2E/2 |]
+
+X:53
+T:Hillgrove's Waltz
+C:Ed Yother
+C:http://edyother.com
+M:3/4
+L:1/8
+R:Waltz
+K:Dm
+A,C | D2 DC DE | DC A,C DF | ({F}G2) GA GD | F2 G2 A2 |
+ dc AG  (3ABc | GF DC DE | FA  GF  DC |[1 D2 D2 :|[2 D2 A2 c2 |]
+|: ({c}d2) dA cd | AG FC DF | ({F}G2) GA GD | F2 F2 (3(EFE) |
+ D2 DE FG | Ad cA GF | DC  DF  EC |[1 D2 A2 c2 :|[2  D4 |]
+
+X:1
+T:The Transient's Lament
+C:Ed Yother
+C:http://edyother.com
+M:3/4
+L:1/8
+R:Waltz
+K:Dm
+|:A,2 | DF AB AF | AB cB cd | e2 cd ef| c4 d2 |
+ fe df ed | cd ef ga | b2 a2 c2 | d4 :|
+|:g2 | b4 g2 | a2 f4 | ga gf ed | f4 e2 |
+ d4 B2 | cd ef ga | b2 a2 c2 | d4 :|
+
+X:1
+T:The Woman from Windsor Locks
+C:Ed Yother
+C:http://edyother.com
+M:3/4
+L:1/8
+R:waltz
+K:Gm
+D2 | G2 G^F GB | d2 d2 B2 | c2 cd Bc | A2 ^F2 D2 |
+G^F GB dg | b2 a2 g2 | ^f4 e2 | d4 D2 |
+ G2 G^F GB | d2 d2 B2 | cd Bc AB | G2 ^F2 D2 |
+G^F GB dg | b2 a2 g2 |  ^f4 g2 | a6 ||
+|: b2 ba g2 | b2 ba g2 | ^f4 e2 | d6 |
+ed ce dc | dc Bd cB | c2 B2 ^F2 |1 G6 :|2 G4 ||
+
