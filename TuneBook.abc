@@ -1752,6 +1752,21 @@ fdd cAA | BGG A2G | FAA def | gec d3 :|
 %%staffsep 35
 
 X:129
+T:Donnybrook Fair
+T:Joy of my Life
+C:
+C:
+S:
+L:1/8
+R:Jig
+M:6/8
+K:G
+G3 AGA | B2e dBA | B3 GAB | AGE EDE |
+G3 AGA | B2e dBA | B3 GAB | AGF G3 :|
+|: gfe fec | e3 dBA | B2e dBA | Bed e3 |
+gfe fec | e3 dBA | B3 GAB | AGF G3 :|
+
+X:129
 T:Old Hag You Have Killed Me
 K:Dmix
 R:Jig
@@ -2031,22 +2046,6 @@ D4 E2 | F4 G2 | A3A d2 | A4 G2 | F3E D2 | E3D C2 | (D6 | D4) :|
 %%staffsep 40
 
 X:148
-T:Blackthorn Stick
-T:Coach Road To Sligo
-C:Traditional
-R:jig
-M:6/8
-K:G
-| gfg ege | dBG AGE | DGG FGA | BGB A2d|
-gfg age | dBG AGE | DGG FGA | BGF G2d :|
-|: edd gdd | edd gdd | edd gfe | dBG A2d |
-gfg age | dBG AGE | DGG FGA | BGF G2d :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
-
-X:149
 T:The Humors of Ballylaughlin
 C:
 C:
@@ -2063,3 +2062,50 @@ cBc dcB | ABG FGE | D3 DFA | D3 D3 :|
 fdd gdd | fdd ged | cde gag | fdc d2e :|
 |: A3 A2G | F3 GED | E3 EFD | EFD EFG |
 A3 dAG | F3 GEA D3 DFA | D3 D3 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:150
+T:Donnybrook Fair
+T:Joy of my Life
+C:
+C:
+S:
+L:1/8
+R:Jig
+M:6/8
+K:G
+G3 AGA | B2e dBA | B3 GAB | AGE EDE |
+G3 AGA | B2e dBA | B3 GAB | AGF G3 :|
+|: gfe fec | e3 dBA | B2e dBA | Bed e3 |
+gfe fec | e3 dBA | B3 GAB | AGF G3 :|
+
+X:151
+T:Rambling Pitchfork
+C:
+C:
+S:Conal O'Grada
+L:1/8
+R:Jig
+M:6/8
+K:D
+F3 AFF | =cFF AFF | G3 ABc | ded cBA |
+F3 AFF | =cFF AFF | G3 BAB | GED D3 :|
+|: d2e f3 | edA AFA | d3e f3 | faf ged |
+d2e f3 | edA AFD | G3 BAB | GED D3 :|
+
+X:152
+T:Kilashandra Lasses
+C:
+C:
+S:Sean Gavin
+L:1/8
+R:Jig
+M:6/8
+K:D
+G3 BGG | dGG BGG | A3 ABd | edB AGF |
+G3 BGG | dGG B3 | ABc BAB GEE E3 |:
+|: def gfe | ded BAG | A3 ABd edB AGE |
+def gfe | ded BAG | ABC BAB | GEE E3 :|
