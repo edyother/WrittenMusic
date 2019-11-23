@@ -45,7 +45,7 @@ For writing and editing the tunes themselves: EasyABC -- It's a text editor that
 For converting the .abc file into a .pdf: abcm2ps -- this is a command line tool which I have been using in Linux. It is supposed to be cross platform, but I don't have any experience there. I wrote it into a bash script, which you can find at http://github.com/edyother/abc2pdf.sh
 %%endtext
 
-%%EPS "C:\Users\ed\vb_share\ContentsPage.eps"
+%%EPS ".\ContentsPage.eps"
 
 %%newpage
 
@@ -218,7 +218,6 @@ c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 
 
 %%newpage
-
 %%scale .7
 %%staffsep 35
 
@@ -1916,6 +1915,18 @@ EFGF EFGF | EFGA B2AB | cBAG FAGF | EGFD E4 :|
 |: eAAe dcBc | dGGd cBAG | FGAc BAGF | EFGA B2cd |
 eAAe dcBc | dGGd cBAG | FGAc BAGF | EGFD E2 :| 
 
+X: 140
+T:Reel de Montreal
+R:reel
+M:4/4
+L:1/8
+K:G
+|:
+:|
+K:D
+|:
+:|
+
 %%newpage
 %%scale .7
 %%staffsep 40
@@ -2015,7 +2026,6 @@ g/a/g/a/ g/a/g/a/ | f/a/f/a/ f/a/f/a/ | eA Bc | d2 b2 ||
 X:146
 T:Come Back Paddy Reilly
 C:Ask John
-C:
 S:John Winston
 L:1/8
 R:Waltz
@@ -2032,7 +2042,6 @@ B2 d2 B2 | A2 G2 BA | (G6 | G4) :|
 X:147
 T:Ask John
 C:Ask John
-C:
 S:John Winston
 L:1/8
 R:Waltz
@@ -2047,8 +2056,6 @@ D4 E2 | F4 G2 | A3A d2 | A4 G2 | F3E D2 | E3D C2 | (D6 | D4) :|
 
 X:148
 T:The Humors of Ballylaughlin
-C:
-C:
 S:Chuck
 L:1/8
 R:Jig
@@ -2070,9 +2077,6 @@ A3 dAG | F3 GEA D3 DFA | D3 D3 :|
 X:150
 T:Donnybrook Fair
 T:Joy of my Life
-C:
-C:
-S:
 L:1/8
 R:Jig
 M:6/8
@@ -2084,8 +2088,6 @@ gfe fec | e3 dBA | B3 GAB | AGF G3 :|
 
 X:151
 T:Rambling Pitchfork
-C:
-C:
 S:Conal O'Grada
 L:1/8
 R:Jig
@@ -2098,8 +2100,6 @@ d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
 X:152
 T:Kilashandra Lasses
-C:
-C:
 S:Sean Gavin
 L:1/8
 R:Jig

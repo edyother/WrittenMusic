@@ -9,7 +9,7 @@ I:abc-charset utf-8
 %%footer OmosMusic.com                                 page - $P
 %%scale 1
 
-%%EPS ..\Logo\OmosCoverPage.eps
+%%EPS .\OmosCoverPage.eps
 %%newpage
 %%textfont Times-Roman 24
 %%begintext

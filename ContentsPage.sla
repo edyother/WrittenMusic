@@ -61,337 +61,343 @@
             <para ALIGN="1" LINESPMode="0" LINESP="13" FIRST="0">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <para ALIGN="0" LINESPMode="0" LINESP="13" FIRST="0">
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5" FIRST="0">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="3"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Boys of Ballycastle / Off to California / Boys of Bluehill (Hornpipes)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13" FIRST="0">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="3"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Boys of Ballycastle / Off to California / Boys of Bluehill (Hornpipes)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5" FIRST="0">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="4"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="A Polka / A Finnish Polka / Jessica's Polka (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="4"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="A Polka / A Finnish Polka / Jessica's Polka (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="5"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Blarney Pilgrim / Garrett Barry's / Banish Misfortune (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="5"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Blarney Pilgrim / Garrett Barry's / Banish Misfortune (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="6"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Blarney Pilgrim / Garrett Barry's* / Banish Misfortune (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="6"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Blarney Pilgrim / Garrett Barry's* / Banish Misfortune (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="7"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Yellow Tinker / Doonagore / Fermoy Lasses (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="7"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Yellow Tinker / Doonagore / Fermoy Lasses (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="8"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Mason's Apron / Tam Lin / Master Crowley's (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="8"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Mason's Apron / Tam Lin / Master Crowley's (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="9"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Julia Delaney / Ships are Sailing / Star of Munster (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="9"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Julia Delaney / Ships are Sailing / Star of Munster (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="10"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Out on the Ocean / Shandon Bells / Connaughtman's Rambles (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="10"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Out on the Ocean / Shandon Bells / Connaughtman's Rambles (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="11"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Road to Lisdoonvarna / Swallowtail Jig / Fermoy Lasses (Jig-Jig-Reel)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="11"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Road to Lisdoonvarna / Swallowtail Jig / Fermoy Lasses (Jig-Jig-Reel)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="12"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Road to Lisdoonvarna / Swallowtail Jig / Kesh Jig (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="12"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Road to Lisdoonvarna / Swallowtail Jig / Kesh Jig (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="13"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Frost is All Over / Kitty Lie Over / Cunla (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="13"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Frost is All Over / Kitty Lie Over / Cunla (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="14"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Where I told her I Loved her and Sprained her Ankle / Gander in the Pratie Hole / The Persistence of Noel Reid (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="14"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Where I told her I Loved her and Sprained her Ankle / Gander in the Pratie Hole / The Persistence of Noel Reid (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="15"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Where I told her I Loved her and Sprained her Ankle / Coffee on the Bricks / The Persistence of Noel Reid (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="15"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Where I told her I Loved her and Sprained her Ankle / Coffee on the Bricks / The Persistence of Noel Reid (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="16"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="16"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="17"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Tar Road to Sligo / Cliffs of Moher / Salt River Road (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="17"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Tar Road to Sligo / Cliffs of Moher / Salt River Road (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="18"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Maggie in the Woods / Peggy Lettermore (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="18"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Maggie in the Woods / Peggy Lettermore (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="19"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Lilting Banshee / Coffee / Tripping up the Stairs (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="19"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Lilting Banshee / Coffee / Tripping up the Stairs (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="20"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Dinky's / The Ash Plant / Return to Milltown (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="20"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Dinky's / The Ash Plant / Return to Milltown (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="21"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Worn Petticoat / Tehan's Favorite / Eileen O'Riordan's (Slides)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="21"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Worn Petticoat / Tehan's Favorite / Eileen O'Riordan's (Slides)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="22"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Oddfellows in Plainville / Lydia has no Faith in Cats / Kesh Jig (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="22"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Oddfellows in Plainville / Lydia has no Faith in Cats / Kesh Jig (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="23"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Edna's Vase / Hillgrove's Waltz (Waltzes)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="23"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Edna's Vase / Hillgrove's Waltz (Waltzes)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="24"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Banshee / Merry Blacksmith / St Anne's Reel (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="24"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Banshee / Merry Blacksmith / St Anne's Reel (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="25"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Cooley's / Toss the Feathers / Drowsy Maggie (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="25"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Cooley's / Toss the Feathers / Drowsy Maggie (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="26"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Lark in the Morning (Jig)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="26"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Lark in the Morning (Jig)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="27"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Bohola Jig / Coach Road to Sligo / Calliope House (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="27"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Bohola Jig / Coach Road to Sligo / Calliope House (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="28"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Maid Behind the Bar / Musical Priest / Silver Spear (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="28"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Maid Behind the Bar / Musical Priest / Silver Spear (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="29"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="29"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="30"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Whistling Wrangler / Face the Table / Untitled Polka (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="30"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Whistling Wrangler / Face the Table / Untitled Polka (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="31"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Fat Cardinal / Untitled Reel (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="31"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Fat Cardinal / Untitled Reel (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="32"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Fred Finn's / Sailing into Walpole's Marsh (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="32"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Fred Finn's / Sailing into Walpole's Marsh (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="33"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Drunken Landlady / Colonel Roger's Favorite / The Happy Days of Youth (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="33"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Drunken Landlady / Colonel Roger's Favorite / The Happy Days of Youth (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="34"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Miss Monaghan's / The Earl's Chair / Bird in the Bush (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="34"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Miss Monaghan's / The Earl's Chair / Bird in the Bush (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="35"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Down the Hill (3/4 March)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="35"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Down the Hill (3/4 March)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="36"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="An Phis Fhliuch / The Butterfly / Kid on the Mountain (Slip Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="36"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="An Phis Fhliuch / The Butterfly / Kid on the Mountain (Slip Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="37"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Fisher's Hornpipe / Staten Island Hornpipe / St Anne's Reel (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="37"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Fisher's Hornpipe / Staten Island Hornpipe / St Anne's Reel (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="38"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Ballydesmond Polka #2 / Ballydesmond Polka #1 / Julia Clifford's (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="38"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Ballydesmond Polka #2 / Ballydesmond Polka #1 / Julia Clifford's (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="39"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss (Slip Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="39"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss (Slip Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="40"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Polkas from Tom McCann in Philly (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="40"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Polkas from Tom McCann in Philly (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="41"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Golden Gardens / The Salmon's Leap (Slip Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="41"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Golden Gardens / The Salmon's Leap (Slip Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="42"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="John Brennan's / Father Kelly's (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="42"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="John Brennan's / Father Kelly's (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="43"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Bill Sullivan's / Britches Full of Stitches (Polkas)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="43"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Bill Sullivan's / Britches Full of Stitches (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="44"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Pipe on the Hob #1 / Pipe on the Hob #2 (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="44"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Pipe on the Hob #1 / Pipe on the Hob #2 (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="45"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Tatter Jack Walsh / Jimmy Ward's (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="45"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Tatter Jack Walsh / Jimmy Ward's (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="46"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Concertina Reel / Mountain Road / Dunmore Lasses (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="46"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Concertina Reel / Mountain Road / Dunmore Lasses (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="47"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Tatter Jack Walsh / Tobin's Favorite / Mooncoin (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="47"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Tatter Jack Walsh / Tobin's Favorite / Mooncoin (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="48"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Tobin's Favorite / Out on the Ocean / Tripping up the Stairs (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="48"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Tobin's Favorite / Out on the Ocean / Tripping up the Stairs (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="49"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Bank of Turf / Saddle the Pony / My Darling Asleep (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="49"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Bank of Turf / Saddle the Pony / My Darling Asleep (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="50"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Old Hag You have Killed Me / Haste to the Wedding (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="50"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Old Hag You have Killed Me / Haste to the Wedding (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="51"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want? (Jigs)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="51"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want? (Jigs)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="52"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Rakish Paddy / The Old Bush (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="52"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Rakish Paddy / The Old Bush (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="53"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Chief O'Neill's Favorite / The Belfast Hornpipe (Hornpipes)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="53"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Chief O'Neill's Favorite / The Belfast Hornpipe (Hornpipes)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="54"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Reel de Montebello / Evit Gabriel (Reels)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="54"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Reel de Montebello / Evit Gabriel (Reels)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="55"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="The Freize Britches (Jig)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="55"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="The Freize Britches (Jig)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="56"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Lucy Farr's / Bill Malley's / Kilnamona (Barndances)"/>
-            <para ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="56"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Lucy Farr's / Bill Malley's / Kilnamona (Barndances)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="56"/>
-            <tab FONT="Times New Roman Regular" FONTSIZE="11"/>
-            <ITEXT FONT="Times New Roman Regular" FONTSIZE="11" CH="Church St Polka / The Happy Polka (Polkas)"/>
-            <trail ALIGN="0" LINESPMode="0" LINESP="13">
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="56"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Church St Polka / The Happy Polka (Polkas)"/>
+            <para ALIGN="0" LINESPMode="0" LINESP="12.5">
+                <Tabs Type="0" Pos="30" Fill="."/>
+            </para>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="57"/>
+            <tab FONT="Times New Roman Regular" FONTSIZE="10"/>
+            <ITEXT FONT="Times New Roman Regular" FONTSIZE="10" CH="Donnybrook Fair / Rambling Pitchfork / Kilashandra Lasses (Jigs)"/>
+            <trail ALIGN="0" LINESPMode="0" LINESP="12.5">
                 <Tabs Type="0" Pos="30" Fill="."/>
             </trail>
             <PageItemAttributes/>
