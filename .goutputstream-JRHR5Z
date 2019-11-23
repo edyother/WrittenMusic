@@ -1,0 +1,11 @@
+%!
+gsave
+1 0.5 scale
+70 100 48 0 360 arc
+fill
+grestore
+/Helvetica-Bold 14 selectfont
+1.0 setgray
+29 45 moveto
+(Hello, world!) show
+showpage

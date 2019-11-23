@@ -1,0 +1,113 @@
+%!PS
+%%Title: Basic PostScript Linewrapping
+%%BoundingBox: 0 0 612 842 % for some viewers 
+%%Creator: by...@cappella-archive.com  
+%%For: Cappella Archive 
+%%Date: 22/4/01
+%%EndComments 
+% comment lines introduced by a % must not linebreak
+% Drop over GS,  distill, or download to a PS printer
+%%BeginSetup
+% Default text margins: top, right, bottom, left
+% top margin =  text height: right margin =  text width
+/TM   { /tm exch def } def 680 TM  % 9.5"
+/RM   { /rm exch def } def 450 RM  % 6.5"
+/BM   { /bm exch def } def    0 BM  
+/LM   { /lm exch def } def   0 LM  
+/LG   { /lg exch def } def  12 LG   % linespacing
+/textbox { 680 TM  450 RM  0 BM  0 LM  12 LG  10 rom lm tm moveto } def
+
+% knife and fork linewrapping procedures 
+/find { search { pop 3 -1 roll 1 add 3 1 roll } { pop exit } ifelse } def 
+% look for spaces 
+/spacecount { 0 exch ( ) { find } loop } def 
+% compare with page textwidth (the measure)
+/toofar? { ( ) search pop dup stringwidth pop currentpoint pop add rm gt } def
+
+% Mark-up codes
+% full line advance 
+/L { lg tm exch sub TM lm tm moveto } def   
+% place text and linewrap: 2 'shows' here for a word and its space 
+/S { dup spacecount { toofar? { L show show } { show show } ifelse }
+repeat pop } bind def  
+% linewrap text: advance to next line
+/P { S L  } bind def  
+
+% font abbreviation 
+/F { findfont exch scalefont setfont } def 
+% substitute any Type 1 font: use your o/s PostScript names
+/rom { /Times-Roman F } def 
+/bol { /Times-Bold F } def 
+/it   { /Times-Italic F } def 
+/ss   { /Helvetica F } def 
+/si   { /Helvetica-Oblique F } def
+
+% single page format
+/1upA4 { /asyouwere save def  72 72 translate  textbox } def  
+% print the last page: close the file 
+/close   { showpage grestore clear asyouwere restore } def  
+%%EndSetup
+
+%%BeginScript
+1upA4 % open the page format 
+10 bol (Linewrapping Text ) P 
+L
+10 it (Michael \<mog...@mlug.missouri.edu\> wrote: ) P
+(I am trying to figure out how I'd make text on a page wordwrap properly
+and allow you to switch fonts mid-sentence.
+ . . I tried a couple example word wrap functions from my books and they
+either seem to start each type of text block on a new line or when you
+change fonts they stop wrapping. Anyone know a way to do this that would
+allow multiple fonts in the same line and wrap correctly? ) P
+L 10 rom
+(As no one at the time of writing has actually answered the question, this
+demo should explain it more fully. ) P
+(There are two methods of end of line wordwrapping text. The first checks
+the position of each trailing space against the required width of the line
+of text on the page \(the `measure' in typographical parlance\). If there
+is sufficient room, each word and its accompanying space is placed with a
+'show' instruction until the measure is full and a line advance then
+carries over any additional text to the following line. This method allows
+the font size and style to be easily altered as the text is typed. Like
+this: ) P
+L 10 bol (This text is 10 point bold. ) S 
+9 it (This text is 9 point italic. ) S 
+8 ss (This is 8 point sans serif. ) S
+10 it 0 0 1 setrgbcolor (You may also add some colour which is useful for
+PDF pages. ) S 
+10 rom 0 setgray (Here the text returns to 10 point roman and a line
+advance creates the starting point for a new paragraph.  ) S 
+L 10 it 
+(Notice the empty space in the file before the final bracket delimiter, as
+a trailing space must always accompany the previous word, which will
+otherwise disappear into digital limbo. The TinyDict has a procedure which
+glues the two together after measurement and also page-jumps when the last
+line is reached. The traditional UK book measure is 24 ems i.e. 288
+points, so I use 300 points to `print' the last space. ) P
+L 10 rom
+(Obviously this method is not suitable for setting text that is flush
+justified to left and right. In this case each complete line of text must
+be stored before it can be assessed and the spaces then stretched by
+`widthshow' to make it fit the measure. The `naive' method is to justify
+each line as it is completed, like traditional letterpress, and this is
+the method I have adopted in the TinyDict. ) P 
+L
+(The head-banging way is to read in an entire paragraph, split the text
+according to the measure, and place each change of font, style and size,
+and its associated text in a series of arrays and then adjust the word
+space value for the relevant line for each one. If hyphenation algorithms
+and hanging punctuation searches are added, the method becomes processor
+intensive and not particularly suitable for on-the-fly parsing. PostScript
+manuals are very coy about this more sophisticated procedure and my
+information was gleaned from discussions with the Engineering Division of
+Adobe Systems Europe. ) P 
+L
+10 rom (For a more detailed discussion of full justification see the free
+Cappella Archive ebook: ) P
+10 it (Practical PostScript: A Beginner's Guide to Digital Typesetting, ) S
+9 ss (90 PDF pages \(416k\) ) P
+(http://www.cappella-archive.com/bookpdfs/pracpost.pdf ) P
+(or noframes: http://www.cappella.demon.co.uk/bookpdfs/pracpost.pdf ) P
+%%EndScript
+close
+%%EOF
