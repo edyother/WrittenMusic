@@ -1894,15 +1894,15 @@ GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
 %%staffsep 35
 
 X: 138
-T: Reel De Montebello
+T: Reel de Montebello
 R: reel
 M: 4/4
 L: 1/8
 K: Amin
-EABc ecBA|FABc ecBA|GABc dcBd|edBc dcBA|
-EABc ecBA|FABc ecBA|GABc dcBG|EDEG A3z:|
-aece gecA|GABc dcBA|gddf ddgf|edcB cdeg|
-aece gecA|GABc dcBA|gddf ddgf|edcB A3z:| 
+EABc ecBA | FABc ecBA | GABc dcBd | edBc dcBA |
+EABc ecBA | FABc ecBA | GABc dcBG | EDEG A3z :|
+aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
+aece gecA | GABc dcBA | gddf ddgf | edcB A3z :| 
 
 X: 139
 T: Evit Gabriel
@@ -1921,7 +1921,7 @@ R:reel
 M:4/4
 L:1/8
 K:G
-|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDG Bcde |
+|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDF Adef |
 :|
 K:D
 |: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
