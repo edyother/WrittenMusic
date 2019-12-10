@@ -1921,11 +1921,11 @@ R:reel
 M:4/4
 L:1/8
 K:G
-|:
+|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDG Bcde |
 :|
 K:D
-|:
-:|
+|: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
+A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |1 d4 d4 :|2 d2 _e2 =e2 f2 ||
 
 %%newpage
 %%scale .7
