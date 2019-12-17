@@ -1,3 +1,6 @@
+%%EPS ".\CoverPage.eps"
+%%newpage
+%%EPS ".\ContentsPage.eps"
 %%titleleft
 %%leftmargin 1cm
 %%rightmargin 1cm
@@ -26,10 +29,6 @@ ed@edyother.com
 %%textfont Times-Roman 14
 %%begintext fill
 
-
-
-
-
 This a collection of tunes transcribed,for the most part, the way that I play them, in the sets that I usually play them. This is mostly an experiment in learning to put together something like this using only command line tools (a text editor and a bash script), as well as getting some more practice writing music notation.
 
 The tunes and sets are in no particular order. The pages are formatted so that each page is a set that I play when I perform, and for that reason some of the tunes are repeated. 
@@ -44,8 +43,6 @@ For writing and editing the tunes themselves: EasyABC -- It's a text editor that
 
 For converting the .abc file into a .pdf: abcm2ps -- this is a command line tool which I have been using in Linux. It is supposed to be cross platform, but I don't have any experience there. I wrote it into a bash script, which you can find at http://github.com/edyother/abc2pdf.sh
 %%endtext
-
-%%EPS ".\ContentsPage.eps"
 
 %%newpage
 
@@ -1921,8 +1918,8 @@ R:reel
 M:4/4
 L:1/8
 K:G
-|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDF Adef |
-:|
+|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDG Bdef |
+g2fe dcBA | GBDG B2AG | FGAB cdef |1 g2 gf g2d2 :|2 g2 gf g4 |
 K:D
 |: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
 A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |1 d4 d4 :|2 d2 _e2 =e2 f2 ||
