@@ -1,6 +1,8 @@
 %%EPS ".\CoverPage.eps"
 %%newpage
 %%EPS ".\ContentsPage.eps"
+%%newpage
+
 %%titleleft
 %%leftmargin 1cm
 %%rightmargin 1cm
