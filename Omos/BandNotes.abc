@@ -9,7 +9,8 @@ I:abc-charset utf-8
 %%footer OmosMusic.com                                 page - $P
 %%scale 1
 
-%%EPS .\OmosCoverPage.eps
+%test
+%%EPS ..\Logo\OmosCoverPage.eps
 %%newpage
 %%textfont Times-Roman 24
 %%begintext
@@ -17,19 +18,23 @@ Tunes and Sets
 %%endtext
 %%textfont Times-Roman 14
 %%begintext
-Blarney Pilgrim / Garrett Barry's / Banish Misfortune
-Brenda Stubbert's / Master Crowley's / Tam Lin
-Out on the Ocean / Shandon Bells / Connaughtman's Rambles
-Fred Finn's / Sailing Into Walpole's Marsh
-The Pipe On The Hob #1 / The Pipe On The Hob #2
-Tobin's Favorite / Out on the Ocean / Tripping up the Stairs
-Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want?
-The Freize Britches
-Lucy Farr's / Bill Malley's / Kilnamona
-Some Jig that John Played / Some Other Jig that John Played / Blackthorn Stick
-Bird in the Bush
-Some Waltz that John Played
-Some other Waltz that John Played
+Blarney Pilgrim / Garrett Barry's / Banish Misfortune (jigs)
+Brenda Stubbert's / Master Crowley's / Tam Lin (reels)
+Out on the Ocean / Shandon Bells / Connaughtman's Rambles (jigs)
+Fred Finn's / Sailing Into Walpole's Marsh (Reels)
+Tatter Jack Walsh / The Pipe On The Hob #1 / The Pipe On The Hob #2 (jigs)
+Tobin's Favorite / Out on the Ocean / Tripping up the Stairs (jigs)
+Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want? (jigs)
+The Freize Britches (jig)
+Lucy Farr's / Bill Malley's / Kilnamona (Barndances)
+Some Jig that John Played / Some Other Jig that John Played / Blackthorn Stick (Jigs)
+Bird in the Bush (reel)
+Some Waltz that John Played (waltz)
+Some other Waltz that John Played (waltz)
+The Humors of Ballylaughlin / The Cook in the Kitchen (jigs)
+Julia Delaney / Ships are Sailing / Star of Munster (reels)
+Yellow Tinker / Doonagore (reels)
+Willy Coleman's / Mist Covered Mountain / Rose in the Heather (jigs)
 
 %%endtext
 %%textfont Times-Roman 24
@@ -47,6 +52,20 @@ Roving Peddler
 Wings of a Goney
 Larry Marr
 Barret's Privateers
+Nobody Home
+When First I came to Caladonia
+Getting Dark Again
+I Wish they'd do it Now
+Molly Branigan
+Jack Tar
+While Cruising 'Round Yarmouth
+Whiskey in the Jar
+Rocky Road to Dublin
+River Driver
+Rolling Hills of the Borders
+Rolling Mills of New Jersey
+Rolling Down the River
+
 %%endtext
 
 %%newpage
