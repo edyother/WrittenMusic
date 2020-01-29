@@ -47,32 +47,34 @@ Songs
 %%endtext
 %%textfont Times-Roman 11
 %%begintext
+Aikendrum
+Barret's Privateers (Ed)
+Blacksmith The (Ed)
 Bold McShane (Ed)
-The Blacksmith (Ed)
 Dirty Old Town (Ed)
-Man You Don't Meet Everyday (Ed)
-Paddy West (Ed)
-Roving Peddler (Ed)
-Wings of a Goney (Ed)
-Larry Marr (Ed)
-Barret's Privateers (Dave, but Ed might fight him for it)
-Nobody Home (Dave)
-When First I came to Caladonia (Chris)
+Felix the Soldier
 Getting Dark Again (Dave)
 I Wish they'd do it Now (Dave)
-Molly Branigan (John)
+Isn't it Grand(Dave)
 Jack Tar (Ed)
-While Cruising 'Round Yarmouth (Ed)
-Whiskey in the Jar (Ed)
-Rocky Road to Dublin (Ed)
+Larry Marr (Ed)
+Man You Don't Meet Everyday (Ed)
+Molly Branigan (John)
+Nobody Home (Dave)
+Paddy West (Ed)
 River Driver (Dave)
+Rocky Road to Dublin (Ed)
+Rolling Down the River (Ed)
 Rolling Hills of the Borders (Dave)
 Rolling Mills of New Jersey (Ed)
-Rolling Down the River (Ed)
-
+Roving Peddler (Ed)
+When First I came to Caladonia (Chris)
+While Cruising 'Round Yarmouth (Ed)
+Whiskey in the Jar (Ed)
+Wings of a Goney (Ed)
 %%endtext
-
 %%newpage
+
 %%scale .65
 %%staffsep 30
 
@@ -831,9 +833,6 @@ K:Amix
 %%begintext center
 SONGS
 %%endtext
-%%titlefont Times-Roman 24
-%%scale .8
-%%staffsep 40
 
 X:1
 T:Aikendrum
@@ -877,6 +876,88 @@ And the poor worm eaten whig: Aikendrum, Aikendrum
 For opposition's sake we will win
 %%endtext
 %%newpage
+
+%%textfont Times-Roman 26
+%%begintext
+Barrett's Privateers
+%%endtext
+%%textfont Times-Roman 18
+%%begintext
+Oh the year was seventeen seventy eight / How I wish I was in Sherbrooke now
+When a letter of mark came from the king / To the scummiest vessel I'd ever seen
+
+God damn them all, I was told / We'd cruise the seas for American gold
+We'd fire no guns, shed no tears  / Now I'm a broken man on a Halifax pier
+The last of Barretts privateers
+
+Oh, Elcid Barrett cried the town  /
+For twenty brave men, all fisherman who / Would make for him the Antelope's crew
+
+Oh, the Antelope sloop was a sickening sight /
+She'd a list to port and sails in rags / And a cook in the scuppers with the staggers and jags
+
+On the king's birthday we put to sea /
+It was ninety one days to Montego Bay / We were pumping like madmen all the way
+
+On the ninety sixth day we sailed again /
+When a bloody great Yankee hove in sight / With our cracked four pounders we made to fight
+
+Oh, the Yankee lay low down with gold /
+She was broad and fat and loose in stays / But to catch her took the Antelope two whole days
+
+At length we stood two cables away /
+Our cracked four pounders made an awful din / But with one fat ball the Yank stove us in
+
+Oh, the Antelope shook and pitched on her side /
+Barrett was smashed like a bowl of eggs / And the main truck carried off both me legs
+
+So here I lay in my twenty third year /
+Well it's been six years since I sailed away / And I just made Halifax yesterday
+%%endtext
+%%newpage
+
+%%titlefont Times-Roman 24
+%%scale .8
+%%staffsep 40
+
+X:3
+T:The Blacksmith
+C:Traditional
+S:Andy Irvine
+K:Ddor
+M:4/4
+L:1/8
+(ed) | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) ed | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) de |
+g2 g2 ag ed | e6 ed | c3 A cd (d2 | d6) AB | c2 d2 eg ^fd | e6 AB | cd e2 G2 A2 | A6 :|
+%%textfont Times-Roman 24
+%%begintext
+A Blacksmith courted me, nine months and better
+He fairly one my heart, wrote me a letter
+With his hammer in his hand he looked quite clever
+And if I was with my love, I'd live forever
+
+But where has my love gone, with his cheeks like roses
+And his good black billycock on, all decked 'round with primroses
+I'm afraid the scorching sun will shine, and burn his beauty
+And if I was with my love, I'd do my duty
+
+Strange news has come to town, strange news is carried
+Strange news flies up and down, that my love is married
+I wish them both much joy, though they can't hear me
+And may God reward him well for the slighting of me
+
+Don't you remember when you lay beside me?
+And you said you'd marry me, and not deny me
+If I said I'd marry you, it was only for to try you
+So bring your witness love, and I'll not deny you
+
+But witness have I none, save God almighty
+And may he reward you well for the slighting of me
+Her lips grew pale and wan, it made her poor heart to tremble
+To think she'd loved the one, and he proved deceitful
+%%endtext
+%%newpage
+
 
 X:2
 T:Bold McShane
@@ -932,44 +1013,6 @@ He lay on the floor like a sheep he was bleeding
 I swore 'pon my soul sure I'd cut off his life
 But I lifted him up and sent down for to Megan
 Me and the Tinker we ended the strife.
-%%endtext
-%%newpage
-
-X:3
-T:The Blacksmith
-C:Traditional
-S:Andy Irvine
-K:Ddor
-M:4/4
-L:1/8
-(ed) | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) ed | c2 A2 c2 de | g6 de | e3 A GA (A2 | A6) de |
-g2 g2 ag ed | e6 ed | c3 A cd (d2 | d6) AB | c2 d2 eg ^fd | e6 AB | cd e2 G2 A2 | A6 :|
-%%textfont Times-Roman 24
-%%begintext
-A Blacksmith courted me, nine months and better
-He fairly one my heart, wrote me a letter
-With his hammer in his hand he looked quite clever
-And if I was with my love, I'd live forever
-
-But where has my love gone, with his cheeks like roses
-And his good black billycock on, all decked 'round with primroses
-I'm afraid the scorching sun will shine, and burn his beauty
-And if I was with my love, I'd do my duty
-
-Strange news has come to town, strange news is carried
-Strange news flies up and down, that my love is married
-I wish them both much joy, though they can't hear me
-And may God reward him well for the slighting of me
-
-Don't you remember when you lay beside me?
-And you said you'd marry me, and not deny me
-If I said I'd marry you, it was only for to try you
-So bring your witness love, and I'll not deny you
-
-But witness have I none, save God almighty
-And may he reward you well for the slighting of me
-Her lips grew pale and wan, it made her poor heart to tremble
-To think she'd loved the one, and he proved deceitful
 %%endtext
 %%newpage
 
@@ -1048,68 +1091,47 @@ To the devil with the fighting I am glad this war is done
 %%endtext
 %%newpage
 
-X:6
-T:Go to Sea Once More
+X:10
+T:Larry Marr
 C:Traditional
-S:Louis Killen
-K:Ddor
-M:3/4
-L:1/8
-A2 | A4 A2 | F2 G2 (3(ABA) | G2 E2 D2 | C3 D E2 | F3 E D2 | E4 C2 | (D6 | D4) F2 |
-F2 E2 D2 | E4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) A2 |
-A2 G2 F2| G4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) FG |
-A3 A A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F3 E D2 | E4 C2 | (D6 | D4) c2 |
-(c6 | c4) A2 | (G6 | G4) A2 | A2 G2 F2 | D4 A,2 | (C6 | C4) FG |
-A2 A2 A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F2 E2 D2 | E4 C2 | (D6 | D4) :|
-%%textfont Times-Roman 19
+L:1/4
+M:4/4
+K:Edor
+ e>ee B | d<d d2 | Be>ee | B d3 |
+Be<ee | B/c/ d(3(c/d/c/) B | (3(B/c/B/) BAG | FE3 |
+E/F/ G2 F | G/F/ EB (B | B) e>d d/e/ | f e3 |
+e/f/ gef | dedd/e/ | fe3 :|
+%%textfont Times-Roman 18
 %%begintext
-At once I landed in Liverpool, I went upon a spree
-Me money at last, I spent it fast, got drunk as drunk could be
-And when me money was all gone, 'twas then that I wanted more
-But a man must be blind to make up his mind to go to sea once more
-
-Once more, once more, to go to sea once more
-But a man must be blind to make up his mind to go to sea once more
-
-I spent the night with Angelie, too drunk to roll in bed
-Me watch new, and me money too, in the morning with them she'd fled
-And as I wandered the streets of town, oh how them whores did roar
-Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
-
-Once more, once more, to go to sea once more
-Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
-
-As I went walking down London road, I met with rapper Brown
-I asked him if he'd take me in, he looked at me with a frown
-He said last time you was paid off, with me you've chalked no score
-But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
-
-Once more, once more, to go to sea once more
-But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
-
-He shipped me aboards of a whaling barque, that was bound for them arctic seas
-Where there's ice and snow, and them cold winds blow, why Jamakee rum would freeze
-And hardest to bear, I'd no hard weather gear, for I'd spent all me money ashore
-Why 'twas then that I wished that I was dead, and could go to sea no more.
-
-Once more, once more, to go to sea once more
-Why 'twas then that I wished that I was dead, and could go to sea no more.
-
-Some days we was catching whales me boys and some days we was catching none
-With a twenty foot oar in your hand you roll the whole day long
-And when them shades of night come you rest on your weary oar
-Why your back is so weak, that you never would seek a berth at sea once more
-
-Once more, once more, to go to sea once more
-Why your back is so weak, that you never would seek a berth at sea once more
-
-So come all you hard weather sailing men, and listen to me song
-When you get back from them long trips, I'll have you not go wrong
-Take my advice, drink no strong drink, and go sleeping with no whore
-But get married instead, and have all night in, and go to sea no more
-
-Once more, once more, to go to sea once more
-But get married instead, and have all night in, and go to sea no more
+In Frisco town there lived a man whose name was Larry Marr
+And in the days of the Cape Horn trade, Oh he used his big stone jar
+---
+%%endtext
+%%textfont Times-Roman 20
+%%begintext
+In the old Virginia lowlands, lowlands low
+In the old Virginia lowlands, low
+%%endtext
+%%textfont Times-Roman 18
+%%begintext
+---
+In Larry's place, down on the coast where lived old Larry Marr
+The Missus and Larry would prime the beer, in the old five gallon jar
+---
+Now a hell ship she be short of hands, of full red-blooded tars
+The Missus and Larry would prime the beer, in the old five gallon jar
+---
+Shellbacks and farmers just the same, strolled into Larry Marr's
+And sailed away, around Cape Horn, helped by the five gallon jar
+---
+In Frisco town their names is know, and in the Cape Horn bars
+And the stuff they sell out to old Jack, in the old five gallon jar
+---
+From the Barbary coast stay clear me boys, and from old Larry Marr's
+Or else damn soon Shanghai'd you'll be, by the old five gallon jar
+---
+Shanghai'd away on a skys'l ship around Cape Horn so far
+Goodbye to all the boys and girl, and to Larry's five gallon jar
 %%endtext
 %%newpage
 
@@ -1161,7 +1183,6 @@ So be easy and free when you're drinking with me
 I'm a man you don't meet everyday
 %%endtext
 %%newpage
-
 
 X:8
 T:Paddy West
@@ -1267,6 +1288,72 @@ I'll embrace her late and early and do the best I can
 To make her bless the day she wed the handsome peddler man
 %%endtext
 %%newpage
+
+X:6
+T:Go to Sea Once More
+C:Traditional
+S:Louis Killen
+K:Ddor
+M:3/4
+L:1/8
+A2 | A4 A2 | F2 G2 (3(ABA) | G2 E2 D2 | C3 D E2 | F3 E D2 | E4 C2 | (D6 | D4) F2 |
+F2 E2 D2 | E4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) A2 |
+A2 G2 F2| G4 c2 | d2 A2 c2 | c4 A2 | A3 G F2 | c4 d2 | (A6 | A4) FG |
+A3 A A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F3 E D2 | E4 C2 | (D6 | D4) c2 |
+(c6 | c4) A2 | (G6 | G4) A2 | A2 G2 F2 | D4 A,2 | (C6 | C4) FG |
+A2 A2 A2 | F2 G2 A2 | G2 E2 D2 | C2 D2 E2 | F2 E2 D2 | E4 C2 | (D6 | D4) :|
+%%textfont Times-Roman 19
+%%begintext
+At once I landed in Liverpool, I went upon a spree
+Me money at last, I spent it fast, got drunk as drunk could be
+And when me money was all gone, 'twas then that I wanted more
+But a man must be blind to make up his mind to go to sea once more
+
+Once more, once more, to go to sea once more
+But a man must be blind to make up his mind to go to sea once more
+
+I spent the night with Angelie, too drunk to roll in bed
+Me watch new, and me money too, in the morning with them she'd fled
+And as I wandered the streets of town, oh how them whores did roar
+Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
+
+Once more, once more, to go to sea once more
+Why there goes Jack Sprat, the poor sailor lad, he must go to sea once more
+
+As I went walking down London road, I met with rapper Brown
+I asked him if he'd take me in, he looked at me with a frown
+He said last time you was paid off, with me you've chalked no score
+But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
+
+Once more, once more, to go to sea once more
+But I'll give yas a chance, and I'll take your advance, and I'll send you to sea once more
+
+He shipped me aboards of a whaling barque, that was bound for them arctic seas
+Where there's ice and snow, and them cold winds blow, why Jamakee rum would freeze
+And hardest to bear, I'd no hard weather gear, for I'd spent all me money ashore
+Why 'twas then that I wished that I was dead, and could go to sea no more.
+
+Once more, once more, to go to sea once more
+Why 'twas then that I wished that I was dead, and could go to sea no more.
+
+Some days we was catching whales me boys and some days we was catching none
+With a twenty foot oar in your hand you roll the whole day long
+And when them shades of night come you rest on your weary oar
+Why your back is so weak, that you never would seek a berth at sea once more
+
+Once more, once more, to go to sea once more
+Why your back is so weak, that you never would seek a berth at sea once more
+
+So come all you hard weather sailing men, and listen to me song
+When you get back from them long trips, I'll have you not go wrong
+Take my advice, drink no strong drink, and go sleeping with no whore
+But get married instead, and have all night in, and go to sea no more
+
+Once more, once more, to go to sea once more
+But get married instead, and have all night in, and go to sea no more
+%%endtext
+%%newpage
+
 X:10
 T:Wings of a Goney
 C:Traditional
@@ -1298,86 +1385,4 @@ We're supposed for our toil to get a bonus on the oil, and an equal share of the
 So we go to the agent to settle for our debt, and it's there we have cause to repent
 For we've slaved away four years of our lives, and we've earned about three pounds, ten
 %%endtext
-
 %%newpage
-X:10
-T:Larry Marr
-C:Traditional
-L:1/4
-M:4/4
-K:Edor
- e>ee B | d<d d2 | Be>ee | B d3 |
-Be<ee | B/c/ d(3(c/d/c/) B | (3(B/c/B/) BAG | FE3 |
-E/F/ G2 F | G/F/ EB (B | B) e>d d/e/ | f e3 |
-e/f/ gef | dedd/e/ | fe3 :|
-%%textfont Times-Roman 18
-%%begintext
-In Frisco town there lived a man whose name was Larry Marr
-And in the days of the Cape Horn trade, Oh he used his big stone jar
----
-%%endtext
-%%textfont Times-Roman 20
-%%begintext
-In the old Virginia lowlands, lowlands low
-In the old Virginia lowlands, low
-%%endtext
-%%textfont Times-Roman 18
-%%begintext
----
-In Larry's place, down on the coast where lived old Larry Marr
-The Missus and Larry would prime the beer, in the old five gallon jar
----
-Now a hell ship she be short of hands, of full red-blooded tars
-The Missus and Larry would prime the beer, in the old five gallon jar
----
-Shellbacks and farmers just the same, strolled into Larry Marr's
-And sailed away, around Cape Horn, helped by the five gallon jar
----
-In Frisco town their names is know, and in the Cape Horn bars
-And the stuff they sell out to old Jack, in the old five gallon jar
----
-From the Barbary coast stay clear me boys, and from old Larry Marr's
-Or else damn soon Shanghai'd you'll be, by the old five gallon jar
----
-Shanghai'd away on a skys'l ship around Cape Horn so far
-Goodbye to all the boys and girl, and to Larry's five gallon jar
-%%endtext
-
-%%newpage
-%%textfont Times-Roman 26
-%%begintext
-Barrett's Privateers
-%%endtext
-%%textfont Times-Roman 18
-%%begintext
-Oh the year was seventeen seventy eight / How I wish I was in Sherbrooke now
-When a letter of mark came from the king / To the scummiest vessel I'd ever seen
-
-God damn them all, I was told / We'd cruise the seas for American gold
-We'd fire no guns, shed no tears  / Now I'm a broken man on a Halifax pier
-The last of Barretts privateers
-
-Oh, Elcid Barrett cried the town  /
-For twenty brave men, all fisherman who / Would make for him the Antelope's crew
-
-Oh, the Antelope sloop was a sickening sight /
-She'd a list to port and sails in rags / And a cook in the scuppers with the staggers and jags
-
-On the king's birthday we put to sea /
-It was ninety one days to Montego Bay / We were pumping like madmen all the way
-
-On the ninety sixth day we sailed again /
-When a bloody great Yankee hove in sight / With our cracked four pounders we made to fight
-
-Oh, the Yankee lay low down with gold /
-She was broad and fat and loose in stays / But to catch her took the Antelope two whole days
-
-At length we stood two cables away /
-Our cracked four pounders made an awful din / But with one fat ball the Yank stove us in
-
-Oh, the Antelope shook and pitched on her side /
-Barrett was smashed like a bowl of eggs / And the main truck carried off both me legs
-
-So here I lay in my twenty third year /
-Well it's been six years since I sailed away / And I just made Halifax yesterday
-%%endtext
