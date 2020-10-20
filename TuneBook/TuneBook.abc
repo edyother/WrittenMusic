@@ -1,6 +1,6 @@
-%%EPS ".\CoverPage.eps"
+%%EPS "./CoverPage.eps"
 %%newpage
-%%EPS ".\ContentsPage.eps"
+%%EPS "./ContentsPage.eps"
 %%newpage
 
 %%titleleft
