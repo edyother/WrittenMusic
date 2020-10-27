@@ -2113,7 +2113,7 @@ def gfe | ded BAG | ABC BAB | GEE E3 :|
 %%scale .7
 %%staffsep 40
 
-X:152
+X:153
 T:Sonny's Mazurka
 L:1/8
 K:D
@@ -2123,3 +2123,29 @@ DF|:A@ AG FA | d2 sB cA | G2 GB AG | FG EF DF |
 A2 AG FA | D2 dA BA | GF Gg fe | d4 :|
 Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
 f2 fa gf | e2 eg fe | dc df ec | d4 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:154
+T:Mickey Dalton's No.3
+C:Mickey Dalton
+S:Shannon Heaton
+L:1/8
+R:Polka
+M:2/4
+K:D
+GA/B/ ed | B2 BA | GA/B/ ed | A2 AG |
+FD FA | f3 e |1 dc/d/ ed | B3 A :|2 dc/d/ ef | g3 d ||
+|: g2 fe | dB Bd | g2 fe | d2 dA |
+eA eA | f3 e c/d/ ed | B3 d :|2 dc/d/ ef | gd BA ||
+
+X:155
+T:The Kerry Polka
+C:Traditional
+L:1/8
+R:Polka
+M:2/4
+K:D
+
