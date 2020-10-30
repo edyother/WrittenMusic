@@ -412,7 +412,9 @@
                 <Tabs Type="0" Pos="30" Fill="."/>
             </para>
             <ITEXT FONTSIZE="10" SCALEH="103" CH="62.......Sonny's Mazurka"/>
-            <trail LINESP="11.5"/>
+            <para/>
+            <ITEXT CH="63........Mickey Dalton's No. 3 / The Kerry Polka "/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
