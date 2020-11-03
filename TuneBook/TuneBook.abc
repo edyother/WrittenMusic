@@ -2119,7 +2119,7 @@ L:1/8
 K:D
 M:3/4
 R:mazurka
-DF|:A@ AG FA | d2 sB cA | G2 GB AG | FG EF DF |
+DF|:A2 AG FA | d2 sB cA | G2 GB AG | FG EF DF |
 A2 AG FA | D2 dA BA | GF Gg fe | d4 :|
 Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
 f2 fa gf | e2 eg fe | dc df ec | d4 :|
@@ -2148,6 +2148,10 @@ L:1/8
 R:Polka
 M:2/4
 K:D
+fA BA | fA BA | d2 e>f | ed BA |
+fA BA | fa BA | d2 e>f | ed dd2 :|
+|: fb fe | ed BA | d2 e>f | ed BA |
+fb fe | ed BA | d2 e>f | ed d2 :|
 
 X:156
 T:Sweeney's Polka
