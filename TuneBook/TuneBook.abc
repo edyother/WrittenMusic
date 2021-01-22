@@ -351,10 +351,10 @@ M:6/8
 R:jig
 C:Traditional
 K:D
-AF/D/D DFA | ded cBA | BGE E2G | (B/c/B)A Bcd |
-AF/D/D DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |
-|: (f/g/f)d dcd | fa/a/a afd | cA/A/A eA/A/A | cA/A/A efg |
-fd/d/d dcd | fa/a/a afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
+AFD DFA | ded cBA | BGE E2G | B2A Bcd |
+AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |
+|: f2d dcd | faa afd | cAA eAA | cAA efg |
+fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
 
 X:24
 T:Connaughtman's Rambles
@@ -451,10 +451,10 @@ M:6/8
 R:reel
 C:Traditional
 K:D
-AD/D/D DFA | AAd (B/d/B)A | AB/A/A FF/F/F | GFG EFG |
-AD/D/D DFA | AAd (B/d/B)A | AB/A/A FE/E/E |[1 EDD D3 :|[2 EDD D2e |
-|: fd/d/d ede | fd/d/d d2e | fef def | gg/g/g efg |
-efe BA/A/A | AdA F2A | (A/B/A)A FE/E/E |[1 EDD D2 e :|[2 EDD D3 |]
+ADD DFA | AAd (B/d/B)A | ABA F2F | GFG EFG |
+ADD DFA | AAd (B/d/B)A | ABA FEE |[1 EDD D3 :|[2 EDD D2e |
+|: fdd ede | fdd d2e | fef def | g2g efg |
+efe BAA | AdA F2A | (A/B/A)A FEE |[1 EDD D2 e :|[2 EDD D3 |]
 
 X:32
 T:Kitty Lie Over
