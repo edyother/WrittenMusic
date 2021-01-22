@@ -506,8 +506,8 @@ R:jig
 K:Dmix
 FAD FAD | GFG EFG | FAD FAD | GED D3 |
 FAD FAD | GFG EFG | fed cAG | FDD D3 :|
-|: Ad/d/d ded | cAB cBA | Ad/d/d ded | cAB cc/c/c |
-Ad/d/d ded | cAB cde | fed cAG | FDD D3 :|
+|: Add ded | cAB cBA | Add ded | cAB c2c |
+Add ded | cAB cde | fed cAG | FDD D3 :|
 
 X:36
 T:Persistence of Noel Reid, The
@@ -572,11 +572,11 @@ C:Traditional
 M:6/8
 R:jig
 K:Dmix
-d | dcA AGE | EDD D2E | GEE cE/E/E | GAB cde |
-dcA AGE | EDD D2E | GEE cE/E/E | (D/E/D)D D2 :|
-|: d | dAd ecA | dAd ecA | GEE cE/E/E | GAB cde |
-[1 dAd ecA | dAd ecA | GEE cE/E/E | (D/E/D)D D2 :|
-dcA AGE | EDD D2E | GEE cE/E/E | (D/E/D)D D2 |]
+d | dcA AGE | EDD D2E | GEE cEE | GAB cde |
+dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
+|: d | dAd ecA | dAd ecA | GEE cEE | GAB cde |
+[1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
+dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
 
 X:41
 T:Behind the Haystack
@@ -586,10 +586,10 @@ R:jig
 K:D
 d2e fdB | d2e fdB | AFE (E/F/E)E | AFE (E/F/E)E |
 d2e fdB | d2e fdB | AED (D/E/D)D | AED (D/E/D)D :|
-|: BB/B/B BAF | ABc dcB | AFE (E/F/E)E | AFE (E/F/E)D |
-BB/B/B BAF | ABc dcB | AED (D/E/D)D | AED (D/E/D)D :|
-ggg fff | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
-ggg fff | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
+|: B2B BAF | ABc dcB | AFE (E/F/E)E | AFE (E/F/E)D |
+B2B BAF | ABc dcB | AED (D/E/D)D | AED (D/E/D)D :|
+g3 f3 | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
+g3 f3 | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
 
 X:42
 T:Merrily Kissed the Quaker
@@ -597,12 +597,12 @@ C:Traditional
 M:6/8
 R:Slide
 K:G
-GAB D2B | c2A BGE | GAB DEG | AA/A/A AGE |
-GAB D2B | c2A BGE | GAB DEF |[1 GG/G/G GFE :|[2 GG/G/G G2A |
-|: BG/G/G AGG | BG/G/G AGE | GAB DEG | AA/A/A AGA |
-BG/G/G AGG | BG/G/G AGE | GAB DEF |[1 GG/G/G G2A :|[2 GG/G/G G3 |
-|: gg/g/g aa/a/a | bag edB | gg/g/g gab | aa/a/a agf |
-gg/g/g ff/f/f | (e/f/e)e dBA | GAB DEF | GG/G/G G3 :|
+GAB D2B | c2A BGE | GAB DEG | A2A AGE |
+GAB D2B | c2A BGE | GAB DEF |[1 G2G GFE :|[2 G2G G2A |
+|: BGG AGG | BGG AGE | GAB DEG | A2A AGA |
+BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |
+|: g2g a2a | bag edB | g2g gab | a2a agf |
+g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
 
 %%newpage
 
@@ -627,11 +627,11 @@ C:Traditional
 M:6/8
 R:jig
 K:Ador
-aa/a/a bag | eaf ged | ({B}c2)A BAG | EFG Ace |
-aa/a/a bag | eaf ged | ({B}c2)A BAG | EFG A3 :|
-|: eg/e/e dBA | eg/e/e dBA | GAB dBA | GAB dBd |
-[1 eg/e/e dBA | eg/e/e dBA | GAB dBA | BAG AA/A/A :|
-[2 ee/e/e de/e/e | ce/e/e Be/e/e | EFG AGF | EDB, A,3 |]
+a3 bag | eaf ged | ({B}c2)A BAG | EFG Ace |
+a3 bag | eaf ged | ({B}c2)A BAG | EFG A3 :|
+|: ege dBA | ege dBA | GAB dBA | GAB dBd |
+[1 ege dBA | ege dBA | GAB dBA | BAG A3 :|
+[2 e3 dee | cee Bee | EFG AGF | EDB, A,3 |]
 
 X:45
 T:Salt River Road
@@ -640,10 +640,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
-A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
+A,DA cBA | GFD EFG | A,DA cBA | GFE D3 |
+A,DA cBA | GFD EFG | cB/c/c dcB | AGE D3 :|
 |: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
-[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
+[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE D3 :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
 
 %%newpage
@@ -684,12 +684,12 @@ C:Traditional
 M:6/8
 R:jig
 K:Ador
-EAA EA/A/A | BAB G2A | Be/e/e edB | dBA GED |
-EAA EA/A/A | BAB G2A | Be/e/e edB | BAG A2G |
-EAA EA/A/A | BAB G2A | Be/e/e edB | def gfg |
-eAA eA/A/A | BAB G2A | Be/e/e edB | BAG A2d |
-|: ea/a/a age | dBA G2A | Be/e/e edB | def gfg |
-ea/a/a age | dBA G2A | Be/e/e edB | BAG A2d :|
+EAA EAA | BAB G2A | Bee edB | dBA GED |
+EAA EAA | BAB G2A | Bee edB | BAG A2G |
+EAA EAA | BAB G2A | Bee edB | def gfg |
+eAA eAA | BAB G2A | Bee edB | BAG A2d |
+|: eaa age | dBA G2A | Bee edB | def gfg |
+eaa age | dBA G2A | Bee edB | BAG A2d :|
 
 X:49
 T:Coffee
@@ -697,10 +697,10 @@ C:Gary Haggerty
 M:6/8
 R:jig
 K:Ador
-EAA GA/A/A | cBA eA/A/A | EAA GA/A/A | cBA (A/B/A)A |
-EAA GA/A/A | cBA eA/A/A | cBA (A/B/A)A | GED A2G :|
+EAA GAA | cBA eAA | EAA GAA | cBA (A/B/A)A |
+EAA GAA | cBA eAA | cBA (A/B/A)A | GED A2G :|
 |: A,2C EGA | (c/B/A)A GED | A,2C EGA | (c/B/A)A (A/B/A)A |
-A,2C EGA | dc/c/c cAG | dc/c/c cAG | EDE A3 :|
+A,2C EGA | dcc cAG | dcc cAG | EDE A3 :|
 
 X:50
 T:Tripping up the Stairs
@@ -708,10 +708,10 @@ C:Traditional
 M:6/8
 R:jig
 K:D
-FAA GB/B/B | FAd fed | cB/c/c ABc | dfe dBA |
-FA/A/A GB/B/B | FAd fed | cB/c/c ABc |[1 dfe d2A :|[2 dfe d3 |
-|: dBB fB/B/B | fg/f/f fed | cAA eA/A/A | ef/e/e edc |
-dBB fB/B/B | fg/f/f fed | cB/c/c ABc | dfe d3 :|
+FAA GBB | FAd fed | cBc ABc | dfe dBA |
+FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |
+|: dBB fBB | fgf fed | cAA eAA | efe edc |
+dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
 %%newpage
 %%scale .7
@@ -825,10 +825,10 @@ R:jig
 C:Traditional
 M:6/8
 K:G
-GG/G/G GAB | (A/G/A)A ABd | ed/d/d gd/d/d | edB dBA |
-GF/G/G GAB | (A/G/A)A ABd | ed/d/d gdB |[1 AGF G2D :|[2 AGF G3 |
-|: BB/B/d dBd | (e/g/e)e dBG | BA/B/B dBG| (A/B/A)A AGA |
-BA/B/B dBd | (e/g/e)e dBd | gf/g/g aga | bgf g3:|
+G3 GAB | AGA ABd | edd gdd | edB dBA |
+GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |
+|: B3 dBd | ege dBG | B3 dBG| ABA AGA |
+B3 dBd | ege dBd | gfg aga | bgf g3:|
 
 %%newpage
 
@@ -984,10 +984,10 @@ C:Dave Richardson
 M:6/8
 R:Jig
 K:Dmaj
-aa/a/a faa | eaa def | gg/g/g ff/f/f | (e/f/e)e edB |
-(A/B/A)A A2F | A2B d2e |[1 ff/f/f fed | ee/e/e efg :|[2 ff/f/f edB | dd/d/d d2A |
-|: dAA fA/A/A | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
-A2B d2e |1 ff/f/f fed | ee/e/e e2A :|2 ff/f/f edB | dd/d/d dfg |]
+a3 faa | eaa def | g3 f3 | (e/f/e)e edB |
+(A/B/A)A A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |
+|: dAA fAA | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
+A2B d2e |1 f3 fed | e3 e2A :|2 f3 edB | d3 dfg |]
 
 %%newpage
 %%scale .70
@@ -1690,12 +1690,12 @@ M:6/8
 R:jig
 C:Traditional
 K:G
-DB/B/B BAG | BdB (A/B/A)A | GED ({^F}G2)A | BB/B/B AGE |
-DB/B/B BAG | BdB (A/B/A)A | GED ({^F}G2)A |[1 BGF GEE :|[2 BGF GBd |
-({d}e)e/e/e edB | (e/f/e)e edB | ({^c}d)d/d/d dBA | ({^c}d)d/d/d dBA |
-G2A B2d | (e/f/e)e dBA | GED ({F}G2)A | BGF GBd |
-({d}e)e/e/e edB | (e/f/e)e edB | ({^c}d)d/d/d def | gfe dBA | 
-G2A B2d | (e/f/e)e dBA | GED ({F}G2)A | BGF GEE |]
+D2B BAG | BdB ABA | GED G2A | B2 B AGE |
+D2B BAG | BdB ABA | GED G2A |[1 BGF GEE :|[2 BGF GBd |
+e3 edB | e3 edB | d3 dBA | d3 dBA |
+G2A B2d | ege dBA | GED G2A | BGF GBd |
+e3 edB | efe edB | d3 def | gfe dBA | 
+G2A B2d | ege dBA | GED G2A | BGF GE2 |]
 
 X:125
 T:Tripping up the Stairs
@@ -1703,10 +1703,10 @@ C:Traditional
 M:6/8
 R:jig
 K:D
-FAA GB/B/B | FAd fed | cB/c/c ABc | dfe dBA |
-FA/A/A GB/B/B | FAd fed | cB/c/c ABc |[1 dfe d2A :|[2 dfe d3 |
-|: dBB fB/B/B | fg/f/f fed | cAA eA/A/A | ef/e/e edc |
-dBB fB/B/B | fg/f/f fed | cB/c/c ABc | dfe d3 :|
+FAA GBB | FAd fed | cBc ABc | dfe dBA |
+FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |
+|: dBB fBB | fgf fed | cAA eAA | efe edc |
+dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
 %%newpage
 %%scale .7
