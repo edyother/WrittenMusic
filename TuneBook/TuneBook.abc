@@ -1,6 +1,12 @@
+%%leftmargin 3cm
+%%rightmargin 0cm
+%%topmargin 2cm
+%%botmargin 0cm
 %%EPS "./CoverPage.eps"
 %%newpage
-%%EPS "./ContentsPage.eps"
+%%EPS "./ContentsPage1.eps"
+%%newpage
+%%EPS "./ContentsPage2.eps"
 %%newpage
 
 %%titleleft
@@ -1201,7 +1207,7 @@ M:4/4
 L:1/8
 K:Em
 e3d BdBA | GABG AGED | G3B dBeB | dBAc BGG2 |
-efed BdBA | GABG AGED | G3B dBeB | dBAc BGG2 |
+efed BdBA | GABG AGED | G3B dBeB | dBAc BGG2 ||
 faaf gfed | (3B^cd ef g2gf | eBB2 gfed | BAGA B^cde |
 faaf gfed | (3B^cd ef g2ga | bgaf gfed | (3efg fa g2gf ||
 
