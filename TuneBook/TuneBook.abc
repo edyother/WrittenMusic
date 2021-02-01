@@ -1000,7 +1000,7 @@ A2B d2e |[1 f3 fed | e3 e2A :|[2 f3 edB | d3 dfg |]
 %%staffsep 46
 
 X:72
-T: The Maid Behind The Bar
+T:The Maid Behind The Bar
 R: reel
 M: 4/4
 L: 1/8
@@ -1146,7 +1146,7 @@ EAAG EDB,D | (3DEF AB dBAG | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 %%staffsep 35
 
 X:83
-T: Fred Finn's
+T:Fred Finn's
 S:The Andy Irvine / Paul Brady album
 R: reel
 M: 4/4
@@ -1158,7 +1158,7 @@ A3F ABde | fdec d2cd | BAGB ABde | faeg fdd2 :|
 fdad bdaf | dfaf gfed | BAGB ABde | faeg fdd2 :|
 
 X:84
-T: Sailing Into Walpole's Marsh
+T:Sailing Into Walpole's Marsh
 S:The Andy Irvine / Paul Brady album
 R: reel
 M: 4/4
@@ -1176,7 +1176,7 @@ g3e a3f | gedB cAAB | c2gc acgc |[1 eage d2cd :|[2 eage d3c |]
 %%staffsep 35
 
 X:85
-T: The Drunken Landlady
+T:The Drunken Landlady
 S:Liam O'Flynn's album The Piper's Call
 R: reel
 M: 4/4
@@ -1227,7 +1227,7 @@ D2ED EFAF | ABBA FABc | d3B ABdB | AFEG FDD2 :|
 faab afdf gdfd edBc | dedB ABdB | AFEG FDD2 :|
 
 X:89
-T: The Earl's Chair
+T:The Earl's Chair
 R: reel
 M: 4/4
 L: 1/8
@@ -1278,7 +1278,7 @@ c2 A2 d2 :| G3 A G2 | G3 A GF :|]
 %%staffsep 35
 
 X:92
-T: An Phis Fhliuch
+T:An Phis Fhliuch
 S: Taylor Stirm at Nine Irish Brothers session
 R: slip jig
 M: 9/8
@@ -1301,7 +1301,7 @@ B2E G2E F3 | B2E G2E FED | B2E G2E F3 | B2d d2B AGF :|
 |: B3 B2A G2A | B3 BAB dBA | B3 B2A G2A | B2d g2e dBA :|
 
 X:94
-T: Kid On The Mountain
+T:Kid On The Mountain
 R: slip jig
 M: 9/8
 L: 1/8
@@ -1317,7 +1317,7 @@ EDE FEF G2 F | E3 BcA BGD | EDE FEF G2 A | BAG FAG FED :|
 %%staffsep 35
 
 X:95
-T: Fisher's Hornpipe
+T:Fisher's Hornpipe
 R: reel
 M: 4/4
 L: 1/8
@@ -1328,7 +1328,7 @@ dAFD GBAG | FDFD GBAG | FGAB cdec | d2 dc d2 :|
 BGDG BdcB | AFDF A2 GA |  BdcB  AGFE | D2 d2 D2 :|
 
 X:96
-T: Staten Island Hornpipe
+T:Staten Island Hornpipe
 R: reel
 M: 4/4
 L: 1/8
@@ -1378,7 +1378,7 @@ d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
 ea ge | dB GA/B/ | ce dB | A2 A2 :|
 
 X:100
-T: Julia Clifford's
+T:Julia Clifford's
 R: polka
 M: 2/4
 L: 1/8
@@ -1403,7 +1403,7 @@ d2B BAB BAB | d2B BAB cBA | d2B BAB BAB | cBc A2B cBA :|
 |[2 GBd gba g2B | cBc A2B cBA | 
 
 X:102
-T: Hardiman The Fiddler
+T:Hardiman The Fiddler
 R: slip jig
 M: 9/8
 L: 1/8
@@ -1413,7 +1413,7 @@ K: Ador
 | Add d2e f3 | Add ded cAG | dcA d2e f2g | agf gfe dcA |
 
 X:103
-T: A Fig For A Kiss
+T:A Fig For A Kiss
 R: slip jig
 M: 9/8
 L: 1/8
@@ -1549,7 +1549,7 @@ e>f ec | BA Bc | A>B AF | FE E2 :|
 %%staffsep 35
 
 X:113
-T: The Pipe On The Hob #1
+T:The Pipe On The Hob #1
 R: jig
 M: 6/8
 L: 1/8
@@ -1561,7 +1561,7 @@ dcB cBA | BAG A2G | EDE c2E | E2D D3 :|
 |[2 fef gfg | agf gfe | fed eag | ed^c d3 ||
 
 X:114
-T: The Pipe On The Hob #2
+T:The Pipe On The Hob #2
 R: jig
 M: 6/8
 L: 1/8
@@ -1604,7 +1604,7 @@ c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 %%staffsep 35
 
 X:117
-T: The Concertina Reel
+T:The Concertina Reel
 R: Reel
 M: 4/4
 L: 1/8
@@ -1626,7 +1626,7 @@ dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
 dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
 
 X:119
-T: Dunmore Lasses
+T:Dunmore Lasses
 R: Reel
 M: 4/4
 L: 1/8
@@ -1854,7 +1854,7 @@ c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
 egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
 X:135
-T: The Old Bush
+T:The Old Bush
 R: reel
 M: 4/4
 L: 1/8
@@ -1881,7 +1881,7 @@ DE | =F2FE FGAB | ((3cBA) dB cAGB | Adde fded | ((3cBA) dc A2 de |
 ((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
 
 X:137
-T: The Belfast Hornpipe
+T:The Belfast Hornpipe
 R: Hornpipe
 M: 4/4
 L: 1/8
@@ -1899,7 +1899,7 @@ GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
 %%staffsep 35
 
 X:138
-T: Reel de Montebello
+T:Reel de Montebello
 R: reel
 M: 4/4
 L: 1/8
@@ -1910,7 +1910,7 @@ aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
 aece gecA | GABc dcBA | gddf ddgf | edcB A3z :| 
 
 X:139
-T: Evit Gabriel
+T:Evit Gabriel
 R: reel
 M: 4/4
 L: 1/8
@@ -1937,7 +1937,7 @@ A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |[1 d4 d4 :|[2 d2 _e2 =e2 f2 |]
 %%staffsep 40
 
 X:140
-T: The Freize Britches
+T:The Freize Britches
 C: Traditional
 R: jig
 M: 6/8
@@ -1959,7 +1959,7 @@ fed ed^c | ded cAG | F3 GEA | D3 D3 :|
 %%staffsep 40
 
 X:141
-T: Lucy Farr's
+T:Lucy Farr's
 C: Traditional
 R: Barndance
 M: 4/4
@@ -1971,7 +1971,7 @@ BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G2 :|[2 A2 G2 G4|]
 BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G4 :|[2 A2 G2 G2 |]
 
 X:142
-T: Bill Malley's
+T:Bill Malley's
 C: Traditional
 R: Barndance
 M: 4/4
@@ -1983,7 +1983,7 @@ G3 A B2 GB | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
 e2 d2 g3 e | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
 
 X:143
-T: Kilnamona
+T:Kilnamona
 C: Traditional
 R: Barndance
 M: 4/4
