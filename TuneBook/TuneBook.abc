@@ -1,9 +1,13 @@
-%%leftmargin 3cm
-%%rightmargin 0cm
-%%topmargin 2cm
-%%botmargin 0cm
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%scale .9
 %%EPS "./CoverPage.eps"
 %%newpage
+%%leftmargin 2cm
+%%topmargin 2cm
+%%scale .85
 %%EPS "./ContentsPage1.eps"
 %%newpage
 %%EPS "./ContentsPage2.eps"
@@ -2199,3 +2203,11 @@ G3 GAB | AGE GED | G3 AGE | GED D3 |
 G3 GAB | AGE GAB | c2A BGE | DED D3 :|
 |: c2A BAG | ABA AGE | c2A BGE | DED DEG |
 c2A BAG | ABA ABc | dcA AGE | GED D3 :|
+
+%%newpage
+%%leftmargin 2cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%scale .85
+%%EPS "./Index.eps"
