@@ -92,266 +92,270 @@
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.893543307087" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78582677165" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="2" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <PAGEOBJECT XPOS="100.00062992126" YPOS="20.0012598425197" OwnPage="0" ItemID="793229745" PTYPE="4" WIDTH="595.275590551181" HEIGHT="840.052913385828" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 840.053 L0 840.053 L0 0 Z" copath="M0 0 L595.276 0 L595.276 840.053 L0 840.053 L0 0 Z" gXpos="100.00062992126" gYpos="20.0012598425197" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="793182993" BACKITEM="-1">
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="20.0012598425197" OwnPage="0" ItemID="1765593707" PTYPE="4" WIDTH="595.275590551181" HEIGHT="840.052913385828" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 840.053 L0 840.053 L0 0 Z" copath="M0 0 L595.276 0 L595.276 840.053 L0 840.053 L0 0 Z" gXpos="100.00062992126" gYpos="20.0012598425197" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="1746878987" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="2" LINESP="25" FONT="Garamond Regular" FONTSIZE="15"/>
+                <DefaultStyle ALIGN="2" LINESP="24" FONT="Garamond Regular" FONTSIZE="15"/>
                 <ITEXT FONTSIZE="64" SCALEH="75" BASEO="99" KERN="0" CH="Contents"/>
-                <para ALIGN="1" LINESP="25"/>
+                <para ALIGN="1" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="5"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Boys of Ballycastle / Off to California / Boys of Bluehill (Hornpipes)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="6"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="A Polka / A Finnish Polka / Jessica's Polka (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="7"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Blarney Pilgrim / Garrett Barry's / Banish Misfortune (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="8"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Blarney Pilgrim / Garrett Barry's* / Banish Misfortune (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="9"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Yellow Tinker / Doonagore / Fermoy Lasses (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="10"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Mason's Apron / Tam Lin / Master Crowley's (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="11"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Julia Delaney / Ships are Sailing / Star of Munster (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="12"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Out on the Ocean / Shandon Bells / Connaughtman's Rambles (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="13"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Road to Lisdoonvarna / Swallowtail Jig / Fermoy Lasses (Jig-Jig-Reel)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="14"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Road to Lisdoonvarna / Swallowtail Jig / Kesh Jig (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="15"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Frost is All Over / Kitty Lie Over / Cunla (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="16"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Where I told her I Loved her and Sprained her Ankle / Gander in the Pratie Hole / The Persistence of Noel Reid (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="17"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Where I told her I Loved her and Sprained her Ankle / Coffee on the Bricks / The Persistence of Noel Reid (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="18"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="19"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Tar Road to Sligo / Cliffs of Moher / Salt River Road (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="20"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Maggie in the Woods / Peggy Lettermore (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="21"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Lilting Banshee / Coffee / Tripping up the Stairs (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="22"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Dinky's / The Ash Plant / Return to Milltown (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="23"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Worn Petticoat / Tehan's Favorite / Eileen O'Riordan's (Slides)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="24"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Oddfellows in Plainville / Lydia has no Faith in Cats / Kesh Jig (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="25"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Edna's Vase / Hillgrove's Waltz (Waltzes)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="26"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Banshee / Merry Blacksmith / St Anne's Reel (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="27"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Cooley's / Toss the Feathers / Drowsy Maggie (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="28"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Lark in the Morning (Jig)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="29"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Bohola Jig / Coach Road to Sligo / Calliope House (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="30"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Maid Behind the Bar / Musical Priest / Silver Spear (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="31"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="32"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Whistling Wrangler / Face the Table / Untitled Polka (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="33"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Fat Cardinal / Untitled Reel (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="34"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Fred Finn's / Sailing into Walpole's Marsh (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="35"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Drunken Landlady / Colonel Roger's Favorite / The Happy Days of Youth (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="36"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Miss Monaghan's / The Earl's Chair / Bird in the Bush (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="37"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Down the Hill (3/4 March)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="38"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="An Phis Fhliuch / The Butterfly / Kid on the Mountain (Slip Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="39"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Fisher's Hornpipe / Staten Island Hornpipe / St Anne's Reel (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="40"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Ballydesmond Polka #2 / Ballydesmond Polka #1 / Julia Clifford's (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="41"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss (Slip Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="42"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Polkas from Tom McCann in Philly (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="43"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Golden Gardens / The Salmon's Leap (Slip Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="44"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="John Brennan's / Father Kelly's (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="45"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Bill Sullivan's / Britches Full of Stitches (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="46"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Pipe on the Hob #1 / Pipe on the Hob #2 (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="47"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Tatter Jack Walsh / Jimmy Ward's (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="48"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Concertina Reel / Mountain Road / Dunmore Lasses (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="49"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Tatter Jack Walsh / Tobin's Favorite / Mooncoin (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="50"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Tobin's Favorite / Out on the Ocean / Tripping up the Stairs (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="51"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Bank of Turf / Saddle the Pony / My Darling Asleep (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="52"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Old Hag You have Killed Me / Haste to the Wedding (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="53"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want? (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="54"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Rakish Paddy / The Old Bush (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="55"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Chief O'Neill's Favorite / The Belfast Hornpipe (Hornpipes)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="56"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Reel de Montebello / Evit Gabriel Reel de Montreal (Reels)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="57"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Freize Britches (Jig)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="58"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Lucy Farr's / Bill Malley's / Kilnamona (Barndances)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="59"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Church St Polka / The Happy Polka (Polkas)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="60"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Come Back Paddy Reily / Need to as John (Waltzes)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="61"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="The Humors of Ballylaughlin (Jig)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="62"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Donnybrook Fair / Rambling Pitchfork / Kilashandra Lasses (Jigs)"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="63"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Sonny's Mazurka"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="64"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Mickey Dalton's No. 3 / The Kerry Polka / Sweeney's Polka"/>
-                <para ALIGN="0" LINESP="25"/>
+                <para ALIGN="0" LINESP="24"/>
                 <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="65"/>
                 <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
-                <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Young Tom Ennis / Jimmy Ward's"/>
-                <trail ALIGN="0" LINESP="25"/>
+                <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Young Tom Ennis / Jimmy Ward's "/>
+                <para ALIGN="0" LINESP="24"/>
+                <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="66"/>
+                <tab FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0"/>
+                <ITEXT FONTSIZE="16" SCALEH="75" BASEO="99" KERN="0" CH="Foxhunter's Jig"/>
+                <trail ALIGN="0" LINESP="24"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="100.00062992126" YPOS="901.893543307087" OwnPage="1" ItemID="793182993" PTYPE="4" WIDTH="600.037795275591" HEIGHT="840.052913385827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L600.038 0 L600.038 840.053 L0 840.053 L0 0 Z" copath="M0 0 L600.038 0 L600.038 840.053 L0 840.053 L0 0 Z" gXpos="100.00062992126" gYpos="901.893543307087" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="793229745"/>
-        <PAGEOBJECT XPOS="100.00062992126" YPOS="1786.26897637795" OwnPage="2" ItemID="793239825" PTYPE="4" WIDTH="595.275590551181" HEIGHT="85.8670866141772" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 85.8671 L0 85.8671 L0 0 Z" copath="M0 0 L595.276 0 L595.276 85.8671 L0 85.8671 L0 0 Z" gXpos="100.00062992126" gYpos="1786.26897637795" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="901.893543307087" OwnPage="1" ItemID="1746878987" PTYPE="4" WIDTH="600.037795275591" HEIGHT="840.052913385827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L600.038 0 L600.038 840.053 L0 840.053 L0 0 Z" copath="M0 0 L600.038 0 L600.038 840.053 L0 840.053 L0 0 Z" gXpos="100.00062992126" gYpos="901.893543307087" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="1765593707"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1786.26897637795" OwnPage="2" ItemID="1767982347" PTYPE="4" WIDTH="595.275590551181" HEIGHT="85.8670866141772" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 85.8671 L0 85.8671 L0 0 Z" copath="M0 0 L595.276 0 L595.276 85.8671 L0 85.8671 L0 0 Z" gXpos="100.00062992126" gYpos="1786.26897637795" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="2" LINESP="25" FONT="Garamond Regular" FONTSIZE="15"/>
                 <ITEXT FONTSIZE="64" SCALEH="75" CH="Index"/>
                 <trail ALIGN="1" LINESP="25"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="100.00062992126" YPOS="1863.79086614173" OwnPage="2" ItemID="793194833" PTYPE="4" WIDTH="595.275590551181" HEIGHT="760.04787401575" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="4" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 760.048 L0 760.048 L0 0 Z" copath="M0 0 L595.276 0 L595.276 760.048 L0 760.048 L0 0 Z" gXpos="100.00062992126" gYpos="1863.79086614173" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1863.79086614173" OwnPage="2" ItemID="1765583723" PTYPE="4" WIDTH="595.275590551181" HEIGHT="760.04787401575" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="4" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="3" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L595.276 0 L595.276 760.048 L0 760.048 L0 0 Z" copath="M0 0 L595.276 0 L595.276 760.048 L0 760.048 L0 0 Z" gXpos="100.00062992126" gYpos="1863.79086614173" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESP="17" FONT="Garamond Regular" FONTSIZE="14">
                     <Tabs Type="1" Pos="14.1732283464567" Fill="."/>
@@ -677,6 +681,12 @@
                 <ITEXT FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0" CH="Fisher's Hornpipe"/>
                 <tab FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0"/>
                 <ITEXT FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0" CH="39"/>
+                <para ALIGN="0" LINESP="19" FONT="Garamond Regular" FONTSIZE="14">
+                    <Tabs Type="1" Pos="134.173228346457" Fill="."/>
+                </para>
+                <ITEXT FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0" CH="Foxhunter's Jig"/>
+                <tab FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0"/>
+                <ITEXT FONTSIZE="13" SCALEH="75" BASEO="99" KERN="0" CH="66"/>
                 <para ALIGN="0" LINESP="19" FONT="Garamond Regular" FONTSIZE="14">
                     <Tabs Type="1" Pos="134.173228346457" Fill="."/>
                 </para>
