@@ -1,3 +1,9 @@
+%%titleleft
+%%titlefont Times-Roman 20
+%%scale .7
+%%staffsep 40
+
+X:1
 T:Foxhunter's Jig
 C:Traditional
 K:D
@@ -8,3 +14,15 @@ R:Slip Jig
 |: B2B BAG FGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D:|
 |: f3 fed g2e | f3 fed e2d | f3 fed g2b | afd def e2d :|
 |: gfe d=cB AGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D :|
+
+X:2
+T:Banks of Lough Gowna
+C:Tradtional
+M:6/8
+L:1/8
+R:Jig
+K:D
+|: B3 BAF | FEF DFA | B3 BAF | d2e fed |
+B3 BAF | FEF DFA | def geg | fdB B2A :|
+|: def a3 | afb afe | def afe | fdB BAB |
+def a3 | afb afe | def geg | fdB B3 :|
