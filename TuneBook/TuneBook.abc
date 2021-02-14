@@ -57,7 +57,6 @@ For converting the .abc file into a .pdf: abcm2ps -- this is a command line tool
 %%endtext
 
 %%newpage
-
 %%titlefont Times-Roman 20
 %%scale .7
 %%staffsep 40
@@ -614,7 +613,6 @@ BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
 g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
 
 %%newpage
-
 %%scale .62
 %%staffsep 20
 
@@ -840,7 +838,6 @@ GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |]
 B3 dBd | ege dBd | gfg aga | bgf g3:|
 
 %%newpage
-
 %%scale .75
 %%staffsep 46
 
