@@ -1,0 +1,279 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{pdfpages}
+\usepackage{setspace}
+\usepackage{tocloft}
+\begin{document}
+\pagenumbering{roman}
+
+\title{Ed's Tunebook}
+\author{Ed Yother\\ed@edyother.com\\edyother.com}
+\maketitle
+
+This a collection of tunes transcribed,for the most part, the way that I play them, in the sets that I usually play them. This started as a way for me to learn to put something like this together, as well as getting some more practice transcribing tunes. 
+
+The tunes and sets are in no particular order. The pages are formatted so that each page is a set that I play when I perform or learned at a session, and for that reason some of the tunes are repeated.
+
+If you happen to catch any errors let me know, especially if I have incorrectly attributed a tune's composer.
+
+The few tunes in here that I have composed are included under a Creative Commons Attribution License 3.0. Use them however you like, as long as I get credit.
+
+\pagebreak
+\renewcommand{cftchapdotsep}{\cftdotsep}
+\begin{spacing}{0.5}
+\tableofcontents
+\end{spacing}
+
+\newpage
+\pagenumbering{arabic}
+
+\addcontentsline{toc}{section}{\protect\textbf{The Boys of Ballycastle / Off to California / The Boys of Bluehill}}
+\setcounter{page}{1}
+\includepdf[pages=1]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{A Polka / A Finnish Polka / Jessica's Polka}}
+\includepdf[pages=2]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Blarney Pilgrim / Garret Barry's / Banish Misfortune}}
+\includepdf[pages=3]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Blarney Pilgrim / Garret Barry's / Banish Misfortune}}
+\includepdf[pages=4]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Yellow Tinker / Doonagore / Fermoy Lasses}}
+\includepdf[pages=5]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Mason's Apron / Tam Lin / Master Crowley's}}
+\includepdf[pages=6]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Julia Delaney / Ships are Sailing / Star of Munster}}
+\includepdf[pages=7]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Out on the Ocean / Shandon Bells / Connaughtman's Rambles}}
+\includepdf[pages=8]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Road to Lisdoonvarna / Swallowtail Jig / Fermoy Lasses}}
+\includepdf[pages=9]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Road to Lisdoonvarna / Swallowtail Jig / Kesh Jig}}
+\includepdf[pages=10]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Frost is All Over / Kitty Lie Over / Cunla}}
+\includepdf[pages=11]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Where I Told Her I Loved Her and Sprained Her Ankle / Gander in the Pratie Hole / The Persistence of Noel Reid}}
+\includepdf[pages=12]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid}}
+\includepdf[pages=13]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Walls of Liscarroll / Behind the Haystack / Merrily Kissed the Quaker}}
+\includepdf[pages=14]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Tar Road to Sligo / Cliffs of Moher / Salt River Road}}
+\includepdf[pages=15]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Maggie in the Woods / Peggy Lettermore}}
+\includepdf[pages=16]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Lilting Banshee / Coffee / Tripping up the Stairs}}
+\includepdf[pages=17]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Dinky's The Ash Plant / Return to Milltown}}
+\includepdf[pages=18]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Worn Petticoat / Tehan's Favorite / Eileen O'Riordan's}}
+\includepdf[pages=19]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Oddfellows in Plainville / Lydia has no Faith in Cats / Kesh Jig}}
+\includepdf[pages=20]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Edna's Vase / Hillgrove's Waltz}}
+\includepdf[pages=21]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Banshee / Merry Blacksmith / St Anne's Reel}}
+\includepdf[pages=22]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Cooley's / Toss the Feathers / Drowsey Maggie}}
+\includepdf[pages=23]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Lark in the Morning}}
+\includepdf[pages=24]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Bohola Jig / Blackthorn Stick / Calliope House}}
+\includepdf[pages=25]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Maid Behind the Bar / Musical Priest / Silver Spear}}
+\includepdf[pages=26]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Oak Cliff Road / O'Dowd's Pitch / Kitty on the Rail}}
+\includepdf[pages=27]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Whistling Wrangler / Face the Table / Untitled Polka}}
+\includepdf[pages=28]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Fat Cardinal / Untitled Reel}}
+\includepdf[pages=29]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Fred Finn's / Sailing into Walpole's Marsh}}
+\includepdf[pages=30]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Drunken Landlady / Colonel Rodger's Favorite / The Happy Days of Youth}}
+\includepdf[pages=31]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Miss Monaghan's / The Earl's Chair / Bird in the Bush}}
+\includepdf[pages=32]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Down the Hill}}
+\includepdf[pages=33]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{An Phis Fhliuch / The Butterfly / Kid on the Mountain}}
+\includepdf[pages=34]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Fisher's Hornpipe / Staten Island Hornpipe / St Anne's Reel}}
+\includepdf[pages=35]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Ballydesmond Polka 2 / Ballydesmond Polka 1 / Julia Clifford's}}
+\includepdf[pages=36]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss}}
+\includepdf[pages=37]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Tom McCann's / Tom McCann's / John Egan's}}
+\includepdf[pages=38]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Golden Gardens / The Salmon's Leap}}
+\includepdf[pages=39]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{John Brennan's / Father Kelly's}}
+\includepdf[pages=40]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Bill Sullivan's / Britches Full of Stitches}}
+\includepdf[pages=41]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Pipe on the Hob 1 / The Pipe on the Hob 2}}
+
+\includepdf[pages=42]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Tatter Jack Walsh / Jimmy Ward's}}
+\includepdf[pages=43]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Concertina Reel / Mountain Road / Dunmore Lasses}}
+\includepdf[pages=44]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Tatter Jack Walsh / Tobin's Favorite / Mooncoin}}
+\includepdf[pages=45]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Tobin's Favorite / Out on the Ocean / Tripping up the Stairs}}
+\includepdf[pages=46]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Bank of Turf / Saddle the Pony / My Darling Asleep}}
+\includepdf[pages=47]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Donnybrook Fair / Old Had You Have Killed Me / Haste to the Wedding}}
+\includepdf[pages=48]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Fifty Cent Piece / Three Little Drummers / When Sick is it Tea You Want?}}
+\includepdf[pages=49]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Rakish Paddy / The Old Bush}}
+\includepdf[pages=50]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Cheif O'Neill's Favorite / The Belfast Hornpipe}}
+\includepdf[pages=51]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Reel de Montebello / Evit Gabriel / Reel de Montreal}}
+\includepdf[pages=52]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Freize Britches}}
+\includepdf[pages=53]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Lucy Farr's / Bill Malley's / Kilnamona}}
+\includepdf[pages=54]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Church St Polka / The Happy Polka}}
+\includepdf[pages=55]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Come Back Paddy Reily / Waltz I Learned from Winston}}
+\includepdf[pages=56]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{The Humors of Ballylaughlin}}
+\includepdf[pages=57]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Donnybrook Fair / Rambling Pitchfork / Kilashandra Lasses}}
+\includepdf[pages=58]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Sonny's Mazurka}}
+\includepdf[pages=59]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Mickey Dalton's No.3 / The Kerry Polka / Sweeney's Polka}}
+\includepdf[pages=60]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Young Tom Ennis / Jimmy Ward's}}
+\includepdf[pages=61]{tb.pdf}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Foxhunter's Jig}}
+\includepdf[pages=62]{tb.pdf}
+
+\end{document}
