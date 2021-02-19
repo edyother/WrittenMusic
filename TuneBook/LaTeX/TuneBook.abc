@@ -1,62 +1,10 @@
-%%leftmargin 1cm
-%%rightmargin 1cm
-%%topmargin .5cm
-%%botmargin .5cm
-%%scale .9
-%%EPS "./CoverPage.eps"
-%%newpage
-%%leftmargin 2cm
-%%topmargin 2cm
-%%scale .85
-%%EPS "./ContentsPage1.eps"
-%%newpage
-%%EPS "./ContentsPage2.eps"
-%%newpage
-
+%%footer $P
 %%titleleft
 %%leftmargin 1cm
 %%rightmargin 1cm
 %%topmargin .5cm
 %%botmargin .5cm
 %%stemheight 22
-%%headerfont Times-Roman 12
-%%header edyother.com
-%%footerfont Times-Roman 13
-%%footer $P
-%%scale 1
-
-%%textfont Times-Roman 48
-%%vskip 10
-%%begintext center
-Ed's Tunebook
-%%endtext
-%%textfont Times-Roman 22
-%%begintext center
-Transcribed and compiled by
-Ed Yother
-
-http://edyother.com
-ed@edyother.com
-%%endtext
-%%textfont Times-Roman 14
-%%begintext fill
-
-This a collection of tunes transcribed,for the most part, the way that I play them, in the sets that I usually play them. This is mostly an experiment in learning to put together something like this using only command line tools (a text editor and a bash script), as well as getting some more practice writing music notation.
-
-The tunes and sets are in no particular order. The pages are formatted so that each page is a set that I play when I perform, and for that reason some of the tunes are repeated.
-
-If you happen to catch any errors let me know, especially if I have incorrectly attributed a tune's composer.
-
-The few tunes in here that I have composed are included under a Creative Commons Attribution License 3.0. Use them however you like, as long as I get credit. More info at http://creativecommons.org/licenses/by/3.0/us/
-
-If you're curious about what tools specifically I've been using to put this together, here you go. After these few years since starting this project, I think I started it sometime about 2010, here's what I've settled on so far.
-
-For writing and editing the tunes themselves: EasyABC -- It's a text editor that does syntax highlighting for abc music, provides a live preview of the final sheet music as you type, and does midi playback, which is invaluable for making sure I transcribed the tune correctly. It does have the ability to export the sheet music as a pdf, although it doesn't have all of the formatting options availiable of abcm2ps, which I will describe next.
-
-For converting the .abc file into a .pdf: abcm2ps -- this is a command line tool which I have been using in Linux. It is supposed to be cross platform, but I don't have any experience there. I wrote it into a bash script, which you can find at http://github.com/edyother/abc2pdf.sh
-%%endtext
-
-%%newpage
 %%titlefont Times-Roman 20
 %%scale .7
 %%staffsep 40
@@ -86,7 +34,7 @@ GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 
 X:3
-T:Boys of Bluehill
+T:Boys of Bluehill, The
 M:4/4
 L:1/8
 R:hornpipe
@@ -143,7 +91,7 @@ ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
 %%staffsep 30
 
 X:7
-T:Blarney Pilgrim
+T:Blarney Pilgrim, The
 M:6/8
 L:1/8
 R:jig
@@ -185,7 +133,7 @@ c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 %%staffsep 30
 
 X:10
-T:Blarney Pilgrim
+T:Blarney Pilgrim, The
 M:6/8
 L:1/8
 R:jig
@@ -254,7 +202,7 @@ gbag fddc | BG G2 ABcA | d2 cA BGFG |[1 AdcA GBde :|[2 AdcA G2 GE |]
 
 
 X:15
-T:Fermoy Lasses
+T:Fermoy Lasses, The
 M:C|
 R:reel
 C:Traditional
@@ -269,7 +217,7 @@ G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 %%staffsep 40
 
 X:16
-T:Mason's Apron
+T:Mason's Apron, The
 M:C|
 R:reel
 C:Traditional
@@ -354,7 +302,7 @@ e3 edB | efe edB | d3 def | gfe dBA |
 G2A B2d | ege dBA | GED G2A | BGF GE2 |]
 
 X:23
-T:Shandon Bells
+T:Shandon Bells, The
 M:6/8
 R:jig
 C:Traditional
@@ -402,7 +350,7 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
 X:27
-T:Fermoy Lasses
+T:Fermoy Lasses, The
 M:C|
 R:reel
 C:Traditional
@@ -454,7 +402,7 @@ B3 dBd | ege dBd | gfg aga | bgf g3:|
 %%staffsep 35
 
 X:31
-T:Frost is All Over
+T:Frost is All Over, The
 M:6/8
 R:reel
 C:Traditional
@@ -908,7 +856,7 @@ f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
 %%newpage
 
 X:65
-T:Cooley's
+T:Joe Cooley's
 R:reel
 C:Joe Mills, Galway (1938)
 M:C|
@@ -1011,7 +959,7 @@ FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
 fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
 
 X:73
-T:Musical Priest
+T:Musical Priest, The
 R:reel
 C:Traditional
 M:4/4
@@ -1200,7 +1148,7 @@ G2dB cAFA | GABc defg | afge fdcA |[1 GBAF G2GF :|[2 GBAF G2ge |]
 fdde fdcA | dggf g2ag | f3e dcAF |[1 GBAF G2ge :|[2 GBAF G2GF |]
 
 X:87
-T:Happy Days of Youth, The
+T:Happy Days of Youth
 S:Liam O'Flynn "McKenna's #2"
 R:Reel
 M:4/4
@@ -1626,7 +1574,7 @@ dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
 dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
 
 X:119
-T:Dunmore Lasses
+T:Dunmore Lasses, The
 R: Reel
 M: 4/4
 L: 1/8
@@ -1999,7 +1947,7 @@ b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 %%staffsep 40
 
 X:144
-T:Church St Polka
+T:Church St Polka, The
 C:Traditional
 K:G
 R:Polka
@@ -2011,7 +1959,7 @@ BG D>G | Ec cA/B/ | c/B/A/G/ F/D/E/F/| GB G2 :|
 d>e dB | A3 B/A/ |[1 GA Bc | de fd :|[2 Gg f/g/a/g/ | gf g2 |]
 
 X:145
-T:Happy Polka
+T:Happy Polka, The
 C:Traditional
 K:D
 R:Polka
@@ -2135,7 +2083,7 @@ f2 fa gf | e2 eg fe | dc df ec | d4 :|
 %%staffsep 40
 
 X:154
-T:Mickey Dalton's No.3
+T:Mickey Dalton's #3
 C:Mickey Dalton
 S:Shannon Heaton
 L:1/8
@@ -2216,10 +2164,3 @@ F3 FED G2E | F3 FED E2D | F3 FED G2B | AFD DEF E2D :|
 |: f3 fed g2e | f3 fed e2d | f3 fed g2b | afd def e2d :|
 |: gfe d=cB AGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D :|
 
-%%newpage
-%%leftmargin 2cm
-%%rightmargin 1cm
-%%topmargin .5cm
-%%botmargin .5cm
-%%scale .85
-%%EPS "./Index.eps"
