@@ -1,0 +1,145 @@
+\documentclass[letterpaper,12pt]{article}
+\usepackage{geometry}
+\geometry{margin=10mm}
+\usepackage{multicol}
+\title{Songs}
+\author{Ed Yother}
+
+\begin{document}
+\maketitle
+
+\section{The Songs}
+\subsection{Aikendrum}
+\begin{multicols}{2}
+\noindent
+\\\textbf{Ken ya who a Whig can fight}
+\\Aikendrum, Aikendrum
+\\\textbf{Ken ya who a Whig can fight}
+\\Aikendrum
+\\\textbf{He can fight the heor bright
+\\With his heels and armor light
+\\And the wind of heav'nly might}
+\\Aikendrum, Aikendrum
+\\\textbf{Is not Rowley in the right}
+\\Aikendrum
+
+\noindent
+\\\textbf{Did ya hear of Sunderland}
+\\\textbf{Did ya hear of Sunderland}
+
+\noindent
+\\\textbf{That man of high command
+\\Who has swor to clear the land
+\\He is vanished from our strand}
+
+\noindent
+\\\textbf{Or the eel has ta'en the sand}
+
+\newcol
+\noindent
+\\\textbf{Donald's running around and 'round}
+\\\textbf{Donald's running around and 'round}
+
+\noindent
+\\\textbf{But the cheif cannot be found
+\\And the Dutchmen they are drowned
+\\And the King Jamie he is crowned}
+
+\noindent
+\\\textbf{But the dogs will get a 'stound}
+
+\noindent
+\\\textbf{We have heard of Whigs galore}
+\\\textbf{We have heard of Whigs galore}
+
+\noindent
+\\\textbf{We have searched the country o'er
+\\With cannons and claymore
+\\But still they are before}
+
+\noindent
+\\\textbf{We may seek forever more}
+
+\noindent
+\\\textbf{Ken ya who to gain a Whig}
+\\\textbf{Ken ya who to gain a Whig}
+
+\noindent
+\\\textbf{Look jolly blithe and big
+\\Take his ain blest side a prig
+\\And the poor worm eaten Whig}
+
+\noindent
+\\\textbf{For opposition's sake we will win}
+\end{multicols}
+\newpage
+
+\subsection{The Banks of Newfoundland}
+
+\noindent
+Ye ramblin boys of Liverpool, ye sailormen beware
+\\When you go 'board a Yankee Packet ship no dungaree jumpers wear
+\\But hav yourself a monkey coat, and keep it close to hand
+\\For there blow some cold Norwesters on the Banks of Newfoundland
+\\\textit{We'll scrape her and we'll scrub her, with holystone and sand
+\\And we'll say farewell fot the virgin rocks on the Banks of Newfoundland}
+
+\noindent
+\\We had one Lynch from Ballynahinch, Spud Murphy and Mike Moore
+\\'Twas in the winter of Sevently Three, those sea boys suffered sore
+\\They Pawned their gear in Liverpool, they sold it out of hand
+\\Not thinking on them cold nor winds on the Banks of Newfoundland
+
+\noindent
+\\We had a lady fair aboard, Kate Connor was her name
+\\To her I'd promised marriage, and on me she had her claim
+\\She tore her flannel petticoat to make mittens for my hands
+\\For she could not see her true love freeze on the Banks of Newfoundland
+
+\noindent
+\\I dreamed a dream the other night, and I thought I was at home
+\\Along side me my own true love, and she in Marlebone
+\\A jug of ale upon my knee, and a glass in my hand
+\\But when I awoke my heart was broke on the Banks of Newfoundland
+\newpage
+
+\begin{multicols}{2}
+\subsection{Rolling Down the River}
+
+\noindent
+\textbf{Once I was a Rigger and I worked like hell}
+\\Rolling up, rolling down
+\\\textbf{But now I'm sailing with the OCL, to go}
+\\Rolling down the river
+\\Rolling up, rolling down
+\\We all get drunk in Tillbury Town
+\\Twenty four hours to turn around and go
+\\Rolling down the River
+
+\noindent
+\\\textbf{When first I saw a TEU}
+\\\textbf{I wondered where they stowed the crew, to go}
+
+\noindent
+\\\textbf{Cargo comes in TEUs}
+\\\textbf{A twenty foot box boys filled with booze, to go}
+
+\noindent
+\\\textbf{There's a Tillbury girl called Kettle Jane}
+\\\textbf{She's first on the boil, then off again, to go}
+
+\noindent
+\\\textbf{She's got a mate called Teapot Anne}
+\\\textbf{She gets well brewed just like a man, to go}
+
+\noindent
+\\\textbf{Down by the dockgates where the work is done}
+\\\textbf{You can pick those girls up one by one and go}
+
+\noindent
+\\\textbf{Well we are the bullies that'll see her through}
+\\\textbf{So to hell with the Channel and the TEU, well go}
+
+\end{multicols}
+
+\end{document}
