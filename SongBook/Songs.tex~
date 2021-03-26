@@ -1,7 +1,6 @@
-\usepackage{extsizes}
-\documentclass[letterpaper,14pt]{extarticle}
+\documentclass[letterpaper,9pt]{article}
 \usepackage{geometry}
-\geometry{margin=10mm}
+\geometry{margin=.7in}
 \usepackage{multicol}
 \title{Songs}
 \author{Ed Yother}
@@ -9,7 +8,11 @@
 \begin{document}
 \maketitle
 
+\tableofcontents
+
+\newpage
 \section{Aikendrum}
+\Large
 \noindent
 Ken ya who a Whig can fight \textbf{Aikendrum, Aikendrum}
 \\Ken ya who a Whig can fight \textbf{Aikendrum}
@@ -46,6 +49,7 @@ Ken ya who a Whig can fight \textbf{Aikendrum, Aikendrum}
 \\And the poor worm eaten Whig
 \\For opposition's sake we will win \textbf{Aikendrum}
 
+\newpage
 \section{The Banks of Newfoundland}
 
 \noindent
@@ -55,26 +59,25 @@ Ye ramblin boys of Liverpool, ye sailormen beware
 \\For there blow some cold Norwesters on the Banks of Newfoundland
 \\\textbf{We'll scrape her and we'll scrub her, with holystone and sand
 \\And we'll say farewell fot the virgin rocks on the Banks of Newfoundland}
-
-\noindent
+\\
 \\We had one Lynch from Ballynahinch, Spud Murphy and Mike Moore
 \\'Twas in the winter of Sevently Three, those sea boys suffered sore
 \\They Pawned their gear in Liverpool, they sold it out of hand
 \\Not thinking on them cold nor winds on the Banks of Newfoundland
-
-\noindent
+\\
 \\We had a lady fair aboard, Kate Connor was her name
 \\To her I'd promised marriage, and on me she had her claim
 \\She tore her flannel petticoat to make mittens for my hands
 \\For she could not see her true love freeze on the Banks of Newfoundland
-
-\noindent
+\\
 \\I dreamed a dream the other night, and I thought I was at home
 \\Along side me my own true love, and she in Marlebone
 \\A jug of ale upon my knee, and a glass in my hand
 \\But when I awoke my heart was broke on the Banks of Newfoundland
 
+\newpage
 \section{Barret's Privateers}
+\large
 \noindent
 Oh the year was seventeen seventy eight
 \\\textbf{How I wish I was in Sherbrooke now}
@@ -118,8 +121,9 @@ Oh the year was seventeen seventy eight
 \\Well it's been six years since I sailed away
 \\And I just made Halifax yesterday
 
-
+\newpage
 \section{The Blacksmith}
+\LARGE
 \noindent
 \\A Blacksmith courted me, nine months and better
 \\He fairly one my heart, wrote me a letter
@@ -146,7 +150,9 @@ Oh the year was seventeen seventy eight
 \\Her lips grew pale and wan, it made her poor heart to tremble
 \\To think she'd loved the one, and he proved deceitful
 
-\seciton{Bold McShane}
+\newpage
+\section{Bold McShane}
+\large
 \noindent
 \\My name is McShane from the plains of Kildare
 \\A farmer I was until the last year
@@ -190,7 +196,9 @@ Oh the year was seventeen seventy eight
 \\But I lifted him up and sent down for to Megan
 \\Me and the Tinker we ended the strife.
 
+\newpage
 \section{Dirty Old Town}
+\huge
 \noindent
 \\I found my love by the gas works croft
 \\Dreamed a dream by the old canal
@@ -214,8 +222,10 @@ Oh the year was seventeen seventy eight
 \\Dreamed a dream by the old canal
 \\I kissed my girl by the factory wall
 
+\newpage
 \section{Farewell and adieu}
 \noindent
+\LARGE
 \\Farewell and adieu to you Spanish ladies
 \\Farewell and adieu to you ladies of Spain
 \\For we’ve recieved orders to sail for New England
@@ -241,31 +251,29 @@ Oh the year was seventeen seventy eight
 \\We’ll sing and be jolly and drown melancholy
 \\And drink a good health to each true hearted lass
 
+\newpage
 \section{Felix the Soldier}
 \noindent
 \\Well they took away me brouges and they robbed me of my spade
 \\Put me in the Army and a soldier of me made
 \\But I could not beat the drum and I could not play the flute
-\\They put me in the Army and they taught me how to shoot
-\\
-\\Well we had a bloody fight after we had gained the wall
-\\the devil a bit of mercy did the Frenchies show at all
-\\Well the Indians they were sly and the Frenchies they were coy
-\\They shot off the left leg of this poor Irish boy
+\\So they put me in the Army and they taught me how to shoot 
 \\
 \\Then they put me on a ship and they sent me home again
 \\With all the Army's training after battle strife and then
 \\Well we headed for the down and we landed at the keys
 \\Me mother came to see me and these words did say to me
 \\Oh Felix were you drunk, and Felix were you mad
-\\oh what has become of the fine two legs you had
+\\oh what has become of the fine two legs you had?
 \\
 \\Well I bid my spade adieu, for I could not dig the bog
 \\But I can play my fiddle and I can drink my grog
 \\I've learned to smoke a pipe, and I can fire a gun
 \\To the devil with the fighting I am glad this war is done
 
+\newpage
 \section{Hangin' Johnny}
+\huge
 \noindent
 \\They calls me Hangin' Johnny \textbf{Away Boys Away}
 \\They says I hangs for money \textbf{So hang boys hang}
@@ -288,6 +296,7 @@ Oh the year was seventeen seventy eight
 \\They calls me Hangin' Johnny
 \\But I ain't hangs nobody
 
+\newpage
 \section{Haul Away Joe}
 \noindent
 \\Louis was the king of France, before the revolution
@@ -312,7 +321,9 @@ Oh the year was seventeen seventy eight
 \\Sit and listen while I tell you 'bout me darlin' Nancy
 \\She's taughtly rigged, and clipper built, she's just me style and fancy
 
+\newpage
 \section{Henry Joy}
+\Large
 \noindent
 \\An Ulsterman I am proud to be 
 \\From the Antrim glens I come
@@ -350,7 +361,9 @@ Oh the year was seventeen seventy eight
 \\He turned and died, My God, I cired
 \\They have murdered Henry Joy
 
+\newpage
 \section{High Barbaree}
+\LARGE
 \noindent
 \\There were two lofty ships from Old England came
 \\\textbf{Blow high, blow low and so sailed we}
@@ -375,48 +388,43 @@ Oh the year was seventeen seventy eight
 \\Oh quarter oh quarter the pirates they did cry
 \\But the quarter that we gave them was to sink them in the sea
 
+\newpage
 \section{In Praise on Alcohol}
+\Large
 \noindent
-\\Of vintage wine I am a lover
-\\To drink deep would be my delight
-\\if not for the bleak hangover
-\\I'd get loaded every night
+\\Of vintage wine I am a lover To drink deep would be my delight
+\\if not for the bleak hangover I'd get loaded every night
 \\
 \\\textbf{I'd whoop it up with song and laughter
 \\Whoop it up with song an laughter
 \\Whoop it up with song an laughter
 \\If it were not for the morning after}
 \\
-\\Although to soberness I'm given
-\\It is a thought I've often thunk
-\\The nearest that is Earth to Heaven
-\\Is to get sublimely drunk
+\\Although to soberness I'm given It is a thought I've often thunk
+\\The nearest that is Earth to Heaven Is to get sublimely drunk
 \\
 \\\textbf{Is to achieve divine elation
 \\To achieve divine elation
 \\To achieve divine elation
 \\By means of generous libation}
 \\
-\\But although wine cups claim their payment
-\\And as the price is often paid
-\\If we could know what morning gray meant
-\\We never would get soused again
+\\But although wine cups claim their payment And as the price is often paid
+\\If we could know what morning gray meant We never would get soused again
 \\
 \\\textbf{Rather than buy a hobnailed liver
 \\Rather than buy a hobnailed liver
 \\Rather than buy a hobnailed liver
 \\I'm sure that we'd abstain forever}
 \\
-\\But though I love the glow of liqour
-\\As joyfully I drink it up
-\\Hoping that until life's last flicker
-\\With praise I'll raise the ruby cup
+\\But though I love the glow of liqour As joyfully I drink it up
+\\Hoping that until life's last flicker With praise I'll raise the ruby cup
 \\
 \\\textbf{So let me like a jolly monk
 \\So let me like a jolly monk
 \\So let me like a jolly monk
 \\Proceed to get sublimely drunk}
 
+\newpage
 \section{Jack tar}
 \noindent
 \\So come all you ladies gay who delights is sailor’s joy
@@ -454,6 +462,7 @@ Oh the year was seventeen seventy eight
 \\And he kept a full on eye close to the wind as she would lie
 \\We were bound for black wall and stormy weather
 
+\newpage
 \section{Jolly Roving Tar}
 \noindent
 \\Ships may came and ship may go As long as the sea does roll
@@ -461,9 +470,11 @@ Oh the year was seventeen seventy eight
 \\And a trip ashore he does adore With a girl that's plump and round 
 \\But when the money's all gone it's the same old song Get up Jack John sit down
 \\
+\large
 \\\textbf{Come along, Come along you jolly brave boys there’s lots of grog in the jar
 \\And when the money's all gone it's the same old song get up Jack John sit down}
 \\
+\Large
 \\When Jack gets in he'll spend his tin in some old boarding house
 \\They'll welcome him with rum and gin and feed him on pork souce
 \\He'll lend and spend, and not offend, until he lies drunk on the ground
@@ -479,7 +490,9 @@ Oh the year was seventeen seventy eight
 \\Then he'll raise his eyes up to the sky and say "Boys we're homeward bound"
 \\But when the money's all gone it's the same old song Get up Jack John sit down
 
+\newpage
 \section{Larry Marr}
+\LARGE
 \noindent
 \\In Frisco town there lived a man whose name was Larry Marr
 \\And in the days of the Cape Horn trade, Oh he used his big stone jar
@@ -505,6 +518,7 @@ Oh the year was seventeen seventy eight
 \\Shanghai'd away on a skys'l ship around Cape Horn so far
 \\Goodbye to all the boys and girl, and to Larry's five gallon jar
 
+\newpage
 \section{Leaving of Liverpool}
 \noindent
 \\Fare thee well to Prince's Landing Stage
@@ -537,6 +551,7 @@ Oh the year was seventeen seventy eight
 \\I am bound away for to leave you
 \\and never see you again
 
+\newpage
 \section{Man You don't Meet Everyday}
 \noindent
 \\My name is Jock Stewart, I'm a crafty young boy
@@ -564,7 +579,9 @@ Oh the year was seventeen seventy eight
 \\\textbf{So be easy and free when you're drinking with me
 \\I'm a man you don't meet everyday}
 
+\newpage
 \section{Mauling Live Oak}
+\Large
 \noindent
 \\One day I was traveling I happened to think
 \\My pockets are empty, I can't buy a drink
@@ -602,7 +619,9 @@ Oh the year was seventeen seventy eight
 \\And if ever back home, my head I do poke
 \\To Hell I'll kick Swift and his God damn live oak
 
+\newpage
 \section{Mingulay Boat Song}
+\huge
 \noindent
 \\\textbf{Heel ya ho boys, let her go boys
 \\Bring her head 'round, into the weather
@@ -624,7 +643,9 @@ Oh the year was seventeen seventy eight
 \\They'll return though, when the sun sets
 \\They'll return to Mingulay
 
+\newpage
 \section{The Old Chariot}
+\Large
 \noindent
 \\Oh a drop of Nelson's blood wouldn't do us any harm
 \\A drop of Nelson's blood wouldn't do us any harm
@@ -656,7 +677,9 @@ Oh the year was seventeen seventy eight
 \\If the Devil's in the way, then we'll run it over him
 \\And we'll all hang on behind
 
+\newpage
 \section{Paddy on the Railway}
+\LARGE
 \noindent
 \\In eighteen hundred and forty one, I put my corduroy britches on
 \\for I heard that there was work to be done, a workin' on the railway
@@ -679,7 +702,9 @@ Oh the year was seventeen seventy eight
 \\In eighteen hundred and forty six, I found myself in a hell of a fix
 \\I switched my trade to carryin' bricks, from workin' on the railway
 
+\newpage
 \section{Paddy West}
+\Large
 \noindent
 \\As I went walking down London road, I come to Paddy West's house
 \\He give me a plate of American hash, and calls it Liverpool scouse
@@ -709,12 +734,15 @@ Oh the year was seventeen seventy eight
 \\And if ever they ask, was you ever at sea, you can say ten times 'round the Horn
 \\And be'Jesus that you was a sailorman since the day that you was born
 \\
+\large
 \\\textbf{Put on your dungaree jacket, and walk up looking your best
 \\And tell 'em that you're an old sailorman since the day that you was born
 \\Put on your dungaree jacket, and walk up looking your best
 \\And tell 'em that you're an old sailorman since the day that you was born}
 
+\newpage
 \section{Pretty Nancy of Yarmouth}
+\LARGE
 \noindent
 \\Pretty Nany of Yarmouth she's my joy and delight
 \\I have a love letter I am going to write
@@ -741,46 +769,36 @@ Oh the year was seventeen seventy eight
 \\What can she do for him so far from the shore?
 \\She can wait for her sailor, what can she do more?
 
+\newpage
 \section{Ranzo Ray}
+\LARGE
 \noindent
-\\We’re outward bound for China 
-\\On board of a Yankee liner
+\\We’re outward bound for China On board of a Yankee liner
 \\\textbf{Ranzo, Ranzo, Hurray, Hurray}
-\\When we get home to meet you’s
-\\It’s with kisses we will greet you
+\\When we get home to meet you’s It’s with kisses we will greet you
 \\\textbf{T’me Hilo m’ Ranzo Ray}
 \\
-\\We’re bound for old Gulana?
-\\For a load of ripe bannanas
-\\And down to Buenos Aires
-\\For a load of green canaries
+\\We’re bound for old Gulana? For a load of ripe bannanas
+\\And down to Buenos Aires For a load of green canaries
 \\
-\\Rio De Janeiro 
-\\and I ain’t got much dinero
-\\And the around the horn
-\\And we’ll see you in the morn’
+\\Rio De Janeiro and I ain’t got much dinero
+\\And the around the horn And we’ll see you in the morn’
 \\
-\\Then we’ll sail to Calio
-\\And a dancin’ we will go
-\\Guzzle gin and sisco?
-\\And we’ll sail off to Frisco
+\\Then we’ll sail to Calio And a dancin’ we will go
+\\Guzzle gin and sisco? And we’ll sail off to Frisco
 \\
-\\Then we’ll cross to Yokohana
-\\To unload this grand piana
-\\Then we’ll sail down to Samoa
-\\To hear old Krakatoa
+\\Then we’ll cross to Yokohana To unload this grand piana
+\\Then we’ll sail down to Samoa To hear old Krakatoa
 \\
-\\Then it’s back to Monteray
-\\And we’ll dance away the day
-\\Then we’ll cross to Mango Tango?
-\\And we’ll dance the old Fandango
+\\Then it’s back to Monteray And we’ll dance away the day
+\\Then we’ll cross to Mango Tango? And we’ll dance the old Fandango
 \\
-\\We’ll go back to Santa Barbara
-\\And dance the old al hombra?
-\\Then we’ll get ourselves to Boston
-\\And won’t it be exhaustin’
+\\We’ll go back to Santa Barbara And dance the old al hombra?
+\\Then we’ll get ourselves to Boston And won’t it be exhaustin’
 
+\newpage
 \section{Rocky Road to Dublin}
+\LARGE
 \noindent
 \\In the merry month of June from my home I started
 \\Left the girls in Tuam Nearly broken hearted
@@ -805,6 +823,8 @@ Oh the year was seventeen seventy eight
 \\Asked me was I hired the wages I required
 \\Till I was almost tired of the rocky road to Dublin
 \\
+\newpage
+\noindent
 \\In Dublin next arrived I thought it such a pity
 \\To be so soon deprived a view of that fine city
 \\So then I took a stroll all among the quality
@@ -832,7 +852,9 @@ Oh the year was seventeen seventy eight
 \\With a loud Hurray they joined me in the fray
 \\We quickly cleared the way for the rocky road to Dublin
 
+\newpage
 \section{Rolling Down the River}
+\LARGE
 \noindent
 Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\But now I'm sailing with the OCL, to go \textbf{Rolling down the river
@@ -857,9 +879,9 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\Well we are the bullies that'll see her through
 \\So to hell with the Channel and the TEU, well go
 
-
-
+\newpage
 \section{Row Bullies Row}
+\Large
 \noindent
 \\From Liverpool to ‘Frisco a roving I went
 \\For to stay in the country it was my intent
@@ -893,7 +915,9 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\Me whiskey’s all gone, and me six quid advance
 \\And I think it’s high time for to get up and dance
 
+\newpage
 \section{Santa Anna}
+\LARGE
 \noindent
 \\Santee Anna fought for fame
 \\\textbf{Heave away Santee Anna}
@@ -921,7 +945,9 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\May the Lord put an end to these cruel and old wars
 \\And bring peace, and contentment to all our brave tars
 
+\newpage
 \section{Shove Around the Jug}
+\LARGE
 \noindent
 \\\textbf{Shove around the jug me boys
 \\Chorus around the room
@@ -955,36 +981,33 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 
 \section{The Well Below the Valley}
 \noindent
+\Large
 \\\textbf{At the well below the valley O
 \\Green grows the lily O
 \\Right among the bushes O}
 \\
-\\A gentleman was passing by
-\\He asked for a drink as he got dry
+\\A gentleman was passing by He asked for a drink as he got dry
+\\\textbf{At the well below the valley O
+\\Green grows the lily O
+\\Right among the bushes O}
 \\
-\\My cup is full unto the brim
-\\If I were to stoop I might fall in
+\\My cup is full unto the brim If I were to stoop I might fall in
 \\
-\\If your true love were passing by
-\\You'd give him a drink if he were dry
+\\If your true love were passing by You'd give him a drink if he were dry
 \\
-\\She swore by grass, she swore by corn
-\\that her true love had n'ere been born
+\\She swore by grass, she swore by corn that her true love had n'ere been born
 \\
-\\He said young maid you're swearing wrong
-\\For six young children you have born
+\\He said young maid you're swearing wrong For six young children you have born
 \\
-\\If you be a man of noble fame
-\\You'll tell to me what did happen t' them
+\\If you be a man of noble fame You'll tell to me what did happen t' them
 \\
 \\There's two of them beside the tree
 \\At the well below the valley O
 \\Another two beneath the stone
 \\At the well below the valley O
-\\(And) another two beside the wall
+\\Another two beside the wall
 \\
-\\If you be a man of noble fame
-\\You'll tell me what will happen m'self
+\\If you be a man of noble fame You'll tell me what will happen m'self
 \\
 \\You'll be seven years a ringing the bell
 \\At the well below the valley O
@@ -992,7 +1015,9 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\At the well below the valley O
 \\But the Lord above will save me soul
 
+\newpage
 \section{Topman and the Aftergaurd}
+\LARGE
 \noindent
 \\A topman and an aftergaurd we a walkin' out one day
 \\Says the topman to the aftergaurd “I mean for the pray
@@ -1023,7 +1048,9 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\May we never, ever want for grog boys
 \\Says the aftergaurd \textbf{Amen}
 
+\newpage
 \section{While Cruising 'Round Yarmouth}
+\Large
 \noindent
 \\While cruising 'round Yarmouth one day for a spree
 \\I met a fair damsel, the wind blowing free
@@ -1057,42 +1084,46 @@ Once I was a Rigger and I worked like hell \textbf{Rolling up, rolling down}
 \\Here's luck to the doctor who eased all his pain
 \\He's squared his main yard, he's a cruisin' again
 
+\newpage
 \section{Whiskey in the Jar}
+\Large
 \noindent
-As I was a goin' over the far famed Kerry mountains
-I spied with captain Farrell and his money he was counting
-I first produced my pistol and I then produced my rapier
-Saying "Stand and deliver" for he were a bold deceiver
-\textbf{Mush-a ring durum do durum di
-Wack fall the daddy-o, wack fall the daddy-o
-There's whiskey in the jar}
+\\As I was a goin' over the far famed Kerry mountains
+\\I spied with captain Farrell and his money he was counting
+\\I first produced my pistol and I then produced my rapier
+\\Saying "Stand and deliver" for he were a bold deceiver
+\\\textbf{Mush-a ring durum do durum di
+\\Wack fall the daddy-o, wack fall the daddy-o
+\\There's whiskey in the jar}
+\\
+\\I counted out his money and it made a pretty penny
+\\I put it in me pocket and I took it home to Jenny
+\\She sighed and she swore that she never would deceive me
+\\But the devil's in the women and they never can be easy
+\\
+\\I went up to my chamber, all for to take a slumber
+\\I dreamt of gold and jewels and for sure 't was no wonder
+\\But Jenny stole me charges and she filled them up with water
+\\Then sent for captain Farrell to be ready for the slaughter
+\\
+\\'Twas early in the morning, just before I rose to travel
+\\Up comes a band of footmen and likewise captain Farrell
+\\I first produced me pistol for she stole away me rapier
+\\I couldn't shoot the water, so a prisoner I was taken
+\\
+\\If anyone can aid me 't is my brother in the army
+\\If I can find his station in Cork or in Killarney
+\\And if he'll go with me, we'll go rovin' through Killkenny
+\\And I'm sure he'll treat me better than my own a-sporting Jenny
+\\
+\\Now there's some take delight in the carriages a rolling
+\\and others take delight in the hurling and the bowling
+\\but I take delight in the juice of the barley
+\\and courting pretty fair maids in the morning bright and early
 
-I counted out his money and it made a pretty penny
-I put it in me pocket and I took it home to Jenny
-She sighed and she swore that she never would deceive me
-But the devil's in the women and they never can be easy
-
-I went up to my chamber, all for to take a slumber
-I dreamt of gold and jewels and for sure 't was no wonder
-But Jenny stole me charges and she filled them up with water
-Then sent for captain Farrell to be ready for the slaughter
-
-'Twas early in the morning, just before I rose to travel
-Up comes a band of footmen and likewise captain Farrell
-I first produced me pistol for she stole away me rapier
-I couldn't shoot the water, so a prisoner I was taken
-
-If anyone can aid me 't is my brother in the army
-If I can find his station in Cork or in Killarney
-And if he'll go with me, we'll go rovin' through Killkenny
-And I'm sure he'll treat me better than my own a-sporting Jenny
-
-Now there's some take delight in the carriages a rolling
-and others take delight in the hurling and the bowling
-but I take delight in the juice of the barley
-and courting pretty fair maids in the morning bright and early
-
+\newpage
 \section{Whiskey you're the Devil}
+\LARGE
 \noindent
 \\\textbf{Whiskey, you're the devil, you're leadin' me astray
 \\Over hills and mountains and to Americae
@@ -1117,7 +1148,9 @@ and courting pretty fair maids in the morning bright and early
 \\Me tithery eye the doodelum the da, Me rikes fall tour a laddie oh
 \\There's whiskey in the jar. Hey!
 
+\newpage
 \section{Wild Rover}
+\LARGE
 \noindent
 \\I’ve been a wild rover for many a year
 \\And I’ve spent all my money on whiskey and beer
@@ -1144,7 +1177,9 @@ and courting pretty fair maids in the morning bright and early
 \\And when they caressed me, as oft times before
 \\I never will play the wild rover no more
 
+\newpage
 \section{Wild Goose Nation}
+\huge
 \noindent
 \\I'm a ramblin' son of the Wild Goose Nation
 \\\textbf{Haul away, haul away, haul away, hold high}
@@ -1163,81 +1198,60 @@ and courting pretty fair maids in the morning bright and early
 \\I'm a ramblin' son of the Wild Goose Nation
 \\And I'm off to Amerikee to get an education
 
+\newpage
 \section{The Wreck of the Lady Washington}
+\large
 \noindent
 \\© Mikki Perry
 \\
-\\It was nineteen hundred and ninety one
-\\On October the seventeenth day
-\\When the gallant ship,
-\\The Lady Washington
+\\It was nineteen hundred and ninety one On October the seventeenth day
+\\When the gallant ship, The Lady Washington
 \\From Pasco sailed away (brave souls),
 \\From Pasco sailed away.
 \\
-\\The lookout on the foremast peak
-\\Teddy Keyes so young and fair
-\\He would guide them under
-\\The railroad bridge,
+\\The lookout on the foremast peak Teddy Keyes so young and fair
+\\He would guide them under The railroad bridge,
 \\With only four feet to spare (brave souls),
 \\With only four feet to spare.
 \\
-\\They were one hundred feet
-\\From the railroad bridge
-\\When a green light turned to red
-\\“Reverse engines, come about”,
-\\Ted cried out
+\\They were one hundred feet From the railroad bridge When a green light turned to red
+\\“Reverse engines, come about”, Ted cried out
 \\“The bridge is coming down ahead” (brave souls),
 \\“The bridge is coming down ahead”.
 \\
-\\They were doing four knots
-\\And the current was swift,
-\\That ship just could not stop.
-\\Captain Sandy pulled the tiller,
-\\And he turned her half around,
+\\They were doing four knots And the current was swift, That ship just could not stop. 
+\\Captain Sandy pulled the tiller, And he turned her half around,
 \\As the bridge continued to drop (brave souls),
 \\As the bridge continued to drop.
 \\
-\\As the bridge came down
-\\The lookout aloft
-\\Tried to push that bridge away.
-\\It was a reflex thing
-\\And he knew that it was dumb,
-\\But he tried it anyway (brave soul),
+\\As the bridge came down The lookout aloft Tried to push that bridge away.
+\\It was a reflex thing And he knew that it was dumb,
+\\But he tried it anyway (brave souls),
 \\He tried it anyway.
 \\
-\\And the bridge came down
-\\She was struck broadside,
-\\And the mainmast and gaff did crack,
-\\But she didn't capsize,
-\\And no lives were lost,
-\\And she'll probably never come back
-\\(any more),
+\\And the bridge came down She was struck broadside, And the mainmast and gaff did crack
+\\But she didn't capsize, And no lives were lost,
+\\And she'll probably never come back (any more),
 \\She'll probably never come back.
 \\
-\\The twenty six passengers
-\\Aboard that ship
-\\Were shaken, dazed and pale.
-\\They never reached Umatilla that day,
-\\But they'll never forget that sail
-\\(brave souls),
+\\The twenty six passengers Aboard that ship were shaken, dazed and pale.
+\\They never reached Umatilla that day
+\\But they'll never forget that sail (brave souls)
 \\They'll never forget that sail.
 \\
-\\“To lose our mast”, the captain said,
-\\“It grieves my heart full sore,
-\\But to be struck down
-\\By a railroad bridge,
-\\It grieves me ten times more
-\\(brave souls),
+\\“To lose our mast”, the captain said, “It grieves my heart full sore,
+\\But to be struck down by a railroad bridge,
+\\It grieves me ten times more (brave souls),
 \\It grieves me ten times more.”
 \\
-\\Oh Pasco is a dreadful place
-\\It's a land that's seldom green,
-\\Where the dust storms blow,
-\\And the trains come and go,
+\\Oh Pasco is a dreadful place it's a land that's seldom green,
+\\Where the dust storms blow, and the trains come and go,
 \\But the tall ships are seldom seen (brave souls).
 \\The tall ships are seldom seen.
 
+\newpage
 \section{You are my Sunshine}
+\huge
 \noindent
 \\\textbf{You are my sunshine, my only sunshine
 \\You make me happy when skies are grey
