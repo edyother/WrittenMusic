@@ -1,0 +1,43 @@
+\contentsline {section}{\numberline {1}Aikendrum}{3}{}%
+\contentsline {section}{\numberline {2}The Banks of Newfoundland}{4}{}%
+\contentsline {section}{\numberline {3}Barret's Privateers}{5}{}%
+\contentsline {section}{\numberline {4}The Blacksmith}{6}{}%
+\contentsline {section}{\numberline {5}Bold McShane}{7}{}%
+\contentsline {section}{\numberline {6}Dirty Old Town}{9}{}%
+\contentsline {section}{\numberline {7}Farewell and adieu}{10}{}%
+\contentsline {section}{\numberline {8}Felix the Soldier}{11}{}%
+\contentsline {section}{\numberline {9}Go to Sea Once More}{12}{}%
+\contentsline {section}{\numberline {10}Hangin' Johnny}{14}{}%
+\contentsline {section}{\numberline {11}Haul Away Joe}{15}{}%
+\contentsline {section}{\numberline {12}Henry Joy}{16}{}%
+\contentsline {section}{\numberline {13}High Barbaree}{17}{}%
+\contentsline {section}{\numberline {14}In Praise on Alcohol}{18}{}%
+\contentsline {section}{\numberline {15}Jack Tar}{19}{}%
+\contentsline {section}{\numberline {16}Jolly Roving Tar}{20}{}%
+\contentsline {section}{\numberline {17}Larry Marr}{21}{}%
+\contentsline {section}{\numberline {18}Leaving of Liverpool}{22}{}%
+\contentsline {section}{\numberline {19}Man You don't Meet Everyday}{23}{}%
+\contentsline {section}{\numberline {20}Mauling Live Oak}{25}{}%
+\contentsline {section}{\numberline {21}Mingulay Boat Song}{26}{}%
+\contentsline {section}{\numberline {22}The Old Chariot}{27}{}%
+\contentsline {section}{\numberline {23}Paddy on the Railway}{28}{}%
+\contentsline {section}{\numberline {24}Paddy West}{29}{}%
+\contentsline {section}{\numberline {25}Pretty Nancy of Yarmouth}{30}{}%
+\contentsline {section}{\numberline {26}Ranzo Ray}{31}{}%
+\contentsline {section}{\numberline {27}Rocky Road to Dublin}{32}{}%
+\contentsline {section}{\numberline {28}Rolling Down the River}{34}{}%
+\contentsline {section}{\numberline {29}Roving Peddler}{35}{}%
+\contentsline {section}{\numberline {30}Row Bullies Row}{36}{}%
+\contentsline {section}{\numberline {31}Santa Anna}{37}{}%
+\contentsline {section}{\numberline {32}Seaman's Hymn}{37}{}%
+\contentsline {section}{\numberline {33}Shove Around the Jug}{38}{}%
+\contentsline {section}{\numberline {34}The Well Below the Valley}{39}{}%
+\contentsline {section}{\numberline {35}Topman and the Aftergaurd}{40}{}%
+\contentsline {section}{\numberline {36}While Cruising 'Round Yarmouth}{41}{}%
+\contentsline {section}{\numberline {37}Whiskey in the Jar}{42}{}%
+\contentsline {section}{\numberline {38}Whiskey you're the Devil}{43}{}%
+\contentsline {section}{\numberline {39}Wild Rover}{44}{}%
+\contentsline {section}{\numberline {40}Wild Goose Nation}{45}{}%
+\contentsline {section}{\numberline {41}Wings of a Goney}{46}{}%
+\contentsline {section}{\numberline {42}The Wreck of the Lady Washington}{47}{}%
+\contentsline {section}{\numberline {43}You are my Sunshine}{48}{}%
