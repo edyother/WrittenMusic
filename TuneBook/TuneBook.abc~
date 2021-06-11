@@ -2182,23 +2182,3 @@ F3 FED G2E | F3 FED E2D | F3 FED G2B | AFD DEF E2D :|
 %%staffsep 40
 
 
-X:160
-T:The Yellow Cow
-T:Mother and Child
-S:Sean Gavin
-R:Reel
-M:4/4
-K:D
-A2GF FDDF | EFGF EFGE | A2GE FDDF | EFGE A4 :|
-|: cAA2 (3Bcd eg | fdec dcAd | cAA2 (3Bcd eg | fdec d4 :|
-
-
-X:161
-T:O'Connel's Trip to Parliment
-S:Sean Gavin
-R:Reel
-M:4/4
-K:D
-dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
-|:f3a gfed | (3Bcd ef g2fe | defg a2ge | a2ge edd2 :|
-
