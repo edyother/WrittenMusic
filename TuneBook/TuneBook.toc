@@ -39,7 +39,7 @@
 \contentsline {section}{\textbf {The Golden Gardens / The Salmon's Leap \(slip\ jigs\)}}{39}{}%
 \contentsline {section}{\textbf {John Brennan's / Father Kelly's \(reels\)}}{40}{}%
 \contentsline {section}{\textbf {Bill Sullivan's / Britches Full of Stitches \(polkas\)}}{41}{}%
-\contentsline {section}{\textbf {The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}{42}{}%
+\contentsline {section}{\textbf {Young Tom Ennis / The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}{42}{}%
 \contentsline {section}{\textbf {Tatter Jack Walsh / Jimmy Ward's \(jigs\)}}{43}{}%
 \contentsline {section}{\textbf {The Concertina Reel / Mountain Road / Dunmore Lasses \(reels\)}}{44}{}%
 \contentsline {section}{\textbf {Tatter Jack Walsh / Tobin's Favorite / Mooncoin \(jigs\)}}{45}{}%
@@ -59,4 +59,6 @@
 \contentsline {section}{\textbf {Sonny's Mazurka \(mazurka\)}}{59}{}%
 \contentsline {section}{\textbf {Mickey Dalton's \#3 / The Kerry Polka / Sweeney's Polka \(polkas\)}}{60}{}%
 \contentsline {section}{\textbf {Young Tom Ennis / Jimmy Ward's \(jigs\)}}{61}{}%
-\contentsline {section}{\textbf {Foxhunter's Jig \(slides\)}}{62}{}%
+\contentsline {section}{\textbf {Foxhunter's Jig \(slipjig\)}}{62}{}%
+\contentsline {section}{\textbf {The Yellow Cow / O'Connel's Trip to Parliment \(jigs\)}}{63}{}%
+\contentsline {section}{\textbf {Index}}{64}{}%

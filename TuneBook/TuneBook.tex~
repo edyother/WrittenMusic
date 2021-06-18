@@ -344,11 +344,12 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textbf{Bill Sullivan's / Britches Full of Stitches \(polkas\)}}
 \includepdf[pages=41]{tb.pdf}
 
+\index{Young Tom Ennis}
 \index{Pipe on the Hob \#1}
 \index{Pipe on the Hob \#2}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textbf{The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textbf{Young Tom Ennis / The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}
 
 \includepdf[pages=42]{tb.pdf}
 
@@ -498,17 +499,12 @@ The few tunes in here that I have composed are included under a Creative Commons
 \index{Foxhunter's Jig}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textbf{Foxhunter's Jig \(slip jig\)}}
+\addcontentsline{toc}{section}{\protect\textbf{Foxhunter's Jig \(slipjig\)}}
 \includepdf[pages=62]{tb.pdf}
 
-\index{Yellow Cow, The}
-\index{O'Connel's Trip to Parliment}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textbf{The Yellow Cow / O'Connel's Trip to Parliment \(reels\)}}
-\includepdf[pages=63]{tb.pdf}
-
-\newpage
+\addcontentsline{toc}{section}{\protect\textbf{Index}}
 \printindex
 \end{document}
 
