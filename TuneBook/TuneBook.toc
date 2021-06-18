@@ -60,5 +60,5 @@
 \contentsline {section}{\textbf {Mickey Dalton's \#3 / The Kerry Polka / Sweeney's Polka \(polkas\)}}{60}{}%
 \contentsline {section}{\textbf {Young Tom Ennis / Jimmy Ward's \(jigs\)}}{61}{}%
 \contentsline {section}{\textbf {Foxhunter's Jig \(slipjig\)}}{62}{}%
-\contentsline {section}{\textbf {The Yellow Cow / O'Connel's Trip to Parliment \(jigs\)}}{63}{}%
+\contentsline {section}{\textbf {The Yellow Cow / O'Connel's Trip to Parliment \(reels\)}}{63}{}%
 \contentsline {section}{\textbf {Index}}{64}{}%
