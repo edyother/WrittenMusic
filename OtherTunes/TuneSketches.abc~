@@ -5,7 +5,6 @@
 
 X:1
 T:Foxhunter's Jig
-C:Traditional
 K:D
 M:9/8
 L:1/8
@@ -17,7 +16,6 @@ R:Slip Jig
 
 X:2
 T:Banks of Lough Gowna
-C:Tradtional
 M:6/8
 L:1/8
 R:Jig
@@ -29,9 +27,49 @@ def a3 | afb afe | def geg | fdB B3 :|
 
 X:3
 T:Star Above the Garter
-C:Traditional
 M:6/8
 L:1/8
 R:Jig
 K:Dmix
+d2B BAG | A3 ABA | G2E c2B | BAG ABc |
+d2B BAG | A3 ABA | G2E c2E | D3 D3 :|
+|: d2e f2a | g2e d2B | G2B c2B | BAG ABc |
+d2e f2a | g2e d2B | G2B c2E | D3 D3 :|
 
+X:4
+T:Glean Eoghan
+S:Sean Gavin
+R:reel
+M:4/4
+L:1/8
+K:G
+F2DF ABAG | FDFG A2d2 | FEDF ABAG | GFEF GBAG |
+F2DF ABAG | FDFG A2d2 | FEDF ABAG | GFEF G2Bc ||
+(3dcB BA BGFG | BdBc A2Bc | (3dcB BA BGFG | AdcA G2Bc |
+(3dcB BA BGFG | ABd2 efge | dBcA BGG2 | AdcA G4 ||
+fdd2 fdd2 | fefg abag | fdd2 fdd2 | edef gbag |
+fdd2 fdd2 | fefg abag | fdd2 fdd2 | edef g4 ||
+
+X:5
+T:O'Mahoney's
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:D
+ge | dBAB G2GA | BA (3Bcd g2ga | bage dBGB | A2GB A2ge |
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+
+X:6
+T:Stack of Barley 
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+gf |: efed B2dB | A2AG AcBA | G2GA BA (3Bcd | e2 A2 A2 Bd |
+efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
+dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
+agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
