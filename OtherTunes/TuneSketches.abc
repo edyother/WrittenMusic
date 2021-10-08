@@ -200,3 +200,18 @@ M:6/8
 L:1/8
 K:G
 D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
+GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
+d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
+gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
+
+X:17
+T:My Darling Asleep
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:D
+ag | fdd cAA | BAG A2G | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
+|: FAA BAG | FAA BAG | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
