@@ -1438,7 +1438,7 @@ e>f ec | BA Bc | A>B AF | FE E2 :|
 %%staffsep 35
 
 X:112.5
-T:Young Tom Ennis
+T: Tom Ennis
 L:1/8
 R:Jig
 M:6/8
@@ -2069,8 +2069,8 @@ L:1/8
 R:Jig
 M:6/8
 K:Dmix
-A2B |: cBA (B/c/d)B | AGE GAB | cBA Bed | BAA A2B |
-cBA (B/c/d)B | AGE GAB | cde dBG | BAA A3 :|
+A2B |: cBA BcB | AGE GAB | cBA Bed | BAA A2B |
+cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 |: gfe age | dBG GBd | gfe agf | efg a3 |
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
@@ -2203,7 +2203,7 @@ L:1/8
 K:G
 dc | BGAG EGDE | G2GF GBAG | EAAB cBAG | A2AB A2AB |
 c2ec B2dB | ABAG EGDE | ABAG EGDE | G2GF G2 :|
-Bc |: dBGB dBGA | B2 e2 c3f | gfed BGBd | g2fa g2fe |
+Bc |: dBGB dBGA | B2 e2 e3f | gfed BGBd | g2fa g2fe |
 gagf efed | BGAG EGD2 | GBAB EGDE | G2GF G2 :|
 
 %%newpage
