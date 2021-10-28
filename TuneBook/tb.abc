@@ -1437,18 +1437,6 @@ e>f ec | BA Bc | A>B AF | FE E2 :|
 %%scale .6
 %%staffsep 35
 
-X:112.5
-T: Tom Ennis
-L:1/8
-R:Jig
-M:6/8
-K:Dmix
-A2B |: cBA (B/c/d)B | AGE GAB | cBA Bed | BAA A2B |
-cBA (B/c/d)B | AGE GAB | cde dBG | BAA A3 :|
-|: gfe age | dBG GBd | gfe agf | efg a3 |
-[1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
-[2 gab age | dBG GAB | cBA Bed | BAA A3 |]
-
 X:113
 T:The Pipe On The Hob #1
 R: jig
@@ -1986,8 +1974,8 @@ L:1/8
 R:Jig
 M:6/8
 K:D
-F3 AFF | =cFF AFF | G3 ABc | ded cBA |
-F3 AFF | =cFF AFF | G3 BAB | GED D3 :|
+F3 AFF | dFF AFF | G3 ABc | ded cBA |
+F3 AFF | dFF AFF | G3 BAB | GED D3 :|
 |: d2e f3 | edA AFA | d3e f3 | faf ged |
 d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
@@ -2227,3 +2215,34 @@ a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB |]
 f2df efde | f2df edBd | fa3 bfaf | defd efdB |] 
 [| Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
 Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |] 
+
+%%newpage
+%%scale .75
+%%staffsep 30
+
+X:169
+T:Banshee, The
+R:reel
+M:C|
+K:G
+|: G2GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDDE |
+ G2 GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDD2 :|
+|: eaag efge | dBBA B2 Bd | eB B2 gBfB | eBBA B2 Bd |
+ eaag efge | dBBA B2 Bd | eeed BAGA | BAGE EDD2 :|
+
+X:170
+T:Merry Blacksmith
+M:C|
+R:reel
+K:D
+(3(ABc) | d2dA BAFA | ABdA BAFA | ABde (3(fgf) ed | Beed (3(efg) fe |
+d2dA BAFA | ABdA BAFA | ABde (3fgf ed | BABc d2 :|
+|: fg | a2 ag f2 fe | dedA BAFA | ABde (3(fgf) ed | Beed (3efg fe |
+abag fgfe | dedA BAFA |  ABde (3fgf ed | BABc d2 :|
+
+X:171
+T:Hunter's Purse, The
+M:C|
+R:reel
+K:Edor
+
