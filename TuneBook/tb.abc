@@ -2207,8 +2207,8 @@ L:1/8
 K:D
 dB [| A2FA A2dB | A2FA BEE2 | A2FA A2Bd | egfd efdB |
 A2FA A2dB | A2FA BEE2 | DEFG AFAB | defd efdB |]
-[| AD (3FED A2BD | ADFG  BEE2 | AD (3FED A2Bd | egfd efdB |
-AD (3FED A2BD | ADFG  BEE2 | DEFG AFAB | defd efge |]
+[| AD (3FED A2dB | ADFG  BEE2 | AD (3FED A2Bd | egfd efdB |
+AD (3FED A2dB | ADFG  BEE2 | DEFG AFAB | defd efge |]
 [| a2fd efdf | a2fd edBd | a2fd efdf | gefd edBd |
 a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB |]
 [| f2df efde | f2df edBd | f2df efdf | gefd edBd |
@@ -2244,5 +2244,8 @@ X:171
 T:Hunter's Purse, The
 M:C|
 R:reel
-K:Edor
-
+K:Em
+EAAB AGEF | G2GA GED2 | cBcd eged | ^cdef gedB |
+A2AB AGEF | G2GA GED2 | cBcd eged | cABG A2AG :|
+|: eaab agef | g2ga ged2 | cBcd eged | ^cdef gdeg | 
+a2ab agef | g2ga ged2 | cBcd eged | cABG A2 A2 |:
