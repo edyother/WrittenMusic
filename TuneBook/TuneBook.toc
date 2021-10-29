@@ -64,4 +64,5 @@
 \contentsline {section}{\textrm {Tá an Coileach Ag Fógairt an Lae / My Darling Asleep / Humors of Glendart, The \(jigs\)}}{64}{}%
 \contentsline {section}{\textrm {O'Mahoney's / Stack of Barley / Bantry Bay \(hornpipes\)}}{65}{}%
 \contentsline {section}{\textrm {Bucks of Oranmore, The \(reel\)}}{66}{}%
-\contentsline {section}{\textrm {Index}}{67}{}%
+\contentsline {section}{\textrm {The Banshee / The Merry Blacksmith / The Hunter's Purse \(reels\)}}{67}{}%
+\contentsline {section}{\textrm {Index}}{68}{}%
