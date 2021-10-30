@@ -543,10 +543,6 @@ The few tunes in here that I have composed are included under a Creative Commons
 \includepdf[pages=67]{tb.pdf}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Bucks of Oranmore, The \(reel\)}}
-\includepdf[pages=66]{tb.pdf}
-
-\newpage
 \addcontentsline{toc}{section}{\protect\textrm{Index}}
 \printindex
 \end{document}

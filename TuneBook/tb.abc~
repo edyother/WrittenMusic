@@ -795,15 +795,14 @@ d2dA BAFA | ABdA BAFA | ABde (3fgf ed | BABc d2 :|
 abag fgfe | dedA BAFA |  ABde (3fgf ed | BABc d2 :|
 
 X:64
-T:St Anne's Reel
+T:Hunter's Purse, The
 M:C|
 R:reel
-K:D
-f3g fedB | A2 FA DAFA | B2 GB EBGB | A2 FA DAFA |
-fffg fedB | A2 FA DAFA | BBed cABc | eddc d2e2 :|
-|: f2fg fdef | aggf g2gf | edcB ABce | baag a2ag |
-f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
-
+K:Em
+EAAB AGEF | G2GA GED2 | cBcd eged | ^cdef gedB |
+A2AB AGEF | G2GA GED2 | cBcd eged | cABG A2AG :|
+|: eaab agef | g2ga ged2 | cBcd eged | ^cdef gdeg | 
+a2ab agef | g2ga ged2 | cBcd eged | cABG A2 A2 |:
 %%newpage
 
 X:65
@@ -1437,18 +1436,6 @@ e>f ec | BA Bc | A>B AF | FE E2 :|
 %%scale .6
 %%staffsep 35
 
-X:112.5
-T: Tom Ennis
-L:1/8
-R:Jig
-M:6/8
-K:Dmix
-A2B |: cBA (B/c/d)B | AGE GAB | cBA Bed | BAA A2B |
-cBA (B/c/d)B | AGE GAB | cde dBG | BAA A3 :|
-|: gfe age | dBG GBd | gfe agf | efg a3 |
-[1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
-[2 gab age | dBG GAB | cBA Bed | BAA A3 |]
-
 X:113
 T:The Pipe On The Hob #1
 R: jig
@@ -1986,8 +1973,8 @@ L:1/8
 R:Jig
 M:6/8
 K:D
-F3 AFF | =cFF AFF | G3 ABc | ded cBA |
-F3 AFF | =cFF AFF | G3 BAB | GED D3 :|
+F3 AFF | dFF AFF | G3 ABc | ded cBA |
+F3 AFF | dFF AFF | G3 BAB | GED D3 :|
 |: d2e f3 | edA AFA | d3e f3 | faf ged |
 d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
@@ -2219,11 +2206,12 @@ L:1/8
 K:D
 dB [| A2FA A2dB | A2FA BEE2 | A2FA A2Bd | egfd efdB |
 A2FA A2dB | A2FA BEE2 | DEFG AFAB | defd efdB |]
-[| AD (3FED A2BD | ADFG  BEE2 | AD (3FED A2Bd | egfd efdB |
-AD (3FED A2BD | ADFG  BEE2 | DEFG AFAB | defd efge |]
+[| AD (3FED A2dB | ADFG  BEE2 | AD (3FED A2Bd | egfd efdB |
+AD (3FED A2dB | ADFG  BEE2 | DEFG AFAB | defd efge |]
 [| a2fd efdf | a2fd edBd | a2fd efdf | gefd edBd |
 a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB |]
 [| f2df efde | f2df edBd | f2df efdf | gefd edBd |
 f2df efde | f2df edBd | fa3 bfaf | defd efdB |] 
 [| Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
 Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |] 
+
