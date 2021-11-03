@@ -1,0 +1,257 @@
+%%titleleft
+%%titlefont Times-Roman 20
+%%scale .7
+%%staffsep 40
+
+X:1
+T:Foxhunter's Jig
+K:D
+M:9/8
+L:1/8
+R:Slip Jig
+|: F3 FED G2E | F3 FED E2D | F3 FED G2B | AFD DEF E2D :|
+|: B2B BAG FGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D:|
+|: f3 fed g2e | f3 fed e2d | f3 fed g2b | afd def e2d :|
+|: gfe d=cB AGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D :|
+
+X:2
+T:Banks of Lough Gowna
+M:6/8
+L:1/8
+R:Jig
+K:D
+|: B3 BAF | FEF DFA | B3 BAF | d2e fed |
+B3 BAF | FEF DFA | def geg | fdB B2A :|
+|: def a3 | afb afe | def afe | fdB BAB |
+def a3 | afb afe | def geg | fdB B3 :|
+
+X:3
+T:Star Above the Garter
+M:6/8
+L:1/8
+R:Jig
+K:Dmix
+d2B BAG | A3 ABA | G2E c2B | BAG ABc |
+d2B BAG | A3 ABA | G2E c2E | D3 D3 :|
+|: d2e f2a | g2e d2B | G2B c2B | BAG ABc |
+d2e f2a | g2e d2B | G2B c2E | D3 D3 :|
+
+X:4
+T:Glean Eoghan
+S:Sean Gavin
+R:reel
+M:4/4
+L:1/8
+K:G
+F2DF ABAG | FDFG A2d2 | FEDF ABAG | GFEF GBAG |
+F2DF ABAG | FDFG A2d2 | FEDF ABAG | GFEF G2Bc ||
+(3dcB BA BGFG | BdBc A2Bc | (3dcB BA BGFG | AdcA G2Bc |
+(3dcB BA BGFG | ABd2 efge | dBcA BGG2 | AdcA G4 ||
+fdd2 fdd2 | fefg abag | fdd2 fdd2 | edef gbag |
+fdd2 fdd2 | fefg abag | fdd2 fdd2 | edef g4 ||
+
+X:5
+T:O'Mahoney's
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:D
+ge | dBAB G2GA | BA (3Bcd g2ga | bage dBGB | A2GB A2ge |
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+
+X:6
+T:Stack of Barley 
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+gf |: efed B2dB | A2AG AcBA | G2GA BA (3Bcd | e2 A2 A2 Bd |
+efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
+dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
+agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
+
+X:7
+T:Devaney's Goat
+S:Sean Gavin
+R:reel
+M:4/4
+L:1/8
+K:D
+FE | DFAB AFAB | defe dBAF | DFAF BFAF | E2 DF EGFE |
+A3B AFAB | defe dBAF | efdB AF3 | AFEG FGG2 :|
+|: faab afdf | a2fd edBd | ABde fdd2 | edfd fdBd |
+ABde fdd2 | edfd edBd | ABdB Af3 | AFEG FGG2 :|
+
+
+X:8
+T:Dingle Regatta, The
+S:P.V. O'Donnel
+L:1/8
+R:Slide
+M:6/8
+K:D
+dcd e2d | BAB d2B | A3 AGA | B2A GAB |
+dcd e2d | BAB d2B | A3 B2A | G3 G3 :|
+|: d3 def | g3 gfg | a3 aga | b2a gfe |
+d3 def | g3 g2b | a2g f2e | def g3 :|
+|: g3 d3 | BdB G3 | ABA DEF | G2A Bde |
+g3 d3 | BdB G3 | ABA DEF | G3 G3 :|
+
+
+X:9
+T:Greensleeves
+C:Traditional
+L:1/8
+M:3/4
+K:Ador
+A2 |: c4 d2 | e3f e2 | d4 B2 | G3 AB |
+[1 c4 A2 | A3^G A2 | B4 G2 | E4 A2 :|]
+[2 c3B A2 | ^G3F G2 | A6 | A6 |]
+|: g6 | g3f e2 | d4 B2 | G3A B2 |
+[1 c4 A2 | A3^G A2 | B4 G2 | E6 :|]
+[2 c3B A2 | ^G3F G2 | A6 | A6 |]
+
+
+X:10
+T:O'Connel's Trip to Parliment
+S:Sean Gavin
+R:Reel
+M:4/4
+L:1/8
+K:D
+dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
+|:f3a gfed | (3Bcd ef g2fe | defg a2ge | a2ge edd2 :|
+
+
+X:11
+T:Rakes of Kildare
+S:Sean Gavin
+R:Jig
+M:6/8
+K:Dmix
+DGG GFG | ABc d2e | fef ded | cAG FEF |
+|[1 DGG GFG | ABc d2e | fed cAF | G3 GFE :|
+|[2 G2A BAG | ABc d2e | fed cAF | G3 G2d ]|
+|: gdg gdg | gdg a2g | fef ded | cAG FEF |
+|[1 gdg gdg | gdg a2g | fed cAF | G3 G2d :|
+|[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
+ 
+
+X:12
+T:The Yellow Cow
+T:Mother and Child
+S:Sean Gavin
+R:Reel
+M:4/4
+K:D
+A2GF FDDF | EFGF EFGE | A2GE FDDF | EFGE A4 :|
+|: cAA2 (3Bcd eg | fdec dcAd | cAA2 (3Bcd eg | fdec d4 :|
+
+
+X:13
+T:Jaunting Jig, The
+R:jig
+M:6/8
+K:D
+C:Travis Crofton
+L:1/8
+D2D AGF | EFG GFE | D2D AGF | EFG F3 |
+D2D AGF | EFG GFE | BAG FGF |1 E2E GFE :|2 A6 |]
+A2A AFA | d2c B2A | F2F FAF | E2E FED |
+A2A AFA | d2c B2c | d3 dcB | A2A BAF ||
+A2A AFA | d2c B2A | F2F FAF | E2E FEF |
+A2A AFA | B2A F2A | E2E EFE | D6 |
+
+
+X:14
+T:Slide from Sarah
+R:Slide
+M:6/8
+K:D
+L:1/8
+S:Played by Sarah Greenwell the first time she came to the West Lafayette session
+d2f g2e | fed B2A | d2f a2f | e3 ede | 
+f2a g2e | fed B2A | def edc |1 d3 d3 :|2 d3 dcd |
+|: efe ece | a3 a3 | efe edc | d2c Bcd | 
+efe ece | a3 a3 | efe dcB |1  A3 A3 :|2 ABA GFE | D2
+
+X:15
+T:Humors of Glendart, The
+R:jig
+M:6/8
+K:D
+L:1/8
+S:Sean Gavin
+BAF AFD | F3 DFA | BAF AFD | FED E3 |
+BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
+|: def d2B | AFA AFA | def d2f | ede fdB |
+def d2B | AFA ABc | dcB AFE | FEE E3 :|
+
+
+X:16
+T:Tá an Coileach Ag Fógairt an Lae
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:G
+D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
+GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
+d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
+gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
+
+X:17
+T:My Darling Asleep
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:D
+ag | fdd cAA | BAG A2G | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
+|: FAA BAG | FAA BAG | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
+
+X:18
+T:Bantry Bay
+S:Seán Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+dc | BGAG EGDE | G2GF GBAG | EAAB cBAG | A2AB A2AB |
+c2ec B2dB | ABAG EGDE | ABAG EGDE | G2GF G2 :|
+Bc |: dBGB dBGA | B2 e2 c3f | gfed BGBd | g2fa g2fe |
+gagf efed | BGAG EGD2 | GBAB EGDE | G2GF G2 :|
+
+X:19
+T:Buck of Oranmore, The
+S:Seán Gavin
+R:reel
+M:4/4
+L:1/8
+K:D
+dB || A2FA A2dB | A2FA BEE2 | A2FA A2Bd | egfd efdB |
+A2FA A2dB | A2FA BEE2 | DEFG AFAB | defd efdB ||
+|| AD (3FED A2BD | AD (3FGA BEE2 | AD (3FED A2Bd | egfd efdB |
+AD (3FED A2BD | AD (3FGA BEE2 | DEFG AFAB | defd efge ||
+|| a2fd efdf | a2fd edBd | a2fd efdf | gefd edBd |
+a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB ||
+|| f2df efde | f2df edBd | f2df efde | gefd edBd |
+f2df efde | f2df edBd | fa3 bfaf | defd efdB || 
+|| Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
+Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB || 
+
+X:20
+T:Johnny Will You Marry me
+T:Some Say the Devil is Dead
+S:Sean Gavin
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+GE | D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
