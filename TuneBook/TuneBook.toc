@@ -58,7 +58,7 @@
 \contentsline {section}{\textrm {Donnybrook Fair / Rambling Pitchfork / Kilashandra Lasses \(jigs\)}}{58}{}%
 \contentsline {section}{\textrm {Sonny's Mazurka \(mazurka\)}}{59}{}%
 \contentsline {section}{\textrm {Mickey Dalton's \#3 / The Kerry Polka / Sweeney's Polka \(polkas\)}}{60}{}%
-\contentsline {section}{\textrm {Young Tom Ennis / Jimmy Ward's \(jigs\)}}{61}{}%
+\contentsline {section}{\textrm {Young Tom Ennis / The Rakes of Kildare / Jimmy Ward's \(jigs\)}}{61}{}%
 \contentsline {section}{\textrm {Foxhunter's Jig \(slipjig\)}}{62}{}%
 \contentsline {section}{\textrm {The Yellow Cow / O'Connel's Trip to Parliment \(reels\)}}{63}{}%
 \contentsline {section}{\textrm {Tá an Coileach Ag Fógairt an Lae / My Darling Asleep / Humors of Glendart, The \(jigs\)}}{64}{}%

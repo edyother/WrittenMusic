@@ -1781,6 +1781,7 @@ GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
 
 X:138
 T:Reel de Montebello
+C:Richard Forest
 R: reel
 M: 4/4
 L: 1/8
@@ -2047,7 +2048,7 @@ G/A/c a>f | ec BA | f/a/g/f/ ec | BA A2 :|
 
 
 %%newpage
-%%scale .7
+%%scale .65
 %%staffsep 40
 
 X:157
@@ -2062,6 +2063,19 @@ cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
 
+X:157.5
+T:Rakes of Kildare
+S:Sean Gavin
+R:Jig
+M:6/8
+K:Dmix
+DGG GFG | ABc d2e | fef ded | cAG FEF |
+|[1 DGG GFG | ABc d2e | fed cAF | G3 GFE :|
+|[2 G2A BAG | ABc d2e | fed cAF | G3 G2d ]|
+|: gdg gdg | gdg a2g | fef ded | cAG FEF |
+|[1 gdg gdg | gdg a2g | fed cAF | G3 G2d :|
+|[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
+ 
 X:158
 T:Jimmy Ward's
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith 2/2/16

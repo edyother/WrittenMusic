@@ -347,12 +347,11 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textrm{Bill Sullivan's / Britches Full of Stitches \(polkas\)}}
 \includepdf[pages=41]{tb.pdf}
 
-\index{Young Tom Ennis}
 \index{Pipe on the Hob \#1}
 \index{Pipe on the Hob \#2}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Young Tom Ennis / The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}
 
 \includepdf[pages=42]{tb.pdf}
 
