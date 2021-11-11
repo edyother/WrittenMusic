@@ -1,4 +1,3 @@
-
 %%footer $P
 %%titleleft
 %%leftmargin 1cm
@@ -23,6 +22,120 @@ FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
 |: ~D3 ~D3 c3 | c2B c2A GED | ~D3 ~D3 d2^c | dfe dcA GED :|
 |: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
 
+X:002
+T:Ash Plant, The
+M:C|
+R:reel
+K:Edor
+BE E2 BAGA | BE E2 GFGA | B2 BA (3(Bcd) ef | gedB AGFA :|
+B2 eB fBeB | B2 fe BAGA | B2 eB f2fe | efed BAGA |
+B2 eB fBeB | B2 fe BAGA | (3(Bcd) ef g2ga | gedB AGFA |]
+
+X:003
+T:Ballydesmond Polka #1
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+AB | c2 B2 | AB/A/ GA | Bd ed | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 :|
+d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 A2 :|
+
+X:004
+T:Ballydesmond Polka #2
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+E>A AB | cd e2 | G>G GA | GE ED |
+EA AB | cd ef | g/f/e dB | A2 A2 :|
+|:a>g ab | ag ef | g>g ga | ge ed |
+ea ab | ag ef | g/f/e dB | A2 A2 :|
+
+X:005
+T:Banish Misfortune
+M:6/8
+R:jig
+K:Dmix
+fed cAG | A2d cAG | F3 DED | F3 GFG |
+A3 cAG | AGA cde | fed cAG | Ad^c d2e :|
+|: f2d d^cd | f2g agf | e2c cBc | e2f gfe |
+f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
+|: f2g e2f | d2e cdc | A3 GAG | FGF AFD |
+c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
+
+X:006
+T:The Bank Of Turf
+R:jig
+M:6/8
+L:1/8
+K:D
+ABA DFA | BAF DFA | dcd ede | f3 def |
+g3 gab | afd B3 |[1 efe e2d | cBA AdB :|[2 ABA efe | d3 dcd |]
+|: eAA efg | fdd fga | gfe fed | edB ABd |
+eAA efg | fdd fga | gfe dcB |[1 A3 Bcd :|[2 A3 AdB |]
+
+X:007
+T:Banshee, The
+R:reel
+M:C|
+K:G
+|: G2GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDDE |
+ G2 GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDD2 :|
+|: eaag efge | dBBA B2 Bd | eB B2 gBfB | eBBA B2 Bd |
+ eaag efge | dBBA B2 Bd | eeed BAGA | BAGE EDD2 :|
+
+X:008
+T:Bantry Bay
+S:Seán Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+dc | BGAG EGDE | G2GF GBAG | EAAB cBAG | A2AB A2AB |
+c2ec B2dB | ABAG EGDE | ABAG EGDE | G2GF G2 :|
+Bc |: dBGB dBGA | B2 e2 e3f | gfed BGBd | g2fa g2fe |
+gagf efed | BGAG EGD2 | GBAB EGDE | G2GF G2 :|
+
+X:009
+T:Behind the Haystack
+M:6/8
+R:jig
+K:D
+d2e fdB | d2e fdB | AFE (E/F/E)E | AFE (E/F/E)E |
+d2e fdB | d2e fdB | AED (D/E/D)D | AED (D/E/D)D :|
+|: B2B BAF | ABc dcB | AFE (E/F/E)E | AFE (E/F/E)D |
+B2B BAF | ABc dcB | AED (D/E/D)D | AED (D/E/D)D :|
+g3 f3 | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
+g3 f3 | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
+
+X:010
+T:The Belfast Hornpipe
+R: Hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:ag | fadf AdAF | DFAd f2ef | gbeg BeAF | GABG E2ag |
+fadf AdAF | DFAd f2ef | gfed cABc | d2f2 d2 :|
+|: (3DEF | GFGA Bcde | fgfe dcdB | A2f2 fef2 | G2e2 ede2 |
+GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
+|: ag | (3fgf (3efe (3ded (3cdc | (3BcB (3ABA G2 ba | (3gag (3fgf (3efe (3ded | (3cdc (3BcB A2 ag |
+(3fgf (3efe (3ded (3cdc | (3BcB (3ABA (3GAG (3FGF | Eged cABc | d2 f2 d2 :|
+
+X:011
+T:Bill Malley's
+R: Barndance
+M: 4/4
+L: 1/8
+K: G
+D2 | G3 A B2 GB | dedB G2 d2 | B2 G2 d2 G2 | B2 A2 A2 d2 |
+G3 A B2 GB | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
+|: g2 | e2 d2 g3 e | dedB G2 g2 | e2 d2 g2 d2 | B2 A2 A2 g2 |
+e2 d2 g3 e | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
+
+
+##
 
 X:1
 T:Boys Of Ballycastle, The
@@ -122,18 +235,6 @@ DEF G3 | AGE c2A | dcA d2e | fed cAG |
 DEF G3 | AGE cde  dc A GEA | DED D3 :|
 |: dcA d2e | fed efg | dcA c2d | egd ecA |
 dcA d2e | fed efg | dcA GEA | DED D3 :|
-
-X:9
-T:Banish Misfortune
-M:6/8
-R:jig
-K:Dmix
-fed cAG | A2d cAG | F3 DED | F3 GFG |
-A3 cAG | AGA cde | fed cAG | Ad^c d2e :|
-|: f2d d^cd | f2g agf | e2c cBc | e2f gfe |
-f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
-|: f2g e2f | d2e cdc | A3 GAG | FGF AFD |
-c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 
 %%newpage
 %%scale .60
@@ -518,18 +619,6 @@ dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
 [1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
 dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
 
-X:41
-T:Behind the Haystack
-M:6/8
-R:jig
-K:D
-d2e fdB | d2e fdB | AFE (E/F/E)E | AFE (E/F/E)E |
-d2e fdB | d2e fdB | AED (D/E/D)D | AED (D/E/D)D :|
-|: B2B BAF | ABc dcB | AFE (E/F/E)E | AFE (E/F/E)D |
-B2B BAF | ABc dcB | AED (D/E/D)D | AED (D/E/D)D :|
-g3 f3 | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
-g3 f3 | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
-
 X:42
 T:Merrily Kissed the Quaker
 M:6/8
@@ -659,14 +748,7 @@ cdBc ABcd | egfd edBd | gB B2 efed | cdBc A2 :|
 [1 aA A2 aAbA | aA A2 agef | gage dfed | c2B2 A2 :|
 [2 aA A2 gA A2 | fA A2 e2ef | gage dfed | c2B2 A2 |]
 
-X:52
-T:Ash Plant, The
-M:C|
-R:reel
-K:Edor
-BE E2 BAGA | BE E2 GFGA | B2 BA (3(Bcd) ef | gedB AGFA :|
-B2 eB fBeB | B2 fe BAGA | B2 eB f2fe | efed BAGA |
-B2 eB fBeB | B2 fe BAGA | (3(Bcd) ef g2ga | gedB AGFA |]
+
 
 X:53
 T:Return to Milltown
@@ -788,16 +870,6 @@ A,C | D2 DC DE | DC A,C DF | ({F}G2) GA GD | F2 G2 A2 |
 %%newpage
 %%scale .75
 %%staffsep 30
-
-X:62
-T:Banshee, The
-R:reel
-M:C|
-K:G
-|: G2GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDDE |
- G2 GD EDB,D | GFGB d2 Bd | eeed BAGA | BAGE EDD2 :|
-|: eaag efge | dBBA B2 Bd | eB B2 gBfB | eBBA B2 Bd |
- eaag efge | dBBA B2 Bd | eeed BAGA | BAGE EDD2 :|
 
 X:63
 T:Merry Blacksmith
@@ -1245,28 +1317,6 @@ f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
 %%scale .75
 %%staffsep 35
 
-X:98
-T:Ballydesmond Polka #2
-R:Reel
-M:2/4
-L:1/8
-K:Ador
-E>A AB | cd e2 | G>G GA | GE ED |
-EA AB | cd ef | g/f/e dB | A2 A2 :|
-|:a>g ab | ag ef | g>g ga | ge ed |
-ea ab | ag ef | g/f/e dB | A2 A2 :|
-
-X:99
-T:Ballydesmond Polka #1
-R:Reel
-M:2/4
-L:1/8
-K:Ador
-AB | c2 B2 | AB/A/ GA | Bd ed | g2 ed |
-ea ge | dB GA/B/ | ce dB | A2 :|
-d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
-ea ge | dB GA/B/ | ce dB | A2 A2 :|
-
 X:100
 T:Julia Clifford's
 R: polka
@@ -1605,17 +1655,6 @@ dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 %%scale .7
 %%staffsep 35
 
-X:126
-T:The Bank Of Turf
-R:jig
-M:6/8
-L:1/8
-K:D
-ABA DFA | BAF DFA | dcd ede | f3 def |
-g3 gab | afd B3 |[1 efe e2d | cBA AdB :|[2 ABA efe | d3 dcd |]
-|: eAA efg | fdd fga | gfe fed | edB ABd |
-eAA efg | fdd fga | gfe dcB |[1 A3 Bcd :|[2 A3 AdB |]
-
 X:127
 T:Saddle The Pony
 R:jig
@@ -1763,19 +1802,6 @@ de | ((3fgf) fg afge | fded dcAG | ((3FED) FD FGAB | ((3cBA) dc A2 de |
 DE | =F2FE FGAB | ((3cBA) dB cAGB | Adde fded | ((3cBA) dc A2 de |
 ((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
 
-X:137
-T:The Belfast Hornpipe
-R: Hornpipe
-M: 4/4
-L: 1/8
-K: Dmaj
-|:ag | fadf AdAF | DFAd f2ef | gbeg BeAF | GABG E2ag |
-fadf AdAF | DFAd f2ef | gfed cABc | d2f2 d2 :|
-|: (3DEF | GFGA Bcde | fgfe dcdB | A2f2 fef2 | G2e2 ede2 |
-GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
-|: ag | (3fgf (3efe (3ded (3cdc | (3BcB (3ABA G2 ba | (3gag (3fgf (3efe (3ded | (3cdc (3BcB A2 ag |
-(3fgf (3efe (3ded (3cdc | (3BcB (3ABA (3GAG (3FGF | Eged cABc | d2 f2 d2 :|
-
 
 %%newpage
 %%scale .7
@@ -1851,17 +1877,6 @@ K: G
 BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G2 :|[2 A2 G2 G4|]
 |: BcdB G2 G2 | GABG E2 D2 | DEGA BddB | B2 A2 A4 |
 BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G4 :|[2 A2 G2 G2 |]
-
-X:142
-T:Bill Malley's
-R: Barndance
-M: 4/4
-L: 1/8
-K: G
-D2 | G3 A B2 GB | dedB G2 d2 | B2 G2 d2 G2 | B2 A2 A2 d2 |
-G3 A B2 GB | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
-|: g2 | e2 d2 g3 e | dedB G2 g2 | e2 d2 g2 d2 | B2 A2 A2 g2 |
-e2 d2 g3 e | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
 
 X:143
 T:Kilnamona
@@ -2196,18 +2211,6 @@ gf |: efed B2dB | A2AG AcBA | G2GA BA (3Bcd | e2 A2 A2 Bd |
 efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
 dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
 agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
-
-X:167
-T:Bantry Bay
-S:Seán Gavin
-R:hornpipe
-M:4/4
-L:1/8
-K:G
-dc | BGAG EGDE | G2GF GBAG | EAAB cBAG | A2AB A2AB |
-c2ec B2dB | ABAG EGDE | ABAG EGDE | G2GF G2 :|
-Bc |: dBGB dBGA | B2 e2 e3f | gfed BGBd | g2fa g2fe |
-gagf efed | BGAG EGD2 | GBAB EGDE | G2GF G2 :|
 
 %%newpage
 %%scale .7

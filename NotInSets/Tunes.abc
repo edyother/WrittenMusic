@@ -134,6 +134,29 @@ G3 A B2 GB | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
 |: g2 | e2 d2 g3 e | dedB G2 g2 | e2 d2 g2 d2 | B2 A2 A2 g2 |
 e2 d2 g3 e | dedB G2 (3(ABc) | B2 AG E2 DE | G3 A G2 :|
 
+X:012
+T:Bill Sullivan's
+L:1/8
+M:2/4
+R:Polka
+K:D
+d2 d>B | AF d2 | FA d>B | AF ED |
+d2 d>B | AF d2 | FA E>F | ED D2 :|
+|: FA AF | GB B2 | FA AD/E/ | FE ED |
+FA AF | GB B2 | FA E>F | ED D2 :|
+
+X:013
+T:Bird in the Bush
+S:Learned from Joe, and Tim at Tigin session 1/23/16
+R:Reel
+M:4/4
+L:1/8
+K:G
+d2eB dBB2 | dBAB G2GE | DEGA BGG2 | Bdef g2fe |
+d2eB dBB2 | dBAB G2GE | DEGA B2eB | dBAc BGG2 :|
+|: Bdef g2fg | agef gfed | Bdef gfgb | agab g2ga |
+bgg2 agef | g2fe dBAG | DEGA B2eB | dBAc BGG2 :|
+
 
 ##
 
@@ -1215,18 +1238,6 @@ B2 dB BAFA | B2 dB BAFB | A3 B defd |[1 edef d3 A :|[2 edef d3 f |]
 |: e2 ef d2 df | edef dB A2 | e2 ef dcde | fedB ADFA |
 e2 ef dB B2 | gB B2 defg | afbf afeg | fedB ADFA :|
 
-X:90
-T:Bird in the Bush
-S:Learned from Joe, and Tim at Tigin session 1/23/16
-R:Reel
-M:4/4
-L:1/8
-K:G
-d2eB dBB2 | dBAB G2GE | DEGA BGG2 | Bdef g2fe |
-d2eB dBB2 | dBAB G2GE | DEGA B2eB | dBAc BGG2 :|
-|: Bdef g2fg | agef gfed | Bdef gfgb | agab g2ga |
-bgg2 agef | g2fe dBAG | DEGA B2eB | dBAc BGG2 :|
-
 %%newpage
 %%scale .75
 %%staffsep 35
@@ -1461,17 +1472,6 @@ d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
 %%newpage
 %%scale .7
 %%staffsep 35
-
-X:111
-T:Bill Sullivan's
-L:1/8
-M:2/4
-R:Polka
-K:D
-d2 d>B | AF d2 | FA d>B | AF ED |
-d2 d>B | AF d2 | FA E>F | ED D2 :|
-|: FA AF | GB B2 | FA AD/E/ | FE ED |
-FA AF | GB B2 | FA E>F | ED D2 :|
 
 X:112
 T:Britches Full of Stitches
