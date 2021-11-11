@@ -371,6 +371,19 @@ FAA dAA | BAB def | gfe dfe |[1 dBA B2A :|[2 dBA B2e |]
 |: fbb faa | fed deg | fbb faa | fed e3 |
 fbb faa | fed def | gfe dfe |[1 dBA B2e :|[2 dBA B2A |]
 
+X:032
+T:Cunla
+M:6/8
+R:jig
+K:D
+AFD DFA | AFd BAG | A2A A2G | F2F GED |
+AFD DFA | AFd BAG | A2A GFA |[1 D2D D2A :|[2 D2D D3 |]
+|: d2e f2d | efe cAG | A2A A2G | FFF GED |
+d2e f2d | efe cAG | A2A GFA | DDD D3 :|
+K:Dmix
+|:DDD c3 | BcB AFD | Add ded | ded cAF |
+DDD c3 | BcB AFD | AAA GFA | DDD D3 :|
+
 
 ##
 
@@ -703,19 +716,6 @@ def edB | AFD AFD | DFA AFA | Bed e3 |
 def edB | AFD AFD | DFA AFA | Bdc d3 :|
 |: fef afd | gfg bag | fef afd | fgg efg |
 fef afd | gfg bag | fga efg | fdc d3 :|
-
-X:33
-T:Cunla
-M:6/8
-R:jig
-K:D
-AFD DFA | AFd BAG | A2A A2G | F2F GED |
-AFD DFA | AFd BAG | A2A GFA |[1 D2D D2A :|[2 D2D D3 |]
-|: d2e f2d | efe cAG | A2A A2G | FFF GED |
-d2e f2d | efe cAG | A2A GFA | DDD D3 :|
-K:Dmix
-|:DDD c3 | BcB AFD | Add ded | ded cAF |
-DDD c3 | BcB AFD | AAA GFA | DDD D3 :|
 
 %%newpage
 %%scale .75
@@ -1301,10 +1301,6 @@ efed BdBA | GABG AGED | G3B dBeB | dBAc BGG2 ||
 faaf gfed | (3B^cd ef g2gf | eBB2 gfed | BAGA B^cde |
 faaf gfed | (3B^cd ef g2ga | bgaf gfed | (3efg fa g2gf ||
 
-%%newpage
-%%scale .75
-%%staffsep 35
-
 X:88
 T:Miss Monaghan's
 S:Learned from Joe, and Tim at Tigin session 1/23/16
@@ -1327,10 +1323,6 @@ B2 dB BAFA | B2 dB BAFB | A3 B defd |[1 edef d3 A :|[2 edef d3 f |]
 |: e2 ef d2 df | edef dB A2 | e2 ef dcde | fedB ADFA |
 e2 ef dB B2 | gB B2 defg | afbf afeg | fedB ADFA :|
 
-%%newpage
-%%scale .75
-%%staffsep 35
-
 X:91
 T:Down the Hill
 S:From the album "Traditional Music of Ireland", by James Kelly, Paddy O'Brien, Daithi Sproule
@@ -1351,10 +1343,6 @@ F3 A cA | F3 G AB | c2 B2 A2 | BA GA BG |
 cB AB cA | d2 g2 ^f2 | g3 a ba | g2 f2 d2 |
 c2 A2 d2 :| G3 A G2 | G3 A GF :|]
 
-%%newpage
-%%scale .72
-%%staffsep 35
-
 X:94
 T:Kid On The Mountain
 R: slip jig
@@ -1366,10 +1354,6 @@ EDE FEF G2 F | E3 BcA BGD | EDE FEF G2 A | BAG FAG FED :|
 |: gfg eBe e2 f | g3 efg afd | gfg eBe g2 a | bag fag fed :|
 |: eBB e2f g3 | eBB efg afd | eBB e2f g2a | bag fag fed :|
 |: edB dBA G2D | GAB dge dBA | edB dBA G2A | BAG FAG FED :|
-
-%%newpage
-%%scale .75
-%%staffsep 35
 
 X:95
 T:Fisher's Hornpipe
@@ -1403,10 +1387,6 @@ fffg fedB | A2 FA DAFA | BBed cABc | eddc d2e2 :|
 |: f2fg fdef | aggf g2gf | edcB ABce | baag a2ag |
 f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
 
-%%newpage
-%%scale .75
-%%staffsep 35
-
 X:100
 T:Julia Clifford's
 R: polka
@@ -1417,10 +1397,6 @@ E/F/G AB | =cA AG | Ad dc | d2 d>e |
 fd ed | cA Ad | c/B/A GE | D2 D2 :|
 |: {e}fd ed | cA A2 | fg/f/ ec | d2 d2 |
 {e}fd ed | cA Ad | c/B/A GE | D2 D2 :|
-
-%%newpage
-%%scale .75
-%%staffsep 35
 
 X:101
 T:Drops of Brandy
@@ -1451,10 +1427,6 @@ K: Edor
 |: G2B E2B BAG | F2A D2A AGF | G2B E2B BAG |[1 BdB AGF E2F :|[2 BdB AGF E2f |]
 | g2e g2e edB | fef dfa gfe | g2e g2e edB | ABd efd e2f |
 | g2e g2e edB | fef dfa gfe | gfe agf gfe | dcB AGF E2F |
-
-%%newpage
-%%scale .7
-%%staffsep 35
 
 X:104
 T:Learned from Tom McCann in Philly
@@ -1493,10 +1465,6 @@ AF A2 | BG B2 | Ad fd | ed d2 :|
 |: Ad f3/g/ | fe e2 | ef ga | ba fd |
 Ad f3/g/ | fe e2 | ef gc | ed d2 :|
 
-%%newpage
-%%scale .7
-%%staffsep 35
-
 X:107
 T:The Golden Gardens
 C:Randal Bays
@@ -1522,10 +1490,6 @@ K:Emin
 Ace aed cBA | GBd gdc BAG | Ace aed cBA | BAG EFG A3 |
 Ace aed cBA | GBd gdc BAG | E2A GBB Acc | Bdd c2e de=f |
 
-%%newpage
-%%scale .7
-%%staffsep 35
-
 X:109
 T:John Brennan's
 L:1/8
@@ -1547,14 +1511,6 @@ B2GB AGEG | DGGF GABd | c2AB cBAG | EAAG FDFA |
 B2GB AGEG | DGGF GABc | d2Bd gdBd | cDFA G4 :|
 |: d2Bd gdBd | d2Bd gdBd | e2ce agfe | defg agfe |
 d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
-
-%%newpage
-%%scale .7
-%%staffsep 35
-
-%%newpage
-%%scale .6
-%%staffsep 35
 
 X:113
 T:The Pipe On The Hob #1
@@ -1581,10 +1537,6 @@ g3 gea|age deg|age dBe|ABA A3:|
 c2c d2d|edc AGE|c3 d2d|edc A2B|
 cBc dcd|ede gab|age dBe|ABA A3:|
 
-%%newpage
-%%scale .7
-%%staffsep 35
-
 X:115
 T:Tatter Jack Walsh
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith  2/2/16
@@ -1607,10 +1559,6 @@ G3 GAB | AGE GAB | c2A BGE | DED D3 :|
 |: c2A BAG | ABA AGE | c2A BGE | DED DEG |
 c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 35
-
 X:118
 T:Mountain Road
 M:4/4
@@ -1631,10 +1579,6 @@ EDEF GFGA | Beed Beed | EDEF GABG | A2BA GFED |
 EDEF GFGA | Beed e2ef | gefd edBA | GBAG FED2 :|
 |: gfeg fedA | Beed Beef | gfeg feBA | GBAG FED2 |
 gfeg fedA | Beed e2ef | gefd edBA | GBAG FED2 :|
-
-%%newpage
-%%scale .7
-%%staffsep 35
 
 X:120
 T:Tatter Jack Walsh
@@ -1671,10 +1615,6 @@ K:Amix
 |: cBA Aaf | ecA Bcd | cBA g3 | dBG Bcd |
 | cBA Aaa | Agg Aff | Aee efg | dBG Bcd :|
 
-%%newpage
-%%scale .65
-%%staffsep 35
-
 X:123
 T:Tobin's Favorite
 R:jig
@@ -1707,10 +1647,6 @@ FAA GBB | FAd fed | cBc ABc | dfe dBA |
 FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 |: dBB fBB | fgf fed | cAA eAA | efe edc |
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
-
-%%newpage
-%%scale .7
-%%staffsep 35
 
 X:127
 T:Saddle The Pony
@@ -1817,10 +1753,6 @@ Add dcB | ABA AFA | dcd ede | fdc d3 :|
 |: add dcd | BGG G3 | bee ede | cAA A3 |
 Add dcB | ABA AFA | dcd ede | fdc d3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 35
-
 X:134
 T:Rakish Paddy
 K:Ador
@@ -1843,15 +1775,6 @@ S:Taylor Stirm
 A2GA cAA2 | d^cde f3g | afge fde^c |[1 dfed cAdc :|[2 dfed cAG2 |]
 |: egg2 ed^cd | efge c3d | egg2 afge | dfed cAA2 |
 egg2 agg2 | fed^c defg | afge fde^c |[1 dfed cAG2 :|[2 dfed cAdc |]
-
-%%newpage
-%%scale .7
-%%staffsep 35
-
-
-%%newpage
-%%scale .7
-%%staffsep 35
 
 X:138
 T:Reel de Montebello
@@ -1888,10 +1811,6 @@ K:D
 |: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
 A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |[1 d4 d4 :|[2 d2 _e2 =e2 f2 |]
 
-%%newpage
-%%scale .7
-%%staffsep 40
-
 X:140
 T:The Freize Britches
 R: jig
@@ -1908,10 +1827,6 @@ D3 c3 | AdA cAG | F3 GEA | D3 D3 :|
 d2 e fdd | add fdd | faf ge^c | dfe d3 :|
 |: fed ed^c | ded cAG | A3 A2G | F3 GED |
 fed ed^c | ded cAG | F3 GEA | D3 D3 :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:141
 T:Lucy Farr's
@@ -1935,10 +1850,6 @@ dGBd GB d2 | d2 c2 A3 B | c2 A2 e2 d2 | G4 G4 :|
 |: b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 a2 a2 ga |
 b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
-
 X:145
 T:Happy Polka, The
 K:D
@@ -1952,10 +1863,6 @@ g3 g | f2 e2 | dc Bc | BA FA |
 f3 f | e2 d2 | B/c/d ef | ba af |
 g/a/g/a/ g/a/g/a/ | f/a/f/a/ f/a/f/a/ | eA Bc | d2 b2 ||
 
-%%newpage
-%%scale .7
-%%staffsep 40
-
 X:147
 T:Ask John
 C:Ask John
@@ -1966,10 +1873,6 @@ M:3/4
 K:D
 FG | A3F A2 | G4 A2 | (D6 | D4) EF | G4 B,2 | C4 B,2 | (A,6 | A,2) B,2 C2 |
 D4 E2 | F4 G2 | A3A d2 | A4 G2 | F3E D2 | E3D C2 | (D6 | D4) :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:148
 T:The Humors of Ballylaughlin
@@ -1987,9 +1890,6 @@ fdd gdd | fdd ged | cde gag | fdc d2e :|
 |: A3 A2G | F3 GED | E3 EFD | EFD EFG |
 A3 dAG | F3 GEA D3 DFA | D3 D3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:150
 T:Donnybrook Fair
@@ -2027,10 +1927,6 @@ G3 BGG | dGG B3 | ABc BAB GEE E3 |:
 |: def gfe | ded BAG | A3 ABd edB AGE |
 def gfe | ded BAG | ABC BAB | GEE E3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
-
 X:153
 T:Sonny's Mazurka
 L:1/8
@@ -2041,10 +1937,6 @@ DF|:A2 AG FA | d2 dB cA | G2 GB AG | FG EF DF |
 A2 AG FA | d2 dA BA | GF Gg fe | d4 :|
 Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
 f2 fa gf | e2 eg fe | dc df ec | d4 :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:154
 T:Mickey Dalton's #3
@@ -2082,11 +1974,6 @@ e>fe/ ce | Ae ce | f/a/g/f/ ec | BA A2 :|
 |: G/A/c a>f | ec BA | G/A/c a>f | ec B2 |
 G/A/c a>f | ec BA | f/a/g/f/ ec | BA A2 :|
 
-
-%%newpage
-%%scale .65
-%%staffsep 35
-
 X:157
 T:Young Tom Ennis
 L:1/8
@@ -2123,9 +2010,6 @@ G3 GAB | AGE GAB | c2A BGE | DED D3 :|
 |: c2A BAG | ABA AGE | c2A BGE | DED DEG |
 c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:159
 T:Foxhunter's Jig
@@ -2137,10 +2021,6 @@ F3 FED G2E | F3 FED E2D | F3 FED G2B | AFD DEF E2D :|
 |: B2B BAG FGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D:|
 |: f3 fed g2e | f3 fed e2d | f3 fed g2b | afd def e2d :|
 |: gfe d=cB AGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
 
 
 X:160
@@ -2163,9 +2043,6 @@ K:D
 dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
 |:f3a gfed | (3Bcd ef g2fe | defg a2ge | a2ge edd2 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:162
 T:Tá an Coileach Ag Fógairt an Lae
@@ -2203,10 +2080,6 @@ BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
 |: def d2B | AFA AFA | def d2f | ede fdB |
 def d2B | AFA ABc | dcB AFE | FEE E3 :|
 
-%%newpage
-%%scale .7
-%%staffsep 40
-
 X:165
 T:O'Mahoney's
 S:Sean Gavin
@@ -2230,14 +2103,6 @@ gf |: efed B2dB | A2AG AcBA | G2GA BA (3Bcd | e2 A2 A2 Bd |
 efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
 dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
 agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
-
-%%newpage
-%%scale .7
-%%staffsep 40
-
-%%newpage
-%%scale .7
-%%staffsep 40
 
 X:169
 T:Torn Jacket, The
