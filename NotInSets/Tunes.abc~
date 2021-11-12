@@ -539,7 +539,7 @@ DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
 dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
 
 X:046
-T:The Fat Cardinal
+T:Fat Cardinal, The
 C:Ed Yother
 C:http://edyother.com
 M:C|
@@ -560,15 +560,15 @@ B2GB AGEG | DGGF GABc | d2Bd gdBd | cDFA G4 :|
 d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
 
 X:048
-T:Father Kelly's
-L:1/8
-M:4/4
-R:Reel
-K:G
-B2GB AGEG | DGGF GABd | c2AB cBAG | EAAG FDFA |
-B2GB AGEG | DGGF GABc | d2Bd gdBd | cDFA G4 :|
-|: d2Bd gdBd | d2Bd gdBd | e2ce agfe | defg agfe |
-d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
+T:Fermoy Lasses, The
+M:C|
+R:reel
+K:Em
+GE E2 BE E2 | GE E2 BcBA | GE E2 BE E2 | AFDF AcBA |
+GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
+|: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
+G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
+
 
 ##
 
@@ -690,16 +690,6 @@ d2BG BdBG | BdBG c2Bc | d2 BG Bcde | fecA FABc |
 d2BG BdBG | BdBG c2Bc | d2 de f2 fe | cAFA G2GF |]
 
 
-X:15
-T:Fermoy Lasses, The
-M:C|
-R:reel
-K:Em
-GE E2 BE E2 | GE E2 BcBA | GE E2 BE E2 | AFDF AcBA |
-GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
-|: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
-G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
-
 %%scale .7
 %%staffsep 40
 
@@ -814,9 +804,6 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 |:Bcd e2f | e2f edB | Bcd e2f | edB d3 |
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
-X:27
-T:
-##
 
 X:2
 T:Off to California
