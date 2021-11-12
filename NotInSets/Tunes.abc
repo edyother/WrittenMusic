@@ -525,8 +525,285 @@ EFGF EFGF | EFGA B2AB | cBAG FAGF | EGFD E4 :|
 |: eAAe dcBc | dGGd cBAG | FGAc BAGF | EFGA B2cd |
 eAAe dcBc | dGGd cBAG | FGAc BAGF | EGFD E2 :|
 
+X:045
+T:Face the Table
+C:Ed Yother
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+DD/E/ FA | BA Bd | DD/E/ FB | AF ED |
+DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
+|: dd/d/ df | ed ef | dd/d/ df | ed BA |
+dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
+
+X:046
+T:Fat Cardinal, The
+C:Ed Yother
+C:http://edyother.com
+M:C|
+R:Reel
+K:Edor
+EFGA (3(BcB) Bc | BAFA BAdB | DEFA (3(ABA) dB | AFAB AFED :|
+|: Egfe defe | ABde fedB | DEFA (3(ABA) fe | dBAF EDB,D :||
+
+X:047
+T:Father Kelly's
+L:1/8
+M:4/4
+R:Reel
+K:G
+B2GB AGEG | DGGF GABd | c2AB cBAG | EAAG FDFA |
+B2GB AGEG | DGGF GABc | d2Bd gdBd | cDFA G4 :|
+|: d2Bd gdBd | d2Bd gdBd | e2ce agfe | defg agfe |
+d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
+
+X:048
+T:Fermoy Lasses, The
+M:C|
+R:reel
+K:Em
+GE E2 BE E2 | GE E2 BcBA | GE E2 BE E2 | AFDF AcBA |
+GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
+|: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
+G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
+
 
 ##
+
+X:2
+T:Off to California
+M:4/4
+L:1/8
+R:hornpipe
+K:G
+(3DEF | GF GB AG ED | GB dg e2 (3def | gf gd ed BG | AB AG E2 (3DEF |
+GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
+|: (3def | gf eg fe df | ed ef ed B2 | gf gd ed BG | AB AG E2 (3DEF |
+GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
+
+%%scale .7
+%%staffsep 35
+
+X:4
+T:A Polka
+M:2/4
+L:1/8
+R:Polka
+K:D
+d>B | AF DF | EF DF | AF AB | e2 d>B |
+AF DF | EF DF | AF AB | d2 :|
+|: dB | d2 fd | ef dB | AF AB | e2 |
+[1 dB | d2 fd | ef dB | AF AB | d2 :|]
+[2 dB | df f/e/f/g/ | af f>g | af ef | d2 |]
+
+X:5
+T:A Finnish Polka
+M:2/4
+L:1/8
+R:Polka
+K:Bm
+B>c Bc | dB Bd | cA Ac | d/c/B/A/ BF |
+B>c Bc | dB B2 | ee dc | BA B2 :|
+|: fd/d/ | df | ed/d/ cd | e/f/e/d/ dc | Bc de |
+fd/d/ | df | ed/d/ cd | e/f/e/d/ dc | BA B2 :|
+
+X:6
+T:Jessica's Polka
+M:2/4
+L:1/8
+R:Polka
+C:Mick Hanly
+K:A
+ef/e/ ce | fe Bc | AA/B/ cA | ec B2 |
+ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
+|: FF/B/ AF | cB A2 | ef/e/ ce | ag f2 |
+ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
+
+%%scale .65
+%%staffsep 30
+
+X:7
+T:Blarney Pilgrim, The
+M:6/8
+L:1/8
+R:jig
+K:Dmix
+D3 DEG | A3 ABc | BAG AGE | GEA GED |
+D3 DEG | A3 ABc | BAG AGE | GED D3 :|
+|: ded dBG | AGA BGE | ded dBG | AGA B2d |
+g2e d2B | AGA BGE | B2G AGE | GAG G3 :|
+|: A2D B2D | A2D ABc | BAG AGE | GEA GED |
+A2D B2D | A2D ABc | BAG AGE | GED D3 :|
+
+X:8
+T:Garrett Barry's
+M:6/8
+R:jig
+K:Dmix
+DEF G3 | AGE c2A | dcA d2e | fed cAG |
+DEF G3 | AGE cde  dc A GEA | DED D3 :|
+|: dcA d2e | fed efg | dcA c2d | egd ecA |
+dcA d2e | fed efg | dcA GEA | DED D3 :|
+
+%%scale .60
+%%staffsep 30
+
+X:11
+T:Garrett Barry's
+T:In D Dorian, from Kevin Burke's playing
+R:Jig
+M:6/8
+L:1/8
+K:Ddor
+DCD G3 | AGA c3 | dcA d2e | fed cAG |
+FEF GFG | AGA cde | dcA GEA |[1 DED A,3 :|[2 DED D3 |]
+|: dcA d2e | fag f2e | dcA c2d | egd ecA |
+dcA d2e | fag f2e | dcA GEA | DED D3 :|
+
+X:12
+T:Banish Misfortune
+M:6/8
+R:jig
+K:Dmix
+fed cAG | A2d cAG | F3 DED | F3 GFG |
+A3 cAG | AGA cde | fed cAG | Ad^c d2e :|
+|: f2d d^cd | f2g agf | e2c cBc | e2f gfe |
+f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
+|: f2g e2f | d2e cdc | A3 GAG | FGF AFD |
+c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
+
+
+%%scale .7
+%%staffsep 35
+
+X:13
+T:Yellow Tinker, The
+R:reel
+M:C|
+K:GMix
+DG G2 DEFE | DG G2 dBcA | G2 GF DEFG |[1 cAFA c2BA :|[2 cAFA c2Bc |]
+dG G2 GABc | dggd ^fgaf | gG G2 BcdB | cAFA c2Bc |
+dG G2 GABc | dggd ^fgaf | g2ae ^fgae | ^fgag fdcA |
+d2BG BdBG | BdBG c2Bc | d2 BG Bcde | fecA FABc |
+d2BG BdBG | BdBG c2Bc | d2 de f2 fe | cAFA G2GF |]
+
+
+%%scale .7
+%%staffsep 40
+
+X:16
+T:Mason's Apron, The
+M:C|
+R:reel
+K:A
+eg | aA A2 ABAF | EFAB cABc | dB B2 BcBA | Bcde fefg |
+aA A2ABAF | EFAB cABc | dcde fega | AAcB A2 :|
+|: ee | (=c^c)ec fe e2 | (=c^c)ec fe e2 | d2 fd gdfd | d2 fd gdfd |
+(=c^c)ec fe e2 | (=c^c)ec fe e2 | dcde fega | AAcB A2 :|
+
+X:17
+T:Tam Lin
+M:C|
+R:reel
+C:Davey Arthur
+K:Dmin
+A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 | (EF)FE FEDC |
+A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 |[1 FEDC D2 DC :|[2 FEDC DFA^c |]
+|: (^cd)dA FD D2 | (^cd)dA FD D2 | c2 Gc c2 Gc | c2 Gc cdec |
+(^cd)dA FD D2 | (^cd)dA FD D2 | B,D D2 CE E2 |[1 FEDC DFA^c :|[2 FEDC D2 |]
+
+X:18
+T:Master Crowley's
+M:C|
+R:reel
+K:Emin
+B,E/E/EE B,EGE | FDA,D FDA,D | B,E (3(EGE) CEGE | FAdA FEED |
+B,E/E/EE B,EGE | FDA,G, A,DFA, | B,E (3(EGE) CEGE | FAdA FEED :|
+|: eb^ab fgeg | fdad bdad | eb^ab fgeg | fBAc BEED |
+eb^ab fgeg | fdad bdad | EFGA B2 dB | AFDF FE E2 :|
+
+
+X:19
+T:Julia Delaney
+M:C|
+R:reel
+K:Ddor
+dcAG F2 DF | E2 CE FEDc | dcAG F2 DF | Addc defe |
+dcAG F2 DF | E2 CE FEDc | dcAG F2 DF |[1 Add^c d2 A2 :|[2 Add^c d2 de |]
+|: f2 fe fagf | ecgc acgc | fede fagf | edce d2 de |
+f2 fe fagf | ecgc acgc | fedc AGFG |[1 Add^c d2 de :|[2 Add^c d2 A2 |]
+
+X:20
+T:The Ships Are Sailing
+R:reel
+M:C|
+L:1/8
+K:Edor
+Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA | Beef gfed |
+Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA |[1 Beed e2 ed :|[2 Beed e3f |]
+|: gfga bgeg | fefg afdf | gfga bgeg | fedf e2 ef |
+gfga bgeg | fefg afdf | g2bg f2af |[1 edef gfef :|[2 edef gfed |]
+
+X:21
+T:Star of Munster
+M:C|
+R:reel
+K:Ador
+| cBAc BAGB | AGEF GED2 | EAAB cBcd | eaaf gfed |
+cBAc BAGB | AGEF GED2 | EAAB cBcd |[1 edcB A2 AB :|[2 edcB A2 eg |]
+|: a2 ab ageg | agab agef | g2 ga gede | geae gede |
+a2 ab ageg | agab agef | g2 ge a2 ae |[1 bagf gfeg :|[2 bagf gfed |]
+
+%%scale .65
+%%staffsep 30
+
+X:22
+T:Out on the Ocean
+M:6/8
+R:jig
+K:G
+D2B BAG | BdB ABA | GED G2A | B2 B AGE |
+D2B BAG | BdB ABA | GED G2A |[1 BGF GEE :|[2 BGF GBd |]
+e3 edB | e3 edB | d3 dBA | d3 dBA |
+G2A B2d | ege dBA | GED G2A | BGF GBd |
+e3 edB | efe edB | d3 def | gfe dBA |
+G2A B2d | ege dBA | GED G2A | BGF GE2 |]
+
+X:23
+T:Shandon Bells, The
+M:6/8
+R:jig
+K:D
+AFD DFA | ded cBA | BGE E2G | B2A Bcd |
+AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
+|: f2d dcd | faa afd | cAA eAA | cAA efg |
+fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
+
+%%scale .75
+%%staffsep 35
+
+X:25
+T:Road to Lisdoonvarna
+M:6/8
+R:Slide
+K:Edor
+D | E2B B2A | B2c d3 | F2A ABA | D2E FED |
+E2B B2A | B2c d3 | cdc B2A |[1 B2E E2 :|[2 B2E E3 |]
+|: e2f gfe | d2B Bcd | c2A ABc | dcd Bcd |
+e2f gfe | d2B Bcd | cdc B2A |[1 B2E E3 :|[2 B2E E2 |]
+
+X:26
+T:Swallowtail Jig
+M:6/8
+R:jig
+K:Edor
+GEE BEE | GEE BAG | FDD ADD | dcd AGF |
+GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
+|:Bcd e2f | e2f edB | Bcd e2f | edB d3 |
+Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
+
 
 X:2
 T:Off to California
@@ -1252,19 +1529,6 @@ Bd AF | Ad ff/f/ | gf ea | fe d2 :|
 |: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
 Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 |]
 
-X:79
-T:Face the Table
-C:Ed Yother
-C:http://edyother.com
-M:2/4
-R:Polka
-L:1/8
-K:D
-DD/E/ FA | BA Bd | DD/E/ FB | AF ED |
-DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
-|: dd/d/ df | ed ef | dd/d/ df | ed BA |
-dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
-
 X:80
 T:Untitled Polka
 C:Ed Yother
@@ -1280,16 +1544,6 @@ EF DE | FA dB/B/ | Bg BA | EF D2 :|
 
 %%scale .75
 %%staffsep 35
-
-X:81
-T:The Fat Cardinal
-C:Ed Yother
-C:http://edyother.com
-M:C|
-R:Reel
-K:Edor
-EFGA (3(BcB) Bc | BAFA BAdB | DEFA (3(ABA) dB | AFAB AFED :|
-|: Egfe defe | ABde fedB | DEFA (3(ABA) fe | dBAF EDB,D :||
 
 X:82
 T:Untitled Reel
@@ -1504,17 +1758,6 @@ D2FA d2ed | cdBc ADFA | BAGB ADFA | BAGF EGFE |
 D2FA d2ed | cdBc ADFA | BAGB ABde | faeg fdd2 :|
 |: f2df e2de | fedB ADFA | BAGB ADFA | BAGF EGFE |
 f2df e2de | fedB ADFA | BAGB ABde | faeg fdd2 :|
-
-X:110
-T:Father Kelly's
-L:1/8
-M:4/4
-R:Reel
-K:G
-B2GB AGEG | DGGF GABd | c2AB cBAG | EAAG FDFA |
-B2GB AGEG | DGGF GABc | d2Bd gdBd | cDFA G4 :|
-|: d2Bd gdBd | d2Bd gdBd | e2ce agfe | defg agfe |
-d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
 
 X:113
 T:The Pipe On The Hob #1

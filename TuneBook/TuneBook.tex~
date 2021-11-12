@@ -17,7 +17,7 @@
 
 This a collection of tunes transcribed,for the most part, the way that I play them, in the sets that I usually play them. I started this somewhere about 2012 as a way for me to learn to put something like this together, as well as getting some more practice transcribing tunes. Since then I've just kept adding to it, and experimenting with different methods of typsetting and publishing it. The music has always been written in abc. For most of its life the whole thing, table of contents and all was written in abc. For a short time I made a cover sheet, the table of contents and index with Scribus. I wanted to automate the table of contents and the index, so I went and learned LaTeX. So at this time the music is still all written in abc and made into a pdf with abcm2ps. The rest is written in LaTeX, with LaTeX inserting the music pages in between the table of contents and index. The tunebook and all the files I've used to create it can be found on Github.com. My username is edyother, and it's in the WrittenMusic repository. 
 
-The tunes and sets are in no particular order. The pages are formatted so that each page is a set that I play when I perform or learned at a session, and for that reason some of the tunes are repeated.
+The tunes and sets are in no particular order. The pages are formatted so that each page is a set that I put together or learned from someone else, and for that reason some of the tunes are repeated.
 
 If you happen to catch any errors let me know, especially if I have incorrectly attributed a tune's composer.
 
@@ -27,12 +27,12 @@ The few tunes in here that I have composed are included under a Creative Commons
 \tableofcontents
 
 \newpage
-
-\index{Boys of Ballycastle}
-\index{Off to California}
-\index{Boys of Bluehill}
-
 \pagenumbering{arabic}
+
+\index{Boys of Ballycastle, The}
+\index{Off to California}
+\index{Boys of Bluehill, The}
+
 
 \addcontentsline{toc}{section}{\protect\textrm{The Boys of Ballycastle / Off to California / The Boys of Bluehill \(hornpipes\)}}
 \setcounter{page}{1}
@@ -46,76 +46,76 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textrm{A Polka / A Finnish Polka / Jessica's Polka \(polkas\)}}
 \includepdf[pages=2]{tb.pdf}
 
-\index{Blarney Pilgrim}
+\index{Blarney Pilgrim, The}
 \index{Garret Barry's}
 \index{Banish Misfortune}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Blarney Pilgrim / Garret Barry's / Banish Misfortune \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Blarney Pilgrim / Garret Barry's / Banish Misfortune \(jigs\)}}
 \includepdf[pages=3]{tb.pdf}
 
-\index{Blarney Pilgrim}
+\index{Blarney Pilgrim, The}
 \index{Garret Barry's}
 \index{Banish Misfortune}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Blarney Pilgrim / Garret Barry's / Banish Misfortune \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Blarney Pilgrim / Garret Barry's / Banish Misfortune \(jigs\)}}
 \includepdf[pages=4]{tb.pdf}
 
 \index{Yellow Tinker, The}
 \index{Doonagore}
-\index{Fermoy Lasses}
+\index{Fermoy Lasses, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{The Yellow Tinker / Doonagore / Fermoy Lasses \(reels\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Yellow Tinker / Doonagore / The Fermoy Lasses \(reels\)}}
 \includepdf[pages=5]{tb.pdf}
 
-\index{Mason's Apron}
+\index{The Mason's Apron}
 \index{Tam Lin}
 \index{Master Crowley's}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Mason's Apron / Tam Lin / Master Crowley's \(reels\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Mason's Apron / Tam Lin / Master Crowley's \(reels\)}}
 \includepdf[pages=6]{tb.pdf}
 
 \index{Julia Delaney}
 \index{Ships are Sailing}
-\index{Star of Munster}
+\index{The Star of Munster}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Julia Delaney / Ships are Sailing / Star of Munster \(reels\)}}
+\addcontentsline{toc}{section}{\protect\textrm{Julia Delaney / Ships are Sailing / The Star of Munster \(reels\)}}
 \includepdf[pages=7]{tb.pdf}
 
 \index{Out on the Ocean}
-\index{Shandon Bells}
-\index{Connaughtman's Rambles}
+\index{Shandon Bells, The}
+\index{Connaughtman's Rambles, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Out on the Ocean / Shandon Bells / Connaughtman's Rambles \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{Out on the Ocean / Shandon Bells / The Connaughtman's Rambles \(jigs\)}}
 \includepdf[pages=8]{tb.pdf}
 
-\index{Road to Lisdoonvarna}
-\index{Swallowtail Jig}
-\index{Fermoy Lasses}
+\index{Road to Lisdoonvarna, The}
+\index{Swallowtail Jig, The}
+\index{Fermoy Lasses, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Road to Lisdoonvarna / Swallowtail Jig / Fermoy Lasses \(jig/jig/reel\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Road to Lisdoonvarna / The Swallowtail Jig / The Fermoy Lasses \(jig/jig/reel\)}}
 \includepdf[pages=9]{tb.pdf}
 
-\index{Road to Lisdoonvarna}
-\index{Swallowtail Jig}
-\index{Kesh Jig}
+\index{Road to Lisdoonvarna, The}
+\index{Swallowtail Jig, The}
+\index{Kesh Jig, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Road to Lisdoonvarna / Swallowtail Jig / Kesh Jig \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Road to Lisdoonvarna / The Swallowtail Jig / The Kesh Jig \(jigs\)}}
 \includepdf[pages=10]{tb.pdf}
 
-\index{Frost is All Over}
+\index{Frost is All Over, The}
 \index{Kitty Lie Over}
 \index{Cunla}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Frost is All Over / Kitty Lie Over / Cunla \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Frost is All Over / Kitty Lie Over / Cunla \(jigs\)}}
 \includepdf[pages=11]{tb.pdf}
 
 \index{Where I Told Her I Loved Her and Sprained Her Ankle}
@@ -134,7 +134,7 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textrm{Where I Told Her I Loved Her and Sprained Her Ankle / Coffee on the Bricks / The Persistence of Noel Reid \(jigs\)}}
 \includepdf[pages=13]{tb.pdf}
 
-\index{Walls of Liscarroll}
+\index{Walls of Liscarroll, The}
 \index{Behind the Haystack}
 \index{Merrily Kissed the Quaker}
 
@@ -143,11 +143,11 @@ The few tunes in here that I have composed are included under a Creative Commons
 \includepdf[pages=14]{tb.pdf}
 
 \index{Tar Road to Sligo}
-\index{Cliffs of Moher}
+\index{Cliffs of Moher, The}
 \index{Salt River Road}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Tar Road to Sligo / Cliffs of Moher / Salt River Road \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{Tar Road to Sligo / The Cliffs of Moher / Salt River Road \(jigs\)}}
 \includepdf[pages=15]{tb.pdf}
 
 \index{Maggie in the Woods}
@@ -183,10 +183,10 @@ The few tunes in here that I have composed are included under a Creative Commons
 
 \index{Oddfellows in Plainville, The}
 \index{Lydia has no Faith in Cats}
-\index{Kesh Jig}
+\index{Kesh Jig, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{The Oddfellows in Plainville / Lydia has no Faith in Cats / Kesh Jig \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Oddfellows in Plainville / Lydia has no Faith in Cats / The Kesh Jig \(jigs\)}}
 \includepdf[pages=20]{tb.pdf}
 
 \index{Edna's Vase}
@@ -219,19 +219,19 @@ The few tunes in here that I have composed are included under a Creative Commons
 \includepdf[pages=24]{tb.pdf}
 
 \index{Bohola Jig}
-\index{Blackthorn Stick}
+\index{Blackthorn Stick, The}
 \index{Calliope House}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Bohola Jig / Blackthorn Stick / Calliope House \(jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{Bohola Jig / The Blackthorn Stick / Calliope House \(jigs\)}}
 \includepdf[pages=25]{tb.pdf}
 
 \index{Maid Behind the Bar, The}
-\index{Musical Priest}
-\index{Silver Spear}
+\index{Musical Priest, The}
+\index{Silver Spear, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{The Maid Behind the Bar / Musical Priest / Silver Spear \(reels\)}}
+\addcontentsline{toc}{section}{\protect\textrm{The Maid Behind the Bar / The Musical Priest / The Silver Spear \(reels\)}}
 \includepdf[pages=26]{tb.pdf}
 
 \index{Oak Cliff Road}
@@ -264,7 +264,7 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textrm{Fred Finn's / Sailing into Walpole's Marsh \(reels\)}}
 \includepdf[pages=30]{tb.pdf}
 
-\index{Drunken Landlady}
+\index{Drunken Landlady, The}
 \index{Colonel Rodger's Favorite}
 \index{Happy Days of Youth}
 
@@ -287,11 +287,11 @@ The few tunes in here that I have composed are included under a Creative Commons
 \includepdf[pages=33]{tb.pdf}
 
 \index{An Phis Phliuch}
-\index{Butterfly}
-\index{Kid on the Mountain}
+\index{Butterfly, The}
+\index{The Kid on the Mountain}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{An Phis Fhliuch / The Butterfly / Kid on the Mountain \(slip\ jigs\)}}
+\addcontentsline{toc}{section}{\protect\textrm{An Phis Fhliuch / The Butterfly / The Kid on the Mountain \(slip\ jigs\)}}
 \includepdf[pages=34]{tb.pdf}
 
 \index{Fisher's Honpipe}
@@ -312,7 +312,7 @@ The few tunes in here that I have composed are included under a Creative Commons
 
 \index{Drops of Brandy}
 \index{Hardiman the Fiddler}
-\index{Fig for a Kiss}
+\index{A Fig for a Kiss}
 
 \newpage
 \addcontentsline{toc}{section}{\protect\textrm{Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss \(slip\ jigs\)}}
