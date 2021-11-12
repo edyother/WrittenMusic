@@ -468,6 +468,63 @@ eAA2 edBd | eAA2 edBd | d2ef gbaf | gedB A4 :|
 |: eaag a2ga | b2gb abge | dedB G2BG | Bdd2 edBd |
 eaag a2ga | b2gb abge | d2ef gbaf | gedB A4 :|
 
+X:040
+T:Dunmore Lasses, The
+R: Reel
+M: 4/4
+L: 1/8
+K: Edor
+EDEF GFGA | Beed Beed | EDEF GABG | A2BA GFED |
+EDEF GFGA | Beed e2ef | gefd edBA | GBAG FED2 :|
+|: gfeg fedA | Beed Beef | gfeg feBA | GBAG FED2 |
+gfeg fedA | Beed e2ef | gefd edBA | GBAG FED2 :|
+
+X:041
+T:The Earl's Chair
+R: reel
+M: 4/4
+L: 1/8
+K: D
+B2 dB BAFA | B2 dB BAFB | AF F2 DF F2 | AFdB ADFA |
+B2 dB BAFA | B2 dB BAFB | A3 B defd |[1 edef d3 A :|[2 edef d3 f |]
+|: e2 ef d2 df | edef dB A2 | e2 ef dcde | fedB ADFA |
+e2 ef dB B2 | gB B2 defg | afbf afeg | fedB ADFA :|
+
+X:042
+T:Edna's Vase
+C:Ed Yother
+C:http://edyother.com
+M:3/4
+L:1/4
+R:Waltz
+K:D
+|:  D F A | d d/c/ d/e/ | fe(3(d/e/d/) |  B>d c/2B/2 |
+ AFD | E E/G/ F/2E/2 |[1  DFA | BA (3(F/G/F/) :|[2  D D B, |  DFA |]
+|:  B B/A/ B/2c/2 | dAF | B A B | d c (3(B/c/B/) |
+[1 A A/F/ A/2B/2 | AFD | E E/F/ G/2A/2 | BAF :|
+[2 A A/F/ A/2B/2 | AF (3E/E/E/ |  EDC |  D>G F/2E/2 |]
+
+X:043
+T:Eileen O'Riordan's
+M:6/8
+R:Slide
+K:Edor
+E2A ABA | G2A Bcd | efe dcB | A3 G2F |
+E2A ABA | G2A Bcd | efe dcB |[1 A3 A2G :|[2 A3 A3 |]
+|: e2e efe | d3 c2d | e2A ABA | G3 F2G |
+E2A ABA | G2A Bcd | efe dcB |[1 A3 A3 :|[2 A3 A2G |]
+
+X:044
+T:Evit Gabriel
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|: EFGF EFGF | EFGA B2AB |cBAG F2GA |BAGB F4 |
+EFGF EFGF | EFGA B2AB | cBAG FAGF | EGFD E4 :|
+|: eAAe dcBc | dGGd cBAG | FGAc BAGF | EFGA B2cd |
+eAAe dcBc | dGGd cBAG | FGAc BAGF | EGFD E2 :|
+
 
 ##
 
@@ -989,16 +1046,6 @@ efe B2A | GFE B2E | FED F2A | F2E E3:|
 [1 B2e ede | f2a afa | baf a2f | e3 e2d :|
 [2 faf f2e | efe B2A | FED F2A | F2E E3 |]
 
-X:56
-T:Eileen O'Riordan's
-M:6/8
-R:Slide
-K:Edor
-E2A ABA | G2A Bcd | efe dcB | A3 G2F |
-E2A ABA | G2A Bcd | efe dcB |[1 A3 A2G :|[2 A3 A3 |]
-|: e2e efe | d3 c2d | e2A ABA | G3 F2G |
-E2A ABA | G2A Bcd | efe dcB |[1 A3 A3 :|[2 A3 A2G |]
-
 %%scale .75
 %%staffsep 30
 
@@ -1039,20 +1086,6 @@ B3 dBd | ege dBd | gfg aga | bgf g3:|
 
 %%scale .75
 %%staffsep 46
-
-X:60
-T:Edna's Vase
-C:Ed Yother
-C:http://edyother.com
-M:3/4
-L:1/4
-R:Waltz
-K:D
-|:  D F A | d d/c/ d/e/ | fe(3(d/e/d/) |  B>d c/2B/2 |
- AFD | E E/G/ F/2E/2 |[1  DFA | BA (3(F/G/F/) :|[2  D D B, |  DFA |]
-|:  B B/A/ B/2c/2 | dAF | B A B | d c (3(B/c/B/) |
-[1 A A/F/ A/2B/2 | AFD | E E/F/ G/2A/2 | BAF :|
-[2 A A/F/ A/2B/2 | AF (3E/E/E/ |  EDC |  D>G F/2E/2 |]
 
 X:61
 T:Hillgrove's Waltz
@@ -1324,17 +1357,6 @@ D2ED EFAF | ABBA FABc | d3B ABdB | AFEG FDD2 :|
 |: faab afdf | gdfd edBc | dedB ABde | fede fee2 |
 faab afdf gdfd edBc | dedB ABdB | AFEG FDD2 :|
 
-X:89
-T:The Earl's Chair
-R: reel
-M: 4/4
-L: 1/8
-K: D
-B2 dB BAFA | B2 dB BAFB | AF F2 DF F2 | AFdB ADFA |
-B2 dB BAFA | B2 dB BAFB | A3 B defd |[1 edef d3 A :|[2 edef d3 f |]
-|: e2 ef d2 df | edef dB A2 | e2 ef dcde | fedB ADFA |
-e2 ef dB B2 | gB B2 defg | afbf afeg | fedB ADFA :|
-
 X:94
 T:Kid On The Mountain
 R: slip jig
@@ -1551,17 +1573,6 @@ F2 AF BFAF | F2 AF EFDE | F2 AF BFAF | ABde fgfe ||
 dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
 dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
 
-X:119
-T:Dunmore Lasses, The
-R: Reel
-M: 4/4
-L: 1/8
-K: Edor
-EDEF GFGA | Beed Beed | EDEF GABG | A2BA GFED |
-EDEF GFGA | Beed e2ef | gefd edBA | GBAG FED2 :|
-|: gfeg fedA | Beed Beef | gfeg feBA | GBAG FED2 |
-gfeg fedA | Beed e2ef | gefd edBA | GBAG FED2 :|
-
 X:120
 T:Tatter Jack Walsh
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith  2/2/16
@@ -1767,17 +1778,6 @@ EABc ecBA | FABc ecBA | GABc dcBd | edBc dcBA |
 EABc ecBA | FABc ecBA | GABc dcBG | EDEG A3z :|
 aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
 aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
-
-X:139
-T:Evit Gabriel
-R: reel
-M: 4/4
-L: 1/8
-K: Emin
-|: EFGF EFGF | EFGA B2AB |cBAG F2GA |BAGB F4 |
-EFGF EFGF | EFGA B2AB | cBAG FAGF | EGFD E4 :|
-|: eAAe dcBc | dGGd cBAG | FGAc BAGF | EFGA B2cd |
-eAAe dcBc | dGGd cBAG | FGAc BAGF | EGFD E2 :|
 
 X:140
 T:Reel de Montreal
