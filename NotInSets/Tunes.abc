@@ -866,10 +866,330 @@ dcAG F2 DF | E2 CE FEDc | dcAG F2 DF |[1 Add^c d2 A2 :|[2 Add^c d2 de |]
 |: f2 fe fagf | ecgc acgc | fede fagf | edce d2 de |
 f2 fe fagf | ecgc acgc | fedc AGFG |[1 Add^c d2 de :|[2 Add^c d2 A2 |]
 
+X:074
+T:Kerry Polka, The
+L:1/8
+R:Polka
+M:2/4
+K:D
+fA BA | fA BA | d2 e>f | ed BA |
+fA BA | fa BA | d2 e>f | ed dd2 :|
+|: fb fe | ed BA | d2 e>f | ed BA |
+fb fe | ed BA | d2 e>f | ed d2 :|
 
-##
+X:075
+T:Kesh Jig
+R:jig
+M:6/8
+K:G
+G3 GAB | AGA ABd | edd gdd | edB dBA |
+GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |]
+|: B3 dBd | ege dBG | B3 dBG| ABA AGA |
+B3 dBd | ege dBd | gfg aga | bgf g3:|
 
-X:2
+X:076
+T:Kilashandra Lasses, The
+S:Sean Gavin
+L:1/8
+R:Jig
+M:6/8
+K:D
+G3 BGG | dGG BGG | A3 ABd | edB AGF |
+G3 BGG | dGG B3 | ABc BAB GEE E3 |:
+|: def gfe | ded BAG | A3 ABd edB AGE |
+def gfe | ded BAG | ABC BAB | GEE E3 :|
+
+X:077
+T:Kilnamona
+R:Barndance
+M:4/4
+L:1/8
+K:G
+dGBd GB d2 | d2 c2 A3 B | c2 A2 e3 e | e2 d2 B4 |
+dGBd GB d2 | d2 c2 A3 B | c2 A2 e2 d2 | G4 G4 :|
+|: b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 a2 a2 ga |
+b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
+
+X:078
+T:Kitty Lie Over
+S:Learned from Jessie, Joe, and Tim at Tigin session 1/23/16. Has a different B part than I originally learned
+R:Jig
+M:6/8
+L:1/8
+K:D
+def edB | AFD AFD | DFA AFA | Bed e3 |
+def edB | AFD AFD | DFA AFA | Bdc d3 :|
+|: fef afd | gfg bag | fef afd | fgg efg |
+fef afd | gfg bag | fga efg | fdc d3 :|
+
+X:079
+T:Kitty on the Rail
+M:C|
+R:reel
+C:Ed Yother
+C:http://edyother.com
+K:Ddor
+|: d2 ed fded | cdef edcA | d2 ed fded | cdgc acgc |
+d2 ed fded | cdef edcA | fedc AGAB | cAdc AFD2 :|
+| (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABA2 |
+(3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABc2 |
+| ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | ({c}d2)d2 dcAG | (3(ABc) de f2ff |
+({c}d2)d2 dcAG | (3ABA AG (3ABA AG | (3DEF AB cAdc | AFE2 D4 |
+
+X:080
+T:Lark in the Morning, The
+R:jig
+M:6/8
+K:D
+AFA AFA | BGB BdB | AFA Ade | fed BdB |
+AFA AFA | BGB BdB | def afe | fdB BdB :|
+|: def a3 | baf afe | def afe | fdB BdB |
+def a3 | baf afd | g3 fgf | edB BdB :|
+|: d2f fef | fef fef | d2f fef | edB BdB |
+d2f fef | fef fef | g3 fgf | edB BdB :|
+|: Add fdd | ede fdB | Add fdd | edB BdB |
+Add fdd | ede fef | g3 fgf | edB BdB :|
+
+X:081
+T:Lilting Banshee
+M:6/8
+R:jig
+K:Ador
+EAA EAA | BAB G2A | Bee edB | dBA GED |
+EAA EAA | BAB G2A | Bee edB | BAG A2G |
+EAA EAA | BAB G2A | Bee edB | def gfg |
+eAA eAA | BAB G2A | Bee edB | BAG A2d |
+|: eaa age | dBA G2A | Bee edB | def gfg |
+eaa age | dBA G2A | Bee edB | BAG A2d :|
+
+X:082
+T:Lucy Farr's
+R:Barndance
+M:4/4
+L:1/8
+K:G
+(3(DEF) | G4 G4 | GABG E2 D2 | B4 B4 | BcdB A4 |
+BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G2 :|[2 A2 G2 G4|]
+|: BcdB G2 G2 | GABG E2 D2 | DEGA BddB | B2 A2 A4 |
+BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G4 :|[2 A2 G2 G2 |]
+
+X:083
+T:Lydia has no Faith in Cats
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+L:1/8
+R:jig
+K:Bmin
+FBB dBc | ded cBA | eA/A/A cAc | dcB AFE |
+FB/B/B dBc | ded cBA | gfe dAB | cdc BB/B/B :|
+|: fd/d/d Bdd | FBd fed | ec/c/c Acc |EAc edc |
+dc/d/d ede | fdf bb/b/b | afd eAB | cdc BB/B/B:|
+
+X:084
+T:Maggie in the Woods
+M:2/4
+R:Polka
+L:1/8
+K:G
+GD G>A | Be ef/e/ | dB AG/A/ | BA A2 |
+GD G>A | Be ef/e/ | dB AB/A/ | G2 G2 :|
+|: gf ed | ef g2 | dB AG/A/ | BA A2 |
+gf ed | ef g2 | dB AB/A/ | G2 G2 :|
+
+X:085
+T:The Maid Behind The Bar
+R:reel
+M:4/4
+L:1/8
+K:Dmaj
+|:FAAB AFED|FAAB ABde|fBBA Bcde|f2gf edBA|
+FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
+|:faab afde|fdad fd d2|efga beef|gebe gfeg|
+fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
+
+X:086
+T:Master Crowley's
+M:C|
+R:reel
+K:Emin
+B,E/E/EE B,EGE | FDA,D FDA,D | B,E (3(EGE) CEGE | FAdA FEED |
+B,E/E/EE B,EGE | FDA,G, A,DFA, | B,E (3(EGE) CEGE | FAdA FEED :|
+|: eb^ab fgeg | fdad bdad | eb^ab fgeg | fBAc BEED |
+eb^ab fgeg | fdad bdad | EFGA B2 dB | AFDF FE E2 :|
+
+X:087
+T:Merrily Kissed the Quaker
+M:6/8
+R:Slide
+K:G
+GAB D2B | c2A BGE | GAB DEG | A2A AGE |
+GAB D2B | c2A BGE | GAB DEF |[1 G2G GFE :|[2 G2G G2A |]
+|: BGG AGG | BGG AGE | GAB DEG | A2A AGA |
+BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
+|: g2g a2a | bag edB | g2g gab | a2a agf |
+g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
+
+X:088
+T:Merry Blacksmith
+M:C|
+R:reel
+K:D
+(3(ABc) | d2dA BAFA | ABdA BAFA | ABde (3(fgf) ed | Beed (3(efg) fe |
+d2dA BAFA | ABdA BAFA | ABde (3fgf ed | BABc d2 :|
+|: fg | a2 ag f2 fe | dedA BAFA | ABde (3(fgf) ed | Beed (3efg fe |
+abag fgfe | dedA BAFA |  ABde (3fgf ed | BABc d2 :|
+
+X:089
+T:Mickey Dalton's #3
+C:Mickey Dalton
+S:Shannon Heaton
+L:1/8
+R:Polka
+M:2/4
+K:D
+GA/B/ ed | B2 BA | GA/B/ ed | A2 AG |
+FD FA | f3 e |[1 dc/d/ ed | B3 A :|[2 dc/d/ ef | g3 d |]
+|: g2 fe | dB Bd | g2 fe | d2 dA |
+eA eA | f3 e c/d/ ed | B3 d :|[2 dc/d/ ef | gd BA |]
+
+X:090
+T:Miss Monaghan's
+S:Learned from Joe, and Tim at Tigin session 1/23/16
+R:Reel
+M:4/4
+K:D
+D2ED EFAF | ABBA FABc | d3B ABde | fede fee2 |
+D2ED EFAF | ABBA FABc | d3B ABdB | AFEG FDD2 :|
+|: faab afdf | gdfd edBc | dedB ABde | fede fee2 |
+faab afdf gdfd edBc | dedB ABdB | AFEG FDD2 :|
+
+X:091
+T:Reel de Montebello
+C:Richard Forest
+R:reel
+M:4/4
+L:1/8
+K:Amin
+EABc ecBA | FABc ecBA | GABc dcBd | edBc dcBA |
+EABc ecBA | FABc ecBA | GABc dcBG | EDEG A3z :|
+aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
+aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
+
+X:092
+T:Reel de Montreal
+R:reel
+M:4/4
+L:1/8
+K:G
+|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDG Bdef |
+g2fe dcBA | GBDG B2AG | FGAB cdef |[1 g2 gf g2d2 :|[2 g2 gf g4 |]
+K:D
+|: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
+A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |[1 d4 d4 :|[2 d2 _e2 =e2 f2 |]
+
+X:093
+T:Mooncoin
+R:jig
+M:6/8
+L:1/8
+K:Amix
+| cBA AEA | AEA Bcd | cBA Ace | dBG Bcd |
+| cBA AEA | AEA Bcd | Ace g3 | dBG Bcd :|
+|: cde efg | f/g/af ged | cde efg | f/g/aA Bcd |
+| cde efg | afd bge | afd gec | dBG Bcd :|
+|: cBA Aaf | ecA Bcd | cBA g3 | dBG Bcd |
+| cBA Aaa | Agg Aff | Aee efg | dBG Bcd :|
+
+X:094
+T:Mountain Road
+M:4/4
+R:Reel
+K:D
+F2 AF BFAF | F2 AF EFDE | F2 AF BFAF | G2F2 EFDE |
+F2 AF BFAF | F2 AF EFDE | F2 AF BFAF | ABde fgfe ||
+dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
+dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
+
+X:095
+T:Musical Priest, The
+R:reel
+M:4/4
+K:Bm
+FBBA B2 Bd | cBAf edBA | FBBA B2 Bd |[1 cBAc B2 BA :|[2 cBAc B2 Bc |]
+|: d2 dc dfed | (3(cBA) eA fAeA | dcBc defb | afed B2 Bc :|
+|: dB B2 bafb | afed Bcde | dB B2 bafb |[1 afed B2 Bc :|[2 afed B2 BA |]
+
+X:096
+T:My Darling Asleep
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:D
+ag | fdd cAA | BAG A2G | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
+|: FAA BAG | FAA BAG | FAA def | g3 eag |
+fdd cAA | BAG A2G | FAA def | gec d3 :|
+
+X:097
+T:O'Connel's Trip to Parliment
+S:Sean Gavin
+R:Reel
+M:4/4
+K:D
+dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
+|:f3a gfed | (3Bcd ef g2fe | defg a2ge | a2ge edd2 :|
+
+X:098
+T:O'Dowd's Pitch
+C:Ed Yother
+C:http://edyother.com
+K:Gdor
+R:Reel
+M:C|
+BAGB AGFD | CD D2 EDCD | FEDG FDCF | DCA,D CA,G,2 |
+BAGB AGFA | c2 cA GAdA | BAGd cAGB | AGFD CA,G,2 :|
+|: BAGd cAGB | AGFA cAFA | BAGd cAGB | AGFD CDFA |
+BAGd cAGB | AGFA cAFA | B2 Bc BAGA | BAGF DFGA :||
+
+X:099
+T:O'Mahoney's
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:D
+ge | dBAB G2GA | BA (3Bcd g2ga | bage dBGB | A2GB A2ge |
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
+dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
+
+X:100
+T:Oak Cliff Road
+C:Ed Yother
+C:http://edyother.com
+K:Gdor
+R:Reel
+M:4/4
+DGG^F G2 GA | BAGd cAGF | DFFE F2 FA | cFdF cAGF |
+DGG^F G2 GA | BAGd cAGF | dcde fedc | AdcA GFDC :|
+|: GABc d2 dg | fagd fdcA | cAGD FEFD | CDFG AGFD |
+GABc d2 dg | fagd fdcA | c=Bcd fdcA |[1 GBAG FDCD :|[2 c2 cA GFDC |]
+
+X:101
+T:Oddfellows in Plainville, The
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:G
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EDB, |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EE/E/E :|
+|: dd/d/d dcB | GBd gfe | dd/d/d dcB | GAB cBA |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF E3 :|
+
+X:102
 T:Off to California
 M:4/4
 L:1/8
@@ -880,8 +1200,54 @@ GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 |: (3def | gf eg fe df | ed ef ed B2 | gf gd ed BG | AB AG E2 (3DEF |
 GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 
-%%scale .7
-%%staffsep 35
+X:103
+T:The Old Bush
+R:reel
+M:4/4
+L:1/8
+K:Dmix
+S:Taylor Stirm
+|: A2GA cAA2 | d^cde fde=c | A2GA cAA2 | dfed cAdc |
+A2GA cAA2 | d^cde f3g | afge fde^c |[1 dfed cAdc :|[2 dfed cAG2 |]
+|: egg2 ed^cd | efge c3d | egg2 afge | dfed cAA2 |
+egg2 agg2 | fed^c defg | afge fde^c |[1 dfed cAG2 :|[2 dfed cAdc |]
+
+X:104
+T:Old Hag You Have Killed Me
+K:Dmix
+R:Jig
+M:6/8
+L:1/8
+FED c2A | ded cAG | A3 ABG | ABG A2G |
+FED c2A | ded cAF | G3 GBA | GBA G2G :|
+|: fef gfg | afd cAG | A3 ABG | ABG A2e |
+fef gfg | afd cAF | G3 GBA |[1 GBA G2e :|[2 GBA G2G |]
+
+X:105
+T:Out on the Ocean
+M:6/8
+R:jig
+K:G
+D2B BAG | BdB ABA | GED G2A | B2 B AGE |
+D2B BAG | BdB ABA | GED G2A |[1 BGF GEE :|[2 BGF GBd |]
+e3 edB | e3 edB | d3 dBA | d3 dBA |
+G2A B2d | ege dBA | GED G2A | BGF GBd |
+e3 edB | efe edB | d3 def | gfe dBA |
+G2A B2d | ege dBA | GED G2A | BGF GE2 |]
+
+X:106
+T:Peggy Lettermore
+M:2/4
+R:Polka
+L:1/8
+K:G
+Bd BG | Bd dB/B/ | Bd cB | A2 A2 |
+Bd BG | Bd gd/d/ | dB AB/A/ | G2 G2 :|
+|: g2 dB/B/ | Bc dg/g/ | gd cB | A2 A2 |
+gg dB/B/ | Bc dd/d/ | dB AB/A/ | G2 G2 :|
+
+
+##
 
 X:4
 T:A Polka
@@ -918,8 +1284,6 @@ ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
 |: FF/B/ AF | cB A2 | ef/e/ ce | ag f2 |
 ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
 
-%%scale .65
-%%staffsep 30
 
 X:7
 T:Blarney Pilgrim, The
@@ -944,8 +1308,6 @@ DEF G3 | AGE cde  dc A GEA | DED D3 :|
 |: dcA d2e | fed efg | dcA c2d | egd ecA |
 dcA d2e | fed efg | dcA GEA | DED D3 :|
 
-%%scale .60
-%%staffsep 30
 
 X:11
 T:Garrett Barry's
@@ -972,8 +1334,6 @@ f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
 c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 
 
-%%scale .7
-%%staffsep 35
 
 X:13
 T:Yellow Tinker, The
@@ -987,8 +1347,6 @@ d2BG BdBG | BdBG c2Bc | d2 BG Bcde | fecA FABc |
 d2BG BdBG | BdBG c2Bc | d2 de f2 fe | cAFA G2GF |]
 
 
-%%scale .7
-%%staffsep 40
 
 X:16
 T:Mason's Apron, The
@@ -1053,8 +1411,6 @@ cBAc BAGB | AGEF GED2 | EAAB cBcd |[1 edcB A2 AB :|[2 edcB A2 eg |]
 |: a2 ab ageg | agab agef | g2 ga gede | geae gede |
 a2 ab ageg | agab agef | g2 ge a2 ae |[1 bagf gfeg :|[2 bagf gfed |]
 
-%%scale .65
-%%staffsep 30
 
 X:22
 T:Out on the Ocean
@@ -1078,8 +1434,6 @@ AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
 |: f2d dcd | faa afd | cAA eAA | cAA efg |
 fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
 
-%%scale .75
-%%staffsep 35
 
 X:25
 T:Road to Lisdoonvarna
@@ -1102,19 +1456,6 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
 
-X:2
-T:Off to California
-M:4/4
-L:1/8
-R:hornpipe
-K:G
-(3DEF | GF GB AG ED | GB dg e2 (3def | gf gd ed BG | AB AG E2 (3DEF |
-GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
-|: (3def | gf eg fe df | ed ef ed B2 | gf gd ed BG | AB AG E2 (3DEF |
-GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
-
-%%scale .7
-%%staffsep 35
 
 X:4
 T:A Polka
@@ -1128,8 +1469,6 @@ AF DF | EF DF | AF AB | d2 :|
 [1 dB | d2 fd | ef dB | AF AB | d2 :|]
 [2 dB | df f/e/f/g/ | af f>g | af ef | d2 |]
 
-%%scale .65
-%%staffsep 30
 
 X:7
 T:Blarney Pilgrim, The
@@ -1154,8 +1493,6 @@ DEF G3 | AGE cde  dc A GEA | DED D3 :|
 |: dcA d2e | fed efg | dcA c2d | egd ecA |
 dcA d2e | fed efg | dcA GEA | DED D3 :|
 
-%%scale .60
-%%staffsep 30
 
 X:12
 T:Banish Misfortune
@@ -1170,8 +1507,6 @@ f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
 c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 
 
-%%scale .7
-%%staffsep 35
 
 X:13
 T:Yellow Tinker, The
@@ -1195,8 +1530,6 @@ GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
 |: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
 G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 
-%%scale .7
-%%staffsep 40
 
 X:16
 T:Mason's Apron, The
@@ -1218,16 +1551,6 @@ A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 | (EF)FE FEDC |
 A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 |[1 FEDC D2 DC :|[2 FEDC DFA^c |]
 |: (^cd)dA FD D2 | (^cd)dA FD D2 | c2 Gc c2 Gc | c2 Gc cdec |
 (^cd)dA FD D2 | (^cd)dA FD D2 | B,D D2 CE E2 |[1 FEDC DFA^c :|[2 FEDC D2 |]
-
-X:18
-T:Master Crowley's
-M:C|
-R:reel
-K:Emin
-B,E/E/EE B,EGE | FDA,D FDA,D | B,E (3(EGE) CEGE | FAdA FEED |
-B,E/E/EE B,EGE | FDA,G, A,DFA, | B,E (3(EGE) CEGE | FAdA FEED :|
-|: eb^ab fgeg | fdad bdad | eb^ab fgeg | fBAc BEED |
-eb^ab fgeg | fdad bdad | EFGA B2 dB | AFDF FE E2 :|
 
 
 X:20
@@ -1251,8 +1574,6 @@ cBAc BAGB | AGEF GED2 | EAAB cBcd |[1 edcB A2 AB :|[2 edcB A2 eg |]
 |: a2 ab ageg | agab agef | g2 ga gede | geae gede |
 a2 ab ageg | agab agef | g2 ge a2 ae |[1 bagf gfeg :|[2 bagf gfed |]
 
-%%scale .65
-%%staffsep 30
 
 X:22
 T:Out on the Ocean
@@ -1276,8 +1597,6 @@ AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
 |: f2d dcd | faa afd | cAA eAA | cAA efg |
 fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
 
-%%scale .75
-%%staffsep 35
 
 X:25
 T:Road to Lisdoonvarna
@@ -1309,8 +1628,6 @@ GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
 |: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
 G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 
-%%scale .7
-%%staffsep 35
 
 X:28
 T:Road to Lisdoonvarna
@@ -1342,23 +1659,7 @@ GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |]
 |: B3 dBd | ege dBG | B3 dBG| ABA AGA |
 B3 dBd | ege dBd | gfg aga | bgf g3:|
 
-%%scale .65
-%%staffsep 35
 
-X:32
-T:Kitty Lie Over
-S:Learned from Jessie, Joe, and Tim at Tigin session 1/23/16. Has a different B part than I originally learned
-R:Jig
-M:6/8
-L:1/8
-K:D
-def edB | AFD AFD | DFA AFA | Bed e3 |
-def edB | AFD AFD | DFA AFA | Bdc d3 :|
-|: fef afd | gfg bag | fef afd | fgg efg |
-fef afd | gfg bag | fga efg | fdc d3 :|
-
-%%scale .75
-%%staffsep 35
 
 X:34
 T:Where I Told Her I Loved Her and Sprained Her Ankle
@@ -1384,8 +1685,6 @@ DFA DFA|cBc GBc|dcd Acd|age cBA:|
 |: aa/a/a age|ged e2 f|gfg def|gfg age|
 aa/a/a age|ged e2 f|gfg dfg|age cBA:|
 
-%%scale .65
-%%staffsep 35
 
 X:37
 T:Where I Told Her I Loved Her and Sprained Her Ankle
@@ -1411,8 +1710,6 @@ DFA DFA|cBc GBc|dcd Acd|age cBA:|
 |: aa/a/a age|ged e2 f|gfg def|gfg age|
 aa/a/a age|ged e2 f|gfg dfg|age cBA:|
 
-%%scale .6
-%%staffsep 20
 
 X:40
 T:Walls of Liscarroll, The
@@ -1425,20 +1722,6 @@ dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
 [1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
 dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
 
-X:42
-T:Merrily Kissed the Quaker
-M:6/8
-R:Slide
-K:G
-GAB D2B | c2A BGE | GAB DEG | A2A AGE |
-GAB D2B | c2A BGE | GAB DEF |[1 G2G GFE :|[2 G2G G2A |]
-|: BGG AGG | BGG AGE | GAB DEG | A2A AGA |
-BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
-|: g2g a2a | bag edB | g2g gab | a2a agf |
-g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
-
-%%scale .62
-%%staffsep 20
 
 X:43
 T:Tar Road to Sligo
@@ -1464,45 +1747,7 @@ A,DA cBA | GFD EFG | cB/c/c dcB | AGE D3 :|
 [1 dcd ecA | dc/d/d ecA | cBc dcB | AGE D3 :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
 
-%%scale .75
-%%staffsep 35
 
-X:46
-T:Maggie in the Woods
-M:2/4
-R:Polka
-L:1/8
-K:G
-GD G>A | Be ef/e/ | dB AG/A/ | BA A2 |
-GD G>A | Be ef/e/ | dB AB/A/ | G2 G2 :|
-|: gf ed | ef g2 | dB AG/A/ | BA A2 |
-gf ed | ef g2 | dB AB/A/ | G2 G2 :|
-
-X:47
-T:Peggy Lettermore
-M:2/4
-R:Polka
-L:1/8
-K:G
-Bd BG | Bd dB/B/ | Bd cB | A2 A2 |
-Bd BG | Bd gd/d/ | dB AB/A/ | G2 G2 :|
-|: g2 dB/B/ | Bc dg/g/ | gd cB | A2 A2 |
-gg dB/B/ | Bc dd/d/ | dB AB/A/ | G2 G2 :|
-
-%%scale .7
-%%staffsep 30
-
-X:48
-T:Lilting Banshee
-M:6/8
-R:jig
-K:Ador
-EAA EAA | BAB G2A | Bee edB | dBA GED |
-EAA EAA | BAB G2A | Bee edB | BAG A2G |
-EAA EAA | BAB G2A | Bee edB | def gfg |
-eAA eAA | BAB G2A | Bee edB | BAG A2d |
-|: eaa age | dBA G2A | Bee edB | def gfg |
-eaa age | dBA G2A | Bee edB | BAG A2d :|
 
 X:50
 T:Tripping up the Stairs
@@ -1514,8 +1759,6 @@ FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 |: dBB fBB | fgf fed | cAA eAA | efe edc |
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
-%%scale .7
-%%staffsep 30
 
 
 
@@ -1530,8 +1773,6 @@ K:D
 |: d2de f2ed | cdef gfec | d2 de f2 ed | cAGE EDD2 |
 d2de f2ed | cdef g2 ga | f2 fd efed | cAGE EDD2 :|
 
-%%scale .68
-%%staffsep 25
 
 X:54
 T:Worn Petticoat, The
@@ -1555,59 +1796,6 @@ efe B2A | GFE B2E | FED F2A | F2E E3:|
 [1 B2e ede | f2a afa | baf a2f | e3 e2d :|
 [2 faf f2e | efe B2A | FED F2A | F2E E3 |]
 
-%%scale .75
-%%staffsep 30
-
-X:57
-T:Oddfellows in Plainville, The
-C:Ed Yother
-C:http://edyother.com
-M:6/8
-R:jig
-K:G
-BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EDB, |
-BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EE/E/E :|
-|: dd/d/d dcB | GBd gfe | dd/d/d dcB | GAB cBA |
-BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF E3 :|
-
-X:58
-T:Lydia has no Faith in Cats
-C:Ed Yother
-C:http://edyother.com
-M:6/8
-L:1/8
-R:jig
-K:Bmin
-FBB dBc | ded cBA | eA/A/A cAc | dcB AFE |
-FB/B/B dBc | ded cBA | gfe dAB | cdc BB/B/B :|
-|: fd/d/d Bdd | FBd fed | ec/c/c Acc |EAc edc |
-dc/d/d ede | fdf bb/b/b | afd eAB | cdc BB/B/B:|
-
-X:59
-T:Kesh Jig
-R:jig
-M:6/8
-K:G
-G3 GAB | AGA ABd | edd gdd | edB dBA |
-GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |]
-|: B3 dBd | ege dBG | B3 dBG| ABA AGA |
-B3 dBd | ege dBd | gfg aga | bgf g3:|
-
-%%scale .75
-%%staffsep 46
-
-%%scale .75
-%%staffsep 30
-
-X:63
-T:Merry Blacksmith
-M:C|
-R:reel
-K:D
-(3(ABc) | d2dA BAFA | ABdA BAFA | ABde (3(fgf) ed | Beed (3(efg) fe |
-d2dA BAFA | ABdA BAFA | ABde (3fgf ed | BABc d2 :|
-|: fg | a2 ag f2 fe | dedA BAFA | ABde (3(fgf) ed | Beed (3efg fe |
-abag fgfe | dedA BAFA |  ABde (3fgf ed | BABc d2 :|
 
 X:66
 T:Toss the Feathers
@@ -1620,45 +1808,6 @@ D2 (3(=FED) AD (3(=FED)|ABcA GE~E2|cABG A2B^c|dfed cAGE:|
 efge afge|dfed cAAB|cABG A2B^c|dfed cAGE:|
 
 
-X:68
-T:Lark in the Morning, The
-R:jig
-M:6/8
-K:D
-AFA AFA | BGB BdB | AFA Ade | fed BdB |
-AFA AFA | BGB BdB | def afe | fdB BdB :|
-|: def a3 | baf afe | def afe | fdB BdB |
-def a3 | baf afd | g3 fgf | edB BdB :|
-|: d2f fef | fef fef | d2f fef | edB BdB |
-d2f fef | fef fef | g3 fgf | edB BdB :|
-|: Add fdd | ede fdB | Add fdd | edB BdB |
-Add fdd | ede fef | g3 fgf | edB BdB :|
-
-%%scale .7
-%%staffsep 30
-
-%%scale .70
-%%staffsep 46
-
-X:72
-T:The Maid Behind The Bar
-R:reel
-M:4/4
-L:1/8
-K:Dmaj
-|:FAAB AFED|FAAB ABde|fBBA Bcde|f2gf edBA|
-FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
-|:faab afde|fdad fd d2|efga beef|gebe gfeg|
-fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
-
-X:73
-T:Musical Priest, The
-R:reel
-M:4/4
-K:Bm
-FBBA B2 Bd | cBAf edBA | FBBA B2 Bd |[1 cBAc B2 BA :|[2 cBAc B2 Bc |]
-|: d2 dc dfed | (3(cBA) eA fAeA | dcBc defb | afed B2 Bc :|
-|: dB B2 bafb | afed Bcde | dB B2 bafb |[1 afed B2 Bc :|[2 afed B2 BA |]
 
 X:74
 T:Silver Spear
@@ -1670,49 +1819,7 @@ FAAd BAFA | dfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
 |: fa a2 bfaf | gfed Bcde | fa a2 bfaf | gfed (3(BcB)A2 |
 fa a2 bfaf | gfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
 
-%%scale .64
-%%staffsep 25
 
-X:75
-T:Oak Cliff Road
-C:Ed Yother
-C:http://edyother.com
-K:Gdor
-R:Reel
-M:4/4
-DGG^F G2 GA | BAGd cAGF | DFFE F2 FA | cFdF cAGF |
-DGG^F G2 GA | BAGd cAGF | dcde fedc | AdcA GFDC :|
-|: GABc d2 dg | fagd fdcA | cAGD FEFD | CDFG AGFD |
-GABc d2 dg | fagd fdcA | c=Bcd fdcA |[1 GBAG FDCD :|[2 c2 cA GFDC |]
-
-X:76
-T:O'Dowd's Pitch
-C:Ed Yother
-C:http://edyother.com
-K:Gdor
-R:Reel
-M:C|
-BAGB AGFD | CD D2 EDCD | FEDG FDCF | DCA,D CA,G,2 |
-BAGB AGFA | c2 cA GAdA | BAGd cAGB | AGFD CA,G,2 :|
-|: BAGd cAGB | AGFA cAFA | BAGd cAGB | AGFD CDFA |
-BAGd cAGB | AGFA cAFA | B2 Bc BAGA | BAGF DFGA :||
-
-X:77
-T:Kitty on the Rail
-M:C|
-R:reel
-C:Ed Yother
-C:http://edyother.com
-K:Ddor
-|: d2 ed fded | cdef edcA | d2 ed fded | cdgc acgc |
-d2 ed fded | cdef edcA | fedc AGAB | cAdc AFD2 :|
-| (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABA2 |
-(3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABc2 |
-| ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | ({c}d2)d2 dcAG | (3(ABc) de f2ff |
-({c}d2)d2 dcAG | (3ABA AG (3ABA AG | (3DEF AB cAdc | AFE2 D4 |
-
-%%scale .75
-%%staffsep 30
 
 X:78
 T:Whistling Wrangler, The
@@ -1740,8 +1847,6 @@ af/f/ ed | ef ed | Bg BA | EF D2 :|
 |: EF DE | FA dB/B/ | Bg BA | Bc BA |
 EF DE | FA dB/B/ | Bg BA | EF D2 :|
 
-%%scale .75
-%%staffsep 35
 
 X:82
 T:Untitled Reel
@@ -1754,8 +1859,6 @@ EAAG EDB,D | GBAd cAGF | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 EAAG EDB,D | (3DEF AB dBAG | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 |:  EAAd cAGF | Eeef gfed | (3BcB Bc dcBA | FBAF EDB,D :|
 
-%%scale .75
-%%staffsep 35
 
 X:84
 T:Sailing Into Walpole's Marsh
@@ -1771,19 +1874,6 @@ AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAA2 ||
 |: egg2 eaa2 | gedB cAA2 | egg2 eaab | age^c d2ef |
 g3e a3f | gedB cAAB | c2gc acgc |[1 eage d2cd :|[2 eage d3c |]
 
-%%scale .75
-%%staffsep 35
-
-X:88
-T:Miss Monaghan's
-S:Learned from Joe, and Tim at Tigin session 1/23/16
-R:Reel
-M:4/4
-K:D
-D2ED EFAF | ABBA FABc | d3B ABde | fede fee2 |
-D2ED EFAF | ABBA FABc | d3B ABdB | AFEG FDD2 :|
-|: faab afdf | gdfd edBc | dedB ABde | fede fee2 |
-faab afdf gdfd edBc | dedB ABdB | AFEG FDD2 :|
 
 X:94
 T:Kid On The Mountain
@@ -1911,16 +2001,6 @@ G3 GAB | AGE GAB | c2A BGE | DED D3 :|
 |: c2A BAG | ABA AGE | c2A BGE | DED DEG |
 c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 
-X:118
-T:Mountain Road
-M:4/4
-R:Reel
-K:D
-F2 AF BFAF | F2 AF EFDE | F2 AF BFAF | G2F2 EFDE |
-F2 AF BFAF | F2 AF EFDE | F2 AF BFAF | ABde fgfe ||
-dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
-dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
-
 X:120
 T:Tatter Jack Walsh
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith  2/2/16
@@ -1943,19 +2023,6 @@ DFA dcd | ecA efg | fef g3 | edc d3 :|
 dfa agf | efg efg | fef g3 | ecA GFE |
 DFA dcd | ecA efg | fef g3 | edc d3 :|
 
-X:122
-T:Mooncoin
-R:jig
-M:6/8
-L:1/8
-K:Amix
-| cBA AEA | AEA Bcd | cBA Ace | dBG Bcd |
-| cBA AEA | AEA Bcd | Ace g3 | dBG Bcd :|
-|: cde efg | f/g/af ged | cde efg | f/g/aA Bcd |
-| cde efg | afd bge | afd gec | dBG Bcd :|
-|: cBA Aaf | ecA Bcd | cBA g3 | dBG Bcd |
-| cBA Aaa | Agg Aff | Aee efg | dBG Bcd :|
-
 X:123
 T:Tobin's Favorite
 R:jig
@@ -1966,18 +2033,6 @@ DFA dcd | ecA efg | fef g3 | ecA GFE |
 DFA dcd | ecA efg | fef g3 | edc d3 :|
 dfa agf | efg efg | fef g3 | ecA GFE |
 DFA dcd | ecA efg | fef g3 | edc d3 :|
-
-X:124
-T:Out on the Ocean
-M:6/8
-R:jig
-K:G
-D2B BAG | BdB ABA | GED G2A | B2 B AGE |
-D2B BAG | BdB ABA | GED G2A |[1 BGF GEE :|[2 BGF GBd |]
-e3 edB | e3 edB | d3 dBA | d3 dBA |
-G2A B2d | ege dBA | GED G2A | BGF GBd |
-e3 edB | efe edB | d3 def | gfe dBA |
-G2A B2d | ege dBA | GED G2A | BGF GE2 |]
 
 X:125
 T:Tripping up the Stairs
@@ -2011,8 +2066,6 @@ fdd cAA | BGG A2G | FAA def | gec d3 :|
 |: FAA BAG | FAA BAG | FAA def | gfg eag |
 fdd cAA | BGG A2G | FAA def | gec d3 :|
 
-%%scale .7
-%%staffsep 35
 
 X:129
 T:Donnybrook Fair
@@ -2029,18 +2082,6 @@ G3 AGA | B2e dBA | B3 GAB | AGF G3 :|
 |: gfe fec | e3 dBA | B2e dBA | Bed e3 |
 gfe fec | e3 dBA | B3 GAB | AGF G3 :|
 
-X:129
-T:Old Hag You Have Killed Me
-K:Dmix
-R:Jig
-M:6/8
-L:1/8
-FED c2A | ded cAG | A3 ABG | ABG A2G |
-FED c2A | ded cAF | G3 GBA | GBA G2G :|
-|: fef gfg | afd cAG | A3 ABG | ABG A2e |
-fef gfg | afd cAF | G3 GBA |[1 GBA G2e :|[2 GBA G2G |]
-
-%%scale .65
 %%staffsep 35
 
 X:132
@@ -2080,64 +2121,6 @@ c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
 |: egg2 agg2 | egg2 ed^cd | eaa2 baa2 | eaag ed^cd |
 egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
-X:135
-T:The Old Bush
-R:reel
-M:4/4
-L:1/8
-K:Dmix
-S:Taylor Stirm
-|: A2GA cAA2 | d^cde fde=c | A2GA cAA2 | dfed cAdc |
-A2GA cAA2 | d^cde f3g | afge fde^c |[1 dfed cAdc :|[2 dfed cAG2 |]
-|: egg2 ed^cd | efge c3d | egg2 afge | dfed cAA2 |
-egg2 agg2 | fed^c defg | afge fde^c |[1 dfed cAG2 :|[2 dfed cAdc |]
-
-X:138
-T:Reel de Montebello
-C:Richard Forest
-R:reel
-M:4/4
-L:1/8
-K:Amin
-EABc ecBA | FABc ecBA | GABc dcBd | edBc dcBA |
-EABc ecBA | FABc ecBA | GABc dcBG | EDEG A3z :|
-aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
-aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
-
-X:140
-T:Reel de Montreal
-R:reel
-M:4/4
-L:1/8
-K:G
-|:g2fe dcBA | GBDG B2AG | FADF AcBA| GBDG Bdef |
-g2fe dcBA | GBDG B2AG | FGAB cdef |[1 g2 gf g2d2 :|[2 g2 gf g4 |]
-K:D
-|: A2FA d2Ad | f2df a2ab | a2 g2 e2 g2 | b2 a2 f2 d2 |
-A2FA d2Ad | f2df a2ab | a2 g2 e2 c2 |[1 d4 d4 :|[2 d2 _e2 =e2 f2 |]
-
-X:141
-T:Lucy Farr's
-R:Barndance
-M:4/4
-L:1/8
-K:G
-(3(DEF) | G4 G4 | GABG E2 D2 | B4 B4 | BcdB A4 |
-BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G2 :|[2 A2 G2 G4|]
-|: BcdB G2 G2 | GABG E2 D2 | DEGA BddB | B2 A2 A4 |
-BcdB G2 G2 | GABG E2 D2 | DEGA BddB |[1 A2 G2 G4 :|[2 A2 G2 G2 |]
-
-X:143
-T:Kilnamona
-R:Barndance
-M:4/4
-L:1/8
-K:G
-dGBd GB d2 | d2 c2 A3 B | c2 A2 e3 e | e2 d2 B4 |
-dGBd GB d2 | d2 c2 A3 B | c2 A2 e2 d2 | G4 G4 :|
-|: b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 a2 a2 ga |
-b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
-
 X:147
 T:Ask John
 C:Ask John
@@ -2162,18 +2145,6 @@ F3 AFF | dFF AFF | G3 BAB | GED D3 :|
 |: d2e f3 | edA AFA | d3e f3 | faf ged |
 d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
-X:152
-T:Kilashandra Lasses
-S:Sean Gavin
-L:1/8
-R:Jig
-M:6/8
-K:D
-G3 BGG | dGG BGG | A3 ABd | edB AGF |
-G3 BGG | dGG B3 | ABc BAB GEE E3 |:
-|: def gfe | ded BAG | A3 ABd edB AGE |
-def gfe | ded BAG | ABC BAB | GEE E3 :|
-
 X:153
 T:Sonny's Mazurka
 L:1/8
@@ -2184,30 +2155,6 @@ DF|:A2 AG FA | d2 dB cA | G2 GB AG | FG EF DF |
 A2 AG FA | d2 dA BA | GF Gg fe | d4 :|
 Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
 f2 fa gf | e2 eg fe | dc df ec | d4 :|
-
-X:154
-T:Mickey Dalton's #3
-C:Mickey Dalton
-S:Shannon Heaton
-L:1/8
-R:Polka
-M:2/4
-K:D
-GA/B/ ed | B2 BA | GA/B/ ed | A2 AG |
-FD FA | f3 e |[1 dc/d/ ed | B3 A :|[2 dc/d/ ef | g3 d |]
-|: g2 fe | dB Bd | g2 fe | d2 dA |
-eA eA | f3 e c/d/ ed | B3 d :|[2 dc/d/ ef | gd BA |]
-
-X:155
-T:The Kerry Polka
-L:1/8
-R:Polka
-M:2/4
-K:D
-fA BA | fA BA | d2 e>f | ed BA |
-fA BA | fa BA | d2 e>f | ed dd2 :|
-|: fb fe | ed BA | d2 e>f | ed BA |
-fb fe | ed BA | d2 e>f | ed d2 :|
 
 X:156
 T:Sweeney's Polka
@@ -2259,15 +2206,6 @@ A2GE FDDF | EFGF EFGE | A2GE FDDF | EFGE A4 :|
 |: cAA2 (3Bcd eg | fdec dcAd | cAA2 (3Bcd eg | fdec d4 :|
 
 
-X:161
-T:O'Connel's Trip to Parliment
-S:Sean Gavin
-R:Reel
-M:4/4
-K:D
-dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
-|:f3a gfed | (3Bcd ef g2fe | defg a2ge | a2ge edd2 :|
-
 
 X:162
 T:Tá an Coileach Ag Fógairt an Lae
@@ -2280,30 +2218,6 @@ D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
 GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
 d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
 gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
-
-X:163
-T:My Darling Asleep
-S:Seán Gavin
-R:jig
-M:6/8
-L:1/8
-K:D
-ag | fdd cAA | BAG A2G | FAA def | g3 eag |
-fdd cAA | BAG A2G | FAA def | gec d3 :|
-|: FAA BAG | FAA BAG | FAA def | g3 eag |
-fdd cAA | BAG A2G | FAA def | gec d3 :|
-
-X:165
-T:O'Mahoney's
-S:Sean Gavin
-R:hornpipe
-M:4/4
-L:1/8
-K:D
-ge | dBAB G2GA | BA (3Bcd g2ga | bage dBGB | A2GB A2ge |
-dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
-|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
-dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:166
 T:Stack of Barley 
