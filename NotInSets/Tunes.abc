@@ -665,7 +665,18 @@ Add ded | cAB cde | fed cAG | FDD D3 :|
 
 X:057
 T:Garrett Barry's
+M:6/8
+R:jig
+K:Dmix
+DEF G3 | AGE c2A | dcA d2e | fed cAG |
+DEF G3 | AGE cde  dc A GEA | DED D3 :|
+|: dcA d2e | fed efg | dcA c2d | egd ecA |
+dcA d2e | fed efg | dcA GEA | DED D3 :|
+
+X:057.5
+T:Garrett Barry's
 T:In D Dorian, from Kevin Burke's playing
+S:Robert Freeman
 R:Jig
 M:6/8
 L:1/8
@@ -998,7 +1009,7 @@ GD G>A | Be ef/e/ | dB AB/A/ | G2 G2 :|
 gf ed | ef g2 | dB AB/A/ | G2 G2 :|
 
 X:085
-T:The Maid Behind The Bar
+T:Maid Behind The Bar, The
 R:reel
 M:4/4
 L:1/8
@@ -1007,6 +1018,16 @@ K:Dmaj
 FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
 |:faab afde|fdad fd d2|efga beef|gebe gfeg|
 fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
+
+X:085.5
+T:Mason's Apron, The
+M:C|
+R:reel
+K:A
+eg | aA A2 ABAF | EFAB cABc | dB B2 BcBA | Bcde fefg |
+aA A2ABAF | EFAB cABc | dcde fega | AAcB A2 :|
+|: ee | (=c^c)ec fe e2 | (=c^c)ec fe e2 | d2 fd gdfd | d2 fd gdfd |
+(=c^c)ec fe e2 | (=c^c)ec fe e2 | dcde fega | AAcB A2 :|
 
 X:086
 T:Master Crowley's
@@ -1246,11 +1267,45 @@ Bd BG | Bd gd/d/ | dB AB/A/ | G2 G2 :|
 |: g2 dB/B/ | Bc dg/g/ | gd cB | A2 A2 |
 gg dB/B/ | Bc dd/d/ | dB AB/A/ | G2 G2 :|
 
+X:107
+T:Persistence of Noel Reid, The
+C:Ed Yother
+C:http://edyother.com
+M:6/8
+R:jig
+K:G
+DFA DFA|cBc G2A|cBc GBc|({c}d2) d/d/ dcA|
+DFA DFA|cBc GBc|dcd Acd|age cBA:|
+|: aa/a/a age|ged e2 f|gfg def|gfg age|
+aa/a/a age|ged e2 f|gfg dfg|age cBA:|
 
-##
+X:108
+T:The Pipe On The Hob #1
+R:jig
+M:6/8
+L:1/8
+K:Dmix
+|: d^cd A2G | F2D DED | EDE c2E | E2D D3 |
+dcB cBA | BAG A2G | EDE c2E | E2D D3 :|
+|: f2d d^cd | f2d d^cd | ecB c3 | ece age |
+|[1 f2d d^cd | f2d d^cd | ed^c eag | fd^c d3 :|
+|[2 fef gfg | agf gfe | fed eag | ed^c d3 ||
 
-X:4
-T:A Polka
+X:109
+T:The Pipe On The Hob #2
+R:jig
+M:6/8
+L:1/8
+K:Ador
+B|: c2c edc| edc BAG|ABA g3|eaa ged|
+c3 edc|edc deg|age edB| ABA A3:|
+g2g gea|age dBA|ABA g2e|aba gef|
+g3 gea|age deg|age dBe|ABA A3:|
+c2c d2d|edc AGE|c3 d2d|edc A2B|
+cBc dcd|ede gab|age dBe|ABA A3:|
+
+X:110
+T:Polka, A
 M:2/4
 L:1/8
 R:Polka
@@ -1261,79 +1316,65 @@ AF DF | EF DF | AF AB | d2 :|
 [1 dB | d2 fd | ef dB | AF AB | d2 :|]
 [2 dB | df f/e/f/g/ | af f>g | af ef | d2 |]
 
-X:5
-T:A Finnish Polka
-M:2/4
-L:1/8
-R:Polka
-K:Bm
-B>c Bc | dB Bd | cA Ac | d/c/B/A/ BF |
-B>c Bc | dB B2 | ee dc | BA B2 :|
-|: fd/d/ | df | ed/d/ cd | e/f/e/d/ dc | Bc de |
-fd/d/ | df | ed/d/ cd | e/f/e/d/ dc | BA B2 :|
-
-X:6
-T:Jessica's Polka
-M:2/4
-L:1/8
-R:Polka
-C:Mick Hanly
-K:A
-ef/e/ ce | fe Bc | AA/B/ cA | ec B2 |
-ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
-|: FF/B/ AF | cB A2 | ef/e/ ce | ag f2 |
-ef/e/ ce | fe Bc | AA/B/ cA | FA E2 :|
-
-
-X:7
-T:Blarney Pilgrim, The
-M:6/8
-L:1/8
-R:jig
-K:Dmix
-D3 DEG | A3 ABc | BAG AGE | GEA GED |
-D3 DEG | A3 ABc | BAG AGE | GED D3 :|
-|: ded dBG | AGA BGE | ded dBG | AGA B2d |
-g2e d2B | AGA BGE | B2G AGE | GAG G3 :|
-|: A2D B2D | A2D ABc | BAG AGE | GEA GED |
-A2D B2D | A2D ABc | BAG AGE | GED D3 :|
-
-X:8
-T:Garrett Barry's
-M:6/8
-R:jig
-K:Dmix
-DEF G3 | AGE c2A | dcA d2e | fed cAG |
-DEF G3 | AGE cde  dc A GEA | DED D3 :|
-|: dcA d2e | fed efg | dcA c2d | egd ecA |
-dcA d2e | fed efg | dcA GEA | DED D3 :|
-
-
-X:11
-T:Garrett Barry's
-T:In D Dorian, from Kevin Burke's playing
+X:111
+T:Rakes of Kildare
+S:Sean Gavin
 R:Jig
 M:6/8
-L:1/8
-K:Ddor
-DCD G3 | AGA c3 | dcA d2e | fed cAG |
-FEF GFG | AGA cde | dcA GEA |[1 DED A,3 :|[2 DED D3 |]
-|: dcA d2e | fag f2e | dcA c2d | egd ecA |
-dcA d2e | fag f2e | dcA GEA | DED D3 :|
-
-X:12
-T:Banish Misfortune
-M:6/8
-R:jig
 K:Dmix
-fed cAG | A2d cAG | F3 DED | F3 GFG |
-A3 cAG | AGA cde | fed cAG | Ad^c d2e :|
-|: f2d d^cd | f2g agf | e2c cBc | e2f gfe |
-f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
-|: f2g e2f | d2e cdc | A3 GAG | FGF AFD |
-c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
+DGG GFG | ABc d2e | fef ded | cAG FEF |
+|[1 DGG GFG | ABc d2e | fed cAF | G3 GFE :|
+|[2 G2A BAG | ABc d2e | fed cAF | G3 G2d ]|
+|: gdg gdg | gdg a2g | fef ded | cAG FEF |
+|[1 gdg gdg | gdg a2g | fed cAF | G3 G2d :|
+|[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
 
+X:112
+T:Rakish Paddy
+K:Ador
+M:4/4
+R:Reel
+S:Taylor Stirm
+AB |: c2 AB c2 AB | cBAG EGGA | Ddd^c defe | dcAG FGAB |
+c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
+|: egg2 agg2 | egg2 ed^cd | eaa2 baa2 | eaag ed^cd |
+egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
+X:113
+T:Rambling Pitchfork
+S:Conal O'Grada
+L:1/8
+R:Jig
+M:6/8
+K:D
+F3 AFF | dFF AFF | G3 ABc | ded cBA |
+F3 AFF | dFF AFF | G3 BAB | GED D3 :|
+|: d2e f3 | edA AFA | d3e f3 | faf ged |
+d2e f3 | edA AFD | G3 BAB | GED D3 :|
+
+X:114
+T:Return to Milltown
+M:C|
+R:reel
+K:Dm
+D2 (3(FED) ADFD | C2EC FCEC | D2 (3A,A,A, D2 ED | CDEG cGED |
+D2 (3(FED) ADFD | C2EC FCEC | F2 FD E2 ED | CDEG cGED :|
+K:D
+|: d2de f2ed | cdef gfec | d2 de f2 ed | cAGE EDD2 |
+d2de f2ed | cdef g2 ga | f2 fd efed | cAGE EDD2 :|
+
+X:115
+T:Road to Lisdoonvarna
+M:6/8
+R:Slide
+K:Edor
+D | E2B B2A | B2c d3 | F2A ABA | D2E FED |
+E2B B2A | B2c d3 | cdc B2A |[1 B2E E2 :|[2 B2E E3 |]
+|: e2f gfe | d2B Bcd | c2A ABc | dcd Bcd |
+e2f gfe | d2B Bcd | cdc B2A |[1 B2E E3 :|[2 B2E E2 |]
+
+ 
+##
 
 X:13
 T:Yellow Tinker, The
@@ -1457,18 +1498,6 @@ Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
 
 
-X:4
-T:A Polka
-M:2/4
-L:1/8
-R:Polka
-K:D
-d>B | AF DF | EF DF | AF AB | e2 d>B |
-AF DF | EF DF | AF AB | d2 :|
-|: dB | d2 fd | ef dB | AF AB | e2 |
-[1 dB | d2 fd | ef dB | AF AB | d2 :|]
-[2 dB | df f/e/f/g/ | af f>g | af ef | d2 |]
-
 
 X:7
 T:Blarney Pilgrim, The
@@ -1482,16 +1511,6 @@ D3 DEG | A3 ABc | BAG AGE | GED D3 :|
 g2e d2B | AGA BGE | B2G AGE | GAG G3 :|
 |: A2D B2D | A2D ABc | BAG AGE | GEA GED |
 A2D B2D | A2D ABc | BAG AGE | GED D3 :|
-
-X:8
-T:Garrett Barry's
-M:6/8
-R:jig
-K:Dmix
-DEF G3 | AGE c2A | dcA d2e | fed cAG |
-DEF G3 | AGE cde  dc A GEA | DED D3 :|
-|: dcA d2e | fed efg | dcA c2d | egd ecA |
-dcA d2e | fed efg | dcA GEA | DED D3 :|
 
 
 X:12
@@ -1530,16 +1549,6 @@ GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
 |: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
 G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 
-
-X:16
-T:Mason's Apron, The
-M:C|
-R:reel
-K:A
-eg | aA A2 ABAF | EFAB cABc | dB B2 BcBA | Bcde fefg |
-aA A2ABAF | EFAB cABc | dcde fega | AAcB A2 :|
-|: ee | (=c^c)ec fe e2 | (=c^c)ec fe e2 | d2 fd gdfd | d2 fd gdfd |
-(=c^c)ec fe e2 | (=c^c)ec fe e2 | dcde fega | AAcB A2 :|
 
 X:17
 T:Tam Lin
@@ -1629,16 +1638,6 @@ GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
 G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 
 
-X:28
-T:Road to Lisdoonvarna
-M:6/8
-R:Slide
-K:Edor
-D | E2B B2A | B2c d3 | F2A ABA | D2E FED |
-E2B B2A | B2c d3 | cdc B2A |[1 B2E E2 :|[2 B2E E3 |]
-|: e2f gfe | d2B Bcd | c2A ABc | dcd Bcd |
-e2f gfe | d2B Bcd | cdc B2A |[1 B2E E3 :|[2 B2E E2 |]
-
 X:29
 T:Swallowtail Jig
 M:6/8
@@ -1698,18 +1697,6 @@ GED DEG | (B/c/B)G AGE | GED DEF |[1 GG/G/G GFE :|[2 GG/G/G GBc |]
 |: dB/B/B BGB | FGA BAB | cA/A/A AFA | DEF GF/F/G |
 DEF GF/F/G | AGE GAB | cBA DEF |[1 GG/G/G GBc :|[2 GG/G/G GED |]
 
-X:39
-T:Persistence of Noel Reid, The
-C:Ed Yother
-C:http://edyother.com
-M:6/8
-R:jig
-K:G
-DFA DFA|cBc G2A|cBc GBc|({c}d2) d/d/ dcA|
-DFA DFA|cBc GBc|dcd Acd|age cBA:|
-|: aa/a/a age|ged e2 f|gfg def|gfg age|
-aa/a/a age|ged e2 f|gfg dfg|age cBA:|
-
 
 X:40
 T:Walls of Liscarroll, The
@@ -1761,17 +1748,6 @@ dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
 
 
-
-X:53
-T:Return to Milltown
-M:C|
-R:reel
-K:Dm
-D2 (3(FED) ADFD | C2EC FCEC | D2 (3A,A,A, D2 ED | CDEG cGED |
-D2 (3(FED) ADFD | C2EC FCEC | F2 FD E2 ED | CDEG cGED :|
-K:D
-|: d2de f2ed | cdef gfec | d2 de f2 ed | cAGE EDD2 |
-d2de f2ed | cdef g2 ga | f2 fd efed | cAGE EDD2 :|
 
 
 X:54
@@ -1954,31 +1930,6 @@ K:Emin
 Ace aed cBA | GBd gdc BAG | Ace aed cBA | BAG EFG A3 |
 Ace aed cBA | GBd gdc BAG | E2A GBB Acc | Bdd c2e de=f |
 
-X:113
-T:The Pipe On The Hob #1
-R:jig
-M:6/8
-L:1/8
-K:Dmix
-|: d^cd A2G | F2D DED | EDE c2E | E2D D3 |
-dcB cBA | BAG A2G | EDE c2E | E2D D3 :|
-|: f2d d^cd | f2d d^cd | ecB c3 | ece age |
-|[1 f2d d^cd | f2d d^cd | ed^c eag | fd^c d3 :|
-|[2 fef gfg | agf gfe | fed eag | ed^c d3 ||
-
-X:114
-T:The Pipe On The Hob #2
-R:jig
-M:6/8
-L:1/8
-K:Ador
-B|: c2c edc| edc BAG|ABA g3|eaa ged|
-c3 edc|edc deg|age edB| ABA A3:|
-g2g gea|age dBA|ABA g2e|aba gef|
-g3 gea|age deg|age dBe|ABA A3:|
-c2c d2d|edc AGE|c3 d2d|edc A2B|
-cBc dcd|ede gab|age dBe|ABA A3:|
-
 X:115
 T:Tatter Jack Walsh
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith  2/2/16
@@ -2110,17 +2061,6 @@ Add dcB | ABA AFA | dcd ede | fdc d3 :|
 |: add dcd | BGG G3 | bee ede | cAA A3 |
 Add dcB | ABA AFA | dcd ede | fdc d3 :|
 
-X:134
-T:Rakish Paddy
-K:Ador
-M:4/4
-R:Reel
-S:Taylor Stirm
-AB |: c2 AB c2 AB | cBAG EGGA | Ddd^c defe | dcAG FGAB |
-c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
-|: egg2 agg2 | egg2 ed^cd | eaa2 baa2 | eaag ed^cd |
-egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
-
 X:147
 T:Ask John
 C:Ask John
@@ -2132,18 +2072,6 @@ K:D
 FG | A3F A2 | G4 A2 | (D6 | D4) EF | G4 B,2 | C4 B,2 | (A,6 | A,2) B,2 C2 |
 D4 E2 | F4 G2 | A3A d2 | A4 G2 | F3E D2 | E3D C2 | (D6 | D4) :|
 
-
-X:151
-T:Rambling Pitchfork
-S:Conal O'Grada
-L:1/8
-R:Jig
-M:6/8
-K:D
-F3 AFF | dFF AFF | G3 ABc | ded cBA |
-F3 AFF | dFF AFF | G3 BAB | GED D3 :|
-|: d2e f3 | edA AFA | d3e f3 | faf ged |
-d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
 X:153
 T:Sonny's Mazurka
@@ -2180,19 +2108,7 @@ cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
 
-X:157.5
-T:Rakes of Kildare
-S:Sean Gavin
-R:Jig
-M:6/8
-K:Dmix
-DGG GFG | ABc d2e | fef ded | cAG FEF |
-|[1 DGG GFG | ABc d2e | fed cAF | G3 GFE :|
-|[2 G2A BAG | ABc d2e | fed cAF | G3 G2d ]|
-|: gdg gdg | gdg a2g | fef ded | cAG FEF |
-|[1 gdg gdg | gdg a2g | fed cAF | G3 G2d :|
-|[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
- 
+
 
 
 X:160
