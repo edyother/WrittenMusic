@@ -65,4 +65,5 @@
 \contentsline {section}{\textrm {O'Mahoney's / The Stack of Barley / Bantry Bay \(hornpipes\)}}{65}{}%
 \contentsline {section}{\textrm {Bucks of Oranmore, The \(reel\)}}{66}{}%
 \contentsline {section}{\textrm {The Torn Jacket / Come West Along the Road}}{67}{}%
-\contentsline {section}{\textrm {Index}}{68}{}%
+\contentsline {section}{\textrm {The Stack of Wheat / Johnny Will You Marry Me?}}{68}{}%
+\contentsline {section}{\textrm {Index}}{69}{}%
