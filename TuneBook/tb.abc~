@@ -2256,3 +2256,31 @@ d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc |
 d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :| 
 |: g2bg egdg | egdg edBd | g2bg egdg | ABcd edBc | 
 g2bg egdg | egdg edBd | gbbg efge | dega bage :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:171
+T:Stack of Wheat, The
+S:Sean Gavin
+R:hornpipe
+M:C
+L:1/8
+K:G
+BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | dBAG E2BA |
+GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
+| (3Bcd |: edBd edgd | edBd e3f | gedB GABG | dBAG E2 (3Bcd |
+|[1 edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
+|[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
+
+X:172
+T:Johnny Will You Marry me
+T:Some Say the Devil is Dead
+S:Sean Gavin
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
+|: d2dc Bcd2 | e2ed cde2 | d2dc Bcd2 | GABG A2G2 :|

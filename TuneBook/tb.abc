@@ -2268,10 +2268,10 @@ R:hornpipe
 M:C
 L:1/8
 K:G
-BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | DBAG E2BA |
+BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | dBAG E2BA |
 GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
-|:(3Bcd | edBd edgd | edBd e3f | gedB GABG | dBAG E2(3Bcd |
-|[1 edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
+|: (3Bcd | edBd edgd | edBd e3f | gedB GABG | dBAG E2 |
+|[1 (3Bcd | edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
 |[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
 
 X:172
@@ -2283,4 +2283,4 @@ M:4/4
 L:1/8
 K:G
 GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
-|: d2dc Bcd2 | e2ed cde2 | d2dc Bcd2 | GABG B2AG :|
+|: d2dc Bcd2 | e2ed cde2 | d2dc Bcd2 | GABG A2G2 :|
