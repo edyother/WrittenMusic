@@ -540,6 +540,14 @@ The few tunes in here that I have composed are included under a Creative Commons
 \addcontentsline{toc}{section}{\protect\textrm{The Torn Jacket / Come West Along the Road}}
 \includepdf[pages=67]{tb.pdf}
 
+\index{Stack of Wheat, The}
+\index{Johnny Will You Marry Me\?}
+
+\newpage
+\addcontentsline{toc}{section}{\protect\textrm{The Stack of Wheat / Johnny Will You Marry Me?}}
+\includepdf[pages=68]{tb.pdf}
+
+
 \newpage
 \addcontentsline{toc}{section}{\protect\textrm{Index}}
 \printindex
