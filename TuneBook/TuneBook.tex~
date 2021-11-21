@@ -537,21 +537,21 @@ The few tunes in here that I have composed are included under a Creative Commons
 \index{Come West Along the Road}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{The Torn Jacket / Come West Along the Road}}
+\addcontentsline{toc}{section}{\protect\textrm{The Torn Jacket / Come West Along the Road \(reels\)}}
 \includepdf[pages=67]{tb.pdf}
 
 \index{Little Stack of Wheat, The}
 \index{Johnny Will You Marry Me?}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{The Little Stack of Wheat / Johnny Will You Marry Me?}}
+\addcontentsline{toc}{section}{\protect\textrm{The Little Stack of Wheat / Johnny Will You Marry Me? \(hornpipes\)}}
 \includepdf[pages=68]{tb.pdf}
 
 \index{Catharsis}
 \index{Wizard's Walk, The}
 
 \newpage
-\addcontentsline{toc}{section}{\protect\textrm{Catharsis / The Wizard's Walk}}
+\addcontentsline{toc}{section}{\protect\textrm{Catharsis / The Wizard's Walk \(reels\)}}
 \includepdf[pages=69]{tb.pdf}
 
 \newpage
