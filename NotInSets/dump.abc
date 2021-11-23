@@ -334,6 +334,31 @@ a3 bag | eaf ged | ({B}c2)A BAG | EFG A3 :|
 [1 ege dBA | ege dBA | GAB dBA | BAG A3 :|
 [2 e3 dee | cee Bee | EFG AGF | EDB, A,3 |]
 
+X:49
+T:Coffee
+C:Gary Haggerty
+M:6/8
+R:jig
+K:Ador
+EAA GAA | cBA eAA | EAA GAA | cBA (A/B/A)A |
+EAA GAA | cBA eAA | cBA (A/B/A)A | GED A2G :|
+|: A,2C EGA | (c/B/A)A GED | A,2C EGA | (c/B/A)A (A/B/A)A |
+A,2C EGA | dcc cAG | dcc cAG | EDE A3 :|
+
+X:1
+T:Coffee on the Bricks
+C:Ed Yother
+C:c.2012
+C:http://edyother.com
+M:6/8
+R:jig
+K:Dmix
+Dfe dBA | FAB AFE | Ec/c/c cBA | Ec/c/c cBA |
+Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
+|: Af/f/f Af/f/f | gfe def | edc ABc | ABA FED |
+[1 Af/f/f Af/f/f | gfe def | afb afe | ed^c d3 :|
+[2 Ec/c/c cBA | ged cAG | Ec/c/c cBE | EDD D3 ||
+
 
 --
 
@@ -2545,17 +2570,6 @@ eAA eAA | BAB G2A | Bee edB | BAG A2d |
 |: eaa age | dBA G2A | Bee edB | def gfg |
 eaa age | dBA G2A | Bee edB | BAG A2d :|
 
-X:49
-T:Coffee
-C:Gary Haggerty
-M:6/8
-R:jig
-K:Ador
-EAA GAA | cBA eAA | EAA GAA | cBA (A/B/A)A |
-EAA GAA | cBA eAA | cBA (A/B/A)A | GED A2G :|
-|: A,2C EGA | (c/B/A)A GED | A,2C EGA | (c/B/A)A (A/B/A)A |
-A,2C EGA | dcc cAG | dcc cAG | EDE A3 :|
-
 X:50
 T:Tripping up the Stairs
 M:6/8
@@ -3864,20 +3878,6 @@ A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
 |: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
 [1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
-
-X:1
-T:Coffee on the Bricks
-C:Ed Yother
-C:c.2012
-C:http://edyother.com
-M:6/8
-R:jig
-K:Dmix
-Dfe dBA | FAB AFE | Ec/c/c cBA | Ec/c/c cBA |
-Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
-|: Af/f/f Af/f/f | gfe def | edc ABc | ABA FED |
-[1 Af/f/f Af/f/f | gfe def | afb afe | ed^c d3 :|
-[2 Ec/c/c cBA | ged cAG | Ec/c/c cBE | EDD D3 ||
 
 X:50
 T:Lydia has no Faith in Cats
