@@ -254,6 +254,86 @@ f2df efde | f2df edBd | fa3 bfaf | defd efdB |]
 [| Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
 Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |] 
 
+X:93
+T:Butterfly, The
+R:Slip Jig
+M:9/8
+L:1/8
+K:Emin
+B2E G2E F3 | B2E G2E FED | B2E G2E F3 | B2d d2B AGF :|
+|: B2d e2f g3 | B2d g2e dBA | B2d e2f g2a | b2a g2e dBA :|
+|: B3 B2A G2A | B3 BAB dBA | B3 B2A G2A | B2d g2e dBA :|
+
+X:71
+T:Calliope House
+C:Dave Richardson
+M:6/8
+R:Jig
+K:Dmaj
+a3 faa | eaa def | g3 f3 | (e/f/e)e edB |
+(A/B/A)A A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
+|: dAA fAA | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
+A2B d2e |[1 f3 fed | e3 e2A :|[2 f3 edB | d3 dfg |]
+
+X:1
+T:Cappy's Hill
+M:4/4
+L:1/8
+C:Ed Yother
+C:c.2003
+C:http://edyother.com
+R:Hornpipe
+K:G
+(3DEF|G2G2BG Bc|de dcB2(3AGF|A2A2cB cG|AB AF D2(3DEF|
+GF GA BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2:|[2 G2B2G2(3def|
+|: gf gd BA Bc|de dc B2(3AGF|A2A2cB cG|Bc d2d2(3def|
+gf gd BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2 (3def:|[2 G2B2G2||
+
+X:25
+T:Catharsis
+S:The Portland Collection
+R:reel
+M:C|
+L:1/8
+K:Gm
+DGGF DGGF | DFGA BGAF | DGGF DGGF | DCB,C B,A,B,G, |
+DGGF DGGF | DFGA BGAc | dcBc BAGF |1 DFFG G2 G2 :|2 DGGF GABc |]
+|: dGGc GGBG | GAGG GABc | dFFc FFBF | FAFF GABc |
+dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
+
+X:136
+T:Chief O'Neill's Favorite
+R:Hornpipe
+M:4/4
+L:1/8
+K:Dmix
+de | ((3fgf) fg afge | fded dcAG | ((3FED) FD FGAB | ((3cBA) dc A2 de |
+((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
+DE | =F2FE FGAB | ((3cBA) dB cAGB | Adde fded | ((3cBA) dc A2 de |
+((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
+
+X:144
+T:Church St Polka, The
+K:G
+R:Polka
+M:2/4
+S:Conal O'Grada
+BG D>G | Ec cA/B/ | cE F>E | Dd d/e/d/c/ |
+BG D>G | Ec cA/B/ | c/B/A/G/ F/D/E/F/| GB G2 :|
+|: g2 f2 | c3 d | ef/e/ d2 | B3 c |
+d>e dB | A3 B/A/ |[1 GA Bc | de fd :|[2 Gg f/g/a/g/ | gf g2 |]
+
+X:44
+T:Cliffs of Moher, The
+M:6/8
+R:jig
+K:Ador
+a3 bag | eaf ged | ({B}c2)A BAG | EFG Ace |
+a3 bag | eaf ged | ({B}c2)A BAG | EFG A3 :|
+|: ege dBA | ege dBA | GAB dBA | GAB dBd |
+[1 ege dBA | ege dBA | GAB dBA | BAG A3 :|
+[2 e3 dee | cee Bee | EFG AGF | EDB, A,3 |]
+
 
 --
 
@@ -2416,17 +2496,6 @@ B | Aff Aff | fgg efg | add dcd | Bed cBA |
 [1 Aff Aff | fgg efg | afe bge | edc d2 :|
 [2 fed gfe | afe bge | aaa bag | edc d2 |]
 
-X:44
-T:Cliffs of Moher, The
-M:6/8
-R:jig
-K:Ador
-a3 bag | eaf ged | ({B}c2)A BAG | EFG Ace |
-a3 bag | eaf ged | ({B}c2)A BAG | EFG A3 :|
-|: ege dBA | ege dBA | GAB dBA | GAB dBd |
-[1 ege dBA | ege dBA | GAB dBA | BAG A3 :|
-[2 e3 dee | cee Bee | EFG AGF | EDB, A,3 |]
-
 X:45
 T:Salt River Road
 C:Ed Yother
@@ -2661,17 +2730,6 @@ d2f fef | fef fef | g3 fgf | edB BdB :|
 |: Add fdd | ede fdB | Add fdd | edB BdB |
 Add fdd | ede fef | g3 fgf | edB BdB :|
 
-
-X:71
-T:Calliope House
-C:Dave Richardson
-M:6/8
-R:Jig
-K:Dmaj
-a3 faa | eaa def | g3 f3 | (e/f/e)e edB |
-(A/B/A)A A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
-|: dAA fAA | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
-A2B d2e |[1 f3 fed | e3 e2A :|[2 f3 edB | d3 dfg |]
 
 
 X:72
@@ -2913,16 +2971,6 @@ F3 A cA | F3 G AB | c2 B2 A2 | BA GA BG |
 cB AB cA | d2 g2 ^f2 | g3 a ba | g2 f2 d2 |
 c2 A2 d2 :| G3 A G2 | G3 A GF :|]
 
-
-X:93
-T:ButterFly, The
-R:Slip Jig
-M:9/8
-L:1/8
-K:Emin
-B2E G2E F3 | B2E G2E FED | B2E G2E F3 | B2d d2B AGF :|
-|: B2d e2f g3 | B2d g2e dBA | B2d e2f g2a | b2a g2e dBA :|
-|: B3 B2A G2A | B3 BAB dBA | B3 B2A G2A | B2d g2e dBA :|
 
 X:94
 T:Kid On The Mountain, The
@@ -3377,17 +3425,6 @@ A2GA cAA2 | d^cde f3g | afge fde^c |[1 dfed cAdc :|[2 dfed cAG2 |]
 egg2 agg2 | fed^c defg | afge fde^c |[1 dfed cAG2 :|[2 dfed cAdc |]
 
 
-X:136
-T:Chief O'Neill's Favorite
-R:Hornpipe
-M:4/4
-L:1/8
-K:Dmix
-de | ((3fgf) fg afge | fded dcAG | ((3FED) FD FGAB | ((3cBA) dc A2 de |
-((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
-DE | =F2FE FGAB | ((3cBA) dB cAGB | Adde fded | ((3cBA) dc A2 de |
-((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
-
 
 
 X:138
@@ -3466,17 +3503,6 @@ dGBd GB d2 | d2 c2 A3 B | c2 A2 e2 d2 | G4 G4 :|
 |: b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 a2 a2 ga |
 b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 
-
-X:144
-T:Church St Polka, The
-K:G
-R:Polka
-M:2/4
-S:Conal O'Grada
-BG D>G | Ec cA/B/ | cE F>E | Dd d/e/d/c/ |
-BG D>G | Ec cA/B/ | c/B/A/G/ F/D/E/F/| GB G2 :|
-|: g2 f2 | c3 d | ef/e/ d2 | B3 c |
-d>e dB | A3 B/A/ |[1 GA Bc | de fd :|[2 Gg f/g/a/g/ | gf g2 |]
 
 X:145
 T:Happy Polka, The
@@ -3993,20 +4019,6 @@ Bd AF | Ad ff/f/ | gf ea | fe d2 :|
 Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 || 
 
 X:1
-T:Cappy's Hill
-M:4/4
-L:1/8
-C:Ed Yother
-C:c.2003
-C:http://edyother.com
-R:Hornpipe
-K:G
-(3DEF|G2G2BG Bc|de dcB2(3AGF|A2A2cB cG|AB AF D2(3DEF|
-GF GA BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2:|[2 G2B2G2(3def|
-|: gf gd BA Bc|de dc B2(3AGF|A2A2cB cG|Bc d2d2(3def|
-gf gd BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2 (3def:|[2 G2B2G2||
-
-X:1
 T:Ed Yother's Hornpipe #1
 R:Hornpipe
 M:4/4
@@ -4366,18 +4378,6 @@ GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
 |:(3Bcd | edBd edgd | edBd e3f | gedB GABG | dBAG E2(3Bcd |
 |[1 edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
 |[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
-
-X:25
-T:Catharsis
-S:The Portland Collection
-R:reel
-M:C|
-L:1/8
-K:Gm
-DGGF DGGF | DFGA BGAF | DGGF DGGF | DCB,C B,A,B,G, |
-DGGF DGGF | DFGA BGAc | dcBc BAGF |1 DFFG G2 G2 :|2 DGGF GABc |]
-|: dGGc GGBG | GAGG GABc | dFFc FFBF | FAFF GABc |
-dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
 
 X:26
 T:Wizard's Walk, The
