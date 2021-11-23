@@ -4,7 +4,7 @@
 %%staffsep 40
 
 X:1
-T:Foxhunter's Jig
+T:Foxhunter's Jig, The
 K:D
 M:9/8
 L:1/8
@@ -15,7 +15,7 @@ R:Slip Jig
 |: gfe d=cB AGA | B2E E2F G2B | ABc dcB ABc | d2D DEF E2D :|
 
 X:2
-T:Banks of Lough Gowna
+T:Banks of Lough Gowna, The
 M:6/8
 L:1/8
 R:Jig
@@ -26,7 +26,7 @@ B3 BAF | FEF DFA | def geg | fdB B2A :|
 def a3 | afb afe | def geg | fdB B3 :|
 
 X:3
-T:Star Above the Garter
+T:Star Above the Garter, The
 M:6/8
 L:1/8
 R:Jig
@@ -63,7 +63,7 @@ dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:6
-T:Stack of Barley 
+T:Stack of Barley, The
 S:Sean Gavin
 R:hornpipe
 M:4/4
@@ -128,7 +128,7 @@ dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
 
 
 X:11
-T:Rakes of Kildare
+T:Rakes of Kildare, The
 S:Sean Gavin
 R:Jig
 M:6/8
@@ -142,7 +142,7 @@ DGG GFG | ABc d2e | fef ded | cAG FEF |
  
 
 X:12
-T:The Yellow Cow
+T:Yellow Cow, The
 T:Mother and Child
 S:Sean Gavin
 R:Reel
@@ -295,7 +295,7 @@ F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
 FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
 
 X:24
-T:Stack of Wheat, The
+T:Little Stack of Wheat, The
 S:Sean Gavin
 R:hornpipe
 M:C

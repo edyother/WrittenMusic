@@ -1,24 +1,41 @@
-X:20
-T:Johnny Will You Marry me
-T:Some Say the Devil is Dead
-S:Sean Gavin
-R:Hornpipe
-M:4/4
+X:25
+T:Catharsis
+S:The Portland Collection
+R:reel
+M:C|
 L:1/8
-K:G
-GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
-|: d2dc Bcd2 | e2ed cde2 | d2dc Bcd2 | GABG B2AG :|
+K:Gm
+DGGF DGGF | DFGA BGAF | DGGF DGGF | DCB,C B,A,B,G, |
+DGGF DGGF | DFGA BGAc | dcBc BAGF |1 DFFG G2 G2 :|2 DGGF GABc |]
+|: dGGc GGBG | GAGG GABc | dFFc FFBF | FAFF GABc |
+dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
 
-X:24
-T:Stack of Wheat, The
-S:Sean Gavin
-R:hornpipe
-M:C
+X:26
+T:Wizard's Walk, The
+S:The Portland Collection
+R:reel
+M:C|
 L:1/8
-K:G
-BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | DBAG E2BA |
-GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
-|:(3Bcd | edBd edgd | edBd e3f | gedB GABG | dBAG E2(3Bcd |
-|[1 edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
-|[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
+K:Em
+e2dc BAGF | GAFG E2B2 | e3f gfef | gafg e4 |
+a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
+[| BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg]c | BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg] |  
+[Bf]BBB [cg]ccc |[Bf]BBB [cg]ccc | [Bf]B^cc ^ddee | ffgg aabb |
+|:egbe bgeg | ^dfbf bfdf | =dfab afdB | ^ceae aecA |
+=cege cdgd | Bege Bege | _Bege Bege | =Bege fe^df !coda!:|
+!coda![| e2dc BAGF | G2 e2 F2 ^d2 | e4 B2 G2 | E4 e2 z2 |] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
