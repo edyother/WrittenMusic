@@ -10,19 +10,6 @@
 %%staffsep 35
 
 X:001
-T:An Phis Fhliuch
-S:Taylor Stirm at Nine Irish Brothers session
-R:slip jig
-M:9/8
-L:1/8
-K:Dmix
-FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
-|: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
-|: FGA Afd Afd | Afd Afd AFD | FGA AFA c2A | BAG FAF GED :|
-|: ~D3 ~D3 c3 | c2B c2A GED | ~D3 ~D3 d2^c | dfe dcA GED :|
-|: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
-
-X:002
 T:Ash Plant, The
 M:C|
 R:reel
@@ -66,7 +53,7 @@ f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
 c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 
 X:006
-T:The Bank Of Turf
+T:Bank Of Turf, The
 R:jig
 M:6/8
 L:1/8
@@ -111,7 +98,7 @@ g3 f3 | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
 g3 f3 | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
 
 X:010
-T:The Belfast Hornpipe
+T:Belfast Hornpipe, The
 R:Hornpipe
 M:4/4
 L:1/8
@@ -146,7 +133,7 @@ d2 d>B | AF d2 | FA E>F | ED D2 :|
 FA AF | GB B2 | FA E>F | ED D2 :|
 
 X:013
-T:Bird in the Bush
+T:Bird in the Bush, The
 S:Learned from Joe, and Tim at Tigin session 1/23/16
 R:Reel
 M:4/4
@@ -158,8 +145,8 @@ d2eB dBB2 | dBAB G2GE | DEGA B2eB | dBAc BGG2 :|
 bgg2 agef | g2fe dBAG | DEGA B2eB | dBAc BGG2 :|
 
 X:014
-T:Blackthorn Stick
-T:Coach Road To Sligo
+T:Blackthorn Stick, The
+T:Coach Road To Sligo, The
 R:jig
 M:6/8
 K:G
@@ -351,7 +338,7 @@ d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :|
 g2bg egdg | egdg edBd | gbbg efge | dega bage :|
 
 X:030
-T:The Concertina Reel
+T:Concertina Reel, The
 R:Reel
 M:4/4
 L:1/8
@@ -480,7 +467,7 @@ EDEF GFGA | Beed e2ef | gefd edBA | GBAG FED2 :|
 gfeg fedA | Beed e2ef | gefd edBA | GBAG FED2 :|
 
 X:041
-T:The Earl's Chair
+T:Earl's Chair, The
 R:reel
 M:4/4
 L:1/8
@@ -582,7 +569,7 @@ aga efg | aga e2d | cBA BAG |[1 A3 A3 :|[2 A3 A2f |]
 e2c cBA | e^de a2=d | cBA BAG |[1 A3 A2f :|[2 A3 A3 |]
 
 X:050
-T:A Finnish Polka
+T:Finnish Polka, A
 M:2/4
 L:1/8
 R:Polka
@@ -604,7 +591,7 @@ dAFD GBAG | FDFD GBAG | FGAB cdec | d2 dc d2 :|
 BGDG BdcB | AFDF A2 GA |  BdcB  AGFE | D2 d2 D2 :|
 
 X:052
-T:Foxhunter's Jig
+T:Foxhunter's Jig, The
 K:D
 M:9/8
 L:1/8
@@ -627,7 +614,7 @@ A3F ABde | fdec d2cd | BAGB ABde | faeg fdd2 :|
 fdad bdaf | dfaf gfed | BAGB ABde | faeg fdd2 :|
 
 X:054
-T:The Freize Britches
+T:Freize Britches, The
 R:jig
 M:6/8
 L:1/8
@@ -687,7 +674,7 @@ FEF GFG | AGA cde | dcA GEA |[1 DED A,3 :|[2 DED D3 |]
 dcA d2e | fag f2e | dcA GEA | DED D3 :|
 
 X:058
-T:The Golden Gardens
+T:Golden Gardens, The
 C:Randal Bays
 S:Lisa Gilbert
 M:9/8
@@ -702,7 +689,7 @@ B3 BAB d2B | c3 cBc e2c | B3 BAB d2B | cAF DEF G2A |
 BAB BAB d2B | cBc cBc e2c | B3 BAB d2B | cAF DEF Gdc :|
 
 X:059
-T:Happy Days of Youth
+T:Happy Days of Youth, The
 S:Liam O'Flynn "McKenna's #2"
 R:Reel
 M:4/4
@@ -761,7 +748,7 @@ A,C | D2 DC DE | DC A,C DF | ({F}G2) GA GD | F2 G2 A2 |
  D2 DE FG | Ad cA GF | DC  DF  EC |[1 D2 A2 c2 :|[2  D4 |]
 
 X:064
-T:The Humors of Ballylaughlin
+T:Humors of Ballylaughlin, The
 S:Chuck Whittemore
 L:1/8
 R:Jig
@@ -825,7 +812,7 @@ c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 X:069
 T:Joe Cooley's
 R:reel
-C:Joe Mills, Galway (1938)
+C:Joe Mills
 M:C|
 K:Edor
 EBBA (3(BcB) EB|~B2AB dBAG|(3(FED) AD BDAD|(3(FED) FA dAFD|
@@ -889,7 +876,7 @@ fA BA | fa BA | d2 e>f | ed dd2 :|
 fb fe | ed BA | d2 e>f | ed d2 :|
 
 X:075
-T:Kesh Jig
+T:Kesh Jig, The
 R:jig
 M:6/8
 K:G
@@ -899,7 +886,7 @@ GFG GAB | AGA ABd | edd gdB |[1 AGF G2D :|[2 AGF G3 |]
 B3 dBd | ege dBd | gfg aga | bgf g3:|
 
 X:075.5
-T:Kid On The Mountain
+T:Kid On The Mountain, The
 R:slip jig
 M:9/8
 L:1/8
@@ -975,7 +962,7 @@ d2f fef | fef fef | g3 fgf | edB BdB :|
 Add fdd | ede fef | g3 fgf | edB BdB :|
 
 X:081
-T:Lilting Banshee
+T:Lilting Banshee, The
 M:6/8
 R:jig
 K:Ador
@@ -1065,7 +1052,7 @@ BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
 g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
 
 X:088
-T:Merry Blacksmith
+T:Merry Blacksmith, The
 M:C|
 R:reel
 K:D
@@ -1099,7 +1086,7 @@ D2ED EFAF | ABBA FABc | d3B ABdB | AFEG FDD2 :|
 faab afdf gdfd edBc | dedB ABdB | AFEG FDD2 :|
 
 X:091
-T:Reel de Montebello
+T:Montebello, Reel de  
 C:Richard Forest
 R:reel
 M:4/4
@@ -1111,7 +1098,7 @@ aece gecA | GABc dcBA | gddf ddgf | edcB cdeg |
 aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
 
 X:092
-T:Reel de Montreal
+T:Montreal, Reel de  
 R:reel
 M:4/4
 L:1/8
@@ -1136,7 +1123,7 @@ K:Amix
 | cBA Aaa | Agg Aff | Aee efg | dBG Bcd :|
 
 X:094
-T:Mountain Road
+T:Mountain Road, The
 M:4/4
 R:Reel
 K:D
@@ -1235,7 +1222,7 @@ GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 GF GB AG ED | GB dg e2 (3def | gf gd ed BG | (3(ABA) EF G2 :|
 
 X:103
-T:The Old Bush
+T:Old Bush, The
 R:reel
 M:4/4
 L:1/8
@@ -1293,7 +1280,7 @@ DFA DFA|cBc GBc|dcd Acd|age cBA:|
 aa/a/a age|ged e2 f|gfg dfg|age cBA:|
 
 X:108
-T:The Pipe On The Hob #1
+T:Pipe On The Hob #1, The
 R:jig
 M:6/8
 L:1/8
@@ -1305,7 +1292,7 @@ dcB cBA | BAG A2G | EDE c2E | E2D D3 :|
 |[2 fef gfg | agf gfe | fed eag | ed^c d3 ||
 
 X:109
-T:The Pipe On The Hob #2
+T:Pipe On The Hob #2, The
 R:jig
 M:6/8
 L:1/8
@@ -1330,7 +1317,7 @@ AF DF | EF DF | AF AB | d2 :|
 [2 dB | df f/e/f/g/ | af f>g | af ef | d2 |]
 
 X:111
-T:Rakes of Kildare
+T:Rakes of Kildare, The
 S:Sean Gavin
 R:Jig
 M:6/8
@@ -1343,7 +1330,7 @@ DGG GFG | ABc d2e | fef ded | cAG FEF |
 |[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
 
 X:112
-T:Rakish Paddy
+T:Rakish Paddy, The
 K:Ador
 M:4/4
 R:Reel
@@ -1354,7 +1341,7 @@ c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
 egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
 X:113
-T:Rambling Pitchfork
+T:Rambling Pitchfork, The
 S:Conal O'Grada
 L:1/8
 R:Jig
@@ -1412,7 +1399,7 @@ AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAA2 ||
 g3e a3f | gedB cAAB | c2gc acgc |[1 eage d2cd :|[2 eage d3c |]
 
 X:118
-T:The Salmon's Leap
+T:Salmon's Leap, The
 C:Randal Bays
 M:9/8
 L:1/8
@@ -1436,7 +1423,7 @@ A,DA cBA | GFD EFG | cB/c/c dcB | AGE D3 :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
 
 X:120
-T:Ships Are Sailing
+T:Ships Are Sailing, The
 R:reel
 M:C|
 L:1/8
@@ -1447,7 +1434,7 @@ Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA |[1 Beed e2 ed :|[2 Beed e3f |]
 gfga bgeg | fefg afdf | g2bg f2af |[1 edef gfef :|[2 edef gfed |]
 
 X:121
-T:Silver Spear
+T:Silver Spear, The
 R:reel
 M:4/4
 K:D
@@ -1478,7 +1465,7 @@ fffg fedB | A2 FA DAFA | BBed cABc | eddc d2e2 :|
 f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
 
 X:124
-T:Stack of Barley 
+T:Stack of Barley, The
 S:Sean Gavin
 R:hornpipe
 M:4/4
@@ -1490,7 +1477,7 @@ dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
 agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
 
 X:125
-T:Staten Island Hornpipe
+T:Staten Island Hornpipe, The
 R:reel
 M:4/4
 L:1/8
@@ -1501,7 +1488,7 @@ FDFG A2A2 | dfed dcBA| d2d2 efge | f2d2 d2 :|
 agfa gfeg | fedf e2A2 | d2d2 efge | f2d2 d2 :|
 
 X:125.5
-T:Star of Munster
+T:Star of Munster, The
 M:C|
 R:reel
 K:Ador
@@ -1512,7 +1499,7 @@ a2 ab ageg | agab agef | g2 ge a2 ae |[1 bagf gfeg :|[2 bagf gfed |]
 
 
 X:126
-T:Swallowtail Jig
+T:Swallowtail Jig, The
 M:6/8
 R:jig
 K:Edor
@@ -1545,7 +1532,7 @@ A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 |[1 FEDC D2 DC :|[2 FEDC DFA^c |]
 (^cd)dA FD D2 | (^cd)dA FD D2 | B,D D2 CE E2 |[1 FEDC DFA^c :|[2 FEDC D2 |]
 
 X:129
-T:Tar Road to Sligo
+T:Tar Road to Sligo, The
 M:6/8
 R:jig
 K:Edor
@@ -1767,7 +1754,7 @@ c2c BcB | A2G E2D | EFG A2G |[1 A3 :|[2 A6 |]
 [2 c2c BcB | A2G E2D | EFG A2G | A3 |]
 
 X:148
-T:The Yellow Cow
+T:Yellow Cow, The
 T:Mother and Child
 S:Sean Gavin
 R:Reel
