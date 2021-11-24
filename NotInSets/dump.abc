@@ -1709,6 +1709,62 @@ AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
 |: f2d dcd | faa afd | cAA eAA | cAA efg |
 fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
 
+X:20
+T:Ships Are Sailing, The
+R:reel
+M:C|
+L:1/8
+K:Edor
+Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA | Beef gfed |
+Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA |[1 Beed e2 ed :|[2 Beed e3f |]
+|: gfga bgeg | fefg afdf | gfga bgeg | fedf e2 ef |
+gfga bgeg | fefg afdf | g2bg f2af |[1 edef gfef :|[2 edef gfed |]
+
+
+T:Silver Spear, The
+R:reel
+M:4/4
+K:D
+FA A2 BAFA | dfed Bcde | FA A2 BAFA | dfed (3(BcB)A2 |
+FAAd BAFA | dfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
+|: fa a2 bfaf | gfed Bcde | fa a2 bfaf | gfed (3(BcB)A2 |
+fa a2 bfaf | gfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
+
+X:14
+T:Slide from Sarah
+R:Slide
+M:6/8
+K:D
+L:1/8
+S:Played by Sarah Greenwell the first time she came to the West Lafayette session
+d2f g2e | fed B2A | d2f a2f | e3 ede | 
+f2a g2e | fed B2A | def edc |1 d3 d3 :|2 d3 dcd |
+|: efe ece | a3 a3 | efe edc | d2c Bcd | 
+efe ece | a3 a3 | efe dcB |1  A3 A3 :|2 ABA GFE | D2
+
+X:21
+T:Soggy's
+S:thesession.org
+R:Slipjig
+M:9/8
+L:1/8
+K:A
+E2E cEB BAE | F2F BFA AFE | F2F BAB cef | a2f ecB BAF |
+E2E cEB BAE | F2F B2c AFE | F2F BAB cef | a2f ecB A3 :|
+|: D2D FGA AGF | G2G FGA BAG | A2e dec fBf | AGF EFG A3 |
+D2D FGA AGF | G2G FGA BAG | Ace dec fBf | AGF EFG A3 :|
+
+X:153
+T:Sonny's Mazurka
+L:1/8
+K:D
+M:3/4
+R:mazurka
+DF|:A2 AG FA | d2 dB cA | G2 GB AG | FG EF DF |
+A2 AG FA | d2 dA BA | GF Gg fe | d4 :|
+Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
+f2 fa gf | e2 eg fe | dc df ec | d4 :|
+
 
 --
 
@@ -3459,17 +3515,6 @@ GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
 G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
 
 
-X:20
-T:Ships Are Sailing, The
-R:reel
-M:C|
-L:1/8
-K:Edor
-Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA | Beef gfed |
-Beed BcdB | AD (3(FED) AD (3(FED) | EDEF GFGA |[1 Beed e2 ed :|[2 Beed e3f |]
-|: gfga bgeg | fefg afdf | gfga bgeg | fedf e2 ef |
-gfga bgeg | fefg afdf | g2bg f2af |[1 edef gfef :|[2 edef gfed |]
-
 X:21
 T:Star of Munster, The
 M:C|
@@ -3748,16 +3793,6 @@ a2ab agef | g2ga ged2 | cBcd eged | cABG A2 A2 |:
 
 
 
-X:74
-T:Silver Spear, The
-R:reel
-M:4/4
-K:D
-FA A2 BAFA | dfed Bcde | FA A2 BAFA | dfed (3(BcB)A2 |
-FAAd BAFA | dfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
-|: fa a2 bfaf | gfed Bcde | fa a2 bfaf | gfed (3(BcB)A2 |
-fa a2 bfaf | gfed Bcde | g2 ge (3(fgf) fe | dfed (3(BcB)A2 :|
-
 
 
 X:78
@@ -3991,17 +4026,6 @@ aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
 
 
 
-
-X:153
-T:Sonny's Mazurka
-L:1/8
-K:D
-M:3/4
-R:mazurka
-DF|:A2 AG FA | d2 dB cA | G2 GB AG | FG EF DF |
-A2 AG FA | d2 dA BA | GF Gg fe | d4 :|
-Ad | f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
-f2 fa gf | e2 eg fe | dc df ec | d4 :|
 
 
 X:156
@@ -4312,18 +4336,6 @@ A2GF FDDF | EFGF EFGE | A2GE FDDF | EFGE A4 :|
 
 
 
-X:14
-T:Slide from Sarah
-R:Slide
-M:6/8
-K:D
-L:1/8
-S:Played by Sarah Greenwell the first time she came to the West Lafayette session
-d2f g2e | fed B2A | d2f a2f | e3 ede | 
-f2a g2e | fed B2A | def edc |1 d3 d3 :|2 d3 dcd |
-|: efe ece | a3 a3 | efe edc | d2c Bcd | 
-efe ece | a3 a3 | efe dcB |1  A3 A3 :|2 ABA GFE | D2
-
 
 X:16
 T:Tá an Coileach Ag Fógairt an Lae
@@ -4354,18 +4366,6 @@ a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB ||
 f2df efde | f2df edBd | fa3 bfaf | defd efdB || 
 || Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
 Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB || 
-
-X:21
-T:Soggy's
-S:thesession.org
-R:Slipjig
-M:9/8
-L:1/8
-K:A
-E2E cEB BAE | F2F BFA AFE | F2F BAB cef | a2f ecB BAF |
-E2E cEB BAE | F2F B2c AFE | F2F BAB cef | a2f ecB A3 :|
-|: D2D FGA AGF | G2G FGA BAG | A2e dec fBf | AGF EFG A3 |
-D2D FGA AGF | G2G FGA BAG | Ace dec fBf | AGF EFG A3 :|
 
 
 X:23

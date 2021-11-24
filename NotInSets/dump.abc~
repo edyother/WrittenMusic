@@ -1616,6 +1616,99 @@ c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
 |: egg2 agg2 | egg2 ed^cd | eaa2 baa2 | eaag ed^cd |
 egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
+X:151
+T:Rambling Pitchfork, The
+S:Conal O'Grada
+L:1/8
+R:Jig
+M:6/8
+K:D
+F3 AFF | dFF AFF | G3 ABc | ded cBA |
+F3 AFF | dFF AFF | G3 BAB | GED D3 :|
+|: d2e f3 | edA AFA | d3e f3 | faf ged |
+d2e f3 | edA AFD | G3 BAB | GED D3 :|
+
+X:53
+T:Return to Milltown
+M:C|
+R:reel
+K:Dm
+D2 (3(FED) ADFD | C2EC FCEC | D2 (3A,A,A, D2 ED | CDEG cGED |
+D2 (3(FED) ADFD | C2EC FCEC | F2 FD E2 ED | CDEG cGED :|
+K:D
+|: d2de f2ed | cdef gfec | d2 de f2 ed | cAGE EDD2 |
+d2de f2ed | cdef g2 ga | f2 fd efed | cAGE EDD2 :|
+
+X:28
+T:Road to Lisdoonvarna, The
+M:6/8
+R:Slide
+K:Edor
+D | E2B B2A | B2c d3 | F2A ABA | D2E FED |
+E2B B2A | B2c d3 | cdc B2A |[1 B2E E2 :|[2 B2E E3 |]
+|: e2f gfe | d2B Bcd | c2A ABc | dcd Bcd |
+e2f gfe | d2B Bcd | cdc B2A |[1 B2E E3 :|[2 B2E E2 |]
+
+X:127
+T:Saddle The Pony
+R:jig
+M:6/8
+L:1/8
+K:G
+GBA G2B | def gdB | GBA G2B | AFD AFD |
+GBA G2B | def gfg | ege dBG | AGF G3 :||
+e3 edB | def gfg | e3 edB | dBA ABd |
+e3 edB | def gfg | ege dBG | AGF G3 :||
+
+X:84
+T:Sailing Into Walpole's Marsh
+S:The Andy Irvine / Paul Brady album
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+A3G ABcA | GEE2 GED2 | EAAG ABcd | edgd BAdB |
+AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAdB |
+A3G c3A | GEE2 GED2 | EAAG ABcd | edgd BAdB |
+AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAA2 ||
+|: egg2 eaa2 | gedB cAA2 | egg2 eaab | age^c d2ef |
+g3e a3f | gedB cAAB | c2gc acgc |[1 eage d2cd :|[2 eage d3c |]
+
+X:108
+T:Salmon's Leap, The
+C:Randal Bays
+M:9/8
+L:1/8
+R:Slip Jig
+K:Emin
+|: e3 edc BAG | EAA ABc Bcd | e3 edc BAG | EAc BAG A3 :|
+Ace aed cBA | GBd gdc BAG | Ace aed cBA | BAG EFG A3 |
+Ace aed cBA | GBd gdc BAG | E2A GBB Acc | Bdd c2e de=f |
+
+X:36
+T:Salt River Road
+C:Ed Yother
+C:c.2012
+C:http://edyother.com
+M:6/8
+R:jig
+K:Dmix
+A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
+A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
+|: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
+[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
+[2 dcd ecA | gfg agf | def gde | ceB A3 |]
+
+X:23
+T:Shandon Bells, The
+M:6/8
+R:jig
+K:D
+AFD DFA | ded cBA | BGE E2G | B2A Bcd |
+AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
+|: f2d dcd | faa afd | cAA eAA | cAA efg |
+fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
+
 
 --
 
@@ -3400,16 +3493,6 @@ G2A B2d | ege dBA | GED G2A | BGF GBd |
 e3 edB | efe edB | d3 def | gfe dBA |
 G2A B2d | ege dBA | GED G2A | BGF GE2 |]
 
-X:23
-T:Shandon Bells, The
-M:6/8
-R:jig
-K:D
-AFD DFA | ded cBA | BGE E2G | B2A Bcd |
-AFD DFA | ded cBA | Bcd ecA |[1 ded d2B :|[2 ded d2g |]
-|: f2d dcd | faa afd | cAA eAA | cAA efg |
-fdd dcd | faa afd | Bcd ecA |[1 ded d2g :|[2 ded d2B |]
-
 
 X:25
 T:Road to Lisdoonvarna, The
@@ -3431,16 +3514,6 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 |:Bcd e2f | e2f edB | Bcd e2f | edB d3 |
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
-
-X:28
-T:Road to Lisdoonvarna, The
-M:6/8
-R:Slide
-K:Edor
-D | E2B B2A | B2c d3 | F2A ABA | D2E FED |
-E2B B2A | B2c d3 | cdc B2A |[1 B2E E2 :|[2 B2E E3 |]
-|: e2f gfe | d2B Bcd | c2A ABc | dcd Bcd |
-e2f gfe | d2B Bcd | cdc B2A |[1 B2E E3 :|[2 B2E E2 |]
 
 X:29
 T:Swallowtail Jig, The
@@ -3584,17 +3657,6 @@ K:Edor
 BE E2 BAGA | BE E2 GFGA | B2 BA (3(Bcd) ef | gedB AGFA :|
 B2 eB fBeB | B2 fe BAGA | B2 eB f2fe | efed BAGA |
 B2 eB fBeB | B2 fe BAGA | (3(Bcd) ef g2ga | gedB AGFA |]
-
-X:53
-T:Return to Milltown
-M:C|
-R:reel
-K:Dm
-D2 (3(FED) ADFD | C2EC FCEC | D2 (3A,A,A, D2 ED | CDEG cGED |
-D2 (3(FED) ADFD | C2EC FCEC | F2 FD E2 ED | CDEG cGED :|
-K:D
-|: d2de f2ed | cdef gfec | d2 de f2 ed | cAGE EDD2 |
-d2de f2ed | cdef g2 ga | f2 fd efed | cAGE EDD2 :|
 
 
 X:54
@@ -3750,20 +3812,6 @@ EAAG EDB,D | (3DEF AB dBAG | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 |:  EAAd cAGF | Eeef gfed | (3BcB Bc dcBA | FBAF EDB,D :|
 
 
-X:84
-T:Sailing Into Walpole's Marsh
-S:The Andy Irvine / Paul Brady album
-R: reel
-M: 4/4
-L: 1/8
-K: Ador
-A3G ABcA | GEE2 GED2 | EAAG ABcd | edgd BAdB |
-AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAdB |
-A3G c3A | GEE2 GED2 | EAAG ABcd | edgd BAdB |
-AGG2 AGG2 | GEDE GED2 | A2AG ABcd | eBdB BAA2 ||
-|: egg2 eaa2 | gedB cAA2 | egg2 eaab | age^c d2ef |
-g3e a3f | gedB cAAB | c2gc acgc |[1 eage d2cd :|[2 eage d3c |]
-
 
 
 
@@ -3793,17 +3841,6 @@ f2fg fdef | aggf g2gf | edcB ABcd | eddc d2de :|
 
 
 
-
-X:108
-T:Salmon's Leap, The
-C:Randal Bays
-M:9/8
-L:1/8
-R:Slip Jig
-K:Emin
-|: e3 edc BAG | EAA ABc Bcd | e3 edc BAG | EAc BAG A3 :|
-Ace aed cBA | GBd gdc BAG | Ace aed cBA | BAG EFG A3 |
-Ace aed cBA | GBd gdc BAG | E2A GBB Acc | Bdd c2e de=f |
 
 
 
@@ -3878,18 +3915,7 @@ FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
 
-X:127
-T:Saddle The Pony
-R:jig
-M:6/8
-L:1/8
-K:G
-GBA G2B | def gdB | GBA G2B | AFD AFD |
-GBA G2B | def gfg | ege dBG | AGF G3 :||
-e3 edB | def gfg | e3 edB | dBA ABd |
-e3 edB | def gfg | ege dBG | AGF G3 :||
-
-X:128
+ \(waltzes\)X:128
 T:My Darling Asleep
 R:jig
 M:6/8
@@ -3964,18 +3990,6 @@ aece gecA | GABc dcBA | gddf ddgf | edcB A3z :|
 
 
 
-
-X:151
-T:Rambling Pitchfork, The
-S:Conal O'Grada
-L:1/8
-R:Jig
-M:6/8
-K:D
-F3 AFF | dFF AFF | G3 ABc | ded cBA |
-F3 AFF | dFF AFF | G3 BAB | GED D3 :|
-|: d2e f3 | edA AFA | d3e f3 | faf ged |
-d2e f3 | edA AFD | G3 BAB | GED D3 :|
 
 
 X:153
@@ -4204,20 +4218,6 @@ K:G
 GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
 |: d2dc Bcd2 | e2ed cde2 | d2dc Bcd2 | GABG A2G2 :|
 
-
-X:36
-T:Salt River Road
-C:Ed Yother
-C:c.2012
-C:http://edyother.com
-M:6/8
-R:jig
-K:Dmix
-A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
-A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
-|: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
-[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
-[2 dcd ecA | gfg agf | def gde | ceB A3 |]
 
 X:28
 T:Where I Told Her I Loved Her and Sprained Her Ankle
