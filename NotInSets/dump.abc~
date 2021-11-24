@@ -1,3 +1,16 @@
+%%footer $P
+%%titleleft
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%stemheight 22
+%%titlefont Times-Roman 20
+%%scale .6
+%%staffsep 35
+
+
+
 X:69
 T:An Phis Fhliuch
 S: Taylor Stirm at Nine Irish Brothers session
@@ -1798,7 +1811,7 @@ d2B BAG | A3 ABA | G2E c2E | D3 D3 :|
 d2e f2a | g2e d2B | G2B c2E | D3 D3 :|
 
 X:69
-X:6T:Star of Munster, The
+T:Star of Munster, The
 M:C|
 R:reel
 K:Ador
@@ -1861,7 +1874,7 @@ B | Aff Aff | fgg efg | add dcd | Bed cBA |
 [1 Aff Aff | fgg efg | afe bge | edc d2 :|
 [2 fed gfe | afe bge | aaa bag | edc d2 |]
 
-X:120
+X:69
 T:Tatter Jack Walsh
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith  2/2/16
 R:Reel
@@ -1872,7 +1885,7 @@ fef ded | cAB c2e | dcA GFG | Ad^c d3 :|
 |: dfa afd | dfa afd | g3 ged | cde g2g |
 afd ded | cAB c2e | dcA GFG | Ad^c d3 :|
 
-X:55
+X:69
 T:Tehan's Favorite
 M:6/8
 R:Slide
@@ -1883,7 +1896,7 @@ efe B2A | GFE B2E | FED F2A | F2E E3:|
 [1 B2e ede | f2a afa | baf a2f | e3 e2d :|
 [2 faf f2e | efe B2A | FED F2A | F2E E3 |]
 
-X:132
+X:69
 T:Three Little Drummers
 S:Fife & Drum tune learned from Paul & Susan Heasty
 M:6/8
@@ -1897,7 +1910,7 @@ eaa eaa | dgg dgg | def ged | BAG A3 :|
 eaa aga | bab ged | eaa aga | def gfg
 eaa aga | bab ged | def ged | BAG A3 :|
 
-X:123
+X:69
 T:Tobin's Favorite
 R:jig
 M:6/8
@@ -1908,7 +1921,7 @@ DFA dcd | ecA efg | fef g3 | edc d3 :|
 dfa agf | efg efg | fef g3 | ecA GFE |
 DFA dcd | ecA efg | fef g3 | edc d3 :|
 
-X:137
+X:69
 T:Toss the Feathers
 R:reel
 M:C|
@@ -1918,7 +1931,7 @@ D2 (3(=FED) AD (3(=FED)|ABcA GE~E2|cABG A2B^c|dfed cAGE:|
 |:Ad~d2 Ad~d2|Ad~d2 ed^cd|eaag ~a2ag|eaag ed^cd|
 efge afge|dfed cAAB|cABG A2B^c|dfed cAGE:|
 
-X:1
+X:69
 T:Transient's Lament, The
 C:Ed Yother
 C:c. 2005
@@ -1932,7 +1945,7 @@ K:Dm
 |:g2 | b4 g2 | a2 f4 | ga gf ed | f4 e2 |
  d4 B2 | cd ef ga | b2 a2 c2 | d4 :|
 
-X:125
+X:69
 T:Tripping up the Stairs
 M:6/8
 R:jig
@@ -1942,7 +1955,7 @@ FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 |: dBB fBB | fgf fed | cAA eAA | efe edc |
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 
-X:16
+X:69
 T:Tá an Coileach Ag Fógairt an Lae
 S:Seán Gavin
 R:jig
@@ -1954,7 +1967,7 @@ GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
 d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
 gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
 
-X:40
+X:69
 T:Walls of Liscarroll, The
 M:6/8
 R:jig
@@ -1965,7 +1978,7 @@ dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
 [1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
 dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
 
-X:143
+X:69
 T:Waltz from John Winston
 C:Ask John
 S:John Winston
@@ -1976,7 +1989,7 @@ K:D
 FG | A3F A2 | G4 A2 | (D6 | D4) EF | G4 B,2 | C4 B,2 | (A,6 | A,2) B,2 C2 |
 D4 E2 | F4 G2 | A3A d2 | A4 G2 | F3E D2 | E3D C2 | (D6 | D4) :|
 
-X:133
+X:69
 T:When Sick is it Tea You Want?
 S:Fife & Drum tune learned from Paul & Susan Heasty
 M:6/8
@@ -1988,7 +2001,7 @@ Add dcB | ABA AFA | dcd ede | fdc d3 :|
 |: add dcd | BGG G3 | bee ede | cAA A3 |
 Add dcB | ABA AFA | dcd ede | fdc d3 :|
 
-X:28
+X:69
 T:Where I Told Her I Loved Her and Sprained Her Ankle
 C:Ed Yother
 C:c.2006
@@ -2001,7 +2014,7 @@ GED DEG | (B/c/B)G AGE | GED DEF |[1 GG/G/G GFE :|[2 GG/G/G GBc |
 |: dB/B/B BGB | FGA BAB | cA/A/A AFA | DEF GF/F/G |
 DEF GF/F/G | AGE GAB | cBA DEF |[1 GG/G/G GBc :|[2 GG/G/G GED |]
 
-X:78
+X:69
 T:Whistling Wrangler, The
 C:Ed Yother
 C:http://edyother.com
@@ -2014,7 +2027,7 @@ Bd AF | Ad ff/f/ | gf ea | fe d2 :|
 |: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
 Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 |]
 
-X:26
+X:69
 T:Wizard's Walk, The
 S:The Portland Collection
 R:reel
@@ -2029,7 +2042,7 @@ a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
 =cege cdgd | Bege Bege | _Bege Bege | =Bege fe^df !coda!:|
 !coda![| e2dc BAGF | G2 e2 F2 ^d2 | e4 B2 G2 | E4 e2 z2 |] 
 
-X:1
+X:69
 T:Woman from Windsor Locks, The
 C:Ed Yother
 C:c.2005
@@ -2088,4 +2101,9 @@ cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 |: gfe age | dBG GBd | gfe agf | efg a3 |
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
+
+
+
+
+
 

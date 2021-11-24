@@ -1,3 +1,16 @@
+%%footer $P
+%%titleleft
+%%leftmargin 1cm
+%%rightmargin 1cm
+%%topmargin .5cm
+%%botmargin .5cm
+%%stemheight 22
+%%titlefont Times-Roman 20
+%%scale .6
+%%staffsep 35
+
+
+
 X:69
 T:An Phis Fhliuch
 S: Taylor Stirm at Nine Irish Brothers session
@@ -1829,6 +1842,7 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 
 X:69
+T:Sweeny's Polka
 C:Tradtional
 L:1/8
 R:Polka
@@ -2088,4 +2102,9 @@ cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 |: gfe age | dBG GBd | gfe agf | efg a3 |
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
+
+
+
+
+
 
