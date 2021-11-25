@@ -1,16 +1,17 @@
-%%footer $P
-%%titleleft
-%leftmargin 1cm
-%rightmargin 1cm
-%topmargin .5cm
-%botmargin .5cm
-%stemheight 22
-%%titlefont Times-Roman 20
-%scale .6
-%%staffsep 35
+\documentclass[letterpaper,9pt]{article}
+\usepackage{geometry}
+\geometry{margin=.7in}
+\usepackage{abc}
+\title{Tune Dump}
+\author{Ed Yother\\ed@edyother.com\\edyother.com}
 
+\begin{document}
+\maketitle
 
+\large
+\tableofcontents
 
+\begin{abc}[name=An Phis Fhliuch]
 X:69
 T:An Phis Fhliuch
 S:Taylor Stirm at Nine Irish Brothers session
@@ -2103,9 +2104,5 @@ cBA BcB | AGE GAB | cde dBG | BAA A3 :|
 |: gfe age | dBG GBd | gfe agf | efg a3 |
 [1 gfe age | dBG GAB | cBA Bed | BAA A3 :|]
 [2 gab age | dBG GAB | cBA Bed | BAA A3 |]
-
-
-
-
-
-
+\end{abc}
+\end{document}
