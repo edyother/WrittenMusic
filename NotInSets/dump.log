@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.9.23)  25 NOV 2021 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.9.23)  25 NOV 2021 12:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -303,23 +303,1062 @@ Package pdftex.def Info: out-abc-1.pdf  used on input line 33.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./out-abc-1.pdf>]
-(./dump.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout3 = `out-abc-2.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-2.abc )...executed.
+
+runsystem(ps2eps -f out-abc-2.ps )...executed.
+
+runsystem(epstopdf out-abc-2.eps)...executed.
+
+<out-abc-2.pdf, id=9, 514.92375pt x 231.86626pt>
+File: out-abc-2.pdf Graphic file (type pdf)
+<use out-abc-2.pdf>
+Package pdftex.def Info: out-abc-2.pdf  used on input line 45.
+(pdftex.def)             Requested size: 513.11745pt x 231.07317pt.
+\openout3 = `out-abc-3.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-3.abc )...executed.
+
+runsystem(ps2eps -f out-abc-3.ps )...executed.
+
+runsystem(epstopdf out-abc-3.eps)...executed.
+
+<out-abc-3.pdf, id=10, 514.92375pt x 170.6375pt>
+File: out-abc-3.pdf Graphic file (type pdf)
+<use out-abc-3.pdf>
+Package pdftex.def Info: out-abc-3.pdf  used on input line 59.
+(pdftex.def)             Requested size: 513.11745pt x 170.05383pt.
+ [2 <./out-abc-1.pdf> <./out-abc-2.pdf>]
+\openout3 = `out-abc-4.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-4.abc )...executed.
+
+runsystem(ps2eps -f out-abc-4.ps )...executed.
+
+runsystem(epstopdf out-abc-4.eps)...executed.
+
+<out-abc-4.pdf, id=28, 514.92375pt x 170.6375pt>
+File: out-abc-4.pdf Graphic file (type pdf)
+<use out-abc-4.pdf>
+Package pdftex.def Info: out-abc-4.pdf  used on input line 73.
+(pdftex.def)             Requested size: 513.11745pt x 170.05383pt.
+\openout3 = `out-abc-5.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-5.abc )...executed.
+
+runsystem(ps2eps -f out-abc-5.ps )...executed.
+
+runsystem(epstopdf out-abc-5.eps)...executed.
+
+<out-abc-5.pdf, id=29, 514.92375pt x 277.035pt>
+File: out-abc-5.pdf Graphic file (type pdf)
+<use out-abc-5.pdf>
+Package pdftex.def Info: out-abc-5.pdf  used on input line 88.
+(pdftex.def)             Requested size: 513.11745pt x 276.08742pt.
+\openout3 = `out-abc-6.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-6.abc )...executed.
+
+runsystem(ps2eps -f out-abc-6.ps )...executed.
+
+runsystem(epstopdf out-abc-6.eps)...executed.
+
+<out-abc-6.pdf, id=30, 514.92375pt x 236.885pt>
+File: out-abc-6.pdf Graphic file (type pdf)
+<use out-abc-6.pdf>
+Package pdftex.def Info: out-abc-6.pdf  used on input line 102.
+(pdftex.def)             Requested size: 513.11745pt x 236.07474pt.
+ [3 <./out-abc-3.pdf> <./out-abc-4.pdf> <./out-abc-5.pdf>]
+\openout3 = `out-abc-7.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-7.abc )...executed.
+
+runsystem(ps2eps -f out-abc-7.ps )...executed.
+
+runsystem(epstopdf out-abc-7.eps)...executed.
+
+<out-abc-7.pdf, id=55, 514.92375pt x 222.8325pt>
+File: out-abc-7.pdf Graphic file (type pdf)
+<use out-abc-7.pdf>
+Package pdftex.def Info: out-abc-7.pdf  used on input line 116.
+(pdftex.def)             Requested size: 513.11745pt x 222.07031pt.
+\openout3 = `out-abc-8.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-8.abc )...executed.
+
+runsystem(ps2eps -f out-abc-8.ps )...executed.
+
+runsystem(epstopdf out-abc-8.eps)...executed.
+
+<out-abc-8.pdf, id=56, 514.92375pt x 224.84pt>
+File: out-abc-8.pdf Graphic file (type pdf)
+<use out-abc-8.pdf>
+Package pdftex.def Info: out-abc-8.pdf  used on input line 130.
+(pdftex.def)             Requested size: 513.11745pt x 224.07094pt.
+
+[4 <./out-abc-6.pdf> <./out-abc-7.pdf>]
+\openout3 = `out-abc-9.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-9.abc )...executed.
+
+runsystem(ps2eps -f out-abc-9.ps )...executed.
+
+runsystem(epstopdf out-abc-9.eps)...executed.
+
+<out-abc-9.pdf, id=74, 514.92375pt x 222.8325pt>
+File: out-abc-9.pdf Graphic file (type pdf)
+<use out-abc-9.pdf>
+Package pdftex.def Info: out-abc-9.pdf  used on input line 145.
+(pdftex.def)             Requested size: 513.11745pt x 222.07031pt.
+\openout3 = `out-abc-10.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-10.abc )...executed.
+
+runsystem(ps2eps -f out-abc-10.ps )...executed.
+
+runsystem(epstopdf out-abc-10.eps)...executed.
+
+<out-abc-10.pdf, id=75, 514.92375pt x 279.0425pt>
+File: out-abc-10.pdf Graphic file (type pdf)
+<use out-abc-10.pdf>
+Package pdftex.def Info: out-abc-10.pdf  used on input line 160.
+(pdftex.def)             Requested size: 513.11745pt x 278.08804pt.
+ [5 <./out-abc-8.pdf> <./out-abc-9.pdf>]
+\openout3 = `out-abc-11.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-11.abc )...executed.
+
+runsystem(ps2eps -f out-abc-11.ps )...executed.
+
+runsystem(epstopdf out-abc-11.eps)...executed.
+
+<out-abc-11.pdf, id=90, 514.92375pt x 405.515pt>
+File: out-abc-11.pdf Graphic file (type pdf)
+<use out-abc-11.pdf>
+Package pdftex.def Info: out-abc-11.pdf  used on input line 178.
+(pdftex.def)             Requested size: 513.11745pt x 404.12794pt.
+\openout3 = `out-abc-12.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-12.abc )...executed.
+
+runsystem(ps2eps -f out-abc-12.ps )...executed.
+
+runsystem(epstopdf out-abc-12.eps)...executed.
+
+[6 <./out-abc-10.pdf> <./out-abc-11.pdf>]
+<out-abc-12.pdf, id=111, 514.92375pt x 223.83624pt>
+File: out-abc-12.pdf Graphic file (type pdf)
+<use out-abc-12.pdf>
+Package pdftex.def Info: out-abc-12.pdf  used on input line 192.
+(pdftex.def)             Requested size: 513.11745pt x 223.07062pt.
+\openout3 = `out-abc-13.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-13.abc )...executed.
+
+runsystem(ps2eps -f out-abc-13.ps )...executed.
+
+runsystem(epstopdf out-abc-13.eps)...executed.
+
+<out-abc-13.pdf, id=112, 514.92375pt x 170.6375pt>
+File: out-abc-13.pdf Graphic file (type pdf)
+<use out-abc-13.pdf>
+Package pdftex.def Info: out-abc-13.pdf  used on input line 206.
+(pdftex.def)             Requested size: 513.11745pt x 170.05383pt.
+\openout3 = `out-abc-14.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-14.abc )...executed.
+
+runsystem(ps2eps -f out-abc-14.ps )...executed.
+
+runsystem(epstopdf out-abc-14.eps)...executed.
+
+<out-abc-14.pdf, id=113, 514.92375pt x 225.84375pt>
+File: out-abc-14.pdf Graphic file (type pdf)
+<use out-abc-14.pdf>
+Package pdftex.def Info: out-abc-14.pdf  used on input line 221.
+(pdftex.def)             Requested size: 513.11745pt x 225.07126pt.
+\openout3 = `out-abc-15.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-15.abc )...executed.
+
+runsystem(ps2eps -f out-abc-15.ps )...executed.
+
+runsystem(epstopdf out-abc-15.eps)...executed.
+
+<out-abc-15.pdf, id=114, 514.92375pt x 240.9pt>
+File: out-abc-15.pdf Graphic file (type pdf)
+<use out-abc-15.pdf>
+Package pdftex.def Info: out-abc-15.pdf  used on input line 235.
+(pdftex.def)             Requested size: 513.11745pt x 240.076pt.
+ [7 <./out-abc-12.pdf> <./out-abc-13.pdf> <./out-abc-14.pdf>]
+\openout3 = `out-abc-16.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-16.abc )...executed.
+
+runsystem(ps2eps -f out-abc-16.ps )...executed.
+
+runsystem(epstopdf out-abc-16.eps)...executed.
+
+<out-abc-16.pdf, id=145, 514.92375pt x 276.03125pt>
+File: out-abc-16.pdf Graphic file (type pdf)
+<use out-abc-16.pdf>
+Package pdftex.def Info: out-abc-16.pdf  used on input line 251.
+(pdftex.def)             Requested size: 513.11745pt x 275.0871pt.
+\openout3 = `out-abc-17.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-17.abc )...executed.
+
+runsystem(ps2eps -f out-abc-17.ps )...executed.
+
+runsystem(epstopdf out-abc-17.eps)...executed.
+
+<out-abc-17.pdf, id=146, 514.92375pt x 288.07625pt>
+File: out-abc-17.pdf Graphic file (type pdf)
+<use out-abc-17.pdf>
+Package pdftex.def Info: out-abc-17.pdf  used on input line 265.
+(pdftex.def)             Requested size: 513.11745pt x 287.0909pt.
+ [8 <./out-abc-15.pdf> <./out-abc-16.pdf>]
+\openout3 = `out-abc-18.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-18.abc )...executed.
+
+runsystem(ps2eps -f out-abc-18.ps )...executed.
+
+runsystem(epstopdf out-abc-18.eps)...executed.
+
+<out-abc-18.pdf, id=164, 514.92375pt x 232.87pt>
+File: out-abc-18.pdf Graphic file (type pdf)
+<use out-abc-18.pdf>
+Package pdftex.def Info: out-abc-18.pdf  used on input line 279.
+(pdftex.def)             Requested size: 513.11745pt x 232.07347pt.
+\openout3 = `out-abc-19.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-19.abc )...executed.
+
+runsystem(ps2eps -f out-abc-19.ps )...executed.
+
+runsystem(epstopdf out-abc-19.eps)...executed.
+
+<out-abc-19.pdf, id=165, 514.92375pt x 231.86626pt>
+File: out-abc-19.pdf Graphic file (type pdf)
+<use out-abc-19.pdf>
+Package pdftex.def Info: out-abc-19.pdf  used on input line 293.
+(pdftex.def)             Requested size: 513.11745pt x 231.07317pt.
+ [9 <./out-abc-17.pdf> <./out-abc-18.pdf>]
+\openout3 = `out-abc-20.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-20.abc )...executed.
+
+runsystem(ps2eps -f out-abc-20.ps )...executed.
+
+runsystem(epstopdf out-abc-20.eps)...executed.
+
+<out-abc-20.pdf, id=187, 514.92375pt x 170.6375pt>
+File: out-abc-20.pdf Graphic file (type pdf)
+<use out-abc-20.pdf>
+Package pdftex.def Info: out-abc-20.pdf  used on input line 307.
+(pdftex.def)             Requested size: 513.11745pt x 170.05383pt.
+\openout3 = `out-abc-21.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-21.abc )...executed.
+
+runsystem(ps2eps -f out-abc-21.ps )...executed.
+
+runsystem(epstopdf out-abc-21.eps)...executed.
+
+<out-abc-21.pdf, id=188, 514.92375pt x 593.21625pt>
+File: out-abc-21.pdf Graphic file (type pdf)
+<use out-abc-21.pdf>
+Package pdftex.def Info: out-abc-21.pdf  used on input line 328.
+(pdftex.def)             Requested size: 513.11745pt x 591.1872pt.
+ [10 <./out-abc-19.pdf> <./out-abc-20.pdf>]
+\openout3 = `out-abc-22.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-22.abc )...executed.
+
+runsystem(ps2eps -f out-abc-22.ps )...executed.
+
+runsystem(epstopdf out-abc-22.eps)...executed.
+
+<out-abc-22.pdf, id=209, 513.92pt x 171.64125pt>
+File: out-abc-22.pdf Graphic file (type pdf)
+<use out-abc-22.pdf>
+Package pdftex.def Info: out-abc-22.pdf  used on input line 341.
+(pdftex.def)             Requested size: 513.11745pt x 171.38675pt.
+
+[11 <./out-abc-21.pdf>]
+\openout3 = `out-abc-23.abc'.
+
+runsystem(abcm2ps -O= -c  out-abc-23.abc )...executed.
+
+runsystem(ps2eps -f out-abc-23.ps )...executed.
+
+runsystem(epstopdf out-abc-23.eps)...executed.
+
+<out-abc-23.pdf, id=223, 514.92375pt x 297.11pt>
+File: out-abc-23.pdf Graphic file (type pdf)
+<use out-abc-23.pdf>
+Package pdftex.def Info: out-abc-23.pdf  used on input line 355.
+(pdftex.def)             Requested size: 513.11745pt x 296.09375pt.
+
+Overfull \hbox (35.05688pt too wide) in paragraph at lines 356--369
+\OT1/ptm/m/n/10 dcB2(3AGF|A2A2cB cG|AB AF D2(3DEF| GF GA BA Bc|de dc B2(3AGF|A2
+A2c2(3AGF|[1 G2B2G2:|[2 G2B2G2(3def|
+ []
+
+[12 <./out-abc-22.pdf> <./out-abc-23.pdf>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.437 [1 Af/f/f Af/f/f | gfe def | afb afe | ed^
+                                                c d3 :|
+? R
+OK, entering \nonstopmode...
+! Missing $ inserted.
+<inserted text> 
+                $
+l.439 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.547 |: e^
+           g | aA A2 aAbA | aA A2 agef | gB B2 gBaB | gB B2 gefg |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.550 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (21.92543pt too wide) in paragraph at lines 540--550
+\OT1/ptm/m/n/10 edBd | gB B2 efed | cdBc A2 :| |: e$[]\OMS/ztmcm/m/n/10 j\OML/z
+tmcm/m/it/10 aAA\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 aAbA\OMS/ztmcm/m/n/10 j\O
+ML/ztmcm/m/it/10 aAA\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 agef\OMS/ztmcm/m/n/10
+ j\OML/ztmcm/m/it/10 gBB\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 gBaB\OMS/ztmcm/m/
+n/10 j\OML/ztmcm/m/it/10 gBB\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 gefg\OMS/ztmc
+m/m/n/10 j\OT1/ztmcm/m/n/10 [1\OML/ztmcm/m/it/10 aAA\OT1/ztmcm/m/n/10 2\OML/ztm
+cm/m/it/10 aAbA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 aAA\OT1/ztmcm/m/n/10 2\OML
+/ztmcm/m/it/10 agef\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 gagedfed\OMS/ztmcm/m/n
+/10 j\OML/ztmcm/m/it/10 c\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 B\OT1/ztmcm/m/n/
+10 2\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 2 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.570 |: g2 ge fdde | fdgd fdde | g2 ge fdd^
+                                            c | defd gdef |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.572 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.590 cB AB cA | d2 g2 ^
+                        f2 | g3 a ba | g2 f2 d2 |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.592 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[13]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.656 ...ege | edBc d2=cB | (3ABA AB =cAFG | AB=c^
+                                                  c d2gf |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.658 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.825 S:Fife &
+               Drum tune learned from Paul Heasty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.830 aga efg | aga e2f | =gfg dB=G | =gfg ef^
+                                              g
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.834 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (26.43211pt too wide) in paragraph at lines 823--834
+\OT1/ptm/m/n/10 | =gfg ef$[]\OML/ztmcm/m/it/10 agaefg\OMS/ztmcm/m/n/10 j\OML/zt
+mcm/m/it/10 agae\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 d\OMS/ztmcm/m/n/10 j\OML/
+ztmcm/m/it/10 cBABAG\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 [1\OML/ztmcm/m/it/10 A
+\OT1/ztmcm/m/n/10 3\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 3 : \OMS/ztmcm/m/n/10 
+j\OT1/ztmcm/m/n/10 [2\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 3\OML/ztmcm/m/it/10 
+A\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 f\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 ]\
+OMS/ztmcm/m/n/10 j \OT1/ztmcm/m/n/10 : \OML/ztmcm/m/it/10 e\OT1/ztmcm/m/n/10 2\
+OML/ztmcm/m/it/10 ccBA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 e\OT1/ztmcm/m/n/10 
+2\OML/ztmcm/m/it/10 ccBA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/1
+0 2\OML/ztmcm/m/it/10 BBA \OT1/ztmcm/m/n/10 = \OML/ztmcm/m/it/10 G\OMS/ztmcm/m/
+n/10 j\OML/ztmcm/m/it/10 ABcdefe\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 ccBA\OMS/
+ztmcm/m/n/10 j\OML/ztmcm/m/it/10 e[]ea\OT1/ztmcm/m/n/10 2 = \OML/ztmcm/m/it/10 
+d\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 cBABAG\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/
+10 [1\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 3\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/
+10 2\OML/ztmcm/m/it/10 f \OT1/ztmcm/m/n/10 :
+ []
+
+[14]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.902 |: d2 e fdd | add fdd | ^
+                               c2 d eAA | fed ed^c |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.906 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.984 [1 c4 A2 | A3^
+                    G A2 | B4 G2 | E4 A2 :|]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.989 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.999 faaf gfed | (3B^
+                      cd ef g2gf | eBB2 gfed | BAGA B^cde |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1001 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1082 EAAB AGEF | G2GA GED2 | cBcd eged | ^
+                                            cdef gedB |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1086 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (109.37907pt too wide) in paragraph at lines 1078--1086
+[]\OT1/ptm/m/n/10 T:Hunter's Purse, The M:C| R:reel K:Em EAAB AGEF | G2GA GED2 
+| cBcd eged | $[]\OML/ztmcm/m/it/10 defgedB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/1
+0 A\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 ABAGEF\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/
+it/10 G\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 GAGED\OT1/ztmcm/m/n/10 2\OMS/ztmcm
+/m/n/10 j\OML/ztmcm/m/it/10 cBcdeged\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 cABGA
+\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 AG \OT1/ztmcm/m/n/10 :
+ []
+
+[15]
+! Misplaced alignment tab character &.
+l.1115 ...ion at The Golden Ace. Jenny, with Jim &
+                                                   Kate Smith 2/2/16
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.1148 ...rned from Tom McCann at Paddy Rooney's &
+                                                   Jack McShea's sessions.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1186 ...F2 DF | E2 CE FEDc | dcAG F2 DF |[1 Add^
+                                                  c d2 A2 :|[2 Add^c d2 de |]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1189 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (99.72394pt too wide) in paragraph at lines 1180--1189
+\OT1/ptm/m/n/10 E2 CE FEDc | dcAG F2 DF |[1 Add$[]\OML/ztmcm/m/it/10 d\OT1/ztmc
+m/m/n/10 2\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 2 : \OMS/ztmcm/m/n/10 j\OT1/ztm
+cm/m/n/10 [2\OML/ztmcm/m/it/10 Add[]d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 de\O
+MS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 ]\OMS/ztmcm/m/n/10 j \OT1/ztmcm/m/n/10 : \OM
+L/ztmcm/m/it/10 f\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 fefagf\OMS/ztmcm/m/n/10 
+j\OML/ztmcm/m/it/10 ecgcacgc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 fedefagf\OMS/
+ztmcm/m/n/10 j\OML/ztmcm/m/it/10 edced\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 de\
+OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 f\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 fef
+agf\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 ecgcacgc\OMS/ztmcm/m/n/10 j\OML/ztmcm/
+m/it/10 fedcAGFG\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 [1\OML/ztmcm/m/it/10 Add[]
+d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 de \OT1/ztmcm/m/n/10 :
+ []
+
+! Misplaced alignment tab character &.
+l.1288 ...rned from Tom McCann at Paddy Rooney's &
+                                                   Jack McShea's sessions.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1295 |: Bd d^
+               c/d/ | ed d2 | BG G2 | AB cA |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1298 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.1301 ...rned from Tom McCann at Paddy Rooney's &
+                                                   Jack McShea's sessions.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[16]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1390 |: ee | (=c^
+                   c)ec fe e2 | (=c^c)ec fe e2 | d2 fd gdfd | d2 fd gdfd |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1392 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1400 |: eb^
+             ab fgeg | fdad bdad | eb^ab fgeg | fBAc BEED |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1402 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (214.31041pt too wide) in paragraph at lines 1393--1402
+\OT1/ptm/m/n/10 | B,E/E/EE B,EGE | FDA,G, A,DFA, | B,E (3(EGE) CEGE | FAdA FEED
+ :| |: eb$[]\OML/ztmcm/m/it/10 bfgeg\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 fdadb
+dad\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 eb[]bfgeg\OMS/ztmcm/m/n/10 j\OML/ztmcm
+/m/it/10 fBAcBEED\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 eb[]bfgeg\OMS/ztmcm/m/n/
+10 j\OML/ztmcm/m/it/10 fdadbdad\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 EFGAB\OT1/
+ztmcm/m/n/10 2\OML/ztmcm/m/it/10 dB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 AFDFFE
+E\OT1/ztmcm/m/n/10 2 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1471 ...f a2ab | a2 g2 e2 c2 |[1 d4 d4 :|[2 d2 _
+                                                  e2 =e2 f2 |]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1472 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[17]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1558 DGG^
+           F G2 GA | BAGd cAGF | DFFE F2 FA | cFdF cAGF |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1562 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (239.91852pt too wide) in paragraph at lines 1551--1562
+[]\OT1/ptm/m/n/10 X:69 T:Oak Cliff Road C:Ed Yother C:http://edyother.com K:Gdo
+r R:Reel M:4/4 DGG$[]\OML/ztmcm/m/it/10 G\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 
+GA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 BAGdcAGF\OMS/ztmcm/m/n/10 j\OML/ztmcm/m
+/it/10 DFFEF\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 FA\OMS/ztmcm/m/n/10 j\OML/ztm
+cm/m/it/10 cFdFcAGF\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 DGG[]G\OT1/ztmcm/m/n/1
+0 2\OML/ztmcm/m/it/10 GA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 BAGdcAGF\OMS/ztmc
+m/m/n/10 j\OML/ztmcm/m/it/10 dcdefedc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 AdcA
+GFDC \OT1/ztmcm/m/n/10 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1594 |: A2GA cAA2 | d^
+                        cde fde=c | A2GA cAA2 | dfed cAdc |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1598 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (173.6417pt too wide) in paragraph at lines 1587--1598
+[]\OT1/ptm/m/n/10 X:69 T:Old Bush, The R:reel M:4/4 L:1/8 K:Dmix S:Taylor Stirm
+ |: A2GA cAA2 | d$[]\OML/ztmcm/m/it/10 defde \OT1/ztmcm/m/n/10 = \OML/ztmcm/m/i
+t/10 c\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it
+/10 GAcAA\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dfedcAdc\OMS/
+ztmcm/m/n/10 j\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 GAcAA\O
+T1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d[]def\OT1/ztmcm/m/n/10 
+3\OML/ztmcm/m/it/10 g\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 afgefde[]\OMS/ztmcm/
+m/n/10 j\OT1/ztmcm/m/n/10 [1\OML/ztmcm/m/it/10 dfedcAdc \OT1/ztmcm/m/n/10 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1652 |: d^
+            cd A2G | F2D DED | EDE c2E | E2D D3 |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1657 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (60.09076pt too wide) in paragraph at lines 1646--1657
+[]\OT1/ptm/m/n/10 X:69 T:Pipe On The Hob #1, The R:jig M:6/8 L:1/8 K:Dmix |: d$
+[]\OML/ztmcm/m/it/10 dA\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 G\OMS/ztmcm/m/n/10
+ j\OML/ztmcm/m/it/10 F\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 DDED\OMS/ztmcm/m/n/
+10 j\OML/ztmcm/m/it/10 EDEc\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 E\OMS/ztmcm/m/
+n/10 j\OML/ztmcm/m/it/10 E\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 DD\OT1/ztmcm/m/
+n/10 3\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dcBcBA\OMS/ztmcm/m/n/10 j\OML/ztmcm
+/m/it/10 BAGA\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 G\OMS/ztmcm/m/n/10 j\OML/ztm
+cm/m/it/10 EDEc\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 E\OMS/ztmcm/m/n/10 j\OML/z
+tmcm/m/it/10 E\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 DD\OT1/ztmcm/m/n/10 3 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1703 AB |: c2 AB c2 AB | cBAG EGGA | Ddd^
+                                           c defe | dcAG FGAB |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1707 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (225.61674pt too wide) in paragraph at lines 1697--1707
+[]\OT1/ptm/m/n/10 X:69 T:Rakish Paddy, The K:Ador M:4/4 R:Reel S:Taylor Stirm A
+B |: c2 AB c2 AB | cBAG EGGA | Ddd$[]\OML/ztmcm/m/it/10 defe\OMS/ztmcm/m/n/10 j
+\OML/ztmcm/m/it/10 dcAGFGAB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 c\OT1/ztmcm/m/
+n/10 2\OML/ztmcm/m/it/10 ABc\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 AB\OMS/ztmcm/
+m/n/10 j\OML/ztmcm/m/it/10 cBAGEGGA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 DEFGAB
+cA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dcAGFGAB \OT1/ztmcm/m/n/10 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1763 |: egg2 eaa2 | gedB cAA2 | egg2 eaab | age^
+                                                  c d2ef |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1765 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[18]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1939 ...E E2 GE E2 |[1 FEDC D2 DC :|[2 FEDC DFA^
+                                                  c |]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1942 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (307.39539pt too wide) in paragraph at lines 1932--1942
+\OT1/ptm/m/n/10 | A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 |[1 FEDC D2 DC :|[2 
+FEDC DFA$[]\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 ]\OMS/ztmcm/m/n/10 j \OT1/ztmcm
+/m/n/10 : ([]\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 )\OML/ztmcm/m/it/10 dAFDD\OT
+1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 ([]\OML/ztmcm/m/it/10 d\OT
+1/ztmcm/m/n/10 )\OML/ztmcm/m/it/10 dAFDD\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\
+OML/ztmcm/m/it/10 c\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 Gcc\OT1/ztmcm/m/n/10 2
+\OML/ztmcm/m/it/10 Gc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 c\OT1/ztmcm/m/n/10 2
+\OML/ztmcm/m/it/10 Gccdec\OMS/ztmcm/m/n/10 j\OT1/ztmcm/m/n/10 ([]\OML/ztmcm/m/i
+t/10 d\OT1/ztmcm/m/n/10 )\OML/ztmcm/m/it/10 dAFDD\OT1/ztmcm/m/n/10 2\OMS/ztmcm/
+m/n/10 j\OT1/ztmcm/m/n/10 ([]\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 )\OML/ztmcm/
+m/it/10 dAFDD\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 B; DD\OT1
+/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 CEE\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OT1
+/ztmcm/m/n/10 [1\OML/ztmcm/m/it/10 FEDCDFA[] \OT1/ztmcm/m/n/10 :
+ []
+
+! Misplaced alignment tab character &.
+l.1956 ...ion at The Golden Ace. Jenny, with Jim &
+                                                   Kate Smith  2/2/16
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1961 fef ded | cAB c2e | dcA GFG | Ad^
+                                        c d3 :|
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1964 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (86.69846pt too wide) in paragraph at lines 1954--1964
+\OT1/ptm/m/n/10 cAB c2e | dcA GFG | Add efg | fef ded | cAB c2e | dcA GFG | Ad$
+[]\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 3 : \OMS/ztmcm/m/n/10 jj \OT1/ztmcm/m/n
+/10 : \OML/ztmcm/m/it/10 dfaafd\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dfaafd\OMS
+/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 g\OT1/ztmcm/m/n/10 3\OML/ztmcm/m/it/10 ged\OM
+S/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 cdeg\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 g\
+OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 afdded\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/1
+0 cABc\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 e\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it
+/10 dcAGFG\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 Ad[]d\OT1/ztmcm/m/n/10 3 :
+ []
+
+[19]
+! Misplaced alignment tab character &.
+l.1978 S:Fife &
+                Drum tune learned from Paul & Susan Heasty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.1978 S:Fife & Drum tune learned from Paul &
+                                              Susan Heasty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2007 ...3(=FED) AD (3(=FED)|ABcA GE~E2|cABG A2B^
+                                                  c|dfed cAGE:|
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2010 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (19.34583pt too wide) in paragraph at lines 2001--2010
+[]\OT1/ptm/m/n/10 X:69 T:Toss the Feath-ers R:reel M:C| K:Dmix D2 (3(=FED) AD (
+3(=FED)|ABcA GE E2|D2 (3(=FED) AD (3(=FED)|d2ed
+ []
+
+
+Overfull \hbox (193.54959pt too wide) in paragraph at lines 2001--2010
+\OT1/ptm/m/n/10 cAGE| D2 (3(=FED) AD (3(=FED)|ABcA GE E2|cABG A2B$[]\OMS/ztmcm/
+m/n/10 j\OML/ztmcm/m/it/10 dfedcAGE \OT1/ztmcm/m/n/10 : \OMS/ztmcm/m/n/10 jj \O
+T1/ztmcm/m/n/10 : \OML/ztmcm/m/it/10 Ad []d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/1
+0 Ad []d\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 Ad []d\OT1/ztm
+cm/m/n/10 2\OML/ztmcm/m/it/10 ed[]d\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 eaag [
+]a\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 ag\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10
+ eaaged[]d\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 efgeafge\OMS/ztmcm/m/n/10 j\OML
+/ztmcm/m/it/10 dfedcAAB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 cABGA\OT1/ztmcm/m/
+n/10 2\OML/ztmcm/m/it/10 B[]\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dfedcAGE \OT1
+/ztmcm/m/n/10 :
+ []
+
+! Misplaced alignment tab character &.
+l.2071 S:Fife &
+                Drum tune learned from Paul & Susan Heasty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.2071 S:Fife & Drum tune learned from Paul &
+                                              Susan Heasty
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2117 [Bf]BBB [cg]ccc |[Bf]BBB [cg]ccc | [Bf]B^
+                                                cc ^ddee | ffgg aabb |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2121 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2131 D2 | G2 G^
+                 F GB | d2 d2 B2 | c2 cd Bc | A2 ^F2 D2 |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2137 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (6.92813pt too wide) in paragraph at lines 2122--2137
+\OT1/ptm/m/n/10 G$[]\OML/ztmcm/m/it/10 GB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 
+d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 B
+\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 c\OT1/ztmcm/m/n/10 2\O
+ML/ztmcm/m/it/10 cdBc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 A\OT1/ztmcm/m/n/10 2
+[]2\OML/ztmcm/m/it/10 D\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10
+ G[]GBdg\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 b\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/
+it/10 a\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 g\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n
+/10 j[]\OT1/ztmcm/m/n/10 4\OML/ztmcm/m/it/10 e\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n
+/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 4\OML/ztmcm/m/it/10 D\OT1/ztmcm/m/n/
+10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 G\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/1
+0 G[]GB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/i
+t/10 d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 B\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/
+10 j\OML/ztmcm/m/it/10 cdBcAB\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 G\OT1/ztmcm/
+m/n/10 2[]2\OML/ztmcm/m/it/10 D\OT1/ztmcm/m/n/10 2\OMS/ztmcm/m/n/10 j\OML/ztmcm
+/m/it/10 G[]GBdg\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 b\OT1/ztmcm/m/n/10 2\OML/
+ztmcm/m/it/10 a\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 g\OT1/ztmcm/m/n/10 2\OMS/z
+tmcm/m/n/10 j[]\OT1/ztmcm/m/n/10 4\OML/ztmcm/m/it/10 g\OT1/ztmcm/m/n/10 2\OMS/z
+tmcm/m/n/10 j\OML/ztmcm/m/it/10 a\OT1/ztmcm/m/n/10 6\OMS/ztmcm/m/n/10 jjj \OT1/
+ztmcm/m/n/10 :
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2165 dG G2 GABc | dggd ^
+                          fgaf | gG G2 BcdB | cAFA c2Bc |
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2169 
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (328.8449pt too wide) in paragraph at lines 2159--2169
+\OT1/ptm/m/n/10 cAFA c2Bc |] dG G2 GABc | dggd $[]\OML/ztmcm/m/it/10 gaf\OMS/zt
+mcm/m/n/10 j\OML/ztmcm/m/it/10 gGG\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 BcdB\OM
+S/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 cAFAc\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 B
+c\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dGG\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10
+ GABc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 dggd[]gaf\OMS/ztmcm/m/n/10 j\OML/ztm
+cm/m/it/10 g\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 ae[]gae\OMS/ztmcm/m/n/10 j[]\
+OML/ztmcm/m/it/10 gagfdcA\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/
+10 2\OML/ztmcm/m/it/10 BGBdBG\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 BdBGc\OT1/zt
+mcm/m/n/10 2\OML/ztmcm/m/it/10 Bc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/zt
+mcm/m/n/10 2\OML/ztmcm/m/it/10 BGBcde\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 fecA
+FABc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/1
+0 BGBdBG\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 BdBGc\OT1/ztmcm/m/n/10 2\OML/ztmc
+m/m/it/10 Bc\OMS/ztmcm/m/n/10 j\OML/ztmcm/m/it/10 d\OT1/ztmcm/m/n/10 2\OML/ztmc
+m/m/it/10 def\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 fe\OMS/ztmcm/m/n/10 j\OML/zt
+mcm/m/it/10 cAFAG\OT1/ztmcm/m/n/10 2\OML/ztmcm/m/it/10 GF\OMS/ztmcm/m/n/10 j\OT
+1/ztmcm/m/n/10 ]$ 
+ []
+
+[20] (./dump.aux) ) 
 Here is how much of TeX's memory you used:
- 2327 strings out of 480559
- 35246 string characters out of 5903497
- 330695 words of memory out of 5000000
- 19944 multiletter control sequences out of 15000+600000
- 427685 words of font info for 73 fonts, out of 8000000 for 9000
+ 2490 strings out of 480559
+ 38612 string characters out of 5903497
+ 346695 words of memory out of 5000000
+ 20078 multiletter control sequences out of 15000+600000
+ 431549 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,6n,80p,225b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/
-share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on dump.pdf (1 page, 38393 bytes).
+ 72i,6n,80p,225b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}<
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on dump.pdf (20 pages, 388314 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 302 PDF objects out of 1000 (max. 8388607)
+ 192 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
