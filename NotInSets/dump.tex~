@@ -2741,7 +2741,7 @@ cBAc BAGB | AGEF GED2 | EAAB cBcd |[1 edcB A2 AB :|[2 edcB A2 eg |]
 a2 ab ageg | agab agef | g2 ge a2 ae |[1 bagf gfeg :|[2 bagf gfed |]
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{The Staten Island Hornpipe}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2758,7 +2758,7 @@ FDFG A2A2 | dfed dcBA| d2d2 efge | f2d2 d2 :|
 agfa gfeg | fedf e2A2 | d2d2 efge | f2d2 d2 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{The Swallowtail Jig}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2774,7 +2774,7 @@ GEE BEE | GEE B2c | dcd AGF |[1 GEE E2F :|[2 GEE E3 |]
 Bcd e2f | e2f edB | dcd AGF |[1 GEE E3 :|[2 GEE E2F |]
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Sweeny's Polka}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2792,7 +2792,7 @@ e>fe/ ce | Ae ce | f/a/g/f/ ec | BA A2 :|
 G/A/c a>f | ec BA | f/a/g/f/ ec | BA A2 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tam Lin}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2809,7 +2809,7 @@ A,D D2 A,DFD | B,D D2 FDFD | CE E2 GE E2 |[1 FEDC D2 DC :|[2 FEDC DFA^c |]
 (^cd)dA FD D2 | (^cd)dA FD D2 | B,D D2 CE E2 |[1 FEDC DFA^c :|[2 FEDC D2 |]
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{The Tar Road to Sligo}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2826,7 +2826,7 @@ B | Aff Aff | fgg efg | add dcd | Bed cBA |
 [2 fed gfe | afe bge | aaa bag | edc d2 |]
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tatter Jack Walsh}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2843,7 +2843,7 @@ fef ded | cAB c2e | dcA GFG | Ad^c d3 :|
 afd ded | cAB c2e | dcA GFG | Ad^c d3 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tehan's Favorite}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2860,7 +2860,7 @@ efe B2A | GFE B2E | FED F2A | F2E E3:|
 [2 faf f2e | efe B2A | FED F2A | F2E E3 |]
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Three Little Drummers}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2880,7 +2880,7 @@ eaa aga | bab ged | eaa aga | def gfg
 eaa aga | bab ged | def ged | BAG A3 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tobin's Favorite}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2897,7 +2897,7 @@ dfa agf | efg efg | fef g3 | ecA GFE |
 DFA dcd | ecA efg | fef g3 | edc d3 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Toss the Feathers}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2913,7 +2913,7 @@ D2 (3(=FED) AD (3(=FED)|ABcA GE~E2|cABG A2B^c|dfed cAGE:|
 efge afge|dfed cAAB|cABG A2B^c|dfed cAGE:|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{The Transient's Lament}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2933,7 +2933,7 @@ K:Dm
  d4 B2 | cd ef ga | b2 a2 c2 | d4 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tripping up the Stairs}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -2949,7 +2949,7 @@ FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
 \end{abc}
 
-\addcontentsline{toc}{subsection}{-}
+\addcontentsline{toc}{subsection}{Tá an Coileach Ag Fógairt an Lae}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
