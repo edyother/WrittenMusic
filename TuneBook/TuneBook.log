@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.9.23)  20 NOV 2021 20:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.9.23)  26 NOV 2021 15:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -269,12 +269,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./TuneBook.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 1.
- [2] [3])
+ [2])
 \tf@toc=\write4
 \openout4 = `TuneBook.toc'.
 
- [4]
-<tb.pdf, id=21, 614.295pt x 794.97pt>
+ [3]
+<tb.pdf, id=17, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 39.
@@ -283,7 +283,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 39.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=24, page=1, 614.295pt x 794.97pt>
+<tb.pdf, id=20, page=1, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 1>
 Package pdftex.def Info: tb.pdf , page1 used on input line 39.
@@ -313,7 +313,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 47.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=37, page=2, 614.295pt x 794.97pt>
+<tb.pdf, id=33, page=2, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 2>
 Package pdftex.def Info: tb.pdf , page2 used on input line 47.
@@ -334,7 +334,8 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 2>
 Package pdftex.def Info: tb.pdf , page2 used on input line 47.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [2 <./tb.pdf>]
+
+[2 <./tb.pdf>]
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 55.
@@ -343,7 +344,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 55.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=43, page=3, 614.295pt x 794.97pt>
+<tb.pdf, id=39, page=3, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 3>
 Package pdftex.def Info: tb.pdf , page3 used on input line 55.
@@ -373,7 +374,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 63.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=50, page=4, 614.295pt x 794.97pt>
+<tb.pdf, id=45, page=4, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 4>
 Package pdftex.def Info: tb.pdf , page4 used on input line 63.
@@ -403,7 +404,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 71.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=56, page=5, 614.295pt x 794.97pt>
+<tb.pdf, id=52, page=5, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 5>
 Package pdftex.def Info: tb.pdf , page5 used on input line 71.
@@ -433,7 +434,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 79.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=62, page=6, 614.295pt x 794.97pt>
+<tb.pdf, id=58, page=6, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 6>
 Package pdftex.def Info: tb.pdf , page6 used on input line 79.
@@ -463,7 +464,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 87.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=68, page=7, 614.295pt x 794.97pt>
+<tb.pdf, id=64, page=7, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 7>
 Package pdftex.def Info: tb.pdf , page7 used on input line 87.
@@ -494,7 +495,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 95.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=74, page=8, 614.295pt x 794.97pt>
+<tb.pdf, id=70, page=8, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 8>
 Package pdftex.def Info: tb.pdf , page8 used on input line 95.
@@ -524,7 +525,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 103.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=80, page=9, 614.295pt x 794.97pt>
+<tb.pdf, id=76, page=9, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 9>
 Package pdftex.def Info: tb.pdf , page9 used on input line 103.
@@ -554,7 +555,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 111.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=87, page=10, 614.295pt x 794.97pt>
+<tb.pdf, id=82, page=10, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 10>
 Package pdftex.def Info: tb.pdf , page10 used on input line 111.
@@ -584,7 +585,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 119.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=93, page=11, 614.295pt x 794.97pt>
+<tb.pdf, id=89, page=11, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 11>
 Package pdftex.def Info: tb.pdf , page11 used on input line 119.
@@ -614,7 +615,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 127.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=99, page=12, 614.295pt x 794.97pt>
+<tb.pdf, id=95, page=12, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 12>
 Package pdftex.def Info: tb.pdf , page12 used on input line 127.
@@ -645,7 +646,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 135.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=105, page=13, 614.295pt x 794.97pt>
+<tb.pdf, id=101, page=13, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 13>
 Package pdftex.def Info: tb.pdf , page13 used on input line 135.
@@ -675,7 +676,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 143.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=111, page=14, 614.295pt x 794.97pt>
+<tb.pdf, id=107, page=14, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 14>
 Package pdftex.def Info: tb.pdf , page14 used on input line 143.
@@ -705,7 +706,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 151.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=117, page=15, 614.295pt x 794.97pt>
+<tb.pdf, id=113, page=15, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 15>
 Package pdftex.def Info: tb.pdf , page15 used on input line 151.
@@ -735,7 +736,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 158.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=124, page=16, 614.295pt x 794.97pt>
+<tb.pdf, id=119, page=16, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 16>
 Package pdftex.def Info: tb.pdf , page16 used on input line 158.
@@ -765,7 +766,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 166.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=130, page=17, 614.295pt x 794.97pt>
+<tb.pdf, id=126, page=17, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 17>
 Package pdftex.def Info: tb.pdf , page17 used on input line 166.
@@ -795,7 +796,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 174.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=136, page=18, 614.295pt x 794.97pt>
+<tb.pdf, id=132, page=18, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 18>
 Package pdftex.def Info: tb.pdf , page18 used on input line 174.
@@ -825,7 +826,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 182.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=142, page=19, 614.295pt x 794.97pt>
+<tb.pdf, id=138, page=19, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 19>
 Package pdftex.def Info: tb.pdf , page19 used on input line 182.
@@ -855,7 +856,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 190.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=148, page=20, 614.295pt x 794.97pt>
+<tb.pdf, id=144, page=20, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 20>
 Package pdftex.def Info: tb.pdf , page20 used on input line 190.
@@ -885,7 +886,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 197.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=154, page=21, 614.295pt x 794.97pt>
+<tb.pdf, id=150, page=21, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 21>
 Package pdftex.def Info: tb.pdf , page21 used on input line 197.
@@ -915,7 +916,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 205.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=161, page=22, 614.295pt x 794.97pt>
+<tb.pdf, id=156, page=22, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 22>
 Package pdftex.def Info: tb.pdf , page22 used on input line 205.
@@ -945,7 +946,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 213.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=167, page=23, 614.295pt x 794.97pt>
+<tb.pdf, id=163, page=23, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 23>
 Package pdftex.def Info: tb.pdf , page23 used on input line 213.
@@ -975,7 +976,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 219.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=173, page=24, 614.295pt x 794.97pt>
+<tb.pdf, id=169, page=24, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 24>
 Package pdftex.def Info: tb.pdf , page24 used on input line 219.
@@ -1005,7 +1006,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 227.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=179, page=25, 614.295pt x 794.97pt>
+<tb.pdf, id=175, page=25, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 25>
 Package pdftex.def Info: tb.pdf , page25 used on input line 227.
@@ -1035,7 +1036,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 235.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=185, page=26, 614.295pt x 794.97pt>
+<tb.pdf, id=181, page=26, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 26>
 Package pdftex.def Info: tb.pdf , page26 used on input line 235.
@@ -1065,7 +1066,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 243.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=191, page=27, 614.295pt x 794.97pt>
+<tb.pdf, id=187, page=27, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 27>
 Package pdftex.def Info: tb.pdf , page27 used on input line 243.
@@ -1095,7 +1096,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 251.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=198, page=28, 614.295pt x 794.97pt>
+<tb.pdf, id=193, page=28, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 28>
 Package pdftex.def Info: tb.pdf , page28 used on input line 251.
@@ -1125,7 +1126,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 258.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=204, page=29, 614.295pt x 794.97pt>
+<tb.pdf, id=200, page=29, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 29>
 Package pdftex.def Info: tb.pdf , page29 used on input line 258.
@@ -1155,7 +1156,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 265.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=210, page=30, 614.295pt x 794.97pt>
+<tb.pdf, id=206, page=30, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 30>
 Package pdftex.def Info: tb.pdf , page30 used on input line 265.
@@ -1185,7 +1186,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 273.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=216, page=31, 614.295pt x 794.97pt>
+<tb.pdf, id=212, page=31, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 31>
 Package pdftex.def Info: tb.pdf , page31 used on input line 273.
@@ -1215,7 +1216,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 281.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=222, page=32, 614.295pt x 794.97pt>
+<tb.pdf, id=218, page=32, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 32>
 Package pdftex.def Info: tb.pdf , page32 used on input line 281.
@@ -1245,7 +1246,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 287.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=228, page=33, 614.295pt x 794.97pt>
+<tb.pdf, id=224, page=33, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 33>
 Package pdftex.def Info: tb.pdf , page33 used on input line 287.
@@ -1275,7 +1276,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 295.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=235, page=34, 614.295pt x 794.97pt>
+<tb.pdf, id=230, page=34, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 34>
 Package pdftex.def Info: tb.pdf , page34 used on input line 295.
@@ -1305,7 +1306,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 303.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=241, page=35, 614.295pt x 794.97pt>
+<tb.pdf, id=237, page=35, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 35>
 Package pdftex.def Info: tb.pdf , page35 used on input line 303.
@@ -1335,7 +1336,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 311.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=247, page=36, 614.295pt x 794.97pt>
+<tb.pdf, id=243, page=36, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 36>
 Package pdftex.def Info: tb.pdf , page36 used on input line 311.
@@ -1365,7 +1366,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 319.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=253, page=37, 614.295pt x 794.97pt>
+<tb.pdf, id=249, page=37, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 37>
 Package pdftex.def Info: tb.pdf , page37 used on input line 319.
@@ -1395,7 +1396,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 327.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=259, page=38, 614.295pt x 794.97pt>
+<tb.pdf, id=255, page=38, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 38>
 Package pdftex.def Info: tb.pdf , page38 used on input line 327.
@@ -1425,7 +1426,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 334.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=265, page=39, 614.295pt x 794.97pt>
+<tb.pdf, id=261, page=39, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 39>
 Package pdftex.def Info: tb.pdf , page39 used on input line 334.
@@ -1455,7 +1456,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 341.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=272, page=40, 614.295pt x 794.97pt>
+<tb.pdf, id=267, page=40, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 40>
 Package pdftex.def Info: tb.pdf , page40 used on input line 341.
@@ -1485,7 +1486,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 348.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=278, page=41, 614.295pt x 794.97pt>
+<tb.pdf, id=274, page=41, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 41>
 Package pdftex.def Info: tb.pdf , page41 used on input line 348.
@@ -1515,7 +1516,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 355.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=284, page=42, 614.295pt x 794.97pt>
+<tb.pdf, id=280, page=42, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 42>
 Package pdftex.def Info: tb.pdf , page42 used on input line 355.
@@ -1545,7 +1546,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 362.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=290, page=43, 614.295pt x 794.97pt>
+<tb.pdf, id=286, page=43, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 43>
 Package pdftex.def Info: tb.pdf , page43 used on input line 362.
@@ -1575,7 +1576,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 370.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=296, page=44, 614.295pt x 794.97pt>
+<tb.pdf, id=292, page=44, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 44>
 Package pdftex.def Info: tb.pdf , page44 used on input line 370.
@@ -1605,7 +1606,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 378.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=303, page=45, 614.295pt x 794.97pt>
+<tb.pdf, id=298, page=45, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 45>
 Package pdftex.def Info: tb.pdf , page45 used on input line 378.
@@ -1635,7 +1636,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 386.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=310, page=46, 614.295pt x 794.97pt>
+<tb.pdf, id=305, page=46, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 46>
 Package pdftex.def Info: tb.pdf , page46 used on input line 386.
@@ -1665,7 +1666,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 394.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=316, page=47, 614.295pt x 794.97pt>
+<tb.pdf, id=312, page=47, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 47>
 Package pdftex.def Info: tb.pdf , page47 used on input line 394.
@@ -1695,7 +1696,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 403.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=322, page=48, 614.295pt x 794.97pt>
+<tb.pdf, id=318, page=48, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 48>
 Package pdftex.def Info: tb.pdf , page48 used on input line 403.
@@ -1725,7 +1726,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 411.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=328, page=49, 614.295pt x 794.97pt>
+<tb.pdf, id=324, page=49, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 49>
 Package pdftex.def Info: tb.pdf , page49 used on input line 411.
@@ -1755,7 +1756,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 418.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=334, page=50, 614.295pt x 794.97pt>
+<tb.pdf, id=330, page=50, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 50>
 Package pdftex.def Info: tb.pdf , page50 used on input line 418.
@@ -1785,7 +1786,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 425.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=340, page=51, 614.295pt x 794.97pt>
+<tb.pdf, id=336, page=51, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 51>
 Package pdftex.def Info: tb.pdf , page51 used on input line 425.
@@ -1815,7 +1816,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 433.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=347, page=52, 614.295pt x 794.97pt>
+<tb.pdf, id=342, page=52, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 52>
 Package pdftex.def Info: tb.pdf , page52 used on input line 433.
@@ -1845,7 +1846,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 439.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=353, page=53, 614.295pt x 794.97pt>
+<tb.pdf, id=349, page=53, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 53>
 Package pdftex.def Info: tb.pdf , page53 used on input line 439.
@@ -1875,7 +1876,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 447.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=359, page=54, 614.295pt x 794.97pt>
+<tb.pdf, id=355, page=54, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 54>
 Package pdftex.def Info: tb.pdf , page54 used on input line 447.
@@ -1905,7 +1906,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 454.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=365, page=55, 614.295pt x 794.97pt>
+<tb.pdf, id=361, page=55, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 55>
 Package pdftex.def Info: tb.pdf , page55 used on input line 454.
@@ -1935,7 +1936,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 461.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=371, page=56, 614.295pt x 794.97pt>
+<tb.pdf, id=367, page=56, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 56>
 Package pdftex.def Info: tb.pdf , page56 used on input line 461.
@@ -1965,7 +1966,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 467.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=377, page=57, 614.295pt x 794.97pt>
+<tb.pdf, id=373, page=57, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 57>
 Package pdftex.def Info: tb.pdf , page57 used on input line 467.
@@ -1995,7 +1996,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 476.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=384, page=58, 614.295pt x 794.97pt>
+<tb.pdf, id=379, page=58, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 58>
 Package pdftex.def Info: tb.pdf , page58 used on input line 476.
@@ -2025,7 +2026,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 482.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=390, page=59, 614.295pt x 794.97pt>
+<tb.pdf, id=386, page=59, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 59>
 Package pdftex.def Info: tb.pdf , page59 used on input line 482.
@@ -2055,7 +2056,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 490.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=396, page=60, 614.295pt x 794.97pt>
+<tb.pdf, id=392, page=60, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 60>
 Package pdftex.def Info: tb.pdf , page60 used on input line 490.
@@ -2085,7 +2086,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 499.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=402, page=61, 614.295pt x 794.97pt>
+<tb.pdf, id=398, page=61, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 61>
 Package pdftex.def Info: tb.pdf , page61 used on input line 499.
@@ -2115,7 +2116,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 505.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=408, page=62, 614.295pt x 794.97pt>
+<tb.pdf, id=404, page=62, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 62>
 Package pdftex.def Info: tb.pdf , page62 used on input line 505.
@@ -2145,7 +2146,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 512.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=414, page=63, 614.295pt x 794.97pt>
+<tb.pdf, id=410, page=63, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 63>
 Package pdftex.def Info: tb.pdf , page63 used on input line 512.
@@ -2175,7 +2176,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 520.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=421, page=64, 614.295pt x 794.97pt>
+<tb.pdf, id=416, page=64, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 64>
 Package pdftex.def Info: tb.pdf , page64 used on input line 520.
@@ -2205,7 +2206,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 528.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=427, page=65, 614.295pt x 794.97pt>
+<tb.pdf, id=423, page=65, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 65>
 Package pdftex.def Info: tb.pdf , page65 used on input line 528.
@@ -2235,7 +2236,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 534.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=433, page=66, 614.295pt x 794.97pt>
+<tb.pdf, id=429, page=66, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 66>
 Package pdftex.def Info: tb.pdf , page66 used on input line 534.
@@ -2265,7 +2266,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 541.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=439, page=67, 614.295pt x 794.97pt>
+<tb.pdf, id=435, page=67, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 67>
 Package pdftex.def Info: tb.pdf , page67 used on input line 541.
@@ -2295,7 +2296,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 548.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=445, page=68, 614.295pt x 794.97pt>
+<tb.pdf, id=441, page=68, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 68>
 Package pdftex.def Info: tb.pdf , page68 used on input line 548.
@@ -2325,7 +2326,7 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf>
 Package pdftex.def Info: tb.pdf  used on input line 555.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<tb.pdf, id=451, page=69, 614.295pt x 794.97pt>
+<tb.pdf, id=447, page=69, 614.295pt x 794.97pt>
 File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 69>
 Package pdftex.def Info: tb.pdf , page69 used on input line 555.
@@ -2346,28 +2347,25 @@ File: tb.pdf Graphic file (type pdf)
 <use tb.pdf, page 69>
 Package pdftex.def Info: tb.pdf , page69 used on input line 555.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [69 <./tb.pdf>] (./TuneBook.ind [70
-
-] [71])
+ [69 <./tb.pdf>] (./TuneBook.ind)
 (./TuneBook.aux) ) 
 Here is how much of TeX's memory you used:
- 3549 strings out of 480559
- 54173 string characters out of 5903497
- 363220 words of memory out of 5000000
- 21155 multiletter control sequences out of 15000+600000
- 408294 words of font info for 43 fonts, out of 8000000 for 9000
+ 3547 strings out of 480559
+ 54149 string characters out of 5903497
+ 371220 words of memory out of 5000000
+ 21154 multiletter control sequences out of 15000+600000
+ 407986 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,17n,80p,1070b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on TuneBook.pdf (75 pages, 1885628 bytes).
+/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on TuneBook.pdf (72 pages, 1858324 bytes).
 PDF statistics:
- 492 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
+ 476 PDF objects out of 1000 (max. 8388607)
+ 181 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1041 words of extra memory for PDF output out of 10000 (max. 10000000)
 

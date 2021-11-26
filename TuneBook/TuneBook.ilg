@@ -1,6 +1,825 @@
 This is makeindex, version 2.15 [TeX Live 2022/dev] (kpathsea + Thai support).
-Scanning input file TuneBook.idx....done (179 entries accepted, 0 rejected).
-Sorting entries.....done (1517 comparisons).
-Generating output file TuneBook.ind....done (222 lines written, 0 warnings).
-Output written in TuneBook.ind.
+Scanning input file TuneBook.tex...
+!! Input index error (file = TuneBook.tex, line = 1):
+   -- Unknown index keyword \documentclass[11pt,letterpaper].
+!! Input index error (file = TuneBook.tex, line = 2):
+   -- Unknown index keyword \usepackage[margin=0.7in].
+!! Input index error (file = TuneBook.tex, line = 3):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = TuneBook.tex, line = 4):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = TuneBook.tex, line = 5):
+   -- Unknown index keyword \usepackage.
+!! Input index error (file = TuneBook.tex, line = 6):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 8):
+   -- Unknown index keyword \renewcommand.
+!! Input index error (file = TuneBook.tex, line = 11):
+   -- Unknown index keyword \begin.
+!! Input index error (file = TuneBook.tex, line = 12):
+   -- Unknown index keyword \pagenumbering.
+!! Input index error (file = TuneBook.tex, line = 14):
+   -- Unknown index keyword \title.
+!! Input index error (file = TuneBook.tex, line = 15):
+   -- Unknown index keyword \author.
+!! Input index error (file = TuneBook.tex, line = 16):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 18):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 20):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 22):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 24):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 26):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 27):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 29):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 30):
+   -- Unknown index keyword \pagenumbering.
+!! Input index error (file = TuneBook.tex, line = 32):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 33):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 34):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 37):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 38):
+   -- Unknown index keyword \setcounter.
+!! Input index error (file = TuneBook.tex, line = 39):
+   -- Unknown index keyword \includepdf[pages=1].
+!! Input index error (file = TuneBook.tex, line = 41):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 42):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 43):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 45):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 46):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 47):
+   -- Unknown index keyword \includepdf[pages=2].
+!! Input index error (file = TuneBook.tex, line = 49):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 50):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 51):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 53):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 54):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 55):
+   -- Unknown index keyword \includepdf[pages=3].
+!! Input index error (file = TuneBook.tex, line = 57):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 58):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 59):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 61):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 62):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 63):
+   -- Unknown index keyword \includepdf[pages=4].
+!! Input index error (file = TuneBook.tex, line = 65):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 66):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 67):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 69):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 70):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 71):
+   -- Unknown index keyword \includepdf[pages=5].
+!! Input index error (file = TuneBook.tex, line = 73):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 74):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 75):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 77):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 78):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 79):
+   -- Unknown index keyword \includepdf[pages=6].
+!! Input index error (file = TuneBook.tex, line = 81):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 82):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 83):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 85):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 86):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 87):
+   -- Unknown index keyword \includepdf[pages=7].
+!! Input index error (file = TuneBook.tex, line = 89):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 90):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 91):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 93):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 94):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 95):
+   -- Unknown index keyword \includepdf[pages=8].
+!! Input index error (file = TuneBook.tex, line = 97):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 98):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 99):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 101):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 102):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 103):
+   -- Unknown index keyword \includepdf[pages=9].
+!! Input index error (file = TuneBook.tex, line = 105):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 106):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 107):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 109):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 110):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 111):
+   -- Unknown index keyword \includepdf[pages=10].
+!! Input index error (file = TuneBook.tex, line = 113):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 114):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 115):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 117):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 118):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 119):
+   -- Unknown index keyword \includepdf[pages=11].
+!! Input index error (file = TuneBook.tex, line = 121):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 122):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 123):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 125):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 126):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 127):
+   -- Unknown index keyword \includepdf[pages=12].
+!! Input index error (file = TuneBook.tex, line = 129):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 130):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 131):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 133):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 134):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 135):
+   -- Unknown index keyword \includepdf[pages=13].
+!! Input index error (file = TuneBook.tex, line = 137):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 138):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 139):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 141):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 142):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 143):
+   -- Unknown index keyword \includepdf[pages=14].
+!! Input index error (file = TuneBook.tex, line = 145):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 146):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 147):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 149):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 150):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 151):
+   -- Unknown index keyword \includepdf[pages=15].
+!! Input index error (file = TuneBook.tex, line = 153):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 154):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 156):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 157):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 158):
+   -- Unknown index keyword \includepdf[pages=16].
+!! Input index error (file = TuneBook.tex, line = 160):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 161):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 162):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 164):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 165):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 166):
+   -- Unknown index keyword \includepdf[pages=17].
+!! Input index error (file = TuneBook.tex, line = 168):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 169):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 170):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 172):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 173):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 174):
+   -- Unknown index keyword \includepdf[pages=18].
+!! Input index error (file = TuneBook.tex, line = 176):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 177):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 178):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 180):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 181):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 182):
+   -- Unknown index keyword \includepdf[pages=19].
+!! Input index error (file = TuneBook.tex, line = 184):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 185):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 186):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 188):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 189):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 190):
+   -- Unknown index keyword \includepdf[pages=20].
+!! Input index error (file = TuneBook.tex, line = 192):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 193):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 195):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 196):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 197):
+   -- Unknown index keyword \includepdf[pages=21].
+!! Input index error (file = TuneBook.tex, line = 199):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 200):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 201):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 203):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 204):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 205):
+   -- Unknown index keyword \includepdf[pages=22].
+!! Input index error (file = TuneBook.tex, line = 207):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 208):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 209):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 211):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 212):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 213):
+   -- Unknown index keyword \includepdf[pages=23].
+!! Input index error (file = TuneBook.tex, line = 215):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 217):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 218):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 219):
+   -- Unknown index keyword \includepdf[pages=24].
+!! Input index error (file = TuneBook.tex, line = 221):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 222):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 223):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 225):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 226):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 227):
+   -- Unknown index keyword \includepdf[pages=25].
+!! Input index error (file = TuneBook.tex, line = 229):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 230):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 231):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 233):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 234):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 235):
+   -- Unknown index keyword \includepdf[pages=26].
+!! Input index error (file = TuneBook.tex, line = 237):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 238):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 239):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 241):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 242):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 243):
+   -- Unknown index keyword \includepdf[pages=27].
+!! Input index error (file = TuneBook.tex, line = 245):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 246):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 247):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 249):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 250):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 251):
+   -- Unknown index keyword \includepdf[pages=28].
+!! Input index error (file = TuneBook.tex, line = 253):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 254):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 256):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 257):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 258):
+   -- Unknown index keyword \includepdf[pages=29].
+!! Input index error (file = TuneBook.tex, line = 260):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 261):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 263):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 264):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 265):
+   -- Unknown index keyword \includepdf[pages=30].
+!! Input index error (file = TuneBook.tex, line = 267):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 268):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 269):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 271):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 272):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 273):
+   -- Unknown index keyword \includepdf[pages=31].
+!! Input index error (file = TuneBook.tex, line = 275):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 276):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 277):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 279):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 280):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 281):
+   -- Unknown index keyword \includepdf[pages=32].
+!! Input index error (file = TuneBook.tex, line = 283):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 285):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 286):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 287):
+   -- Unknown index keyword \includepdf[pages=33].
+!! Input index error (file = TuneBook.tex, line = 289):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 290):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 291):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 293):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 294):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 295):
+   -- Unknown index keyword \includepdf[pages=34].
+!! Input index error (file = TuneBook.tex, line = 297):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 298):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 299):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 301):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 302):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 303):
+   -- Unknown index keyword \includepdf[pages=35].
+!! Input index error (file = TuneBook.tex, line = 305):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 306):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 307):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 309):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 310):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 311):
+   -- Unknown index keyword \includepdf[pages=36].
+!! Input index error (file = TuneBook.tex, line = 313):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 314):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 315):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 317):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 318):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 319):
+   -- Unknown index keyword \includepdf[pages=37].
+!! Input index error (file = TuneBook.tex, line = 321):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 322):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 323):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 325):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 326):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 327):
+   -- Unknown index keyword \includepdf[pages=38].
+!! Input index error (file = TuneBook.tex, line = 329):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 330):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 332):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 333):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 334):
+   -- Unknown index keyword \includepdf[pages=39].
+!! Input index error (file = TuneBook.tex, line = 336):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 337):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 339):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 340):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 341):
+   -- Unknown index keyword \includepdf[pages=40].
+!! Input index error (file = TuneBook.tex, line = 343):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 344):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 346):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 347):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 348):
+   -- Unknown index keyword \includepdf[pages=41].
+!! Input index error (file = TuneBook.tex, line = 350):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 351):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 353):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 354):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 355):
+   -- Unknown index keyword \includepdf[pages=42].
+!! Input index error (file = TuneBook.tex, line = 357):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 358):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 360):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 361):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 362):
+   -- Unknown index keyword \includepdf[pages=43].
+!! Input index error (file = TuneBook.tex, line = 364):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 365):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 366):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 368):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 369):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 370):
+   -- Unknown index keyword \includepdf[pages=44].
+!! Input index error (file = TuneBook.tex, line = 372):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 373):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 374):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 376):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 377):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 378):
+   -- Unknown index keyword \includepdf[pages=45].
+!! Input index error (file = TuneBook.tex, line = 380):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 381):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 382):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 384):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 385):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 386):
+   -- Unknown index keyword \includepdf[pages=46].
+!! Input index error (file = TuneBook.tex, line = 388):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 389):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 390):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 392):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 393):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 394):
+   -- Unknown index keyword \includepdf[pages=47].
+!! Input index error (file = TuneBook.tex, line = 396):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 397):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 398):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 399):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 401):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 402):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 403):
+   -- Unknown index keyword \includepdf[pages=48].
+!! Input index error (file = TuneBook.tex, line = 405):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 406):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 407):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 409):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 410):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 411):
+   -- Unknown index keyword \includepdf[pages=49].
+!! Input index error (file = TuneBook.tex, line = 413):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 414):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 416):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 417):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 418):
+   -- Unknown index keyword \includepdf[pages=50].
+!! Input index error (file = TuneBook.tex, line = 420):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 421):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 422):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 423):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 424):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 425):
+   -- Unknown index keyword \includepdf[pages=51].
+!! Input index error (file = TuneBook.tex, line = 427):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 428):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 429):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 431):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 432):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 433):
+   -- Unknown index keyword \includepdf[pages=52].
+!! Input index error (file = TuneBook.tex, line = 435):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 437):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 438):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 439):
+   -- Unknown index keyword \includepdf[pages=53].
+!! Input index error (file = TuneBook.tex, line = 441):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 442):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 443):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 445):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 446):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 447):
+   -- Unknown index keyword \includepdf[pages=54].
+!! Input index error (file = TuneBook.tex, line = 449):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 450):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 452):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 453):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 454):
+   -- Unknown index keyword \includepdf[pages=55].
+!! Input index error (file = TuneBook.tex, line = 456):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 457):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 459):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 460):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 461):
+   -- Unknown index keyword \includepdf[pages=56].
+!! Input index error (file = TuneBook.tex, line = 463):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 465):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 466):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 467):
+   -- Unknown index keyword \includepdf[pages=57].
+!! Input index error (file = TuneBook.tex, line = 469):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 470):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 471):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 472):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 474):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 475):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 476):
+   -- Unknown index keyword \includepdf[pages=58].
+!! Input index error (file = TuneBook.tex, line = 478):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 480):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 481):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 482):
+   -- Unknown index keyword \includepdf[pages=59].
+!! Input index error (file = TuneBook.tex, line = 484):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 485):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 486):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 488):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 489):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 490):
+   -- Unknown index keyword \includepdf[pages=60].
+!! Input index error (file = TuneBook.tex, line = 492):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 493):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 494):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 497):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 498):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 499):
+   -- Unknown index keyword \includepdf[pages=61].
+!! Input index error (file = TuneBook.tex, line = 501):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 503):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 504):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 505):
+   -- Unknown index keyword \includepdf[pages=62].
+!! Input index error (file = TuneBook.tex, line = 507):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 508):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 510):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 511):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 512):
+   -- Unknown index keyword \includepdf[pages=63].
+!! Input index error (file = TuneBook.tex, line = 514):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 515):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 516):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 518):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 519):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 520):
+   -- Unknown index keyword \includepdf[pages=64].
+!! Input index error (file = TuneBook.tex, line = 522):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 523):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 524):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 526):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 527):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 528):
+   -- Unknown index keyword \includepdf[pages=65].
+!! Input index error (file = TuneBook.tex, line = 530):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 532):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 533):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 534):
+   -- Unknown index keyword \includepdf[pages=66].
+!! Input index error (file = TuneBook.tex, line = 536):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 537):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 539):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 540):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 541):
+   -- Unknown index keyword \includepdf[pages=67].
+!! Input index error (file = TuneBook.tex, line = 543):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 544):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 546):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 547):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 548):
+   -- Unknown index keyword \includepdf[pages=68].
+!! Input index error (file = TuneBook.tex, line = 550):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 551):
+   -- Unknown index keyword \index.
+!! Input index error (file = TuneBook.tex, line = 553):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 554):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 555):
+   -- Unknown index keyword \includepdf[pages=69].
+!! Input index error (file = TuneBook.tex, line = 557):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 558):
+   -- Unknown index keyword \addcontentsline.
+!! Input index error (file = TuneBook.tex, line = 559):
+   -- Missing arguments -- need two (premature LFD).
+!! Input index error (file = TuneBook.tex, line = 560):
+   -- Unknown index keyword \end.
+done (0 entries accepted, 410 rejected).
+Nothing written in TuneBook.ind.
 Transcript written in TuneBook.ilg.
