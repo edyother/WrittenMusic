@@ -130,31 +130,31 @@
 \contentsline {subsection}{-}{37}{}%
 \contentsline {subsection}{-}{38}{}%
 \contentsline {subsection}{-}{38}{}%
-\contentsline {subsection}{-}{38}{}%
-\contentsline {subsection}{-}{38}{}%
-\contentsline {subsection}{-}{38}{}%
-\contentsline {subsection}{-}{39}{}%
-\contentsline {subsection}{-}{39}{}%
-\contentsline {subsection}{-}{39}{}%
-\contentsline {subsection}{-}{40}{}%
-\contentsline {subsection}{-}{40}{}%
-\contentsline {subsection}{-}{40}{}%
-\contentsline {subsection}{-}{40}{}%
-\contentsline {section}{\numberline {4}S}{41}{}%
-\contentsline {subsection}{-}{41}{}%
-\contentsline {subsection}{-}{41}{}%
-\contentsline {subsection}{-}{41}{}%
-\contentsline {subsection}{-}{41}{}%
-\contentsline {subsection}{-}{42}{}%
-\contentsline {subsection}{-}{42}{}%
-\contentsline {subsection}{-}{42}{}%
-\contentsline {subsection}{-}{42}{}%
-\contentsline {subsection}{-}{43}{}%
-\contentsline {subsection}{-}{43}{}%
-\contentsline {subsection}{-}{43}{}%
-\contentsline {subsection}{-}{43}{}%
-\contentsline {subsection}{-}{43}{}%
-\contentsline {subsection}{-}{44}{}%
+\contentsline {subsection}{Peggy Lettermore}{38}{}%
+\contentsline {subsection}{The Persistence of Noel Reid}{38}{}%
+\contentsline {subsection}{The Pipe on the Hob \#1}{38}{}%
+\contentsline {subsection}{The Pipe on the Hob \#2}{39}{}%
+\contentsline {subsection}{A Polka}{39}{}%
+\contentsline {subsection}{The Rakes of Kildare}{39}{}%
+\contentsline {subsection}{The Rakish Paddy}{40}{}%
+\contentsline {subsection}{The Rambling Pitchfork}{40}{}%
+\contentsline {subsection}{Return to Milltown}{40}{}%
+\contentsline {subsection}{The Road to Lisdoonvarna}{40}{}%
+\contentsline {section}{\numberline {4}Sierra}{41}{}%
+\contentsline {subsection}{Saddle the Pony}{41}{}%
+\contentsline {subsection}{Sailing Into Walpole's Marsh}{41}{}%
+\contentsline {subsection}{The Salmon's Leap}{41}{}%
+\contentsline {subsection}{Salt River Road}{41}{}%
+\contentsline {subsection}{The Shandon Bells}{42}{}%
+\contentsline {subsection}{The Ships Are Sailing}{42}{}%
+\contentsline {subsection}{The Silver Spear}{42}{}%
+\contentsline {subsection}{Slide from Sliabh Luachra}{42}{}%
+\contentsline {subsection}{Soggy's}{43}{}%
+\contentsline {subsection}{Sonny's Mazurka}{43}{}%
+\contentsline {subsection}{St Anne's Reel}{43}{}%
+\contentsline {subsection}{The Stack of Barley}{43}{}%
+\contentsline {subsection}{The Star above the Garter}{43}{}%
+\contentsline {subsection}{The Star of Munster}{44}{}%
 \contentsline {subsection}{The Staten Island Hornpipe}{44}{}%
 \contentsline {subsection}{The Swallowtail Jig}{44}{}%
 \contentsline {subsection}{Sweeny's Polka}{44}{}%
