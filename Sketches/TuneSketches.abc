@@ -341,8 +341,10 @@ R:hornpipe
 M:4/4
 L:1/8
 K:G
-BA | GABd dBde | g2e dega | bagf eddB | BAAG AcBA |
-
+BA |: GABd dBde | g2ge dega | bage dBGA | BAAG AcBA |
+GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
+| fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA | 
+GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 
 X:28
 T:Cook in the Kitchen, The
