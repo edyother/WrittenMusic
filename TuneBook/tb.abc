@@ -2261,6 +2261,18 @@ g2bg egdg | egdg edBd | gbbg efge | dega bage :|
 %%scale .7
 %%staffsep 40
 
+X:69
+T:Cronin's Hornpipe
+S:Sean Gavin
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+BA |: GABd dBde | g2ge dega | bage dBGA | BAAG AcBA |
+GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
+| fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA | 
+GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
+
 X:171
 T:Little Stack of Wheat, The
 S:Sean Gavin

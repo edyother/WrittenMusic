@@ -65,6 +65,6 @@
 \contentsline {subsection}{\textrm {O'Mahoney's / The Stack of Barley / Bantry Bay \(hornpipes\)}}{65}{}%
 \contentsline {subsection}{\textrm {Bucks of Oranmore, The \(reel\)}}{66}{}%
 \contentsline {subsection}{\textrm {The Torn Jacket / Come West Along the Road \(reels\)}}{67}{}%
-\contentsline {subsection}{\textrm {The Little Stack of Wheat / Johnny Will You Marry Me? \(hornpipes\)}}{68}{}%
+\contentsline {subsection}{\textrm {Cronin's Hornpipe \ The Little Stack of Wheat / Johnny Will You Marry Me? \(hornpipes\)}}{68}{}%
 \contentsline {subsection}{\textrm {Catharsis / The Wizard's Walk \(reels\)}}{69}{}%
 \contentsline {subsection}{\textrm {Index}}{70}{}%
