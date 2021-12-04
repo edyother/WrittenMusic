@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.9.23)  2 DEC 2021 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.12.2)  4 DEC 2021 00:10
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**tuneDump.tex
+**tuneDump.tex --shell-escape
 (./tuneDump.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27>
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -36,9 +36,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count190
-\Gm@cntv=\count191
-\c@Gm@tempcnt=\count192
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -62,13 +62,13 @@ Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \verbatim@in@stream=\read2
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
@@ -84,7 +84,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
-\c@abc@count=\count193
+\c@abc@count=\count194
 \abc@out=\write3
 )
 (/usr/share/texmf/tex/latex/tocloft/tocloft.sty
@@ -116,8 +116,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip72
 \cftfigindent=\skip73
 \cftfignumwidth=\skip74
-\c@lofdepth=\count194
-\c@lotdepth=\count195
+\c@lofdepth=\count195
+\c@lotdepth=\count196
 \cftbeforelottitleskip=\skip75
 \cftafterlottitleskip=\skip76
 \cftbeforetabskip=\skip77
@@ -125,8 +125,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cfttabnumwidth=\skip79
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box50
 )
 (./tuneDump.aux)
@@ -183,16 +183,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count198
 \scratchdimen=\dimen149
 \scratchbox=\box51
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\nofMPsegments=\count199
+\nofMParguments=\count266
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count266
+\MPscratchCnt=\count267
 \MPscratchDim=\dimen150
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -350,11 +350,11 @@ runsystem(ps2eps -f out-abc-10.ps )...executed.
 
 runsystem(epstopdf out-abc-10.eps)...executed.
 
-<out-abc-10.pdf, id=89, 513.92pt x 193.72375pt>
+<out-abc-10.pdf, id=89, 513.92pt x 154.5775pt>
 File: out-abc-10.pdf Graphic file (type pdf)
 <use out-abc-10.pdf>
 Package pdftex.def Info: out-abc-10.pdf  used on input line 191.
-(pdftex.def)             Requested size: 513.11745pt x 193.43652pt.
+(pdftex.def)             Requested size: 513.11745pt x 154.34831pt.
 \openout3 = `out-abc-11.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-11.abc )...executed.
@@ -617,11 +617,11 @@ runsystem(ps2eps -f out-abc-30.ps )...executed.
 
 runsystem(epstopdf out-abc-30.eps)...executed.
 
-<out-abc-30.pdf, id=266, 513.92pt x 200.75pt>
+<out-abc-30.pdf, id=266, 513.92pt x 198.7425pt>
 File: out-abc-30.pdf Graphic file (type pdf)
 <use out-abc-30.pdf>
 Package pdftex.def Info: out-abc-30.pdf  used on input line 552.
-(pdftex.def)             Requested size: 513.11745pt x 200.45236pt.
+(pdftex.def)             Requested size: 513.11745pt x 198.44785pt.
  [12 <./out-abc-26.pdf> <./out-abc-27.pdf> <./out-abc-28.pdf> <./out-abc-29.pdf
 >]
 \openout3 = `out-abc-31.abc'.
@@ -1370,11 +1370,11 @@ runsystem(ps2eps -f out-abc-86.ps )...executed.
 
 runsystem(epstopdf out-abc-86.eps)...executed.
 
-<out-abc-86.pdf, id=843, 513.92pt x 180.675pt>
+<out-abc-86.pdf, id=843, 513.92pt x 179.67125pt>
 File: out-abc-86.pdf Graphic file (type pdf)
 <use out-abc-86.pdf>
 Package pdftex.def Info: out-abc-86.pdf  used on input line 1589.
-(pdftex.def)             Requested size: 513.11745pt x 180.40712pt.
+(pdftex.def)             Requested size: 513.11745pt x 179.40485pt.
 \openout3 = `out-abc-87.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-87.abc )...executed.
@@ -1625,11 +1625,11 @@ runsystem(ps2eps -f out-abc-105.ps )...executed.
 
 runsystem(epstopdf out-abc-105.eps)...executed.
 
-<out-abc-105.pdf, id=1029, 513.92pt x 148.555pt>
+<out-abc-105.pdf, id=1029, 513.92pt x 146.5475pt>
 File: out-abc-105.pdf Graphic file (type pdf)
 <use out-abc-105.pdf>
 Package pdftex.def Info: out-abc-105.pdf  used on input line 1933.
-(pdftex.def)             Requested size: 513.11745pt x 148.33475pt.
+(pdftex.def)             Requested size: 513.11745pt x 146.3302pt.
 \openout3 = `out-abc-106.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-106.abc )...executed.
@@ -1880,11 +1880,11 @@ runsystem(ps2eps -f out-abc-124.ps )...executed.
 
 runsystem(epstopdf out-abc-124.eps)...executed.
 
-<out-abc-124.pdf, id=1201, 513.92pt x 147.55125pt>
+<out-abc-124.pdf, id=1201, 513.92pt x 146.5475pt>
 File: out-abc-124.pdf Graphic file (type pdf)
 <use out-abc-124.pdf>
 Package pdftex.def Info: out-abc-124.pdf  used on input line 2264.
-(pdftex.def)             Requested size: 513.11745pt x 147.33247pt.
+(pdftex.def)             Requested size: 513.11745pt x 146.3302pt.
  [38 <./out-abc-120.pdf> <./out-abc-121.pdf> <./out-abc-122.pdf> <./out-abc-123
 .pdf>]
 \openout3 = `out-abc-125.abc'.
@@ -2489,11 +2489,11 @@ runsystem(ps2eps -f out-abc-169.ps )...executed.
 
 runsystem(epstopdf out-abc-169.eps)...executed.
 
-<out-abc-169.pdf, id=1665, 513.92pt x 192.72pt>
+<out-abc-169.pdf, id=1665, 513.92pt x 157.58875pt>
 File: out-abc-169.pdf Graphic file (type pdf)
 <use out-abc-169.pdf>
 Package pdftex.def Info: out-abc-169.pdf  used on input line 3055.
-(pdftex.def)             Requested size: 513.11745pt x 192.43427pt.
+(pdftex.def)             Requested size: 513.11745pt x 157.35509pt.
 \openout3 = `out-abc-170.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-170.abc )...executed.
@@ -2590,20 +2590,20 @@ Package pdftex.def Info: out-abc-176.pdf  used on input line 3186.
  [52 <./out-abc-174.pdf> <./out-abc-175.pdf> <./out-abc-176.pdf>] (./tuneDump.a
 ux) ) 
 Here is how much of TeX's memory you used:
- 3395 strings out of 480559
- 59986 string characters out of 5903497
- 344564 words of memory out of 5000000
- 20856 multiletter control sequences out of 15000+600000
+ 3539 strings out of 480313
+ 65116 string characters out of 5897497
+ 349834 words of memory out of 5000000
+ 21246 multiletter control sequences out of 15000+600000
  407378 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,6n,80p,228b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,6n,76p,243b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on tuneDump.pdf (52 pages, 2227545 bytes).
+Output written on tuneDump.pdf (52 pages, 2220666 bytes).
 PDF statistics:
  1785 PDF objects out of 2073 (max. 8388607)
  1141 compressed objects within 12 object streams
