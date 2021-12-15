@@ -182,12 +182,12 @@ T:Behind the Haystack
 M:6/8
 R:jig
 K:D
-d2e fdB | d2e fdB | AFE EFE | AFE EFE |
-d2e fdB | d2e fdB | AED DED | AED DED :|
-|: B2B BAF | ABc dcB | AFE EDE | AFE EDD |
-B2B BAF | ABc dcB | AED DED | AED DED :|
-g3 f3 | ede fdB | AFE EDE | AFE EDD |
-g3 f3 | ede fdB | AED DED | AED DED :|
+d2e fdB | d2e fdB | AFE (E/F/E)E | AFE (E/F/E)E |
+d2e fdB | d2e fdB | AED (D/E/D)D | AED (D/E/D)D :|
+|: B2B BAF | ABc dcB | AFE (E/F/E)E | AFE (E/F/E)D |
+B2B BAF | ABc dcB | AED (D/E/D)D | AED (D/E/D)D :|
+g3 f3 | ede fdB | AFE (E/F/E)E | AFE (E/F/E)D |
+g3 f3 | ede fdB | AED (D/E/D)D | AED (D/E/D)D :|
 \end{abc}
 
 \addcontentsline{toc}{subsection}{The Belfast Hornpipe}
@@ -309,11 +309,11 @@ T:Bohola Jig
 R:jig
 M:6/8
 K:D
-e | fef d2B | ABA ABd | efe edB | efe e2e |
-fef d2B | ABA ABd | efe edB | ded d2 :|
-e | fef a2e | fef a2f | efe edB | efe e2e |
-|[1 fef a2e | fef a2f | efe edB | ded d2:|
-|[2 fef d2B | ABA ABd | efe edB | ded d2 |]
+e | fef d2B | (A/B/A)A ABd | (e/f/e)e edB | (e/f/e)e e2e |
+fef d2B | (A/B/A)A ABd | ef/e/e edB | de/d/d d2 :|
+e | fef a2e | fef a2f | (e/f/e)e edB | (e/f/e)e e2e |
+|[1 fef a2e | fef a2f | (e/f/e)e edB | de/d/d d2:|
+|[2 fef d2B | (A/B/A)A ABd | (e/f/e)e edB | de/d/d d2 |]
 \end{abc}
 
 \addcontentsline{toc}{subsection}{The Boys of Ballycastle}
@@ -419,9 +419,9 @@ C:Dave Richardson
 M:6/8
 R:Jig
 K:Dmaj
-a3 faa | eaa def | g3 f3 | efe edB |
-ABA A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
-|: dAA fAA | eAA f2A | Bee e2d | efe edB | ABA A2F |
+a3 faa | eaa def | g3 f3 | (e/f/e)e edB |
+(A/B/A)A A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
+|: dAA fAA | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
 A2B d2e |[1 f3 fed | e3 e2A :|[2 f3 edB | d3 dfg |]
 \end{abc}
 
@@ -525,9 +525,9 @@ C:Gary Haggerty
 M:6/8
 R:jig
 K:Ador
-EAA GAA | cBA eAA | EAA GAA | cBA ABA |
-EAA GAA | cBA eAA | cBA ABA | GED A2G :|
-|: A,2C EGA | cBA GED | A,2C EGA | cBA ABA |
+EAA GAA | cBA eAA | EAA GAA | cBA (A/B/A)A |
+EAA GAA | cBA eAA | cBA (A/B/A)A | GED A2G :|
+|: A,2C EGA | (c/B/A)A GED | A,2C EGA | (c/B/A)A (A/B/A)A |
 A,2C EGA | dcc cAG | dcc cAG | EDE A3 :|
 \end{abc}
 
@@ -544,11 +544,11 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-Dfe dBA | FAB AFE | Ecc cBA | Ecc cBA |
+Dfe dBA | FAB AFE | Ec/c/c cBA | Ec/c/c cBA |
 Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
-|: Aff Aff | gfe def | edc ABc | ABA FED |
-[1 Aff Aff | gfe def | afb afe | ed^c d3 :|
-[2 Ecc cBA | ged cAG | Ecc cBE | EDD D3 ||
+|: Af/f/f Af/f/f | gfe def | edc ABc | ABA FED |
+[1 Af/f/f Af/f/f | gfe def | afb afe | ed^c d3 :|
+[2 Ec/c/c cBA | ged cAG | Ec/c/c cBE | EDD D3 ||
 \end{abc}
 
 \addcontentsline{toc}{subsection}{Colonel Rodger's Favorite}
@@ -1262,7 +1262,7 @@ K:D
 ADD DFA | AAd (B/d/B)A | ABA F2F | GFG EFG |
 ADD DFA | AAd (B/d/B)A | ABA FEE |[1 EDD D3 :|[2 EDD D2e |]
 |: fdd ede | fdd d2e | fef def | g2g efg |
-efe BAA | AdA F2A | (A/B/A)A FEE |[1 EDD D2 e :|[2 EDD D3 |]
+efe BAA | AdA F2A | ABA FEE |[1 EDD D2 e :|[2 EDD D3 |]
 \end{abc}
 
 \section{Golf}
@@ -1460,9 +1460,9 @@ M:3/4
 L:1/8
 R:Waltz
 K:Dm
-A,C | D2 DC DE | DC A,C DF | ({F}G2) GA GD | F2 G2 A2 |
+A,C | D2 DC DE | DC A,C DF | G2 GA GD | F2 G2 A2 |
  dc AG  (3ABc | GF DC DE | FA  GF  DC |[1 D2 D2 :|[2 D2 A2 c2 |]
-|: ({c}d2) dA cd | AG FC DF | ({F}G2) GA GD | F2 F2 (3(EFE) |
+|: d2 dA cd | AG FC DF | (G2) GA GD | F2 F2 (3(EFE) |
  D2 DE FG | Ad cA GF | DC  DF  EC |[1 D2 A2 c2 :|[2  D4 |]
 \end{abc}
 
@@ -1582,10 +1582,10 @@ R:reel
 C:Joe Mills
 M:C|
 K:Edor
-EBBA (3(BcB) EB | B2AB dBAG | (3(FED) AD BDAD | (3(FED) FA dAFD|
-EBBA (3(BcB) EB | B2AB defg | afef dBAF|[1 DE (3(FED) E2ED:|[2 DE (3(FED) E2gf|]
-|:eBB2 eBgB|eBB2 gedB|A2FA DAFA|A2FA defg|
-eBB2 eBgB|eBB2 defg|afef dBAF|[1 DE (3(FED) E2gf:|[2 DE (3(FED) E2ED|]
+EBBA (3(BcB) EB|~B2AB dBAG|(3(FED) AD BDAD|(3(FED) FA dAFD|
+EBBA (3(BcB) EB|~B2AB defg|afef dBAF|[1 DE (3(FED) E2ED:|[2 DE (3(FED) E2gf|]
+|:eB~B2 eBgB|eB~B2 gedB|~A2FA DAFA|~A2FA defg|
+eB~B2 eBgB|eB~B2 defg|afef dBAF|[1 DE (3(FED) E2gf:|[2 DE (3(FED) E2ED|]
 \end{abc}
 
 \addcontentsline{toc}{subsection}{John Brennan's}
@@ -1926,10 +1926,10 @@ M:6/8
 L:1/8
 R:jig
 K:Bm
-FBB dBc | ded cBA | eAA cAc | dcB AFE |
-FBB dBc | ded cBA | gfe dAB | cdc B3 :|
-|: fdd Bdd | FBd fed | ecc Acc | EAc edc |
-dcd ede | fdf b3 | afd eAB | cdc B3 :|
+FBB dBc | ded cBA | eA/A/A cAc | dcB AFE |
+FB/B/B dBc | ded cBA | gfe dAB | cdc BB/B/B :|
+|: fd/d/d Bdd | FBd fed | ec/c/c Acc | EAc edc |
+dc/d/d ede | fdf bb/b/b | afd eAB | cdc BB/B/B:|
 \end{abc}
 
 \section{Mike}
@@ -2014,7 +2014,7 @@ GAB D2B | c2A BGE | GAB DEF |[1 G2G GFE :|[2 G2G G2A |]
 |: BGG AGG | BGG AGE | GAB DEG | A2A AGA |
 BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
 |: g2g a2a | bag edB | g2g gab | a2a agf |
-g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
+g3 f3 | efe dBA | GAB DEF | G2G G3 :|
 \end{abc}
 
 \addcontentsline{toc}{subsection}{The Merry Blacksmith}
@@ -2257,10 +2257,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:G
-BAB dBA | GAG FED | B,3 DB,D | EGF EDB, |
-BAB dBA | GAG FED | B,3 DB,D | EGF E3 :|
-|: d3 dcB | GBd gfe | d3 dcB | GAB cBA |
-BAB dBA | GAG FED | B,3 DB,D | EGF E3 :|
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EDB, |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EE/E/E :|
+|: dd/d/d dcB | GBd gfe | dd/d/d dcB | GAB cBA |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF E3 :|
 \end{abc}
 
 \addcontentsline{toc}{subsection}{Off to California}
@@ -2363,10 +2363,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:G
-DFA DFA | cBc G2A | cBc GBc | d3 dcA |
+DFA DFA | cBc G2A | cBc GBc | ({c}d2) d/d/ dcA |
 DFA DFA | cBc GBc | dcd Acd | age cBA :|
-|: a3 age | ged e2f | gfg def | gfg age |
-a3 age | ged e2f | gfg dfg | age cBA :|
+|: aa/a/a age | ged e2 f | gfg def | gfg age |
+aa/a/a age | ged e2 f | gfg dfg | age cBA :|
 \end{abc}
 
 \addcontentsline{toc}{subsection}{The Pipe on the Hob \#1}
@@ -2579,10 +2579,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-A,DA cBA | GFD EFG | A,DA cBA | GFE D3 |
-A,DA cBA | GFD EFG | cB/c/c dcB | AGE D3 :|
-|: dcd ecA | dcd ecA | cBc dcB | GBc GBc |
-[1 dcd ecA | dcd ecA | cBc dcB | AGE D3 :|
+A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
+A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
+|: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
+[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
 \end{abc}
 
@@ -2922,9 +2922,9 @@ T:Toss the Feathers
 R:reel
 M:C|
 K:Dmix
-D2 (3(FED) AD (3(FED)|ABcA GEE2|D2 (3(FED) AD (3(FED)|d2ed cAGE|
-D2 (3(FED) AD (3(FED)|ABcA GEE2|cABG A2B^c|dfed cAGE:|
-|:Add2 Add2|Add2 ed^cd|eaag a2ag|eaag ed^cd|
+D2 (3(=FED) AD (3(=FED)|ABcA GE~E2|D2 (3(=FED) AD (3(=FED)|d2ed cAGE|
+D2 (3(=FED) AD (3(=FED)|ABcA GE~E2|cABG A2B^c|dfed cAGE:|
+|:Ad~d2 Ad~d2|Ad~d2 ed^cd|eaag ~a2ag|eaag ed^cd|
 efge afge|dfed cAAB|cABG A2B^c|dfed cAGE:|
 \end{abc}
 
@@ -2994,10 +2994,10 @@ M:6/8
 R:jig
 K:Dmix
 d | dcA AGE | EDD D2E | GEE cEE | GAB cde |
-dcA AGE | EDD D2E | GEE cEE | DED D2 :|
+dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
 |: d | dAd ecA | dAd ecA | GEE cEE | GAB cde |
-[1 dAd ecA | dAd ecA | GEE cEE | DED D2 :|
-dcA AGE | EDD D2E | GEE cEE | DED D2 |]
+[1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
+dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
 \end{abc}
 
 \addcontentsline{toc}{subsection}{Waltz from John Winston}

@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.12.2)  4 DEC 2021 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2021.12.2)  15 DEC 2021 01:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**tuneDump.tex --shell-escape
+**tuneDump.tex
 (./tuneDump.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-22>
@@ -350,11 +350,11 @@ runsystem(ps2eps -f out-abc-10.ps )...executed.
 
 runsystem(epstopdf out-abc-10.eps)...executed.
 
-<out-abc-10.pdf, id=89, 513.92pt x 154.5775pt>
+<out-abc-10.pdf, id=89, 513.92pt x 193.72375pt>
 File: out-abc-10.pdf Graphic file (type pdf)
 <use out-abc-10.pdf>
 Package pdftex.def Info: out-abc-10.pdf  used on input line 191.
-(pdftex.def)             Requested size: 513.11745pt x 154.34831pt.
+(pdftex.def)             Requested size: 513.11745pt x 193.43652pt.
 \openout3 = `out-abc-11.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-11.abc )...executed.
@@ -617,11 +617,11 @@ runsystem(ps2eps -f out-abc-30.ps )...executed.
 
 runsystem(epstopdf out-abc-30.eps)...executed.
 
-<out-abc-30.pdf, id=266, 513.92pt x 198.7425pt>
+<out-abc-30.pdf, id=266, 513.92pt x 200.75pt>
 File: out-abc-30.pdf Graphic file (type pdf)
 <use out-abc-30.pdf>
 Package pdftex.def Info: out-abc-30.pdf  used on input line 552.
-(pdftex.def)             Requested size: 513.11745pt x 198.44785pt.
+(pdftex.def)             Requested size: 513.11745pt x 200.45236pt.
  [12 <./out-abc-26.pdf> <./out-abc-27.pdf> <./out-abc-28.pdf> <./out-abc-29.pdf
 >]
 \openout3 = `out-abc-31.abc'.
@@ -1289,11 +1289,11 @@ runsystem(ps2eps -f out-abc-80.ps )...executed.
 
 runsystem(epstopdf out-abc-80.eps)...executed.
 
-<out-abc-80.pdf, id=774, 513.92pt x 162.6075pt>
+<out-abc-80.pdf, id=774, 513.92pt x 169.63374pt>
 File: out-abc-80.pdf Graphic file (type pdf)
 <use out-abc-80.pdf>
 Package pdftex.def Info: out-abc-80.pdf  used on input line 1467.
-(pdftex.def)             Requested size: 513.11745pt x 162.36642pt.
+(pdftex.def)             Requested size: 513.11745pt x 169.38223pt.
  [26 <./out-abc-76.pdf> <./out-abc-77.pdf> <./out-abc-78.pdf> <./out-abc-79.pdf
 >]
 \openout3 = `out-abc-81.abc'.
@@ -1370,11 +1370,11 @@ runsystem(ps2eps -f out-abc-86.ps )...executed.
 
 runsystem(epstopdf out-abc-86.eps)...executed.
 
-<out-abc-86.pdf, id=843, 513.92pt x 179.67125pt>
+<out-abc-86.pdf, id=843, 513.92pt x 180.675pt>
 File: out-abc-86.pdf Graphic file (type pdf)
 <use out-abc-86.pdf>
 Package pdftex.def Info: out-abc-86.pdf  used on input line 1589.
-(pdftex.def)             Requested size: 513.11745pt x 179.40485pt.
+(pdftex.def)             Requested size: 513.11745pt x 180.40712pt.
 \openout3 = `out-abc-87.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-87.abc )...executed.
@@ -1625,11 +1625,11 @@ runsystem(ps2eps -f out-abc-105.ps )...executed.
 
 runsystem(epstopdf out-abc-105.eps)...executed.
 
-<out-abc-105.pdf, id=1029, 513.92pt x 146.5475pt>
+<out-abc-105.pdf, id=1029, 513.92pt x 148.555pt>
 File: out-abc-105.pdf Graphic file (type pdf)
 <use out-abc-105.pdf>
 Package pdftex.def Info: out-abc-105.pdf  used on input line 1933.
-(pdftex.def)             Requested size: 513.11745pt x 146.3302pt.
+(pdftex.def)             Requested size: 513.11745pt x 148.33475pt.
 \openout3 = `out-abc-106.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-106.abc )...executed.
@@ -1880,11 +1880,11 @@ runsystem(ps2eps -f out-abc-124.ps )...executed.
 
 runsystem(epstopdf out-abc-124.eps)...executed.
 
-<out-abc-124.pdf, id=1201, 513.92pt x 146.5475pt>
+<out-abc-124.pdf, id=1201, 513.92pt x 147.55125pt>
 File: out-abc-124.pdf Graphic file (type pdf)
 <use out-abc-124.pdf>
 Package pdftex.def Info: out-abc-124.pdf  used on input line 2264.
-(pdftex.def)             Requested size: 513.11745pt x 146.3302pt.
+(pdftex.def)             Requested size: 513.11745pt x 147.33247pt.
  [38 <./out-abc-120.pdf> <./out-abc-121.pdf> <./out-abc-122.pdf> <./out-abc-123
 .pdf>]
 \openout3 = `out-abc-125.abc'.
@@ -2448,11 +2448,11 @@ runsystem(ps2eps -f out-abc-166.ps )...executed.
 
 runsystem(epstopdf out-abc-166.eps)...executed.
 
-<out-abc-166.pdf, id=1627, 513.92pt x 168.63pt>
+<out-abc-166.pdf, id=1627, 513.92pt x 170.6375pt>
 File: out-abc-166.pdf Graphic file (type pdf)
 <use out-abc-166.pdf>
 Package pdftex.def Info: out-abc-166.pdf  used on input line 3001.
-(pdftex.def)             Requested size: 513.11745pt x 168.37997pt.
+(pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
 \openout3 = `out-abc-167.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-167.abc )...executed.
@@ -2596,14 +2596,14 @@ Here is how much of TeX's memory you used:
  21246 multiletter control sequences out of 15000+600000
  407378 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,6n,76p,243b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,6n,76p,228b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on tuneDump.pdf (52 pages, 2219033 bytes).
+Output written on tuneDump.pdf (52 pages, 2225909 bytes).
 PDF statistics:
  1785 PDF objects out of 2073 (max. 8388607)
  1141 compressed objects within 12 object streams
