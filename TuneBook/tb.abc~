@@ -374,7 +374,8 @@ B3 dBd | ege dBd | gfg aga | bgf g3:|
 %%scale .65
 %%staffsep 35
 
-X:31
+
+X:69
 T:Frost is All Over, The
 M:6/8
 R:reel
@@ -382,7 +383,7 @@ K:D
 ADD DFA | AAd (B/d/B)A | ABA F2F | GFG EFG |
 ADD DFA | AAd (B/d/B)A | ABA FEE |[1 EDD D3 :|[2 EDD D2e |]
 |: fdd ede | fdd d2e | fef def | g2g efg |
-efe BAA | AdA F2A | (A/B/A)A FEE |[1 EDD D2 e :|[2 EDD D3 |]
+efe BAA | AdA F2A | ABA FEE |[1 EDD D2 e :|[2 EDD D3 |]
 
 X:32
 T:Kitty Lie Over
@@ -497,17 +498,16 @@ a3 age | ged e2f | gfg dfg | age cBA :|
 %%scale .6
 %%staffsep 20
 
-X:40
-T:Walls of Liscarroll, The
+X:69
+T:Walls of Liscarrol, The
 M:6/8
 R:jig
 K:Dmix
 d | dcA AGE | EDD D2E | GEE cEE | GAB cde |
-dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 :|
+dcA AGE | EDD D2E | GEE cEE | DED D2 :|
 |: d | dAd ecA | dAd ecA | GEE cEE | GAB cde |
-[1 dAd ecA | dAd ecA | GEE cEE | (D/E/D)D D2 :|
-dcA AGE | EDD D2E | GEE cEE | (D/E/D)D D2 |]
-
+[1 dAd ecA | dAd ecA | GEE cEE | DED D2 :|
+dcA AGE | EDD D2E | GEE cEE | DED D2 |]
 
 X:69
 T:Behind the Haystack
@@ -521,7 +521,7 @@ B2B BAF | ABc dcB | AED DED | AED DED :|
 g3 f3 | ede fdB | AFE EDE | AFE EDD |
 g3 f3 | ede fdB | AED DED | AED DED :|
 
-X:42
+X:69
 T:Merrily Kissed the Quaker
 M:6/8
 R:Slide
@@ -531,7 +531,7 @@ GAB D2B | c2A BGE | GAB DEF |[1 G2G GFE :|[2 G2G G2A |]
 |: BGG AGG | BGG AGE | GAB DEG | A2A AGA |
 BGG AGG | BGG AGE | GAB DEF |[1 G2G G2A :|[2 G2G G3 |]
 |: g2g a2a | bag edB | g2g gab | a2a agf |
-g3 f3 | (e/f/e)e dBA | GAB DEF | G2G G3 :|
+g3 f3 | efe dBA | GAB DEF | G2G G3 :|
 
 %%newpage
 %%scale .62
@@ -769,17 +769,18 @@ K:D
 [1 A A/F/ A/2B/2 | AFD | E E/F/ G/2A/2 | BAF :|
 [2 A A/F/ A/2B/2 | AF (3E/E/E/ |  EDC |  D>G F/2E/2 |]
 
-X:61
+X:69
 T:Hillgrove's Waltz
 C:Ed Yother
+C:c.2005
 C:http://edyother.com
 M:3/4
 L:1/8
 R:Waltz
-K:Dmin
-A,C | D2 DC DE | DC A,C DF | ({F}G2) GA GD | F2 G2 A2 |
+K:Dm
+A,C | D2 DC DE | DC A,C DF | G2 GA GD | F2 G2 A2 |
  dc AG  (3ABc | GF DC DE | FA  GF  DC |[1 D2 D2 :|[2 D2 A2 c2 |]
-|: ({c}d2) dA cd | AG FC DF | ({F}G2) GA GD | F2 F2 (3(EFE) |
+|: d2 dA cd | AG FC DF | (G2) GA GD | F2 F2 (3(EFE) |
  D2 DE FG | Ad cA GF | DC  DF  EC |[1 D2 A2 c2 :|[2  D4 |]
 
 %%newpage
@@ -868,16 +869,17 @@ Add fdd | ede fef | g3 fgf | edB BdB :|
 %%scale .7
 %%staffsep 30
 
+
 X:69
 T:Bohola Jig
 R:jig
 M:6/8
 K:D
-e | fef d2B | (A/B/A)A ABd | (e/f/e)e edB | (e/f/e)e e2e |
-fef d2B | (A/B/A)A ABd | ef/e/e edB | de/d/d d2 :|
-e | fef a2e | fef a2f | (e/f/e)e edB | (e/f/e)e e2e |
-|[1 fef a2e | fef a2f | (e/f/e)e edB | de/d/d d2:|
-|[2 fef d2B | (A/B/A)A ABd | (e/f/e)e edB | de/d/d d2 |]
+e | fef d2B | ABA ABd | efe edB | efe e2e |
+fef d2B | ABA ABd | efe edB | ded d2 :|
+e | fef a2e | fef a2f | efe edB | efe e2e |
+|[1 fef a2e | fef a2f | efe edB | ded d2:|
+|[2 fef d2B | ABA ABd | efe edB | ded d2 |]
 
 X:70
 T:Blackthorn Stick, The
@@ -890,15 +892,16 @@ gfg age | dBG AGE | DGG FGA | BGF G2d :|
 |: edd gdd | edd gdd | edd gfe | dBG A2d |
 gfg age | dBG AGE | DGG FGA | BGF G2d :|
 
-X:71
+
+X:69
 T:Calliope House
 C:Dave Richardson
 M:6/8
 R:Jig
 K:Dmaj
-a3 faa | eaa def | g3 f3 | (e/f/e)e edB |
-(A/B/A)A A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
-|: dAA fAA | eAA f2A | Bee e2d | (e/f/e)e edB | (A/B/A)A A2F |
+a3 faa | eaa def | g3 f3 | efe edB |
+ABA A2F | A2B d2e |[1 f3 fed | e3 efg :|[2 f3 edB | d3 d2A |]
+|: dAA fAA | eAA f2A | Bee e2d | efe edB | ABA A2F |
 A2B d2e |[1 f3 fed | e3 e2A :|[2 f3 edB | d3 dfg |]
 
 %%newpage
@@ -1774,19 +1777,20 @@ de | ((3fgf) fg afge | fded dcAG | ((3FED) FD FGAB | ((3cBA) dc A2 de |
 DE | =F2FE FGAB | ((3cBA) dB cAGB | Adde fded | ((3cBA) dc A2 de |
 ((3fgf) fg afge | fded dcAG | ((3FED) FD GBAG | F2 D2 D2 :|
 
-X:137
+
+X:69
 T:Belfast Hornpipe, The
-R: Hornpipe
-M: 4/4
-L: 1/8
-K: Dmaj
+T:The Sweeps
+R:Hornpipe
+M:4/4
+L:1/8
+K:Dmaj
 |:ag | fadf AdAF | DFAd f2ef | gbeg BeAF | GABG E2ag |
 fadf AdAF | DFAd f2ef | gfed cABc | d2f2 d2 :|
 |: (3DEF | GFGA Bcde | fgfe dcdB | A2f2 fef2 | G2e2 ede2 |
 GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
 |: ag | (3fgf (3efe (3ded (3cdc | (3BcB (3ABA G2 ba | (3gag (3fgf (3efe (3ded | (3cdc (3BcB A2 ag |
 (3fgf (3efe (3ded (3cdc | (3BcB (3ABA (3GAG (3FGF | Eged cABc | d2 f2 d2 :|
-
 
 %%newpage
 %%scale .7

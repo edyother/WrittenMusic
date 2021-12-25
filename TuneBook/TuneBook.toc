@@ -37,7 +37,7 @@
 \contentsline {subsection}{\textrm {Drops of Brandy / Hardiman the Fiddler / A Fig for a Kiss \(slip\ jigs\)}}{37}{}%
 \contentsline {subsection}{\textrm {Tom McCann's / Tom McCann's / John Egan's \(polkas\)}}{38}{}%
 \contentsline {subsection}{\textrm {The Golden Gardens / The Salmon's Leap \(slip\ jigs\)}}{39}{}%
-\contentsline {subsection}{\textrm {John Brennan's / Father Kelly's \(reels\)}}{40}{}%
+\contentsline {subsection}{\textrm {John Brennan's / Father Kelly's / Father Tim's \(reels\)}}{40}{}%
 \contentsline {subsection}{\textrm {Bill Sullivan's / Britches Full of Stitches \(polkas\)}}{41}{}%
 \contentsline {subsection}{\textrm {The Pipe on the Hob \#1 / The Pipe on the Hob \#2 \(jigs\)}}{42}{}%
 \contentsline {subsection}{\textrm {Tatter Jack Walsh / Jimmy Ward's \(jigs\)}}{43}{}%
