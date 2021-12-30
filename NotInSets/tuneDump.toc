@@ -65,71 +65,71 @@
 \contentsline {subsection}{Face the Table}{21}{}%
 \contentsline {subsection}{The Fat Cardinal}{21}{}%
 \contentsline {subsection}{Father Kelly's}{21}{}%
-\contentsline {subsection}{The Fermoy Lasses}{21}{}%
-\contentsline {subsection}{Fifty Cent Piece}{21}{}%
+\contentsline {subsection}{Father Tim's}{21}{}%
+\contentsline {subsection}{Fifty Cent Piece}{22}{}%
 \contentsline {subsection}{A Fig for a Kiss}{22}{}%
 \contentsline {subsection}{A Finnish Polka}{22}{}%
-\contentsline {subsection}{Fisher's Hornpipe}{22}{}%
-\contentsline {subsection}{The Foxhunter's Jig}{22}{}%
+\contentsline {subsection}{Fisher's Hornpipe}{23}{}%
+\contentsline {subsection}{The Foxhunter's Jig}{23}{}%
 \contentsline {subsection}{Fred Finn's}{23}{}%
 \contentsline {subsection}{The Freize Britches}{23}{}%
-\contentsline {subsection}{The Frost is All Over}{23}{}%
+\contentsline {subsection}{The Frost is All Over}{24}{}%
 \contentsline {section}{\numberline {7}Golf}{24}{}%
 \contentsline {subsection}{Gander in the Pratie Hole}{24}{}%
 \contentsline {subsection}{Garrett Barry's \(D Mixolydian\)}{24}{}%
-\contentsline {subsection}{Garrett Barry's \(D Dorian\)}{24}{}%
-\contentsline {subsection}{Glean Eoghan}{24}{}%
+\contentsline {subsection}{Garrett Barry's \(D Dorian\)}{25}{}%
+\contentsline {subsection}{Glean Eoghan}{25}{}%
 \contentsline {subsection}{The Golden Gardens}{25}{}%
-\contentsline {subsection}{Greensleeves}{25}{}%
+\contentsline {subsection}{Greensleeves}{26}{}%
 \contentsline {section}{\numberline {8}Hotel}{26}{}%
 \contentsline {subsection}{The Happy Days of Youth}{26}{}%
 \contentsline {subsection}{The Happy Polka}{26}{}%
-\contentsline {subsection}{Hardiman the Fiddler}{26}{}%
-\contentsline {subsection}{Haste to the Wedding}{26}{}%
-\contentsline {subsection}{Hillgrove's Waltz}{26}{}%
+\contentsline {subsection}{Hardiman the Fiddler}{27}{}%
+\contentsline {subsection}{Haste to the Wedding}{27}{}%
+\contentsline {subsection}{Hillgrove's Waltz}{27}{}%
 \contentsline {subsection}{The Humors of Ballylaughlin}{27}{}%
-\contentsline {subsection}{The Humors of Glendart}{27}{}%
+\contentsline {subsection}{The Humors of Glendart}{28}{}%
 \contentsline {section}{\numberline {9}Juliett}{28}{}%
 \contentsline {subsection}{The Jaunting Jig}{28}{}%
 \contentsline {subsection}{Jessica's Polka}{28}{}%
 \contentsline {subsection}{Jimmy Ward's}{28}{}%
-\contentsline {subsection}{Joe Cooley's}{28}{}%
-\contentsline {subsection}{John Brennan's}{28}{}%
+\contentsline {subsection}{Joe Cooley's}{29}{}%
+\contentsline {subsection}{John Brennan's}{29}{}%
 \contentsline {subsection}{John Egan's}{29}{}%
 \contentsline {subsection}{Johnny Will you Marry Me}{29}{}%
-\contentsline {subsection}{Julia Clifford's}{29}{}%
-\contentsline {subsection}{Julia Delaney}{29}{}%
+\contentsline {subsection}{Julia Clifford's}{30}{}%
+\contentsline {subsection}{Julia Delaney}{30}{}%
 \contentsline {section}{\numberline {10}Kilo}{30}{}%
 \contentsline {subsection}{The Kerry Polka}{30}{}%
 \contentsline {subsection}{The Kesh Jig}{30}{}%
 \contentsline {subsection}{The Kid on the Mountain}{30}{}%
-\contentsline {subsection}{The Kilashandra Lasses}{30}{}%
-\contentsline {subsection}{Kilnamoa}{30}{}%
+\contentsline {subsection}{The Kilashandra Lasses}{31}{}%
+\contentsline {subsection}{Kilnamoa}{31}{}%
 \contentsline {subsection}{Kitty Lie Over}{31}{}%
 \contentsline {subsection}{Kitty on the Rail}{31}{}%
-\contentsline {section}{\numberline {11}Lima}{31}{}%
-\contentsline {subsection}{The Lark in the Morning}{31}{}%
-\contentsline {subsection}{Learned from Tom McCann in Philly}{31}{}%
+\contentsline {section}{\numberline {11}Lima}{32}{}%
+\contentsline {subsection}{The Lark in the Morning}{32}{}%
 \contentsline {subsection}{Learned from Tom McCann in Philly}{32}{}%
-\contentsline {subsection}{The Lilting Banshee}{32}{}%
-\contentsline {subsection}{The Little Stack of Wheat}{32}{}%
+\contentsline {subsection}{Learned from Tom McCann in Philly}{32}{}%
+\contentsline {subsection}{The Lilting Banshee}{33}{}%
+\contentsline {subsection}{The Little Stack of Wheat}{33}{}%
 \contentsline {subsection}{Lucy Farr's}{33}{}%
-\contentsline {subsection}{Lydia has no Faith in Cats}{33}{}%
-\contentsline {section}{\numberline {12}Mike}{33}{}%
-\contentsline {subsection}{Maggie in the Woods}{33}{}%
+\contentsline {subsection}{Lydia has no Faith in Cats}{34}{}%
+\contentsline {section}{\numberline {12}Mike}{34}{}%
+\contentsline {subsection}{Maggie in the Woods}{34}{}%
 \contentsline {subsection}{The Maid Behind the Bar}{34}{}%
 \contentsline {subsection}{Mason's Apron}{34}{}%
-\contentsline {subsection}{Master Crowley's}{34}{}%
-\contentsline {subsection}{Merrily Kissed the Quaker}{34}{}%
+\contentsline {subsection}{Master Crowley's}{35}{}%
+\contentsline {subsection}{Merrily Kissed the Quaker}{35}{}%
 \contentsline {subsection}{The Merry Blacksmith}{35}{}%
-\contentsline {subsection}{Mickey Dalton's \#3}{35}{}%
-\contentsline {subsection}{Miss Monaghan's}{35}{}%
+\contentsline {subsection}{Mickey Dalton's \#3}{36}{}%
+\contentsline {subsection}{Miss Monaghan's}{36}{}%
 \contentsline {subsection}{Reel de Montebello}{36}{}%
 \contentsline {subsection}{Reel de Montreal}{36}{}%
-\contentsline {subsection}{Mooncoin}{36}{}%
+\contentsline {subsection}{Mooncoin}{37}{}%
 \contentsline {subsection}{The Mountain Road}{37}{}%
 \contentsline {subsection}{The Musical Priest}{37}{}%
-\contentsline {subsection}{My Darling Asleep}{37}{}%
+\contentsline {subsection}{My Darling Asleep}{38}{}%
 \contentsline {section}{\numberline {13}Oscar}{38}{}%
 \contentsline {subsection}{O'Connel's Trip to Parliment}{38}{}%
 \contentsline {subsection}{O'Dowd's Pitch}{38}{}%
@@ -138,25 +138,25 @@
 \contentsline {subsection}{The Oddfellows in Plainville}{39}{}%
 \contentsline {subsection}{Off to California}{39}{}%
 \contentsline {subsection}{The Old Bush}{39}{}%
-\contentsline {subsection}{Old Hag You Have Killed Me}{39}{}%
-\contentsline {subsection}{Out on the Ocean}{39}{}%
+\contentsline {subsection}{Old Hag You Have Killed Me}{40}{}%
+\contentsline {subsection}{Out on the Ocean}{40}{}%
 \contentsline {section}{\numberline {14}Papa}{40}{}%
 \contentsline {subsection}{Peggy Lettermore}{40}{}%
 \contentsline {subsection}{The Persistence of Noel Reid}{40}{}%
 \contentsline {subsection}{The Pipe on the Hob \#1}{40}{}%
-\contentsline {subsection}{The Pipe on the Hob \#2}{40}{}%
+\contentsline {subsection}{The Pipe on the Hob \#2}{41}{}%
 \contentsline {subsection}{A Polka}{41}{}%
 \contentsline {subsection}{The Rakes of Kildare}{41}{}%
-\contentsline {subsection}{The Rakish Paddy}{41}{}%
-\contentsline {subsection}{The Rambling Pitchfork}{41}{}%
+\contentsline {subsection}{The Rakish Paddy}{42}{}%
+\contentsline {subsection}{The Rambling Pitchfork}{42}{}%
 \contentsline {subsection}{Return to Milltown}{42}{}%
 \contentsline {subsection}{The Road to Lisdoonvarna}{42}{}%
-\contentsline {section}{\numberline {15}Sierra}{42}{}%
-\contentsline {subsection}{Saddle the Pony}{42}{}%
-\contentsline {subsection}{Sailing Into Walpole's Marsh}{42}{}%
+\contentsline {section}{\numberline {15}Sierra}{43}{}%
+\contentsline {subsection}{Saddle the Pony}{43}{}%
+\contentsline {subsection}{Sailing Into Walpole's Marsh}{43}{}%
 \contentsline {subsection}{The Salmon's Leap}{43}{}%
 \contentsline {subsection}{Salt River Road}{43}{}%
-\contentsline {subsection}{The Shandon Bells}{43}{}%
+\contentsline {subsection}{The Shandon Bells}{44}{}%
 \contentsline {subsection}{The Ships Are Sailing}{44}{}%
 \contentsline {subsection}{The Silver Spear}{44}{}%
 \contentsline {subsection}{Slide from Sliabh Luachra}{44}{}%
