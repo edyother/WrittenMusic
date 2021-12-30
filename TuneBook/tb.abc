@@ -1432,9 +1432,9 @@ M:C|
 L:1/8
 K:G
 G2AB AGFD | GDED GBdB | c3G EDEG | ABAG FDEF |
-G2AB AGFD | GDED GBdB | c3G EDEG | AcBA G2AB :|
+G2AB AGFD | GDED GBdB | c3G EDEG |1 AcBA G2AB :|2 ABAG G2Bc |]
 |: d2BG Bcdg | edBd gdeg | a2ea gedB | ABAG FDEF |
-d2BG Bcdg | edGd gdeg | a2ea gedB | ABAG G2Bc :|
+d2BG Bcdg | edGd gdeg | a2ea gedB |1 ABAG G2Bc :|2 AcBA G2AB |]
 
 %%newpage
 %%scale .7
