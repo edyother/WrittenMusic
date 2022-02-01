@@ -1,0 +1,12 @@
+%%titleleft
+%%scale .6
+%%staffsep 35
+X:69
+T:Garrett Barry's
+M:6/8
+R:jig
+K:Dmix
+DEF G3 | AGE c2A | dcA d2e | fed cAG |
+DEF G3 | AGE cde  dc A GEA | DED D3 :|
+|: dcA d2e | fed efg | dcA c2d | egd ecA |
+dcA d2e | fed efg | dcA GEA | DED D3 :|

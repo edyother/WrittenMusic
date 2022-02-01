@@ -1,0 +1,32 @@
+%%titleleft
+%%scale .6
+%%staffsep 35
+
+X:69
+T:Father Tim's
+C:Eli Hickey	
+C:2021
+S:Eli Hickey
+R:reel
+M:C|
+L:1/8
+K:G
+G2AB AGFD | GDED GBdB | c3G EDEG | ABAG FDEF |
+G2AB AGFD | GDED GBdB | c3G EDEG |1 AcBA G2AB :|2 ABAG G2Bc |]
+|: d2BG Bcdg | edBd gdeg | a2ea gedB | ABAG FDEF |
+d2BG Bcdg | edGd gdeg | a2ea gedB |1 ABAG G2Bc :|2 AcBA G2AB |]
+
+\addcontentsline{toc}{subsection}{The Fermoy Lasses}
+\begin{abc}[name]
+%%titleleft
+%%scale .6
+%%staffsep 35
+X:69
+T:Fermoy Lasses, The
+M:C|
+R:reel
+K:Em
+GE E2 BE E2 | GE E2 BcBA | GE E2 BE E2 | AFDF AcBA |
+GE E2 BE E2 | GE E2 BcBA | G2 GF GBdB | AFDF AcBA :|
+|: G2 BG dGBG | G2 Bd ef g2 | G2 BG dGBG | AFDF AcBA |
+G2 BG dGBG | G2 Bd ef g2 | afge fded | AFDF AcBA :|
