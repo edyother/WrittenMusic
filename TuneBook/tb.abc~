@@ -475,8 +475,8 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-Afe dBA | FAB AFE | Ecc cBA | Ecc cBA |
-Afe dBA | FAB AFE | cgf edB | AFE D3 :|
+Dfe dBA | FAB AFE | Ecc cBA | Ecc cBA |
+Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
 |: Aff Aff | gfe def | edc ABc | ABA FED |
 [1 Aff Aff | gfe def | afb afe | ed^c d3 :|
 [2 Ecc cBA | ged cAG | Ecc cBE | EDD D3 ||
