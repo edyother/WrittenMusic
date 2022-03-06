@@ -174,10 +174,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-A,DA cBA | GFD EFG | A,DA cBA | GFE D2D |
-A,DA cBA | GFD EFG | cBc dcB | AGE D2D :|
-|: dcd ecA | dcd ecA | cBc dcB | GBc GBc |
-[1 dcd ecA | dcd ecA | cBc dcB | AGE D2D :|
+A,DA cBA | GFD EFG | A,DA cBA | GFE DD/D/D |
+A,DA cBA | GFD EFG | cB/c/c dcB | AGE DD/D/D :|
+|: dcd ecA | dc/d/d ecA | cBc dcB | GBc GBc |
+[1 dcd ecA | dc/d/d ecA | cBc dcB | AGE DD/D/D :|
 [2 dcd ecA | gfg agf | def gde | ceB A3 |]
 
 X:1
@@ -204,9 +204,9 @@ L:1/8
 R:jig
 K:Bm
 FBB dBc | ded cBA | eAA cAc | dcB AFE |
-FBB dBc | ded cBA | gfe dAB | cdc B2B :|
-|: fdd Bdd | FBd fed | ecc Acc | EAc edc |
-dcd ede | fdf b2b | afd eAB | cdc B2B:|
+FB/B/B dBc | ded cBA | gfe dAB | cdc BB/B/B :|
+|: fd/d/d Bdd | FBd fed | ecc Acc | EAc edc |
+dc/d/d ede | fdf bb/b/b | afd eAB | cdc BB/B/B:|
 
 X:49
 T:Oddfellows in Plainville, The
@@ -216,10 +216,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:G
-BAB dBA | GAG FED | B,2B, DB,D | EGF EDB, |
-BAB dBA | GAG FED | B,2B, DB,D | EGF E2E :|
-|: d2d dcB | GBd gfe | d2d dcB | GAB cBA |
-BAB dBA | GAG FED | B,2B, DB,D | EGF E3 :|
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EDB, |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF EE/E/E :|
+|: dd/d/d dcB | GBd gfe | dd/d/d dcB | GAB cBA |
+BA/B/B dBA | GAG FED | B,B,/B,/B, DB,D | EGF E3 :|
 
 X:30
 T:Persistence of Noel Reid, The
@@ -229,10 +229,10 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:G
-DFA DFA | cBc G2A | cBc GBc | ({c}d2)d2 dcA |
+DFA DFA | cBc G2A | cBc GBc | ({c}d2) d/d/ dcA |
 DFA DFA | cBc GBc | dcd Acd | age cBA :|
-|: a2a age | ged e2 f | gfg def | gfg age |
-a2a age | ged e2 f | gfg dfg | age cBA :|
+|: aa/a/a age | ged e2 f | gfg def | gfg age |
+aa/a/a age | ged e2 f | gfg dfg | age cBA :|
 
 X:28
 T:Where I Told Her I Loved Her and Sprained Her Ankle
@@ -242,7 +242,7 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:G
-GED DEG | (Bc/B)G AGE | GED DEG | A2A AGE |
+GED DEG | (B/c/B)G AGE | GED DEG | A2A AGE |
 GED DEG | (B/c/B)G AGE | GED DEF |[1 GG/G/G GFE :|[2 GG/G/G GBc |
 |: dB/B/B BGB | FGA BAB | cAA AFA | DEF GF/F/G |
 DEF GF/F/G | AGE GAB | cBA DEF |[1 GG/G/G GBc :|[2 GG/G/G GED |]
