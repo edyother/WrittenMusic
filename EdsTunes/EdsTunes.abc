@@ -96,16 +96,15 @@ d2 dA BcBA | GAGD E2 ED | EGAB cBAG | ED C2 D4 :|
 |:E2 EG AGAB | cBAG A2 AB | cBAG AGEG | AGAB G2 GD |
 E2 EG AGAB | cBAG A2 AB | dBAG A2 BA | GE C2 D4 :|
 
-X:27
+X:77
 T:Kitty on the Rail
 M:C|
 R:reel
 C:Ed Yother
-C:c.2010
 C:http://edyother.com
 K:Ddor
-|: (3ddd ed fded | cdef edcA | (3ddd ed fded | cdgc acgc |
-(3ddd ed fded | cdef edcA | fedc AGAB | cAdc AFD2 :|
+|: d2 ed fded | cdef edcA | d2 ed fded | cdgc acgc |
+d2 ed fded | cdef edcA | fedc AGAB | cAdc AFD2 :|
 | (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABA2 |
 (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABc2 |
 | ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | ({c}d2)d2 dcAG | (3(ABc) de f2ff |
