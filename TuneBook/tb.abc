@@ -1431,8 +1431,8 @@ R:reel
 M:C|
 L:1/8
 K:G
-G2AB AGFD | GDED GBdB | c3G EDEG | ABAG FDEF |
-G2AB AGFD | GDED GBdB | c3G EDEG |1 AcBA G2AB :|2 ABAG G2Bc |]
+G2AB AGED | GDED GBdB | c3G EDEG | ABAG FDEF |
+G2AB AGED | GDED GBdB | c3G EDEG |1 AcBA G2AB :|2 ABAG G2Bc |]
 |: d2BG Bcdg | edBd gdeg | a2ea gedB | ABAG FDEF |
 d2BG Bcdg | edBd gdeg | a2ea gedB |1 ABAG G2Bc :|2 AcBA G2AB |]
 
@@ -2214,7 +2214,8 @@ dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:166
 T:Stack of Barley, The
-S:Sean Gavin
+T:Bantry Bay
+S:Seán Gavin
 R:hornpipe
 M:4/4
 L:1/8

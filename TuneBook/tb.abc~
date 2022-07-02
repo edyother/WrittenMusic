@@ -475,8 +475,8 @@ C:http://edyother.com
 M:6/8
 R:jig
 K:Dmix
-Dfe dBA | FAB AFE | Ecc cBA | Ecc cBA |
-Dfe dBA | FAB AFE | cgf edB | AFE D3 :|
+Afe dBA | FAB AFE | Ecc cBA | Ecc cBA |
+Afe dBA | FAB AFE | cgf edB | AFE D3 :|
 |: Aff Aff | gfe def | edc ABc | ABA FED |
 [1 Aff Aff | gfe def | afb afe | ed^c d3 :|
 [2 Ecc cBA | ged cAG | Ecc cBE | EDD D3 ||
@@ -1937,7 +1937,6 @@ g/a/g/a/ g/a/g/a/ | f/a/f/a/ f/a/f/a/ | eA Bc | d2 b2 ||
 
 X:146
 T:Come Back Paddy Reilly
-C:Ask John
 S:John Winston
 L:1/8
 R:Waltz
@@ -1952,8 +1951,7 @@ d3e d2 | B2 A2 G2 | E2 G2 E2 | D4 GA |
 B2 d2 B2 | A2 G2 BA | (G6 | G4) :|
 
 X:147
-T:Ask John
-C:Ask John
+T:Gan Ainm
 S:John Winston
 L:1/8
 R:Waltz
@@ -2216,7 +2214,8 @@ dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:166
 T:Stack of Barley, The
-S:Sean Gavin
+T:Bantry Bay
+S:Seán Gavin
 R:hornpipe
 M:4/4
 L:1/8
