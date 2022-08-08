@@ -2346,6 +2346,7 @@ dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
 
 X:173
 T:Wizard's Walk, The
+C:Jay Unger
 S:The Portland Collection
 R:reel
 M:C|
@@ -2358,3 +2359,43 @@ a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
 |:egbe bgeg | ^dfbf bfdf | =dfab afdB | ^ceae aecA |
 =cege cdgd | Bege Bege | _Bege Bege | =Bege fe^df !coda!:|
 !coda![| e2dc BAGF | G2 e2 F2 ^d2 | e4 B2 G2 | E4 e2 z2 |] 
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:174
+T:Torn Jacket, The
+S:Seán Gavin
+R:reel
+M:C|
+L:1/8
+K:D
+F3A d2ed | cA2B cde2 | F3A d2ed | cAGE EDD2 |
+F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
+|: FAdf a3f | g3a gfed | cA3 cdef | gfed cAGE 
+FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
+
+X:175
+T:Devaney's Goat
+S:Seán Gavin
+R:reel
+M:4/4
+L:1/8
+K:D
+FE | DFAB AFAB | defe dBAF | DFAF BFAF | E2 DF EGFE |
+A3B AFAB | defe dBAF | efdB AF3 | AFEG FGG2 :|
+|: faab afdf | a2fd edBd | ABde fdd2 | edfd fdBd |
+ABde fdd2 | edfd edBd | ABdB Af3 | AFEG FGG2 :|
+
+X:176
+T:Come West Along the Road
+S:Seán Gavin
+R:reel
+M:C|
+L:1/8
+K:G
+d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc |
+d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :| 
+|: g2bg egdg | egdg edBd | g2bg egdg | ABcd edBc | 
+g2bg egdg | egdg edBd | gbbg efge | dega bage :|
