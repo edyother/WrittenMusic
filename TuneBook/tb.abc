@@ -2277,6 +2277,18 @@ F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
 FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
 
 X:170
+T:Devaney's Goat
+S:Seán Gavin
+R:reel
+M:4/4
+L:1/8
+K:D
+FE | DFAB AFAB | defe dBAF | DFAF BFAF | E2 DF EGFE |
+A3B AFAB | defe dBAF | efdB AF3 | AFEG FGG2 :|
+|: faab afdf | a2fd edBd | ABde fdd2 | edfd fdBd |
+ABde fdd2 | edfd edBd | ABdB Af3 | AFEG FGG2 :|
+
+X:171
 T:Come West Along the Road
 S:Seán Gavin
 R:reel
@@ -2292,7 +2304,7 @@ g2bg egdg | egdg edBd | gbbg efge | dega bage :|
 %%scale .7
 %%staffsep 40
 
-X:69
+X:172
 T:Cronin's Hornpipe
 S:Seán Gavin
 R:hornpipe
@@ -2304,7 +2316,7 @@ GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 | fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA | 
 GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 
-X:171
+X:173
 T:Little Stack of Wheat, The
 S:Seán Gavin
 R:hornpipe
@@ -2317,7 +2329,7 @@ GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
 |[1 (3Bcd | edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
 |[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
 
-X:172
+X:174
 T:Johnny Will You Marry me
 T:Some Say the Devil is Dead
 S:Seán Gavin
@@ -2332,7 +2344,7 @@ GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
 %%scale .7
 %%staffsep 40
 
-X:173
+X:175
 T:Catharsis
 S:The Portland Collection
 R:reel
@@ -2344,7 +2356,7 @@ DGGF DGGF | DFGA BGAc | dcBc BAGF |1 DFFG G2 G2 :|2 DGGF GABc |]
 |: dGGc GGBG | GAGG GABc | dFFc FFBF | FAFF GABc |
 dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
 
-X:173
+X:176
 T:Wizard's Walk, The
 C:Jay Unger
 S:The Portland Collection
@@ -2364,38 +2376,38 @@ a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
 %%scale .7
 %%staffsep 40
 
-X:174
-T:Torn Jacket, The
-S:Seán Gavin
-R:reel
-M:C|
-L:1/8
+X:177
+T:Humors of Glendart, The
+R:jig
+M:6/8
 K:D
-F3A d2ed | cA2B cde2 | F3A d2ed | cAGE EDD2 |
-F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
-|: FAdf a3f | g3a gfed | cA3 cdef | gfed cAGE 
-FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
-
-X:175
-T:Devaney's Goat
-S:Seán Gavin
-R:reel
-M:4/4
 L:1/8
-K:D
-FE | DFAB AFAB | defe dBAF | DFAF BFAF | E2 DF EGFE |
-A3B AFAB | defe dBAF | efdB AF3 | AFEG FGG2 :|
-|: faab afdf | a2fd edBd | ABde fdd2 | edfd fdBd |
-ABde fdd2 | edfd edBd | ABdB Af3 | AFEG FGG2 :|
-
-X:176
-T:Come West Along the Road
 S:Seán Gavin
-R:reel
-M:C|
+BAF AFD | F3 DFA | BAF AFD | FED E3 |
+BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
+|: def d2B | AFA AFA | def d2f | ede fdB |
+def d2B | AFA ABc | dcB AFE | FEE E3 :|
+
+X:178
+T:Tá an Coileach Ag Fógairt an Lae
+S:Seán Gavin
+R:jig
+M:6/8
 L:1/8
 K:G
-d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc |
-d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :| 
-|: g2bg egdg | egdg edBd | g2bg egdg | ABcd edBc | 
-g2bg egdg | egdg edBd | gbbg efge | dega bage :|
+D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
+GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
+d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
+gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
+
+X:179
+T:Mouse in the Mug
+R:jig
+M:6/8
+L:1/8
+K:G
+G3 EGD | G3 Bdg | e2e dBG | AFA B3 |
+G3 EGD | G3 Bdg | e2e dBA | AGF G3 :|
+|: gab agf | e/f/ge edB | deg edB BAG A3 |
+1 gab agf | e/f/ge edB | deg edB | AGF G3 :|
+2 G3 EGD | G3 Bdg | e2e dBA | AGF G3 ||
