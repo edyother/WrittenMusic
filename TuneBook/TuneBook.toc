@@ -64,8 +64,8 @@
 \contentsline {subsection}{\textrm {Tá an Coileach Ag Fógairt an Lae / My Darling Asleep / The Humors of Glendart \(jigs\)}}{64}{}%
 \contentsline {subsection}{\textrm {O'Mahoney's / The Stack of Barley / Bantry Bay \(hornpipes\)}}{65}{}%
 \contentsline {subsection}{\textrm {Bucks of Oranmore, The \(reel\)}}{66}{}%
-\contentsline {subsection}{\textrm {The Torn Jacket / Come West Along the Road \(reels\)}}{67}{}%
+\contentsline {subsection}{\textrm {The Torn Jacket / Devaney's Goat / Come West Along the Road \(reels\)}}{67}{}%
 \contentsline {subsection}{\textrm {Cronin's Hornpipe \ The Little Stack of Wheat / Johnny Will You Marry Me? \(hornpipes\)}}{68}{}%
 \contentsline {subsection}{\textrm {Catharsis / The Wizard's Walk \(reels\)}}{69}{}%
-\contentsline {subsection}{\textrm {The Torn Jacket / Devaney's Goat / Come West Along the Road \(reels\)}}{70}{}%
+\contentsline {subsection}{\textrm {The Humors of Glendart / Tá an Coileach Ag Fógairt an Lae / The Mouse in the Mug \(jigs\)}}{70}{}%
 \contentsline {subsection}{\textrm {Index}}{71}{}%
