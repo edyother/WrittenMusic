@@ -204,6 +204,14 @@ GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
 d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
 gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
 
+X:16.1
+T:Mouse in the Mug
+R:jig
+M:6/8
+L:1/8
+K:G
+G3 EGD | G3 
+
 X:17
 T:My Darling Asleep
 S:Seán Gavin
@@ -369,6 +377,7 @@ G2AB AGFD | GDED GBdB | c3G EDEG |1 AcBA G2AB :|2 ABAG G2Bc |]
 d2BG Bcdg | edGd gdeg | a2ea gedB |1 ABAG G2Bc :|2 AcBA G2AB|]
 
 %%newpage`
+%%newpage
 
 X:77
 T:Kitty on the Rail
@@ -399,3 +408,14 @@ d2 ed fded | cdef edcA | fedc AGAB | cAdc AFD2 |]
 (3(DEF) AB cAdc | AG (3(ABA) AGFC | (3(DEF) AB cAdc | AG (3(ABA) ABc2 |]
 [| ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | ({c}d2)d2 dcAG | (3(ABc) de f2ff |
 ({c}d2)d2 dcAG | (3(ABA) AG (3(ABA) AG | (3(DEF) AB cAdc | AFE2 D4 |]
+
+X:30
+T:Rose in the Heather
+R:jig
+M:6/8
+S:John Winston
+K:D
+F3 EFE | DFA BAF | ABd ede | fdB AFE |
+F3 EFE | DFA BAF | ABd AFE | FDD D3 :|
+|: fdB ABd | f2a afd | g3 fed | Bee efg |
+fdB ABd | f2a afa | baf afe | fdc d3 :|
