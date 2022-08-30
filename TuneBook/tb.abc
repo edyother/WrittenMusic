@@ -1271,7 +1271,7 @@ EA AB | cd ef | g/f/e dB | A2 A2 :|
 ea ab | ag ef | g/f/e dB | A2 A2 :|
 
 X:99
-T:Ballydesmond Polka #1
+T:Ballydesmond Polka #3
 R:Reel
 M:2/4
 L:1/8
@@ -2371,3 +2371,42 @@ G3 EGD | G3 Bdg | e2e dBA | AGF G3 :|
 |: gab agf | e/f/ge edB | deg edB BAG A3 |
 [1 gab agf | e/f/ge edB | deg edB | AGF G3] :|
 [2 G3 EGD | G3 Bdg | e2e dBA | AGF G3] ||
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:177
+T:Ballydesmond Polka #1
+R:Polka
+M:2/4
+S:Julia Clifford, Denis Murphy
+L:1/8
+K:Ador
+A>B AG | EF GE | A>B AG | Ad d/e/d/c/ |
+A>B AG | EF G2 | AB cE | ED D2 :|
+|: ed d2 | ed cd | ed ^cd | ea a/b/a/g/ |
+|1 ed d2 | ed cd | ab cd | ed g2 :|
+|2 e/f/g dA | ce d2 | AB cE | ED D2 |]
+
+X:98
+T:Ballydesmond Polka #2
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+E>A AB | cd e2 | G>G GA | GE ED |
+EA AB | cd ef | g/f/e dB | A2 A2 :|
+|:a>g ab | ag ef | g>g ga | ge ed |
+ea ab | ag ef | g/f/e dB | A2 A2 :|
+
+X:99
+T:Ballydesmond Polka #3
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+AB | c2 B2 | AB/A/ GA | Bd ed | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 :|
+d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 A2 :|

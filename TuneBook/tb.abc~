@@ -1271,7 +1271,7 @@ EA AB | cd ef | g/f/e dB | A2 A2 :|
 ea ab | ag ef | g/f/e dB | A2 A2 :|
 
 X:99
-T:Ballydesmond Polka #1
+T:Ballydesmond Polka #3
 R:Reel
 M:2/4
 L:1/8
@@ -2162,46 +2162,6 @@ dcAF G2FG | Adde fded | dcAF G2FG | AFGE FDD2 :|
 %%staffsep 40
 
 X:162
-T:Tá an Coileach Ag Fógairt an Lae
-S:Seán Gavin
-R:jig
-M:6/8
-L:1/8
-K:G
-D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
-GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
-d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
-gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
-
-X:163
-T:My Darling Asleep
-S:Seán Gavin
-R:jig
-M:6/8
-L:1/8
-K:D
-ag | fdd cAA | BAG A2G | FAA def | g3 eag |
-fdd cAA | BAG A2G | FAA def | gec d3 :|
-|: FAA BAG | FAA BAG | FAA def | g3 eag |
-fdd cAA | BAG A2G | FAA def | gec d3 :|
-
-X:164
-T:Humors of Glendart, The
-R:jig
-M:6/8
-K:D
-L:1/8
-S:Seán Gavin
-BAF AFD | F3 DFA | BAF AFD | FED E3 |
-BAF AFD | F3 DFA | dcB AFE | FDD D3 :|
-|: def d2B | AFA AFA | def d2f | ede fdB |
-def d2B | AFA ABc | dcB AFE | FDD D3 :|
-
-%%newpage
-%%scale .7
-%%staffsep 40
-
-X:165
 T:O'Mahoney's
 S:Seán Gavin
 R:hornpipe
@@ -2213,7 +2173,7 @@ dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 |:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
 dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
-X:166
+X:163
 T:Stack of Barley, The
 T:Bantry Bay
 S:Seán Gavin
@@ -2226,7 +2186,7 @@ efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
 dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
 agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
 
-X:167
+X:164
 T:Bantry Bay
 S:Seán Gavin
 R:hornpipe
@@ -2242,7 +2202,7 @@ gagf efed | BGAG EGD2 | GBAB EGDE | G2GF G2 :|
 %%scale .7
 %%staffsep 40
 
-X:168
+X:165
 T:Buck of Oranmore, The
 S:Seán Gavin
 R:reel
@@ -2264,7 +2224,7 @@ Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |]
 %%scale .7
 %%staffsep 40
 
-X:169
+X:166
 T:Torn Jacket, The
 S:Seán Gavin
 R:reel
@@ -2276,7 +2236,7 @@ F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
 |: FAdf a3f | g3a gfed | cA3 cdef | gfed cAGE 
 FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
 
-X:170
+X:167
 T:Devaney's Goat
 S:Seán Gavin
 R:reel
@@ -2288,7 +2248,7 @@ A3B AFAB | defe dBAF | efdB AF3 | AFEG FGG2 :|
 |: faab afdf | a2fd edBd | ABde fdd2 | edfd fdBd |
 ABde fdd2 | edfd edBd | ABdB Af3 | AFEG FGG2 :|
 
-X:171
+X:168
 T:Come West Along the Road
 S:Seán Gavin
 R:reel
@@ -2304,7 +2264,7 @@ g2bg egdg | egdg edBd | gbbg efge | dega bage :|
 %%scale .7
 %%staffsep 40
 
-X:172
+X:169
 T:Cronin's Hornpipe
 S:Seán Gavin
 R:hornpipe
@@ -2316,7 +2276,7 @@ GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 | fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA | 
 GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 
-X:173
+X:170
 T:Little Stack of Wheat, The
 S:Seán Gavin
 R:hornpipe
@@ -2329,7 +2289,7 @@ GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
 |[1 (3Bcd | edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
 |[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
 
-X:174
+X:171
 T:Johnny Will You Marry me
 T:Some Say the Devil is Dead
 S:Seán Gavin
@@ -2344,7 +2304,7 @@ GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
 %%scale .7
 %%staffsep 40
 
-X:175
+X:172
 T:Catharsis
 S:The Portland Collection
 R:reel
@@ -2356,7 +2316,7 @@ DGGF DGGF | DFGA BGAc | dcBc BAGF |1 DFFG G2 G2 :|2 DGGF GABc |]
 |: dGGc GGBG | GAGG GABc | dFFc FFBF | FAFF GABc |
 dEEc EEBE | EAEE EFGA | dcBc BAGF |1 DFFA GABc :|2 DCB,C DCDC|]
 
-X:176
+X:173
 T:Wizard's Walk, The
 C:Jay Unger
 S:The Portland Collection
@@ -2376,7 +2336,7 @@ a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
 %%scale .7
 %%staffsep 40
 
-X:177
+X:174
 T:Humors of Glendart, The
 R:jig
 M:6/8
@@ -2388,7 +2348,7 @@ BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
 |: def d2B | AFA AFA | def d2f | ede fdB |
 def d2B | AFA ABc | dcB AFE | FEE E3 :|
 
-X:178
+X:175
 T:Tá an Coileach Ag Fógairt an Lae
 S:Seán Gavin
 R:jig
@@ -2400,7 +2360,7 @@ GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
 d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
 gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
 
-X:179
+X:176
 T:Mouse in the Mug
 R:jig
 M:6/8
@@ -2411,3 +2371,42 @@ G3 EGD | G3 Bdg | e2e dBA | AGF G3 :|
 |: gab agf | e/f/ge edB | deg edB BAG A3 |
 [1 gab agf | e/f/ge edB | deg edB | AGF G3] :|
 [2 G3 EGD | G3 Bdg | e2e dBA | AGF G3] ||
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:177
+T:Ballydesmond Polka #1
+R:Polka
+M:2/4
+S:Julia Clifford, Denis Murphy
+L:1/8
+K:Ador
+A>B AG | EF GE | A>B AG | Ad d/e/d/c/ |
+A>B AG | EF G2 | AB cE | ED D2 :|
+|: ed d2 | ed cd | ed ^cd | ea a/b/a/g/ |
+[|1 ed d2 | ed cd | ab cd | ed g2 :|
+[|2 e/f/g dA | ce d2 | AB cE | ED D2 |]
+
+X:98
+T:Ballydesmond Polka #2
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+E>A AB | cd e2 | G>G GA | GE ED |
+EA AB | cd ef | g/f/e dB | A2 A2 :|
+|:a>g ab | ag ef | g>g ga | ge ed |
+ea ab | ag ef | g/f/e dB | A2 A2 :|
+
+X:99
+T:Ballydesmond Polka #3
+R:Reel
+M:2/4
+L:1/8
+K:Ador
+AB | c2 B2 | AB/A/ GA | Bd ed | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 :|
+d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
+ea ge | dB GA/B/ | ce dB | A2 A2 :|
