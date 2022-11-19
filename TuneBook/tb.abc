@@ -2307,7 +2307,6 @@ GE |: D2DE GABA | GEE2 cEGE | D2DE GABc |1 dedB A2GE :|2 dedB A2G2 ||
 X:172
 T:Catharsis
 S:The Portland Collection
-C:Amy Cann
 R:reel
 M:C|
 L:1/8
@@ -2440,3 +2439,32 @@ dcd e2d | BAB d2B | A3 B2A | G3 G3 :|
 d3 def | g3 g2b | a2g f2e | def g3 :|
 |: g3 d3 | BdB G3 | ABA DEF | G2A Bde |
 g3 d3 | BdB G3 | ABA DEF | G3 G3 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:179
+T:Blackthorn Stick, The
+M:6/8
+L:1/8
+R:Jig
+S:Chuck Whitmore at the West Lafayette Session.
+K:G
+GED D3 | GEG c2e | dBG GAB | AGE E2D |
+GED D3 | GEG c2e | dBG GAB | AGF G3 :|
+gdb Gbd | gdb c2e | dBG GAB | AGE E2D |
+gdb Gbd | gdb c2e | dBG GAB | AGF G3 | 
+gdb dgb | gdb c2e | dBG GAB | AGE E2D |
+GED D3 | GEG c2e | dBG GAB | AGE E2D |
+
+X:70
+T:Blackthorn Stick, The
+T:Coach Road To Sligo, The
+R:jig
+M:6/8
+K:G
+| gfg ege | dBG AGE | DGG FGA | BGB A2d|
+gfg age | dBG AGE | DGG FGA | BGF G2d :|
+|: edd gdd | edd gdd | edd gfe | dBG A2d |
+gfg age | dBG AGE | DGG FGA | BGF G2d :|
