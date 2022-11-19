@@ -2444,6 +2444,20 @@ g3 d3 | BdB G3 | ABA DEF | G3 G3 :|
 %%scale .7
 %%staffsep 40
 
+X:179
+T:Blackthorn Stick, The
+M:6/8
+L:1/8
+R:Jig
+S:Chuck Whitmore at the West Lafayette Session.
+K:G
+GED D3 | GEG c2e | dBG GAB | AGE E2D |
+GED D3 | GEG c2e | dBG GAB | AGF G3 :|
+gdB GBd | gdB c2e | dBG GAB | AGE E2D |
+gdB GBd | gdB c2e | dBG GAB | AGF G3 | 
+gdB dgB | gdB c2e | dBG GAB | AGE E2D |
+GED D3 | GEG c2e | dBG GAB | AGE E2D |
+
 X:70
 T:Blackthorn Stick, The
 T:Coach Road To Sligo, The
@@ -2454,4 +2468,3 @@ K:G
 gfg age | dBG AGE | DGG FGA | BGF G2d :|
 |: edd gdd | edd gdd | edd gfe | dBG A2d |
 gfg age | dBG AGE | DGG FGA | BGF G2d :|
-
