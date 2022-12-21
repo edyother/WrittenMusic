@@ -70,4 +70,6 @@
 \contentsline {subsection}{\textrm {Ballydesmond Polka \#1 / Ballydesmond Polka \#2 / Ballydesmond Polka \#3 \(polkas\)}}{70}{}%
 \contentsline {subsection}{\textrm {The Star Above the Garter / The Dingle Regatta \(slides\)}}{71}{}%
 \contentsline {subsection}{\textrm {The Blackthorn Stick / The Coach Road to Sligo \(jigs\)}}{72}{}%
-\contentsline {subsection}{\textrm {Index}}{73}{}%
+\contentsline {subsection}{\textrm {Willie Coleman's / The Old Favorite \(jigs\)}}{73}{}%
+\contentsline {subsection}{\textrm {O'Carolan's Welcome \(O'Carolan\ tune\)}}{74}{}%
+\contentsline {subsection}{\textrm {Index}}{75}{}%
