@@ -9,16 +9,13 @@
 \author{Ed Yother\\ed@edyother.com\\edyother.com}
 
 \begin{document}
-\pagenumbering{roman}
+\pagenumbering{arabic}
 \maketitle
 	
-\addcontentsline{toc}{section}{Contents}
 \tableofcontents
 
-\newpage
-\pagenumbering{arabic}
 \section{Alpha}
-
+\addcontentsline{toc}{subsection}{\protect\textrm{An Phis Fluich}}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -36,8 +33,8 @@ FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
 |: ~D3 ~D3 c3 | c2B c2A GED | ~D3 ~D3 d2^c | dfe dcA GED :|
 |: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
 \end{abc}
-\addcontentsline{toc}{subsection}{\protect\textrm{An Phis Fluich}}
 
+\addcontentsline{toc}{subsection}{\protect\textrm{The Ash Plant}}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -51,10 +48,9 @@ BE E2 BAGA | BE E2 GFGA | B2 BA (3(Bcd) ef | gedB AGFA :|
 B2 eB fBeB | B2 fe BAGA | B2 eB f2fe | efed BAGA |
 B2 eB fBeB | B2 fe BAGA | (3(Bcd) ef g2ga | gedB AGFA |]
 \end{abc}
-\addcontentsline{toc}{subsection}{\protect\textrm{The Ash Plant}}
 
 \section{Bravo}
-
+\addcontentsline{toc}{subsection}{\protect\textrm{Ballydesmond Polka \#1}}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -70,8 +66,8 @@ ea ge | dB GA/B/ | ce dB | A2 :|
 d2 |: ea ag/e/ | dg gd | ea ab | g2 ed |
 ea ge | dB GA/B/ | ce dB | A2 A2 :|
 \end{abc}
-\addcontentsline{toc}{subsection}{\protect\textrm{Ballydesmond Polka \#1}}
 
+\addcontentsline{toc}{subsection}{\protect\textrm{Ballydesmond Polka \#2}}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -88,8 +84,8 @@ EA AB | cd ef | g/f/e dB | A2 A2 :|
 |:a>g ab | ag ef | g>g ga | ge ed |
 ea ab | ag ef | g/f/e dB | A2 A2 :|
 \end{abc}
-\addcontentsline{toc}{subsection}{\protect\textrm{Ballydesmond Polka \#2}}
 
+\addcontentsline{toc}{subsection}{\protect\textrm{Banish Misfortune}}
 \begin{abc}[name]
 %%titleleft
 %%scale .6
@@ -106,7 +102,6 @@ f2g agf | e2f gfe | fed cAG | Ad^c d2e :|
 |: f2g e2f | d2e cdc | A3 GAG | FGF AFD |
 c3 cAG | AGA cde | fed cAG | Ad^c d2e :|
 \end{abc}
-\addcontentsline{toc}{subsection}{\protect\textrm{Banish Misfortune}}
 
 \addcontentsline{toc}{subsection}{\protect\textrm{The Bank of Turf}}
 \begin{abc}[name]
@@ -248,6 +243,21 @@ d2 d>B | AF d2 | FA d>B | AF ED |
 d2 d>B | AF d2 | FA E>F | ED D2 :|
 |: FA AF | GB B2 | FA AD/E/ | FE ED |
 FA AF | GB B2 | FA E>F | ED D2 :|
+\end{abc}
+
+\addcontentsline{toc}{subsection}{Billy Wilson's Clog }
+\begin{abc}[name]
+%%titleleft
+%%scale .6
+%%staffsep 35
+X:69
+T:Billy Wilson's Clog
+S:Zelie from Ottawa
+L:1/8
+M:4/4
+R:Hornpipe
+K:D
+
 \end{abc}
 
 \addcontentsline{toc}{subsection}{The Bird in the Bush}
@@ -458,6 +468,7 @@ gf gd BA Bc|de dc B2(3AGF|A2A2c2(3AGF|[1 G2B2G2 (3def:|[2 G2B2G2||
 X:69
 T:Catharsis
 S:The Portland Collection
+C:Amy Cann
 R:reel
 M:C|
 L:1/8
@@ -2165,6 +2176,24 @@ dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |
 dcdA FD D2 | dcde fgfe | dcdA FD D2 | G2F2 EFDE |]
 \end{abc}
 
+\addcontentsline{toc}{subsection}{The Mouse in the Mug}
+\begin{abc}[name]
+%%titleleft
+%%scale .6
+%%staffsep 35
+X:69
+T:Mouse in the Mug
+R:jig
+M:6/8
+L:1/8
+K:G
+G3 EGD | G3 Bdg | e2e dBG | AFA B3 |
+G3 EGD | G3 Bdg | e2e dBA | AGF G3 :|
+|: gab agf | e/f/ge edB | deg edB BAG A3 |
+1 gab agf | e/f/ge edB | deg edB | AGF G3 :|
+2 G3 EGD | G3 Bdg | e2e dBA | AGF G3 ||
+\end{abc}
+
 \addcontentsline{toc}{subsection}{The Musical Priest}
 \begin{abc}[name]
 %%titleleft
@@ -2852,6 +2881,24 @@ G/A/c a>f | ec BA | f/a/g/f/ ec | BA A2 :|
 \end{abc}
 
 \section{Tango}
+\addcontentsline{toc}{subsection}{Tá an Coileach Ag Fógairt an Lae}
+\begin{abc}[name]
+%%titleleft
+%%scale .6
+%%staffsep 35
+X:69
+T:Tá an Coileach Ag Fógairt an Lae
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:G
+D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
+GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
+d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
+gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
+\end{abc}
+
 \addcontentsline{toc}{subsection}{Tam Lin}
 \begin{abc}[name]
 %%titleleft
@@ -3007,24 +3054,6 @@ FAA GBB | FAd fed | cBc ABc | dfe dBA |
 FAA GBB | FAd fed | cBc ABc |[1 dfe d2A :|[2 dfe d3 |]
 |: dBB fBB | fgf fed | cAA eAA | efe edc |
 dBB fBB | fgf fed | cBc ABc | dfe d3 :|
-\end{abc}
-
-\addcontentsline{toc}{subsection}{Tá an Coileach Ag Fógairt an Lae}
-\begin{abc}[name]
-%%titleleft
-%%scale .6
-%%staffsep 35
-X:69
-T:Tá an Coileach Ag Fógairt an Lae
-S:Seán Gavin
-R:jig
-M:6/8
-L:1/8
-K:G
-D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
-GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
-d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
-gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
 \end{abc}
 
 \section{Whiskey}

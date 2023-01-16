@@ -14,9 +14,10 @@
 \contentsline {subsection}{The Sweeps}{7}{}%
 \contentsline {subsection}{Bill Malley's}{7}{}%
 \contentsline {subsection}{Bill Sullivan's}{8}{}%
+\contentsline {subsection}{Billy Wilson's Clog }{8}{}%
 \contentsline {subsection}{The Bird in the Bush}{8}{}%
 \contentsline {subsection}{The Blackthorn Stick \#2}{8}{}%
-\contentsline {subsection}{The Blarney Pilgrim}{8}{}%
+\contentsline {subsection}{The Blarney Pilgrim}{9}{}%
 \contentsline {subsection}{Bohola Jig}{9}{}%
 \contentsline {subsection}{The Boys of Ballycastle}{9}{}%
 \contentsline {subsection}{The Boys of Bluehill}{9}{}%
@@ -27,14 +28,14 @@
 \contentsline {subsection}{Calliope House}{11}{}%
 \contentsline {subsection}{Cappy's Hill}{11}{}%
 \contentsline {subsection}{Catharsis}{11}{}%
-\contentsline {subsection}{Chief O'Neill's Favorite}{11}{}%
+\contentsline {subsection}{Chief O'Neill's Favorite}{12}{}%
 \contentsline {subsection}{The Church St Polka}{12}{}%
 \contentsline {subsection}{The Cliffs of Moher}{12}{}%
 \contentsline {subsection}{Coffee}{12}{}%
-\contentsline {subsection}{Coffee on the Bricks}{12}{}%
+\contentsline {subsection}{Coffee on the Bricks}{13}{}%
 \contentsline {subsection}{Colonel Rodger's Favorite}{13}{}%
 \contentsline {subsection}{Come Back Paddy Reilly}{13}{}%
-\contentsline {subsection}{Come West Along the Road}{13}{}%
+\contentsline {subsection}{Come West Along the Road}{14}{}%
 \contentsline {subsection}{The Concertina Reel}{14}{}%
 \contentsline {subsection}{The Connaughtman's Rambles}{14}{}%
 \contentsline {subsection}{Cunla}{14}{}%
@@ -42,25 +43,25 @@
 \contentsline {subsection}{Devaney's Goat}{15}{}%
 \contentsline {subsection}{The Dingle Regatta}{15}{}%
 \contentsline {subsection}{Dinky's}{15}{}%
-\contentsline {subsection}{Donnybrook Fair}{15}{}%
+\contentsline {subsection}{Donnybrook Fair}{16}{}%
 \contentsline {subsection}{Doonagore}{16}{}%
 \contentsline {subsection}{Down the Hill}{16}{}%
-\contentsline {subsection}{Drops of Brandy}{16}{}%
+\contentsline {subsection}{Drops of Brandy}{17}{}%
 \contentsline {subsection}{Drowsy Maggie}{17}{}%
 \contentsline {subsection}{The Drunkenn Landlady}{17}{}%
-\contentsline {subsection}{The Dunmore Lasses}{17}{}%
+\contentsline {subsection}{The Dunmore Lasses}{18}{}%
 \contentsline {section}{\numberline {5}Echo}{18}{}%
 \contentsline {subsection}{The Earl's Chair}{18}{}%
 \contentsline {subsection}{Ed Yother's Hornpipe \#1}{18}{}%
 \contentsline {subsection}{Ed Yother's Jig \#1}{18}{}%
-\contentsline {subsection}{Ed Yother's Jig \#2}{18}{}%
+\contentsline {subsection}{Ed Yother's Jig \#2}{19}{}%
 \contentsline {subsection}{Ed Yother's Jig \#3}{19}{}%
 \contentsline {subsection}{Ed Yother's Polka\#1}{19}{}%
-\contentsline {subsection}{Ed Yother's Polka \#2}{19}{}%
+\contentsline {subsection}{Ed Yother's Polka \#2}{20}{}%
 \contentsline {subsection}{Ed Yother's Reel \#1}{20}{}%
 \contentsline {subsection}{Edna's Vase}{20}{}%
 \contentsline {subsection}{Eileen O'Riordan's}{20}{}%
-\contentsline {subsection}{Evit Gabriel}{20}{}%
+\contentsline {subsection}{Evit Gabriel}{21}{}%
 \contentsline {section}{\numberline {6}Foxtrot}{21}{}%
 \contentsline {subsection}{Face the Table}{21}{}%
 \contentsline {subsection}{The Fat Cardinal}{21}{}%
