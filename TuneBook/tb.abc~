@@ -780,7 +780,7 @@ R:Waltz
 K:Dm
 A,C | D2 DC DE | DC A,C DF | G2 GA GD | F2 G2 A2 |
  dc AG  (3ABc | GF DC DE | FA  GF  DC |[1 D2 D2 :|[2 D2 A2 c2 |]
-|: d2 dA cd | AG FC DF | (G2) GA GD | F2 F2 (3(EFE) |
+|: d2 dA cd | AG FC DF | G2 GA GD | F2 F2 (3(EFE) |
  D2 DE FG | Ad cA GF | DC  DF  EC |[1 D2 A2 c2 :|[2  D4 |]
 
 %%newpage
@@ -1755,10 +1755,10 @@ Add dcB | ABA AFA | dcd ede | fdc d3 :|
 
 X:134
 T:Rakish Paddy, The
+S:Taylor Stirm
 K:Ador
 M:4/4
 R:Reel
-S:Taylor Stirm
 AB |: c2 AB c2 AB | cBAG EGGA | Ddd^c defe | dcAG FGAB |
 c2 AB c2 AB | cBAG EGGA | DEFG ABcA | dcAG FGAB :|
 |: egg2 agg2 | egg2 ed^cd | eaa2 baa2 | eaag ed^cd |
@@ -1766,11 +1766,11 @@ egg2 agg2 | fed^c defg | afge fde^c | d=cAG E2 D2 :|
 
 X:135
 T:Old Bush, The
+S:Taylor Stirm
 R: reel
 M: 4/4
 L: 1/8
 K: Dmix
-S:Taylor Stirm
 |: A2GA cAA2 | d^cde fde=c | A2GA cAA2 | dfed cAdc |
 A2GA cAA2 | d^cde f3g | afge fde^c |[1 dfed cAdc :|[2 dfed cAG2 |]
 |: egg2 ed^cd | efge c3d | egg2 afge | dfed cAA2 |
@@ -1909,10 +1909,10 @@ b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 
 X:144
 T:Church St Polka, The
+S:Conal O'Grada
 K:G
 R:Polka
 M:2/4
-S:Conal O'Grada
 BG D>G | Ec cA/B/ | cE F>E | Dd d/e/d/c/ |
 BG D>G | Ec cA/B/ | c/B/A/G/ F/D/E/F/| GB G2 :|
 |: g2 f2 | c3 d | ef/e/ d2 | B3 c |
@@ -1920,10 +1920,10 @@ d>e dB | A3 B/A/ |[1 GA Bc | de fd :|[2 Gg f/g/a/g/ | gf g2 |]
 
 X:145
 T:Happy Polka, The
+S:Conal O'Grada
 K:D
 R:Polka
 M:2/4
-S:Conal O'Grada
 af/a/ f/a/f/a/ |  af/a/ f/a/f/a/ | af bf | af ba |
 ge/g/ e/g/e/g/ | ge ce | ba g/f/e |[1 ba g/f/e :|[2 d2 ag |]
 | f3 f | e2 d2 | B/c/d ef | ba af |
@@ -2175,7 +2175,6 @@ dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:163
 T:Stack of Barley, The
-T:Bantry Bay
 S:Seán Gavin
 R:hornpipe
 M:4/4
@@ -2338,11 +2337,11 @@ a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
 
 X:174
 T:Humors of Glendart, The
+S:Seán Gavin
 R:jig
 M:6/8
 K:D
 L:1/8
-S:Seán Gavin
 BAF AFD | F3 DFA | BAF AFD | FED E3 |
 BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
 |: def d2B | AFA AFA | def d2f | ede fdB |
@@ -2455,7 +2454,7 @@ GED D3 | GEG c2e | dBG GAB | AGE E2D |
 GED D3 | GEG c2e | dBG GAB | AGF G3 :|
 gdB GBd | gdB c2e | dBG GAB | AGE E2D |
 gdB GBd | gdB c2e | dBG GAB | AGF G3 | 
-gdB dgB | gdB c2e | dBG GAB | AGE E2D |
+gdB gdB | gdB c2e | dBG GAB | AGE E2D |
 GED D3 | GEG c2e | dBG GAB | AGE E2D |
 
 X:70
@@ -2468,3 +2467,46 @@ K:G
 gfg age | dBG AGE | DGG FGA | BGF G2d :|
 |: edd gdd | edd gdd | edd gfe | dBG A2d |
 gfg age | dBG AGE | DGG FGA | BGF G2d :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:180
+T:Willie Coleman's 
+R:jig
+M:6/8
+K:G
+BAG AGE | GED GBd | edB deb | age dBA |
+BAG AGE | GED GBd | edB dBA AGF G3 :|
+|: g3 edB | deb age | g3 edB | GBd e3 |
+g3 edB | deb age | d^cd gdB | AGF G3 :|
+
+X:181
+T:Old Favorite, The
+R:jig
+M:6/8
+K:G
+B3 BAB | dBA G2B | ded d2B | ded B2a |
+B3 BAB | dBA G2B | ded cBA | G3 G3 :|
+|: g3 fgf | efe d2B | ded d2B | ded B2d |
+g3 fgf | efe d2B |1 dge dBA | G3 Gde :|2 dge dge | dge dBA || 
+ 
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:1
+T:O'Carolan's Welcome
+R:air
+M:3/4
+S:The Chieftans
+K:Ador
+|: cB | A2 cd e2 | A2 cd e2 | de dc BA | (3(GAB) G2 E2 |
+|1 c3B A2 | d3c B2 | ce E2 G2 | A4 :|
+|2 g3f e2 | a3g e2 | de dc Bc | A4 |
+e2 | e2 ab ^c'2 | e2 ab ^c'2 | ^c'b ag ab | ^c'2 e2 e2 |
+=f2 af ed | e2 ge dc | d2 e2 g2 | a6 |
+ag eg a2 | ge de g2 | ed cd ec | d2 B2 G2 |
+c3B A2 | d3c B2 | ce E2 G2 | A4 :|
