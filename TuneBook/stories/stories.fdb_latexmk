@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1676952031 "stories.tex" "stories.pdf" "stories" 1676952031 2
+  "/etc/texmf/web2c/texmf.cnf" 1675143210 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1136768653 1508 efecb4a315fe0975509670a272d75ef5 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo" 1667332637 8288 112ab7cde007e881d9e0607234536be3 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/book.cls" 1667332637 23268 e47ccb36cfcf2953d1028f31ec508224 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1673989714 30429 213676d4c7327a21d91ddaed900e7b81 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1676468108 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1676468108 39561 34c98e380bf7c7201ee6a7909aff625a ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1676932632 125915 807ff72f6023b33a59c427bfd156a3d1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1676932643 6475504 d286b049ef9ade7914883c9347a8c1c9 ""
+  "stories.aux" 1676952031 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "stories.tex" 1676952027 461 b728a51baeb65f742ec8c5a386147b0d ""
+  (generated)
+  "stories.aux"
+  "stories.log"
+  "stories.pdf"
+  (rewritten before read)
