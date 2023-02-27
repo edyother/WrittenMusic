@@ -1,0 +1,13 @@
+*~
+*.aux
+*.dvi
+*.ilg
+*.fls
+*.fdb_latexmk
+*.idx
+*.ind
+*toc
+*.swp
+*.swo
+*.eps
+*.ps
