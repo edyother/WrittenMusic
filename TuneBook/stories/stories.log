@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  19 MAR 2023 00:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  19 MAR 2023 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,7 +169,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 107.
- [3] [4] [5] [6] [7] [8] [9] (./stories.aux) ) 
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--149
+
+ []
+
+[4] [5] [6] [7] [8] [9] [10] (./stories.aux) ) 
 Here is how much of TeX's memory you used:
  1527 strings out of 478051
  26193 string characters out of 5840943
@@ -179,10 +194,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  57i,8n,62p,598b,206s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on stories.pdf (11 pages, 136543 bytes).
+Output written on stories.pdf (12 pages, 136525 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
