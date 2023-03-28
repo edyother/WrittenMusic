@@ -254,9 +254,9 @@ R: Jig
 M: 6/8
 L: 1/8
 K: Dmaj
-AFD DFA | dfe d3 | Bcd cBA | FAB AFD | 
+AFD DFA | dfe d3 | Bcd cBA | FAB AFD |
 AFD DFA | dfe d3 | Bcd cBA | FED D3 :|
-|: def afd | afb afe | def afe | dBA ABd | 
+|: def afd | afb afe | def afe | dBA ABd |
 def afd | afb afe | def afe | dBB B3 :|
 
 X:54
@@ -267,14 +267,14 @@ M:6/8
 L:1/8
 R:Jig
 K:Dmix
-|: dcA FGA | BAB AFD | dcA FGA | BAB cBc | 
+|: dcA FGA | BAB AFD | dcA FGA | BAB cBc |
 dcA FGA | BAB AFD | FEF GFG | AFD D3 :|
-|: FEF GFG | AFD AFD | FEF GFG | AFD DFA | 
-FEF GFG | AFD AFD | BAB cBA | FGA D3 :| 
-|: dcA dcA | FAd fed | dcA dcA | FGA AFD | 
+|: FEF GFG | AFD AFD | FEF GFG | AFD DFA |
+FEF GFG | AFD AFD | BAB cBA | FGA D3 :|
+|: dcA dcA | FAd fed | dcA dcA | FGA AFD |
 dcA dcA | FAd fed | cAB cBA | FGA D3 :|
-|: cAB cAd | cAd cAB | cAB cAd | cAF GAB | 
-cAB cAd | cAd cAB | cAd cAF | FGA D3 :| 
+|: cAB cAd | cAd cAB | cAB cAd | cAF GAB |
+cAB cAd | cAd cAB | cAd cAF | FGA D3 :|
 
 X:1
 T:Ed Yother's Jig #3
@@ -285,8 +285,8 @@ L:1/8
 R:Jig
 K:D
 |: FAd ede | fed edB | GBc dcB | dcB A3 |
-GBc dcB | FAd efg | Bcd ecA |1 dcB AGE :|2 d6 | 
-|: cde efg | Bcd ecA | ecA Bcd | ecA Bcd | 
+GBc dcB | FAd efg | Bcd ecA |1 dcB AGE :|2 d6 |
+|: cde efg | Bcd ecA | ecA Bcd | ecA Bcd |
 cde efg | Bcd ecA |1 ecA Bcd | ecA G3 :|2  Bcd ecA | dcB AGE ||
 
 %%newpage
@@ -337,7 +337,7 @@ K:D
 Bd AF | Ad ff/f/ | gf ed | fe dB |
 Bd AF | Ad ff/f/ | gf ea | fe d2 :|
 |: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
-Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 || 
+Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 ||
 
 %%newpage
 %%begintext

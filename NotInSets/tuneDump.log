@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.12.20)  15 JAN 2023 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  27 MAR 2023 20:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **tuneDump.tex
 (./tuneDump.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -19,8 +19,8 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
@@ -49,7 +49,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
 )
-(/usr/share/texmf/tex/latex/abc/abc.sty
+(/home/edgaryother/texmf/tex/latex/abc/abc.sty
 Package: abc 2016/05/15 v2.0b Enrico Gregorio
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
@@ -87,45 +87,45 @@ Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 \c@abc@count=\count196
 \abc@out=\write3
 )
-(/usr/share/texmf/tex/latex/tocloft/tocloft.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip49
-\cftbeforetoctitleskip=\skip50
-\cftaftertoctitleskip=\skip51
-\cftbeforepartskip=\skip52
-\cftpartnumwidth=\skip53
-\cftpartindent=\skip54
-\cftbeforesecskip=\skip55
-\cftsecindent=\skip56
-\cftsecnumwidth=\skip57
-\cftbeforesubsecskip=\skip58
-\cftsubsecindent=\skip59
-\cftsubsecnumwidth=\skip60
-\cftbeforesubsubsecskip=\skip61
-\cftsubsubsecindent=\skip62
-\cftsubsubsecnumwidth=\skip63
-\cftbeforeparaskip=\skip64
-\cftparaindent=\skip65
-\cftparanumwidth=\skip66
-\cftbeforesubparaskip=\skip67
-\cftsubparaindent=\skip68
-\cftsubparanumwidth=\skip69
-\cftbeforeloftitleskip=\skip70
-\cftafterloftitleskip=\skip71
-\cftbeforefigskip=\skip72
-\cftfigindent=\skip73
-\cftfignumwidth=\skip74
+\cftparskip=\skip50
+\cftbeforetoctitleskip=\skip51
+\cftaftertoctitleskip=\skip52
+\cftbeforepartskip=\skip53
+\cftpartnumwidth=\skip54
+\cftpartindent=\skip55
+\cftbeforesecskip=\skip56
+\cftsecindent=\skip57
+\cftsecnumwidth=\skip58
+\cftbeforesubsecskip=\skip59
+\cftsubsecindent=\skip60
+\cftsubsecnumwidth=\skip61
+\cftbeforesubsubsecskip=\skip62
+\cftsubsubsecindent=\skip63
+\cftsubsubsecnumwidth=\skip64
+\cftbeforeparaskip=\skip65
+\cftparaindent=\skip66
+\cftparanumwidth=\skip67
+\cftbeforesubparaskip=\skip68
+\cftsubparaindent=\skip69
+\cftsubparanumwidth=\skip70
+\cftbeforeloftitleskip=\skip71
+\cftafterloftitleskip=\skip72
+\cftbeforefigskip=\skip73
+\cftfigindent=\skip74
+\cftfignumwidth=\skip75
 \c@lofdepth=\count197
 \c@lotdepth=\count198
-\cftbeforelottitleskip=\skip75
-\cftafterlottitleskip=\skip76
-\cftbeforetabskip=\skip77
-\cfttabindent=\skip78
-\cfttabnumwidth=\skip79
+\cftbeforelottitleskip=\skip76
+\cftafterlottitleskip=\skip77
+\cftbeforetabskip=\skip78
+\cfttabindent=\skip79
+\cfttabnumwidth=\skip80
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box51
 )
@@ -2632,13 +2632,13 @@ Package pdftex.def Info: out-abc-179.pdf  used on input line 3263.
 (pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
  [53 <./out-abc-178.pdf> <./out-abc-179.pdf>] (./tuneDump.aux) ) 
 Here is how much of TeX's memory you used:
- 3591 strings out of 476931
- 66393 string characters out of 5825523
- 397272 words of memory out of 5000000
- 24670 multiletter control sequences out of 15000+600000
- 473207 words of font info for 41 fonts, out of 8000000 for 9000
+ 3591 strings out of 478051
+ 66453 string characters out of 5840943
+ 1867330 words of memory out of 5000000
+ 23550 multiletter control sequences out of 15000+600000
+ 516235 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,6n,76p,228b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,76p,228b,226s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
@@ -2646,7 +2646,7 @@ ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr17.pfb>
-Output written on tuneDump.pdf (53 pages, 2265698 bytes).
+Output written on tuneDump.pdf (53 pages, 2265031 bytes).
 PDF statistics:
  1823 PDF objects out of 2073 (max. 8388607)
  1166 compressed objects within 12 object streams
