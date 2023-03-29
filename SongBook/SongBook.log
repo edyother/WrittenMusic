@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  27 FEB 2023 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  28 MAR 2023 20:12
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **SongBook.tex
 (./SongBook.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-01-16>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -22,14 +22,18 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
@@ -44,36 +48,46 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
-) (/home/edgaryother/texmf/tex/latex/abc/abc.sty
+)
+(/home/edgaryother/texmf/tex/latex/abc/abc.sty
 Package: abc 2016/05/15 v2.0b Enrico Gregorio
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read2
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
 \c@abc@count=\count196
 \abc@out=\write3
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box51
@@ -149,9 +163,12 @@ LaTeX Font Info:    ... okay on input line 9.
 \everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 10.
@@ -159,20 +176,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
- (./SongBook.toc [1
+
+(./SongBook.toc [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `SongBook.toc'.
 
- [2]
+
+[2]
 \openout3 = `Aikendrum.abc'.
 
-runsystem(abcm2ps -O= -c  Aikendrum.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  Aikendrum.abc )...executed.
 
-runsystem(ps2eps -f Aikendrum.ps )...disabled (restricted).
+runsystem(ps2eps -f Aikendrum.ps )...executed.
 
-runsystem(epstopdf Aikendrum.eps)...disabled (restricted).
+runsystem(epstopdf Aikendrum.eps)...executed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 19--28
@@ -287,11 +306,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--135
 [5]
 \openout3 = `TheBlacksmith.abc'.
 
-runsystem(abcm2ps -O= -c  TheBlacksmith.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  TheBlacksmith.abc )...executed.
 
-runsystem(ps2eps -f TheBlacksmith.ps )...disabled (restricted).
+runsystem(ps2eps -f TheBlacksmith.ps )...executed.
 
-runsystem(epstopdf TheBlacksmith.eps)...disabled (restricted).
+runsystem(epstopdf TheBlacksmith.eps)...executed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 139--148
@@ -331,11 +350,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--174
 [6 <./TheBlacksmith.pdf>]
 \openout3 = `BoldMcShane.abc'.
 
-runsystem(abcm2ps -O= -c  BoldMcShane.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  BoldMcShane.abc )...executed.
 
-runsystem(ps2eps -f BoldMcShane.ps )...disabled (restricted).
+runsystem(ps2eps -f BoldMcShane.ps )...executed.
 
-runsystem(epstopdf BoldMcShane.eps)...disabled (restricted).
+runsystem(epstopdf BoldMcShane.eps)...executed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 178--189
@@ -395,11 +414,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--233
 [8]
 \openout3 = `DirtyOldTown.abc'.
 
-runsystem(abcm2ps -O= -c  DirtyOldTown.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  DirtyOldTown.abc )...executed.
 
-runsystem(ps2eps -f DirtyOldTown.ps )...disabled (restricted).
+runsystem(ps2eps -f DirtyOldTown.ps )...executed.
 
-runsystem(epstopdf DirtyOldTown.eps)...disabled (restricted).
+runsystem(epstopdf DirtyOldTown.eps)...executed.
 
 <DirtyOldTown.pdf, id=47, 513.92pt x 164.615pt>
 File: DirtyOldTown.pdf Graphic file (type pdf)
@@ -464,11 +483,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--300
 [10]
 \openout3 = `FelixTheSoldier.abc'.
 
-runsystem(abcm2ps -O= -c  FelixTheSoldier.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  FelixTheSoldier.abc )...executed.
 
-runsystem(ps2eps -f FelixTheSoldier.ps )...disabled (restricted).
+runsystem(ps2eps -f FelixTheSoldier.ps )...executed.
 
-runsystem(epstopdf FelixTheSoldier.eps)...disabled (restricted).
+runsystem(epstopdf FelixTheSoldier.eps)...executed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 304--315
@@ -498,11 +517,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--333
 [11 <./FelixTheSoldier.pdf>]
 \openout3 = `GoToSeaOnceMore.abc'.
 
-runsystem(abcm2ps -O= -c  GoToSeaOnceMore.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  GoToSeaOnceMore.abc )...executed.
 
-runsystem(ps2eps -f GoToSeaOnceMore.ps )...disabled (restricted).
+runsystem(ps2eps -f GoToSeaOnceMore.ps )...executed.
 
-runsystem(epstopdf GoToSeaOnceMore.eps)...disabled (restricted).
+runsystem(epstopdf GoToSeaOnceMore.eps)...executed.
 
 <GoToSeaOnceMore.pdf, id=72, 513.92pt x 362.35374pt>
 File: GoToSeaOnceMore.pdf Graphic file (type pdf)
@@ -907,11 +926,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 697--701
 [22]
 \openout3 = `ManYouDontMeetEveryday.abc'.
 
-runsystem(abcm2ps -O= -c  ManYouDontMeetEveryday.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  ManYouDontMeetEveryday.abc )...executed.
 
-runsystem(ps2eps -f ManYouDontMeetEveryday.ps )...disabled (restricted).
+runsystem(ps2eps -f ManYouDontMeetEveryday.ps )...executed.
 
-runsystem(epstopdf ManYouDontMeetEveryday.eps)...disabled (restricted).
+runsystem(epstopdf ManYouDontMeetEveryday.eps)...executed.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 705--724
@@ -1086,11 +1105,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 878--880
 [28]
 \openout3 = `PaddyWest.abc'.
 
-runsystem(abcm2ps -O= -c  PaddyWest.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  PaddyWest.abc )...executed.
 
-runsystem(ps2eps -f PaddyWest.ps )...disabled (restricted).
+runsystem(ps2eps -f PaddyWest.ps )...executed.
 
-runsystem(epstopdf PaddyWest.eps)...disabled (restricted).
+runsystem(epstopdf PaddyWest.eps)...executed.
 
 <PaddyWest.pdf, id=142, 513.92pt x 194.7275pt>
 File: PaddyWest.pdf Graphic file (type pdf)
@@ -1275,11 +1294,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1075--1077
 [34]
 \openout3 = `RovingPeddler.abc'.
 
-runsystem(abcm2ps -O= -c  RovingPeddler.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  RovingPeddler.abc )...executed.
 
-runsystem(ps2eps -f RovingPeddler.ps )...disabled (restricted).
+runsystem(ps2eps -f RovingPeddler.ps )...executed.
 
-runsystem(epstopdf RovingPeddler.eps)...disabled (restricted).
+runsystem(epstopdf RovingPeddler.eps)...executed.
 
 <RovingPeddler.pdf, id=166, 513.92pt x 91.34125pt>
 File: RovingPeddler.pdf Graphic file (type pdf)
@@ -1679,11 +1698,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1466--1468
 [46]
 \openout3 = `WingsOfAGoney.abc'.
 
-runsystem(abcm2ps -O= -c  WingsOfAGoney.abc )...disabled (restricted).
+runsystem(abcm2ps -O= -c  WingsOfAGoney.abc )...executed.
 
-runsystem(ps2eps -f WingsOfAGoney.ps )...disabled (restricted).
+runsystem(ps2eps -f WingsOfAGoney.ps )...executed.
 
-runsystem(epstopdf WingsOfAGoney.eps)...disabled (restricted).
+runsystem(epstopdf WingsOfAGoney.eps)...executed.
 
 <WingsOfAGoney.pdf, id=213, 513.92pt x 143.53625pt>
 File: WingsOfAGoney.pdf Graphic file (type pdf)
@@ -1794,8 +1813,13 @@ Here is how much of TeX's memory you used:
  517783 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,6n,76p,225b,224s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/edgaryother/.texlive2022/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on SongBook.pdf (49 pages, 215506 bytes).
+ </home/edgaryother/.texlive2022/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.p
+fb>
+Output written on SongBook.pdf (49 pages, 215453 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  167 compressed objects within 2 object streams

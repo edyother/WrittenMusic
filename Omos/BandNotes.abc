@@ -480,7 +480,7 @@ M:6/8
 K:Dmix
 A3 AGE | GED D3 | c3 ded | cAG FED |
 A3 AGE | G3 cGE | D3 DFA | D3 D3 :|
-|: c3 cAB | cAG FGA | ded ded | dAG FGA | 
+|: c3 cAB | cAG FGA | ded ded | dAG FGA |
 cBc dcB | ABG FGE | D3 DFA | D3 D3 :|
 |: fdd gdd | fdd ged | cde ged | cde g3 |
 fdd gdd | fdd ged | cde gag | fdc d2e :|
@@ -515,7 +515,7 @@ ge/g/ e/g/e/g/ | ge ce | ba g/f/e |1 ba g/f/e :|2 d2 ag ||
 | f3 f | e2 d2 | B/c/d ef | ba af |
 g3 g | f2 e2 | dc Bc | BA FA |
 f3 f | e2 d2 | B/c/d ef | ba af |
-g/a/g/a/ g/a/g/a/ | f/a/f/a/ f/a/f/a/ | eA Bc | d2 b2 || 
+g/a/g/a/ g/a/g/a/ | f/a/f/a/ f/a/f/a/ | eA Bc | d2 b2 ||
 
 %%newpage
 %%scale .7
@@ -541,7 +541,7 @@ L: 1/8
 K: Dmix
 S:Taylor Stirm
 |: A2GA cAA2 | d^cde fde=c | A2GA cAA2 | dfed cAdc |
-A2GA cAA2 | d^cde f3g | afge fde^c |1 dfed cAdc :|2 dfed cAG2 | 
+A2GA cAA2 | d^cde f3g | afge fde^c |1 dfed cAdc :|2 dfed cAG2 |
 |: egg2 ed^cd | efge c3d | egg2 afge | dfed cAA2 |
 egg2 agg2 | fed^c defg | afge fde^c |1 dfed cAG2 :|2 dfed cAdc |
 
@@ -570,10 +570,10 @@ K:Dmix
 R:Jig
 M:6/8
 L:1/8
-FED c2A | ded cAG | A3 ABG | ABG A2G | 
-FED c2A | ded cAF | G3 GBA | GBA G2G :| 
-|: fef gfg | afd cAG | A3 ABG | ABG A2e | 
-fef gfg | afd cAF | G3 GBA |1 GBA G2e :|2 GBA G2G || 
+FED c2A | ded cAG | A3 ABG | ABG A2G |
+FED c2A | ded cAF | G3 GBA | GBA G2G :|
+|: fef gfg | afd cAG | A3 ABG | ABG A2e |
+fef gfg | afd cAF | G3 GBA |1 GBA G2e :|2 GBA G2G ||
 
 X:130
 T:Haste to the Wedding
@@ -581,10 +581,10 @@ K:D
 R:Jig
 M:6/8
 L:1/8
-AFA Agf | ede fdB | AFA AFD | GFG EFG | 
-AFA Agf | ede fdB | ABA faf | d3 d3 :| 
-|: afa afa | bgb bgb | afa afd | gfg efg | 
-a3 f3 | ede fdB | ABA faf | d3 d3 :| 
+AFA Agf | ede fdB | AFA AFD | GFG EFG |
+AFA Agf | ede fdB | ABA faf | d3 d3 :|
+|: afa afa | bgb bgb | afa afd | gfg efg |
+a3 f3 | ede fdB | ABA faf | d3 d3 :|
 
 %%newpage
 %%scale .7
@@ -612,7 +612,7 @@ fadf AdAF | DFAd f2ef | gfed cABc | d2f2 d2 :|
 |: (3DEF | GFGA Bcde | fgfe dcdB | A2f2 fef2 | G2e2 ede2 |
 GFGA Bcde | fgfe dcdB | Afed cABc | d2f2 d2 :|
 |: ag | (3fgf (3efe (3ded (3cdc | (3BcB (3ABA G2 ba | (3gag (3fgf (3efe (3ded | (3cdc (3BcB A2 ag |
-(3fgf (3efe (3ded (3cdc | (3BcB (3ABA (3GAG (3FGF | Eged cABc | d2 f2 d2 :| 
+(3fgf (3efe (3ded (3cdc | (3BcB (3ABA (3GAG (3FGF | Eged cABc | d2 f2 d2 :|
 
 %%newpage
 %%scale .7
@@ -728,7 +728,7 @@ R:Slip Jig
 K:Dmix
 d2B BAB BAB | d2B BAB cBA | d2B BAB BAB | cBc A2B cBA :|
 |: GBd gdB gdB | GBd gdB cBA |1 GBd gdB gdB | cBc A2B cBA :|
-|2 GBd gba g2B | cBc A2B cBA | 
+|2 GBd gba g2B | cBc A2B cBA |
 
 X: 102
 T: Hardiman The Fiddler
@@ -747,7 +747,7 @@ M: 9/8
 L: 1/8
 K: Edor
 |: G2B E2B BAG | F2A D2A AGF | G2B E2B BAG |[1 BdB AGF E2F :|2 BdB AGF E2f |
-| g2e g2e edB | fef dfa gfe | g2e g2e edB | ABd efd e2f | 
+| g2e g2e edB | fef dfa gfe | g2e g2e edB | ABd efd e2f |
 | g2e g2e edB | fef dfa gfe | gfe agf gfe | dcB AGF E2F |
 
 %%newpage

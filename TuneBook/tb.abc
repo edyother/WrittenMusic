@@ -807,7 +807,7 @@ R:reel
 K:Em
 EAAB AGEF | G2GA GED2 | cBcd eged | ^cdef gedB |
 A2AB AGEF | G2GA GED2 | cBcd eged | cABG A2AG :|
-|: eaab agef | g2ga ged2 | cBcd eged | ^cdef gdeg | 
+|: eaab agef | g2ga ged2 | cBcd eged | ^cdef gdeg |
 a2ab agef | g2ga ged2 | cBcd eged | cABG A2 A2 |:
 %%newpage
 
@@ -1414,7 +1414,7 @@ d2Bd gdBd | d2Bd gdBd | cBAc BAGB | ADFA G4 :|
 
 X:110.5
 T:Father Tim's
-C:Eli Hickey	
+C:Eli Hickey
 C:2021
 S:Eli Hickey
 R:reel
@@ -2093,7 +2093,7 @@ DGG GFG | ABc d2e | fef ded | cAG FEF |
 |: gdg gdg | gdg a2g | fef ded | cAG FEF |
 |[1 gdg gdg | gdg a2g | fed cAF | G3 G2d :|
 |[2 B3 BAG | ABc d2e | fed cAF | G3 GFE ]|
- 
+
 X:158
 T:Jimmy Ward's
 S:The session at The Golden Ace. Jenny, with Jim & Kate Smith 2/2/16
@@ -2156,7 +2156,7 @@ L:1/8
 K:D
 ge | dBAB G2GA | BA (3Bcd g2ga | bage dBGB | A2GB A2ge |
 dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
-|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge | 
+|:ga | bagb a2ga | bagb a2ga | b2ba gedB | A2ge |
 dBAB G2GA | BA (3Bcd g2ga | bage dBGB | G2 G2 G2 :|
 
 X:163
@@ -2169,7 +2169,7 @@ K:G
 gf |: efed B2dB | A2AG AcBA | G2GA BA (3Bcd | e2 A2 A2 Bd |
 efed B2dB | A2AG AcBA | G2GA BdAc | B2 G2 G2 :|
 dc |: BGBd g2fg | agfg edBd | g2fg edBd | e2 A2 A2 fg |
-agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :| 
+agfa gedB | A2AG AcBA | GFGA BdAc | B2 G2 G2 :|
 
 X:164
 T:Bantry Bay
@@ -2201,9 +2201,9 @@ AD (3FED A2dB | ADFG  BEE2 | DEFG AFAB | defd efge |]
 [| a2fd efdf | a2fd edBd | a2fd efdf | gefd edBd |
 a2fd efdf | a2fd edBd | fa3 bfaf | defd efdB |]
 [| f2df efde | f2df edBd | f2df efdf | gefd edBd |
-f2df efde | f2df edBd | fa3 bfaf | defd efdB |] 
+f2df efde | f2df edBd | fa3 bfaf | defd efdB |]
 [| Adfd edfd | Adfd edBd | Adfd efeg | gefd edBd |
-Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |] 
+Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |]
 
 %%newpage
 %%scale .7
@@ -2218,8 +2218,8 @@ L:1/8
 K:D
 F3A d2ed | cA2B cde2 | F3A d2ed | cAGE EDD2 |
 F3A d2ed | cA2B cde2 | dcde efed | cAGE EDD2 :|
-|: FAdf a3f | g3a gfed | cA3 cdef | gfed cAGE 
-FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :| 
+|: FAdf a3f | g3a gfed | cA3 cdef | gfed cAGE
+FAdf a3f | g3a gfef | g2ba gfed | cAGE EDD2 :|
 
 X:167
 T:Devaney's Goat
@@ -2241,8 +2241,8 @@ M:C|
 L:1/8
 K:G
 d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc |
-d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :| 
-|: g2bg egdg | egdg edBd | g2bg egdg | ABcd edBc | 
+d2BG dGBG | G2Bd edge | d2BG dGBG | ABcd edBc :|
+|: g2bg egdg | egdg edBd | g2bg egdg | ABcd edBc |
 g2bg egdg | egdg edBd | gbbg efge | dega bage :|
 
 %%newpage
@@ -2258,7 +2258,7 @@ L:1/8
 K:G
 BA |: GABd dBde | g2ge dega | bage dBGA | BAAG AcBA |
 GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
-| fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA | 
+| fg | add^c deab | eede g2ab | gafg edBB | AA2G A2cBA |
 GABd dBde | g2ge dega | bage dBAB | G2 G2 G2 :|
 
 X:170
@@ -2271,7 +2271,7 @@ K:G
 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | dBAG E2BA |
 GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 :|
 |: (3Bcd | edBd edgd | edBd e3f | gedB GABG | dBAG E2 |
-|[1 (3Bcd | edBd edgd | edBd e3f | gedB GABG | AGEF G2 :| 
+|[1 (3Bcd | edBd edgd | edBd e3f | gedB GABG | AGEF G2 :|
 |[2 BA | GEDE GABG | (3ABA GA Bdeg | gedB GABG | AGEF G2 ]|
 
 X:171
@@ -2311,11 +2311,11 @@ L:1/8
 K:Em
 e2dc BAGF | GAFG E2B2 | e3f gfef | gafg e4 |
 a2gf edcB | cdBc A2E2 | A3B cBAB | cdBc A4 |]
-[| BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg]c | BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg] |  
+[| BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg]c | BB[Bf]B BB[Bf]B | [cg]cc[cg] cc[cg] |
 [Bf]BBB [cg]ccc |[Bf]BBB [cg]ccc | [Bf]B^cc ^ddee | ffgg aabb |
 |:egbe bgeg | ^dfbf bfdf | =dfab afdB | ^ceae aecA |
 =cege cdgd | Bege Bege | _Bege Bege | =Bege fe^df !coda!:|
-!coda![| e2dc BAGF | G2 e2 F2 ^d2 | e4 B2 G2 | E4 e2 z2 |] 
+!coda![| e2dc BAGF | G2 e2 F2 ^d2 | e4 B2 G2 | E4 e2 z2 |]
 
 %%newpage
 %%scale .7
@@ -2439,7 +2439,7 @@ K:G
 GED D3 | GEG c2e | dBG GAB | AGE E2D |
 GED D3 | GEG c2e | dBG GAB | AGF G3 :|
 gdB GBd | gdB c2e | dBG GAB | AGE E2D |
-gdB GBd | gdB c2e | dBG GAB | AGF G3 | 
+gdB GBd | gdB c2e | dBG GAB | AGF G3 |
 gdB gdB | gdB c2e | dBG GAB | AGE E2D |
 GED D3 | GEG c2e | dBG GAB | AGE E2D |
 
@@ -2459,7 +2459,7 @@ gfg age | dBG AGE | DGG FGA | BGF G2d :|
 %%staffsep 40
 
 X:180
-T:Willie Coleman's 
+T:Willie Coleman's
 R:jig
 M:6/8
 K:G
@@ -2476,8 +2476,8 @@ K:G
 B3 BAB | dBA G2B | ded d2B | ded B2a |
 B3 BAB | dBA G2B | ded cBA | G3 G3 :|
 |: g3 fgf | efe d2B | ded d2B | ded B2d |
-g3 fgf | efe d2B |1 dge dBA | G3 Gde :|2 dge dge | dge dBA || 
- 
+g3 fgf | efe d2B |1 dge dBA | G3 Gde :|2 dge dge | dge dBA ||
+
 
 %%newpage
 %%scale .7
@@ -2491,7 +2491,7 @@ S:The Chieftans
 K:Ador
 |: cB | A2 cd e2 | A2 cd e2 | de dc BA | (3(GAB) G2 E2 |
 |1 c3B A2 | d3c B2 | ce E2 G2 | A4 :|
-|2 g3f e2 | a3g e2 | de dc Bc | A4 |
+|2 g3=f e2 | a3g e2 | de dc Bc | A4 |
 e2 | e2 ab ^c'2 | e2 ab ^c'2 | ^c'b ag ab | ^c'2 e2 e2 |
 =f2 af ed | e2 ge dc | d2 e2 g2 | a6 |
 ag eg a2 | ge de g2 | ed cd ec | d2 B2 G2 |
