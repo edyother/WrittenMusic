@@ -2483,7 +2483,7 @@ g3 fgf | efe d2B |1 dge dBA | G3 Gde :|2 dge dge | dge dBA ||
 %%scale .7
 %%staffsep 40
 
-X:1
+X:182
 T:O'Carolan's Welcome
 R:air
 M:3/4
@@ -2496,3 +2496,31 @@ e2 | e2 ab ^c'2 | e2 ab ^c'2 | ^c'b ag ab | ^c'2 e2 e2 |
 =f2 af ed | e2 ge dc | d2 e2 g2 | a6 |
 ag eg a2 | ge de g2 | ed cd ec | d2 B2 G2 |
 c3B A2 | d3c B2 | ce E2 G2 | A4 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:183
+T:Humors of Whiskey, The
+S:The Chieftans
+M:9/8
+R:slip jig
+L:1/8
+K:Em
+BcA BEE BEE | BcA BEE FED | BcA BEE BEE | F2A ABA FED :|
+|: G2A BcA BcA | G2A Bcd eAA | G2A BcA Bcd | e2A ABA FED :|
+
+X:92
+T:An Phis Fhliuch
+S: Taylor Stirm at Nine Irish Brothers session
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmix
+FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
+|: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
+|: FGA Afd Afd | Afd Afd AFD | FGA AFA c2A | BAG FAF GED :|
+|: ~D3 ~D3 c3 | c2B c2A GED | ~D3 ~D3 d2^c | dfe dcA GED :|
+|: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
+
