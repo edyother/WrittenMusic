@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.2.20)  27 MAR 2023 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.4.3)  11 APR 2023 20:23
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **tuneDump.tex
 (./tuneDump.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16>
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,44 +19,44 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count193
 \Gm@cntv=\count194
 \c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks17
 )
-(/home/edgaryother/texmf/tex/latex/abc/abc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/abc/abc.sty
 Package: abc 2016/05/15 v2.0b Enrico Gregorio
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read2
@@ -65,7 +65,7 @@ Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
@@ -76,10 +76,10 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen149
-\Gin@req@width=\dimen150
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
@@ -90,44 +90,44 @@ Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip50
-\cftbeforetoctitleskip=\skip51
-\cftaftertoctitleskip=\skip52
-\cftbeforepartskip=\skip53
-\cftpartnumwidth=\skip54
-\cftpartindent=\skip55
-\cftbeforesecskip=\skip56
-\cftsecindent=\skip57
-\cftsecnumwidth=\skip58
-\cftbeforesubsecskip=\skip59
-\cftsubsecindent=\skip60
-\cftsubsecnumwidth=\skip61
-\cftbeforesubsubsecskip=\skip62
-\cftsubsubsecindent=\skip63
-\cftsubsubsecnumwidth=\skip64
-\cftbeforeparaskip=\skip65
-\cftparaindent=\skip66
-\cftparanumwidth=\skip67
-\cftbeforesubparaskip=\skip68
-\cftsubparaindent=\skip69
-\cftsubparanumwidth=\skip70
-\cftbeforeloftitleskip=\skip71
-\cftafterloftitleskip=\skip72
-\cftbeforefigskip=\skip73
-\cftfigindent=\skip74
-\cftfignumwidth=\skip75
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
 \c@lofdepth=\count197
 \c@lotdepth=\count198
-\cftbeforelottitleskip=\skip76
-\cftafterlottitleskip=\skip77
-\cftbeforetabskip=\skip78
-\cfttabindent=\skip79
-\cfttabnumwidth=\skip80
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
-\l__pdf_internal_box=\box51
+\l__pdf_internal_box=\box50
 )
 (./tuneDump.aux)
 \openout1 = `tuneDump.aux'.
@@ -184,13 +184,13 @@ LaTeX Font Info:    ... okay on input line 11.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count266
-\scratchdimen=\dimen151
-\scratchbox=\box52
+\scratchdimen=\dimen149
+\scratchbox=\box51
 \nofMPsegments=\count267
 \nofMParguments=\count268
 \everyMPshowfont=\toks20
 \MPscratchCnt=\count269
-\MPscratchDim=\dimen152
+\MPscratchDim=\dimen150
 \MPnumerator=\count270
 \makeMPintoPDFobject=\count271
 \everyMPtoPDFconversion=\toks21
@@ -222,7 +222,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `tuneDump.toc'.
 
- [4]
 \openout3 = `out-abc-1.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-1.abc )...executed.
@@ -231,11 +230,12 @@ runsystem(ps2eps -f out-abc-1.ps )...executed.
 
 runsystem(epstopdf out-abc-1.eps)...executed.
 
-<out-abc-1.pdf, id=21, 513.92pt x 191.71625pt>
+<out-abc-1.pdf, id=18, 513.92pt x 191.71625pt>
 File: out-abc-1.pdf Graphic file (type pdf)
 <use out-abc-1.pdf>
 Package pdftex.def Info: out-abc-1.pdf  used on input line 35.
 (pdftex.def)             Requested size: 513.11745pt x 191.432pt.
+ [4]
 \openout3 = `out-abc-2.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-2.abc )...executed.
@@ -350,11 +350,11 @@ runsystem(ps2eps -f out-abc-10.ps )...executed.
 
 runsystem(epstopdf out-abc-10.eps)...executed.
 
-<out-abc-10.pdf, id=89, 513.92pt x 194.7275pt>
+<out-abc-10.pdf, id=89, 513.92pt x 193.72375pt>
 File: out-abc-10.pdf Graphic file (type pdf)
 <use out-abc-10.pdf>
 Package pdftex.def Info: out-abc-10.pdf  used on input line 191.
-(pdftex.def)             Requested size: 513.11745pt x 194.43878pt.
+(pdftex.def)             Requested size: 513.11745pt x 193.43652pt.
 \openout3 = `out-abc-11.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-11.abc )...executed.
@@ -1302,11 +1302,11 @@ runsystem(ps2eps -f out-abc-81.ps )...executed.
 
 runsystem(epstopdf out-abc-81.eps)...executed.
 
-<out-abc-81.pdf, id=807, 513.92pt x 170.6375pt>
+<out-abc-81.pdf, id=807, 513.92pt x 169.63374pt>
 File: out-abc-81.pdf Graphic file (type pdf)
 <use out-abc-81.pdf>
 Package pdftex.def Info: out-abc-81.pdf  used on input line 1506.
-(pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
+(pdftex.def)             Requested size: 513.11745pt x 169.38223pt.
 \openout3 = `out-abc-82.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-82.abc )...executed.
@@ -1330,11 +1330,11 @@ runsystem(ps2eps -f out-abc-83.ps )...executed.
 
 runsystem(epstopdf out-abc-83.eps)...executed.
 
-<out-abc-83.pdf, id=844, 513.92pt x 119.44624pt>
+<out-abc-83.pdf, id=844, 513.92pt x 404.51125pt>
 File: out-abc-83.pdf Graphic file (type pdf)
 <use out-abc-83.pdf>
-Package pdftex.def Info: out-abc-83.pdf  used on input line 1555.
-(pdftex.def)             Requested size: 513.11745pt x 119.26913pt.
+Package pdftex.def Info: out-abc-83.pdf  used on input line 1573.
+(pdftex.def)             Requested size: 513.11745pt x 403.91153pt.
 \openout3 = `out-abc-84.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-84.abc )...executed.
@@ -1346,8 +1346,9 @@ runsystem(epstopdf out-abc-84.eps)...executed.
 <out-abc-84.pdf, id=845, 513.92pt x 169.63374pt>
 File: out-abc-84.pdf Graphic file (type pdf)
 <use out-abc-84.pdf>
-Package pdftex.def Info: out-abc-84.pdf  used on input line 1576.
+Package pdftex.def Info: out-abc-84.pdf  used on input line 1594.
 (pdftex.def)             Requested size: 513.11745pt x 169.38223pt.
+ [28 <./out-abc-82.pdf> <./out-abc-83.pdf>]
 \openout3 = `out-abc-85.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-85.abc )...executed.
@@ -1356,10 +1357,10 @@ runsystem(ps2eps -f out-abc-85.ps )...executed.
 
 runsystem(epstopdf out-abc-85.eps)...executed.
 
-<out-abc-85.pdf, id=846, 513.92pt x 92.345pt>
+<out-abc-85.pdf, id=864, 513.92pt x 92.345pt>
 File: out-abc-85.pdf Graphic file (type pdf)
 <use out-abc-85.pdf>
-Package pdftex.def Info: out-abc-85.pdf  used on input line 1594.
+Package pdftex.def Info: out-abc-85.pdf  used on input line 1612.
 (pdftex.def)             Requested size: 513.11745pt x 92.20807pt.
 \openout3 = `out-abc-86.abc'.
 
@@ -1369,13 +1370,11 @@ runsystem(ps2eps -f out-abc-86.ps )...executed.
 
 runsystem(epstopdf out-abc-86.eps)...executed.
 
-<out-abc-86.pdf, id=847, 513.92pt x 120.45pt>
+<out-abc-86.pdf, id=865, 513.92pt x 120.45pt>
 File: out-abc-86.pdf Graphic file (type pdf)
 <use out-abc-86.pdf>
-Package pdftex.def Info: out-abc-86.pdf  used on input line 1611.
+Package pdftex.def Info: out-abc-86.pdf  used on input line 1629.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
- [28 <./out-abc-82.pdf> <./out-abc-83.pdf> <./out-abc-84.pdf> <./out-abc-85.pdf
->]
 \openout3 = `out-abc-87.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-87.abc )...executed.
@@ -1384,11 +1383,11 @@ runsystem(ps2eps -f out-abc-87.ps )...executed.
 
 runsystem(epstopdf out-abc-87.eps)...executed.
 
-<out-abc-87.pdf, id=886, 513.92pt x 181.67876pt>
+<out-abc-87.pdf, id=866, 513.92pt x 180.675pt>
 File: out-abc-87.pdf Graphic file (type pdf)
 <use out-abc-87.pdf>
-Package pdftex.def Info: out-abc-87.pdf  used on input line 1628.
-(pdftex.def)             Requested size: 513.11745pt x 181.4094pt.
+Package pdftex.def Info: out-abc-87.pdf  used on input line 1646.
+(pdftex.def)             Requested size: 513.11745pt x 180.40712pt.
 \openout3 = `out-abc-88.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-88.abc )...executed.
@@ -1397,11 +1396,13 @@ runsystem(ps2eps -f out-abc-88.ps )...executed.
 
 runsystem(epstopdf out-abc-88.eps)...executed.
 
-<out-abc-88.pdf, id=887, 513.92pt x 155.58125pt>
+<out-abc-88.pdf, id=867, 513.92pt x 155.58125pt>
 File: out-abc-88.pdf Graphic file (type pdf)
 <use out-abc-88.pdf>
-Package pdftex.def Info: out-abc-88.pdf  used on input line 1645.
+Package pdftex.def Info: out-abc-88.pdf  used on input line 1663.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
+ [29 <./out-abc-84.pdf> <./out-abc-85.pdf> <./out-abc-86.pdf> <./out-abc-87.pdf
+>]
 \openout3 = `out-abc-89.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-89.abc )...executed.
@@ -1410,10 +1411,10 @@ runsystem(ps2eps -f out-abc-89.ps )...executed.
 
 runsystem(epstopdf out-abc-89.eps)...executed.
 
-<out-abc-89.pdf, id=888, 513.92pt x 84.315pt>
+<out-abc-89.pdf, id=905, 513.92pt x 84.315pt>
 File: out-abc-89.pdf Graphic file (type pdf)
 <use out-abc-89.pdf>
-Package pdftex.def Info: out-abc-89.pdf  used on input line 1663.
+Package pdftex.def Info: out-abc-89.pdf  used on input line 1681.
 (pdftex.def)             Requested size: 513.11745pt x 84.18997pt.
 \openout3 = `out-abc-90.abc'.
 
@@ -1423,10 +1424,10 @@ runsystem(ps2eps -f out-abc-90.ps )...executed.
 
 runsystem(epstopdf out-abc-90.eps)...executed.
 
-<out-abc-90.pdf, id=889, 513.92pt x 101.37875pt>
+<out-abc-90.pdf, id=906, 513.92pt x 101.37875pt>
 File: out-abc-90.pdf Graphic file (type pdf)
 <use out-abc-90.pdf>
-Package pdftex.def Info: out-abc-90.pdf  used on input line 1680.
+Package pdftex.def Info: out-abc-90.pdf  used on input line 1698.
 (pdftex.def)             Requested size: 513.11745pt x 101.22844pt.
 \openout3 = `out-abc-91.abc'.
 
@@ -1436,13 +1437,11 @@ runsystem(ps2eps -f out-abc-91.ps )...executed.
 
 runsystem(epstopdf out-abc-91.eps)...executed.
 
-<out-abc-91.pdf, id=890, 513.92pt x 97.36375pt>
+<out-abc-91.pdf, id=907, 513.92pt x 97.36375pt>
 File: out-abc-91.pdf Graphic file (type pdf)
 <use out-abc-91.pdf>
-Package pdftex.def Info: out-abc-91.pdf  used on input line 1698.
+Package pdftex.def Info: out-abc-91.pdf  used on input line 1716.
 (pdftex.def)             Requested size: 513.11745pt x 97.21938pt.
- [29 <./out-abc-86.pdf> <./out-abc-87.pdf> <./out-abc-88.pdf> <./out-abc-89.pdf
-> <./out-abc-90.pdf>]
 \openout3 = `out-abc-92.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-92.abc )...executed.
@@ -1451,10 +1450,10 @@ runsystem(ps2eps -f out-abc-92.ps )...executed.
 
 runsystem(epstopdf out-abc-92.eps)...executed.
 
-<out-abc-92.pdf, id=930, 513.92pt x 168.63pt>
+<out-abc-92.pdf, id=908, 513.92pt x 168.63pt>
 File: out-abc-92.pdf Graphic file (type pdf)
 <use out-abc-92.pdf>
-Package pdftex.def Info: out-abc-92.pdf  used on input line 1714.
+Package pdftex.def Info: out-abc-92.pdf  used on input line 1732.
 (pdftex.def)             Requested size: 513.11745pt x 168.37997pt.
 \openout3 = `out-abc-93.abc'.
 
@@ -1464,11 +1463,13 @@ runsystem(ps2eps -f out-abc-93.ps )...executed.
 
 runsystem(epstopdf out-abc-93.eps)...executed.
 
-<out-abc-93.pdf, id=931, 513.92pt x 95.35625pt>
+<out-abc-93.pdf, id=909, 513.92pt x 95.35625pt>
 File: out-abc-93.pdf Graphic file (type pdf)
 <use out-abc-93.pdf>
-Package pdftex.def Info: out-abc-93.pdf  used on input line 1733.
+Package pdftex.def Info: out-abc-93.pdf  used on input line 1751.
 (pdftex.def)             Requested size: 513.11745pt x 95.21486pt.
+ [30 <./out-abc-88.pdf> <./out-abc-89.pdf> <./out-abc-90.pdf> <./out-abc-91.pdf
+> <./out-abc-92.pdf>]
 \openout3 = `out-abc-94.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-94.abc )...executed.
@@ -1477,10 +1478,10 @@ runsystem(ps2eps -f out-abc-94.ps )...executed.
 
 runsystem(epstopdf out-abc-94.eps)...executed.
 
-<out-abc-94.pdf, id=932, 513.92pt x 128.48pt>
+<out-abc-94.pdf, id=948, 513.92pt x 128.48pt>
 File: out-abc-94.pdf Graphic file (type pdf)
 <use out-abc-94.pdf>
-Package pdftex.def Info: out-abc-94.pdf  used on input line 1749.
+Package pdftex.def Info: out-abc-94.pdf  used on input line 1767.
 (pdftex.def)             Requested size: 513.11745pt x 128.2895pt.
 \openout3 = `out-abc-95.abc'.
 
@@ -1490,13 +1491,11 @@ runsystem(ps2eps -f out-abc-95.ps )...executed.
 
 runsystem(epstopdf out-abc-95.eps)...executed.
 
-<out-abc-95.pdf, id=933, 513.92pt x 191.71625pt>
+<out-abc-95.pdf, id=949, 513.92pt x 191.71625pt>
 File: out-abc-95.pdf Graphic file (type pdf)
 <use out-abc-95.pdf>
-Package pdftex.def Info: out-abc-95.pdf  used on input line 1767.
+Package pdftex.def Info: out-abc-95.pdf  used on input line 1785.
 (pdftex.def)             Requested size: 513.11745pt x 191.432pt.
- [30 <./out-abc-91.pdf> <./out-abc-92.pdf> <./out-abc-93.pdf> <./out-abc-94.pdf
->]
 \openout3 = `out-abc-96.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-96.abc )...executed.
@@ -1505,10 +1504,10 @@ runsystem(ps2eps -f out-abc-96.ps )...executed.
 
 runsystem(epstopdf out-abc-96.eps)...executed.
 
-<out-abc-96.pdf, id=965, 513.92pt x 84.315pt>
+<out-abc-96.pdf, id=950, 513.92pt x 84.315pt>
 File: out-abc-96.pdf Graphic file (type pdf)
 <use out-abc-96.pdf>
-Package pdftex.def Info: out-abc-96.pdf  used on input line 1785.
+Package pdftex.def Info: out-abc-96.pdf  used on input line 1803.
 (pdftex.def)             Requested size: 513.11745pt x 84.18997pt.
 \openout3 = `out-abc-97.abc'.
 
@@ -1518,10 +1517,10 @@ runsystem(ps2eps -f out-abc-97.ps )...executed.
 
 runsystem(epstopdf out-abc-97.eps)...executed.
 
-<out-abc-97.pdf, id=966, 513.92pt x 125.46875pt>
+<out-abc-97.pdf, id=951, 513.92pt x 125.46875pt>
 File: out-abc-97.pdf Graphic file (type pdf)
 <use out-abc-97.pdf>
-Package pdftex.def Info: out-abc-97.pdf  used on input line 1802.
+Package pdftex.def Info: out-abc-97.pdf  used on input line 1820.
 (pdftex.def)             Requested size: 513.11745pt x 125.28271pt.
 \openout3 = `out-abc-98.abc'.
 
@@ -1531,10 +1530,12 @@ runsystem(ps2eps -f out-abc-98.ps )...executed.
 
 runsystem(epstopdf out-abc-98.eps)...executed.
 
-<out-abc-98.pdf, id=967, 513.92pt x 119.44624pt>
+ [31 <./out-abc-93.pdf> <./out-abc-94.pdf> <./out-abc-95.pdf> <./out-abc-96.pdf
+> <./out-abc-97.pdf>]
+<out-abc-98.pdf, id=996, 513.92pt x 119.44624pt>
 File: out-abc-98.pdf Graphic file (type pdf)
 <use out-abc-98.pdf>
-Package pdftex.def Info: out-abc-98.pdf  used on input line 1820.
+Package pdftex.def Info: out-abc-98.pdf  used on input line 1838.
 (pdftex.def)             Requested size: 513.11745pt x 119.26913pt.
 \openout3 = `out-abc-99.abc'.
 
@@ -1544,13 +1545,11 @@ runsystem(ps2eps -f out-abc-99.ps )...executed.
 
 runsystem(epstopdf out-abc-99.eps)...executed.
 
-<out-abc-99.pdf, id=968, 513.92pt x 256.96pt>
+<out-abc-99.pdf, id=997, 513.92pt x 256.96pt>
 File: out-abc-99.pdf Graphic file (type pdf)
 <use out-abc-99.pdf>
-Package pdftex.def Info: out-abc-99.pdf  used on input line 1840.
+Package pdftex.def Info: out-abc-99.pdf  used on input line 1858.
 (pdftex.def)             Requested size: 513.11745pt x 256.57903pt.
- [31 <./out-abc-95.pdf> <./out-abc-96.pdf> <./out-abc-97.pdf> <./out-abc-98.pdf
->]
 \openout3 = `out-abc-100.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-100.abc )...executed.
@@ -1559,10 +1558,10 @@ runsystem(ps2eps -f out-abc-100.ps )...executed.
 
 runsystem(epstopdf out-abc-100.eps)...executed.
 
-<out-abc-100.pdf, id=1004, 513.92pt x 226.8475pt>
+<out-abc-100.pdf, id=998, 513.92pt x 226.8475pt>
 File: out-abc-100.pdf Graphic file (type pdf)
 <use out-abc-100.pdf>
-Package pdftex.def Info: out-abc-100.pdf  used on input line 1861.
+Package pdftex.def Info: out-abc-100.pdf  used on input line 1879.
 (pdftex.def)             Requested size: 513.11745pt x 226.51117pt.
 \openout3 = `out-abc-101.abc'.
 
@@ -1572,11 +1571,13 @@ runsystem(ps2eps -f out-abc-101.ps )...executed.
 
 runsystem(epstopdf out-abc-101.eps)...executed.
 
-<out-abc-101.pdf, id=1005, 513.92pt x 133.49875pt>
+<out-abc-101.pdf, id=999, 513.92pt x 133.49875pt>
 File: out-abc-101.pdf Graphic file (type pdf)
 <use out-abc-101.pdf>
-Package pdftex.def Info: out-abc-101.pdf  used on input line 1880.
+Package pdftex.def Info: out-abc-101.pdf  used on input line 1898.
 (pdftex.def)             Requested size: 513.11745pt x 133.3008pt.
+
+[32 <./out-abc-98.pdf> <./out-abc-99.pdf> <./out-abc-100.pdf>]
 \openout3 = `out-abc-102.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-102.abc )...executed.
@@ -1585,12 +1586,11 @@ runsystem(ps2eps -f out-abc-102.ps )...executed.
 
 runsystem(epstopdf out-abc-102.eps)...executed.
 
-<out-abc-102.pdf, id=1006, 513.92pt x 134.5025pt>
+<out-abc-102.pdf, id=1024, 513.92pt x 134.5025pt>
 File: out-abc-102.pdf Graphic file (type pdf)
 <use out-abc-102.pdf>
-Package pdftex.def Info: out-abc-102.pdf  used on input line 1898.
+Package pdftex.def Info: out-abc-102.pdf  used on input line 1916.
 (pdftex.def)             Requested size: 513.11745pt x 134.30307pt.
- [32 <./out-abc-99.pdf> <./out-abc-100.pdf> <./out-abc-101.pdf>]
 \openout3 = `out-abc-103.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-103.abc )...executed.
@@ -1599,10 +1599,10 @@ runsystem(ps2eps -f out-abc-103.ps )...executed.
 
 runsystem(epstopdf out-abc-103.eps)...executed.
 
-<out-abc-103.pdf, id=1031, 513.92pt x 190.7125pt>
+<out-abc-103.pdf, id=1025, 513.92pt x 190.7125pt>
 File: out-abc-103.pdf Graphic file (type pdf)
 <use out-abc-103.pdf>
-Package pdftex.def Info: out-abc-103.pdf  used on input line 1916.
+Package pdftex.def Info: out-abc-103.pdf  used on input line 1934.
 (pdftex.def)             Requested size: 513.11745pt x 190.42973pt.
 \openout3 = `out-abc-104.abc'.
 
@@ -1612,11 +1612,12 @@ runsystem(ps2eps -f out-abc-104.ps )...executed.
 
 runsystem(epstopdf out-abc-104.eps)...executed.
 
-<out-abc-104.pdf, id=1032, 513.92pt x 217.81375pt>
+<out-abc-104.pdf, id=1026, 513.92pt x 217.81375pt>
 File: out-abc-104.pdf Graphic file (type pdf)
 <use out-abc-104.pdf>
-Package pdftex.def Info: out-abc-104.pdf  used on input line 1935.
+Package pdftex.def Info: out-abc-104.pdf  used on input line 1953.
 (pdftex.def)             Requested size: 513.11745pt x 217.49081pt.
+ [33 <./out-abc-101.pdf> <./out-abc-102.pdf> <./out-abc-103.pdf>]
 \openout3 = `out-abc-105.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-105.abc )...executed.
@@ -1625,12 +1626,11 @@ runsystem(ps2eps -f out-abc-105.ps )...executed.
 
 runsystem(epstopdf out-abc-105.eps)...executed.
 
-<out-abc-105.pdf, id=1033, 513.92pt x 167.62625pt>
+<out-abc-105.pdf, id=1051, 513.92pt x 167.62625pt>
 File: out-abc-105.pdf Graphic file (type pdf)
 <use out-abc-105.pdf>
-Package pdftex.def Info: out-abc-105.pdf  used on input line 1952.
+Package pdftex.def Info: out-abc-105.pdf  used on input line 1970.
 (pdftex.def)             Requested size: 513.11745pt x 167.37772pt.
-[33 <./out-abc-102.pdf> <./out-abc-103.pdf> <./out-abc-104.pdf>]
 \openout3 = `out-abc-106.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-106.abc )...executed.
@@ -1639,10 +1639,10 @@ runsystem(ps2eps -f out-abc-106.ps )...executed.
 
 runsystem(epstopdf out-abc-106.eps)...executed.
 
-<out-abc-106.pdf, id=1058, 513.92pt x 148.555pt>
+<out-abc-106.pdf, id=1052, 513.92pt x 148.555pt>
 File: out-abc-106.pdf Graphic file (type pdf)
 <use out-abc-106.pdf>
-Package pdftex.def Info: out-abc-106.pdf  used on input line 1972.
+Package pdftex.def Info: out-abc-106.pdf  used on input line 1990.
 (pdftex.def)             Requested size: 513.11745pt x 148.33475pt.
 \openout3 = `out-abc-107.abc'.
 
@@ -1652,10 +1652,10 @@ runsystem(ps2eps -f out-abc-107.ps )...executed.
 
 runsystem(epstopdf out-abc-107.eps)...executed.
 
-<out-abc-107.pdf, id=1059, 513.92pt x 83.31125pt>
+<out-abc-107.pdf, id=1053, 513.92pt x 83.31125pt>
 File: out-abc-107.pdf Graphic file (type pdf)
 <use out-abc-107.pdf>
-Package pdftex.def Info: out-abc-107.pdf  used on input line 1990.
+Package pdftex.def Info: out-abc-107.pdf  used on input line 2008.
 (pdftex.def)             Requested size: 513.11745pt x 83.18771pt.
 \openout3 = `out-abc-108.abc'.
 
@@ -1665,11 +1665,13 @@ runsystem(ps2eps -f out-abc-108.ps )...executed.
 
 runsystem(epstopdf out-abc-108.eps)...executed.
 
-<out-abc-108.pdf, id=1060, 513.92pt x 156.585pt>
+<out-abc-108.pdf, id=1054, 513.92pt x 156.585pt>
 File: out-abc-108.pdf Graphic file (type pdf)
 <use out-abc-108.pdf>
-Package pdftex.def Info: out-abc-108.pdf  used on input line 2007.
+Package pdftex.def Info: out-abc-108.pdf  used on input line 2025.
 (pdftex.def)             Requested size: 513.11745pt x 156.35284pt.
+ [34 <./out-abc-104.pdf> <./out-abc-105.pdf> <./out-abc-106.pdf> <./out-abc-107
+.pdf>]
 \openout3 = `out-abc-109.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-109.abc )...executed.
@@ -1678,13 +1680,11 @@ runsystem(ps2eps -f out-abc-109.ps )...executed.
 
 runsystem(epstopdf out-abc-109.eps)...executed.
 
-<out-abc-109.pdf, id=1061, 513.92pt x 155.58125pt>
+<out-abc-109.pdf, id=1093, 513.92pt x 155.58125pt>
 File: out-abc-109.pdf Graphic file (type pdf)
 <use out-abc-109.pdf>
-Package pdftex.def Info: out-abc-109.pdf  used on input line 2023.
+Package pdftex.def Info: out-abc-109.pdf  used on input line 2041.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
- [34 <./out-abc-105.pdf> <./out-abc-106.pdf> <./out-abc-107.pdf> <./out-abc-108
-.pdf>]
 \openout3 = `out-abc-110.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-110.abc )...executed.
@@ -1693,10 +1693,10 @@ runsystem(ps2eps -f out-abc-110.ps )...executed.
 
 runsystem(epstopdf out-abc-110.eps)...executed.
 
-<out-abc-110.pdf, id=1100, 513.92pt x 158.5925pt>
+<out-abc-110.pdf, id=1094, 513.92pt x 158.5925pt>
 File: out-abc-110.pdf Graphic file (type pdf)
 <use out-abc-110.pdf>
-Package pdftex.def Info: out-abc-110.pdf  used on input line 2039.
+Package pdftex.def Info: out-abc-110.pdf  used on input line 2057.
 (pdftex.def)             Requested size: 513.11745pt x 158.35735pt.
 \openout3 = `out-abc-111.abc'.
 
@@ -1706,11 +1706,12 @@ runsystem(ps2eps -f out-abc-111.ps )...executed.
 
 runsystem(epstopdf out-abc-111.eps)...executed.
 
-<out-abc-111.pdf, id=1101, 513.92pt x 203.76125pt>
+<out-abc-111.pdf, id=1095, 513.92pt x 203.76125pt>
 File: out-abc-111.pdf Graphic file (type pdf)
 <use out-abc-111.pdf>
-Package pdftex.def Info: out-abc-111.pdf  used on input line 2057.
+Package pdftex.def Info: out-abc-111.pdf  used on input line 2075.
 (pdftex.def)             Requested size: 513.11745pt x 203.45915pt.
+ [35 <./out-abc-108.pdf> <./out-abc-109.pdf> <./out-abc-110.pdf>]
 \openout3 = `out-abc-112.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-112.abc )...executed.
@@ -1719,12 +1720,11 @@ runsystem(ps2eps -f out-abc-112.ps )...executed.
 
 runsystem(epstopdf out-abc-112.eps)...executed.
 
-<out-abc-112.pdf, id=1102, 513.92pt x 159.59625pt>
+<out-abc-112.pdf, id=1120, 513.92pt x 159.59625pt>
 File: out-abc-112.pdf Graphic file (type pdf)
 <use out-abc-112.pdf>
-Package pdftex.def Info: out-abc-112.pdf  used on input line 2073.
+Package pdftex.def Info: out-abc-112.pdf  used on input line 2091.
 (pdftex.def)             Requested size: 513.11745pt x 159.35962pt.
- [35 <./out-abc-109.pdf> <./out-abc-110.pdf> <./out-abc-111.pdf>]
 \openout3 = `out-abc-113.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-113.abc )...executed.
@@ -1733,10 +1733,10 @@ runsystem(ps2eps -f out-abc-113.ps )...executed.
 
 runsystem(epstopdf out-abc-113.eps)...executed.
 
-<out-abc-113.pdf, id=1127, 513.92pt x 147.55125pt>
+<out-abc-113.pdf, id=1121, 513.92pt x 147.55125pt>
 File: out-abc-113.pdf Graphic file (type pdf)
 <use out-abc-113.pdf>
-Package pdftex.def Info: out-abc-113.pdf  used on input line 2092.
+Package pdftex.def Info: out-abc-113.pdf  used on input line 2110.
 (pdftex.def)             Requested size: 513.11745pt x 147.33247pt.
 \openout3 = `out-abc-114.abc'.
 
@@ -1746,11 +1746,12 @@ runsystem(ps2eps -f out-abc-114.ps )...executed.
 
 runsystem(epstopdf out-abc-114.eps)...executed.
 
-<out-abc-114.pdf, id=1128, 513.92pt x 155.58125pt>
+<out-abc-114.pdf, id=1122, 513.92pt x 155.58125pt>
 File: out-abc-114.pdf Graphic file (type pdf)
 <use out-abc-114.pdf>
-Package pdftex.def Info: out-abc-114.pdf  used on input line 2109.
+Package pdftex.def Info: out-abc-114.pdf  used on input line 2127.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
+ [36 <./out-abc-111.pdf> <./out-abc-112.pdf> <./out-abc-113.pdf>]
 \openout3 = `out-abc-115.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-115.abc )...executed.
@@ -1759,10 +1760,10 @@ runsystem(ps2eps -f out-abc-115.ps )...executed.
 
 runsystem(epstopdf out-abc-115.eps)...executed.
 
-<out-abc-115.pdf, id=1129, 513.92pt x 164.615pt>
+<out-abc-115.pdf, id=1151, 513.92pt x 164.615pt>
 File: out-abc-115.pdf Graphic file (type pdf)
 <use out-abc-115.pdf>
-Package pdftex.def Info: out-abc-115.pdf  used on input line 2127.
+Package pdftex.def Info: out-abc-115.pdf  used on input line 2145.
 (pdftex.def)             Requested size: 513.11745pt x 164.37094pt.
 \openout3 = `out-abc-116.abc'.
 
@@ -1772,13 +1773,11 @@ runsystem(ps2eps -f out-abc-116.ps )...executed.
 
 runsystem(epstopdf out-abc-116.eps)...executed.
 
-<out-abc-116.pdf, id=1130, 513.92pt x 168.63pt>
+<out-abc-116.pdf, id=1152, 513.92pt x 168.63pt>
 File: out-abc-116.pdf Graphic file (type pdf)
 <use out-abc-116.pdf>
-Package pdftex.def Info: out-abc-116.pdf  used on input line 2145.
+Package pdftex.def Info: out-abc-116.pdf  used on input line 2163.
 (pdftex.def)             Requested size: 513.11745pt x 168.37997pt.
- [36 <./out-abc-112.pdf> <./out-abc-113.pdf> <./out-abc-114.pdf> <./out-abc-115
-.pdf>]
 \openout3 = `out-abc-117.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-117.abc )...executed.
@@ -1787,11 +1786,12 @@ runsystem(ps2eps -f out-abc-117.ps )...executed.
 
 runsystem(epstopdf out-abc-117.eps)...executed.
 
-<out-abc-117.pdf, id=1170, 513.92pt x 192.72pt>
+<out-abc-117.pdf, id=1153, 513.92pt x 192.72pt>
 File: out-abc-117.pdf Graphic file (type pdf)
 <use out-abc-117.pdf>
-Package pdftex.def Info: out-abc-117.pdf  used on input line 2164.
+Package pdftex.def Info: out-abc-117.pdf  used on input line 2182.
 (pdftex.def)             Requested size: 513.11745pt x 192.43427pt.
+ [37 <./out-abc-114.pdf> <./out-abc-115.pdf> <./out-abc-116.pdf>]
 \openout3 = `out-abc-118.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-118.abc )...executed.
@@ -1800,10 +1800,10 @@ runsystem(ps2eps -f out-abc-118.ps )...executed.
 
 runsystem(epstopdf out-abc-118.eps)...executed.
 
-<out-abc-118.pdf, id=1171, 513.92pt x 155.58125pt>
+<out-abc-118.pdf, id=1183, 513.92pt x 155.58125pt>
 File: out-abc-118.pdf Graphic file (type pdf)
 <use out-abc-118.pdf>
-Package pdftex.def Info: out-abc-118.pdf  used on input line 2180.
+Package pdftex.def Info: out-abc-118.pdf  used on input line 2198.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
 \openout3 = `out-abc-119.abc'.
 
@@ -1813,10 +1813,10 @@ runsystem(ps2eps -f out-abc-119.ps )...executed.
 
 runsystem(epstopdf out-abc-119.eps)...executed.
 
-<out-abc-119.pdf, id=1172, 513.92pt x 120.45pt>
+<out-abc-119.pdf, id=1184, 513.92pt x 120.45pt>
 File: out-abc-119.pdf Graphic file (type pdf)
 <use out-abc-119.pdf>
-Package pdftex.def Info: out-abc-119.pdf  used on input line 2198.
+Package pdftex.def Info: out-abc-119.pdf  used on input line 2216.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
 \openout3 = `out-abc-120.abc'.
 
@@ -1826,13 +1826,11 @@ runsystem(ps2eps -f out-abc-120.ps )...executed.
 
 runsystem(epstopdf out-abc-120.eps)...executed.
 
-<out-abc-120.pdf, id=1173, 513.92pt x 143.53625pt>
+<out-abc-120.pdf, id=1185, 513.92pt x 143.53625pt>
 File: out-abc-120.pdf Graphic file (type pdf)
 <use out-abc-120.pdf>
-Package pdftex.def Info: out-abc-120.pdf  used on input line 2213.
+Package pdftex.def Info: out-abc-120.pdf  used on input line 2231.
 (pdftex.def)             Requested size: 513.11745pt x 143.32344pt.
- [37 <./out-abc-116.pdf> <./out-abc-117.pdf> <./out-abc-118.pdf> <./out-abc-119
-.pdf>]
 \openout3 = `out-abc-121.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-121.abc )...executed.
@@ -1841,11 +1839,13 @@ runsystem(ps2eps -f out-abc-121.ps )...executed.
 
 runsystem(epstopdf out-abc-121.eps)...executed.
 
-<out-abc-121.pdf, id=1206, 513.92pt x 121.45375pt>
+<out-abc-121.pdf, id=1186, 513.92pt x 121.45375pt>
 File: out-abc-121.pdf Graphic file (type pdf)
 <use out-abc-121.pdf>
-Package pdftex.def Info: out-abc-121.pdf  used on input line 2231.
+Package pdftex.def Info: out-abc-121.pdf  used on input line 2249.
 (pdftex.def)             Requested size: 513.11745pt x 121.27367pt.
+ [38 <./out-abc-117.pdf> <./out-abc-118.pdf> <./out-abc-119.pdf> <./out-abc-120
+.pdf>]
 \openout3 = `out-abc-122.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-122.abc )...executed.
@@ -1854,10 +1854,10 @@ runsystem(ps2eps -f out-abc-122.ps )...executed.
 
 runsystem(epstopdf out-abc-122.eps)...executed.
 
-<out-abc-122.pdf, id=1207, 513.92pt x 90.3375pt>
+<out-abc-122.pdf, id=1221, 513.92pt x 90.3375pt>
 File: out-abc-122.pdf Graphic file (type pdf)
 <use out-abc-122.pdf>
-Package pdftex.def Info: out-abc-122.pdf  used on input line 2248.
+Package pdftex.def Info: out-abc-122.pdf  used on input line 2266.
 (pdftex.def)             Requested size: 513.11745pt x 90.20355pt.
 \openout3 = `out-abc-123.abc'.
 
@@ -1867,10 +1867,10 @@ runsystem(ps2eps -f out-abc-123.ps )...executed.
 
 runsystem(epstopdf out-abc-123.eps)...executed.
 
-<out-abc-123.pdf, id=1208, 513.92pt x 175.65625pt>
+<out-abc-123.pdf, id=1222, 513.92pt x 175.65625pt>
 File: out-abc-123.pdf Graphic file (type pdf)
 <use out-abc-123.pdf>
-Package pdftex.def Info: out-abc-123.pdf  used on input line 2266.
+Package pdftex.def Info: out-abc-123.pdf  used on input line 2284.
 (pdftex.def)             Requested size: 513.11745pt x 175.39581pt.
 \openout3 = `out-abc-124.abc'.
 
@@ -1880,13 +1880,11 @@ runsystem(ps2eps -f out-abc-124.ps )...executed.
 
 runsystem(epstopdf out-abc-124.eps)...executed.
 
-<out-abc-124.pdf, id=1209, 513.92pt x 164.615pt>
+<out-abc-124.pdf, id=1223, 513.92pt x 164.615pt>
 File: out-abc-124.pdf Graphic file (type pdf)
 <use out-abc-124.pdf>
-Package pdftex.def Info: out-abc-124.pdf  used on input line 2284.
+Package pdftex.def Info: out-abc-124.pdf  used on input line 2302.
 (pdftex.def)             Requested size: 513.11745pt x 164.37094pt.
- [38 <./out-abc-120.pdf> <./out-abc-121.pdf> <./out-abc-122.pdf> <./out-abc-123
-.pdf>]
 \openout3 = `out-abc-125.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-125.abc )...executed.
@@ -1895,11 +1893,13 @@ runsystem(ps2eps -f out-abc-125.ps )...executed.
 
 runsystem(epstopdf out-abc-125.eps)...executed.
 
-<out-abc-125.pdf, id=1249, 513.92pt x 179.67125pt>
+<out-abc-125.pdf, id=1224, 513.92pt x 179.67125pt>
 File: out-abc-125.pdf Graphic file (type pdf)
 <use out-abc-125.pdf>
-Package pdftex.def Info: out-abc-125.pdf  used on input line 2302.
+Package pdftex.def Info: out-abc-125.pdf  used on input line 2320.
 (pdftex.def)             Requested size: 513.11745pt x 179.40485pt.
+ [39 <./out-abc-121.pdf> <./out-abc-122.pdf> <./out-abc-123.pdf> <./out-abc-124
+.pdf>]
 \openout3 = `out-abc-126.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-126.abc )...executed.
@@ -1908,10 +1908,10 @@ runsystem(ps2eps -f out-abc-126.ps )...executed.
 
 runsystem(epstopdf out-abc-126.eps)...executed.
 
-<out-abc-126.pdf, id=1250, 513.92pt x 147.55125pt>
+<out-abc-126.pdf, id=1266, 513.92pt x 147.55125pt>
 File: out-abc-126.pdf Graphic file (type pdf)
 <use out-abc-126.pdf>
-Package pdftex.def Info: out-abc-126.pdf  used on input line 2321.
+Package pdftex.def Info: out-abc-126.pdf  used on input line 2339.
 (pdftex.def)             Requested size: 513.11745pt x 147.33247pt.
 \openout3 = `out-abc-127.abc'.
 
@@ -1921,10 +1921,10 @@ runsystem(ps2eps -f out-abc-127.ps )...executed.
 
 runsystem(epstopdf out-abc-127.eps)...executed.
 
-<out-abc-127.pdf, id=1251, 513.92pt x 161.60374pt>
+<out-abc-127.pdf, id=1267, 513.92pt x 161.60374pt>
 File: out-abc-127.pdf Graphic file (type pdf)
 <use out-abc-127.pdf>
-Package pdftex.def Info: out-abc-127.pdf  used on input line 2338.
+Package pdftex.def Info: out-abc-127.pdf  used on input line 2356.
 (pdftex.def)             Requested size: 513.11745pt x 161.36415pt.
 \openout3 = `out-abc-128.abc'.
 
@@ -1934,14 +1934,11 @@ runsystem(ps2eps -f out-abc-128.ps )...executed.
 
 runsystem(epstopdf out-abc-128.eps)...executed.
 
-<out-abc-128.pdf, id=1252, 513.92pt x 168.63pt>
+<out-abc-128.pdf, id=1268, 513.92pt x 168.63pt>
 File: out-abc-128.pdf Graphic file (type pdf)
 <use out-abc-128.pdf>
-Package pdftex.def Info: out-abc-128.pdf  used on input line 2356.
+Package pdftex.def Info: out-abc-128.pdf  used on input line 2374.
 (pdftex.def)             Requested size: 513.11745pt x 168.37997pt.
-
-[39 <./out-abc-124.pdf> <./out-abc-125.pdf> <./out-abc-126.pdf> <./out-abc-127.
-pdf>]
 \openout3 = `out-abc-129.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-129.abc )...executed.
@@ -1950,10 +1947,12 @@ runsystem(ps2eps -f out-abc-129.ps )...executed.
 
 runsystem(epstopdf out-abc-129.eps)...executed.
 
-<out-abc-129.pdf, id=1298, 513.92pt x 125.46875pt>
+ [40 <./out-abc-125.pdf> <./out-abc-126.pdf> <./out-abc-127.pdf> <./out-abc-128
+.pdf>]
+<out-abc-129.pdf, id=1309, 513.92pt x 125.46875pt>
 File: out-abc-129.pdf Graphic file (type pdf)
 <use out-abc-129.pdf>
-Package pdftex.def Info: out-abc-129.pdf  used on input line 2373.
+Package pdftex.def Info: out-abc-129.pdf  used on input line 2391.
 (pdftex.def)             Requested size: 513.11745pt x 125.28271pt.
 \openout3 = `out-abc-130.abc'.
 
@@ -1963,10 +1962,10 @@ runsystem(ps2eps -f out-abc-130.ps )...executed.
 
 runsystem(epstopdf out-abc-130.eps)...executed.
 
-<out-abc-130.pdf, id=1299, 513.92pt x 161.60374pt>
+<out-abc-130.pdf, id=1310, 513.92pt x 161.60374pt>
 File: out-abc-130.pdf Graphic file (type pdf)
 <use out-abc-130.pdf>
-Package pdftex.def Info: out-abc-130.pdf  used on input line 2391.
+Package pdftex.def Info: out-abc-130.pdf  used on input line 2409.
 (pdftex.def)             Requested size: 513.11745pt x 161.36415pt.
 \openout3 = `out-abc-131.abc'.
 
@@ -1976,10 +1975,10 @@ runsystem(ps2eps -f out-abc-131.ps )...executed.
 
 runsystem(epstopdf out-abc-131.eps)...executed.
 
-<out-abc-131.pdf, id=1300, 513.92pt x 85.31876pt>
+<out-abc-131.pdf, id=1311, 513.92pt x 85.31876pt>
 File: out-abc-131.pdf Graphic file (type pdf)
 <use out-abc-131.pdf>
-Package pdftex.def Info: out-abc-131.pdf  used on input line 2410.
+Package pdftex.def Info: out-abc-131.pdf  used on input line 2428.
 (pdftex.def)             Requested size: 513.11745pt x 85.19225pt.
 \openout3 = `out-abc-132.abc'.
 
@@ -1989,13 +1988,11 @@ runsystem(ps2eps -f out-abc-132.ps )...executed.
 
 runsystem(epstopdf out-abc-132.eps)...executed.
 
-<out-abc-132.pdf, id=1301, 513.92pt x 146.5475pt>
+<out-abc-132.pdf, id=1312, 513.92pt x 146.5475pt>
 File: out-abc-132.pdf Graphic file (type pdf)
 <use out-abc-132.pdf>
-Package pdftex.def Info: out-abc-132.pdf  used on input line 2429.
+Package pdftex.def Info: out-abc-132.pdf  used on input line 2447.
 (pdftex.def)             Requested size: 513.11745pt x 146.3302pt.
- [40 <./out-abc-128.pdf> <./out-abc-129.pdf> <./out-abc-130.pdf> <./out-abc-131
-.pdf>]
 \openout3 = `out-abc-133.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-133.abc )...executed.
@@ -2004,11 +2001,13 @@ runsystem(ps2eps -f out-abc-133.ps )...executed.
 
 runsystem(epstopdf out-abc-133.eps)...executed.
 
-<out-abc-133.pdf, id=1333, 513.92pt x 167.62625pt>
+<out-abc-133.pdf, id=1313, 513.92pt x 167.62625pt>
 File: out-abc-133.pdf Graphic file (type pdf)
 <use out-abc-133.pdf>
-Package pdftex.def Info: out-abc-133.pdf  used on input line 2447.
+Package pdftex.def Info: out-abc-133.pdf  used on input line 2465.
 (pdftex.def)             Requested size: 513.11745pt x 167.37772pt.
+ [41 <./out-abc-129.pdf> <./out-abc-130.pdf> <./out-abc-131.pdf> <./out-abc-132
+.pdf>]
 \openout3 = `out-abc-134.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-134.abc )...executed.
@@ -2017,10 +2016,10 @@ runsystem(ps2eps -f out-abc-134.ps )...executed.
 
 runsystem(epstopdf out-abc-134.eps)...executed.
 
-<out-abc-134.pdf, id=1334, 513.92pt x 154.5775pt>
+<out-abc-134.pdf, id=1348, 513.92pt x 154.5775pt>
 File: out-abc-134.pdf Graphic file (type pdf)
 <use out-abc-134.pdf>
-Package pdftex.def Info: out-abc-134.pdf  used on input line 2466.
+Package pdftex.def Info: out-abc-134.pdf  used on input line 2484.
 (pdftex.def)             Requested size: 513.11745pt x 154.34831pt.
 \openout3 = `out-abc-135.abc'.
 
@@ -2030,10 +2029,10 @@ runsystem(ps2eps -f out-abc-135.ps )...executed.
 
 runsystem(epstopdf out-abc-135.eps)...executed.
 
-<out-abc-135.pdf, id=1335, 513.92pt x 131.49126pt>
+<out-abc-135.pdf, id=1349, 513.92pt x 131.49126pt>
 File: out-abc-135.pdf Graphic file (type pdf)
 <use out-abc-135.pdf>
-Package pdftex.def Info: out-abc-135.pdf  used on input line 2484.
+Package pdftex.def Info: out-abc-135.pdf  used on input line 2502.
 (pdftex.def)             Requested size: 513.11745pt x 131.2963pt.
 \openout3 = `out-abc-136.abc'.
 
@@ -2043,13 +2042,12 @@ runsystem(ps2eps -f out-abc-136.ps )...executed.
 
 runsystem(epstopdf out-abc-136.eps)...executed.
 
-<out-abc-136.pdf, id=1336, 513.92pt x 180.675pt>
+<out-abc-136.pdf, id=1350, 513.92pt x 180.675pt>
 File: out-abc-136.pdf Graphic file (type pdf)
 <use out-abc-136.pdf>
-Package pdftex.def Info: out-abc-136.pdf  used on input line 2506.
+Package pdftex.def Info: out-abc-136.pdf  used on input line 2524.
 (pdftex.def)             Requested size: 513.11745pt x 180.40712pt.
- [41 <./out-abc-132.pdf> <./out-abc-133.pdf> <./out-abc-134.pdf> <./out-abc-135
-.pdf>]
+ [42 <./out-abc-133.pdf> <./out-abc-134.pdf> <./out-abc-135.pdf>]
 \openout3 = `out-abc-137.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-137.abc )...executed.
@@ -2058,10 +2056,10 @@ runsystem(ps2eps -f out-abc-137.ps )...executed.
 
 runsystem(epstopdf out-abc-137.eps)...executed.
 
-<out-abc-137.pdf, id=1371, 513.92pt x 160.6pt>
+<out-abc-137.pdf, id=1375, 513.92pt x 160.6pt>
 File: out-abc-137.pdf Graphic file (type pdf)
 <use out-abc-137.pdf>
-Package pdftex.def Info: out-abc-137.pdf  used on input line 2523.
+Package pdftex.def Info: out-abc-137.pdf  used on input line 2541.
 (pdftex.def)             Requested size: 513.11745pt x 160.36188pt.
 \openout3 = `out-abc-138.abc'.
 
@@ -2071,10 +2069,10 @@ runsystem(ps2eps -f out-abc-138.ps )...executed.
 
 runsystem(epstopdf out-abc-138.eps)...executed.
 
-<out-abc-138.pdf, id=1372, 513.92pt x 120.45pt>
+<out-abc-138.pdf, id=1376, 513.92pt x 120.45pt>
 File: out-abc-138.pdf Graphic file (type pdf)
 <use out-abc-138.pdf>
-Package pdftex.def Info: out-abc-138.pdf  used on input line 2541.
+Package pdftex.def Info: out-abc-138.pdf  used on input line 2559.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
 \openout3 = `out-abc-139.abc'.
 
@@ -2084,10 +2082,10 @@ runsystem(ps2eps -f out-abc-139.ps )...executed.
 
 runsystem(epstopdf out-abc-139.eps)...executed.
 
-<out-abc-139.pdf, id=1373, 513.92pt x 155.58125pt>
+<out-abc-139.pdf, id=1377, 513.92pt x 155.58125pt>
 File: out-abc-139.pdf Graphic file (type pdf)
 <use out-abc-139.pdf>
-Package pdftex.def Info: out-abc-139.pdf  used on input line 2558.
+Package pdftex.def Info: out-abc-139.pdf  used on input line 2576.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
 \openout3 = `out-abc-140.abc'.
 
@@ -2097,12 +2095,12 @@ runsystem(ps2eps -f out-abc-140.ps )...executed.
 
 runsystem(epstopdf out-abc-140.eps)...executed.
 
-<out-abc-140.pdf, id=1374, 513.92pt x 133.49875pt>
+<out-abc-140.pdf, id=1378, 513.92pt x 133.49875pt>
 File: out-abc-140.pdf Graphic file (type pdf)
 <use out-abc-140.pdf>
-Package pdftex.def Info: out-abc-140.pdf  used on input line 2574.
+Package pdftex.def Info: out-abc-140.pdf  used on input line 2592.
 (pdftex.def)             Requested size: 513.11745pt x 133.3008pt.
- [42 <./out-abc-136.pdf> <./out-abc-137.pdf> <./out-abc-138.pdf> <./out-abc-139
+ [43 <./out-abc-136.pdf> <./out-abc-137.pdf> <./out-abc-138.pdf> <./out-abc-139
 .pdf>]
 \openout3 = `out-abc-141.abc'.
 
@@ -2112,10 +2110,10 @@ runsystem(ps2eps -f out-abc-141.ps )...executed.
 
 runsystem(epstopdf out-abc-141.eps)...executed.
 
-<out-abc-141.pdf, id=1406, 513.92pt x 119.44624pt>
+<out-abc-141.pdf, id=1411, 513.92pt x 119.44624pt>
 File: out-abc-141.pdf Graphic file (type pdf)
 <use out-abc-141.pdf>
-Package pdftex.def Info: out-abc-141.pdf  used on input line 2590.
+Package pdftex.def Info: out-abc-141.pdf  used on input line 2608.
 (pdftex.def)             Requested size: 513.11745pt x 119.26913pt.
 \openout3 = `out-abc-142.abc'.
 
@@ -2125,10 +2123,10 @@ runsystem(ps2eps -f out-abc-142.ps )...executed.
 
 runsystem(epstopdf out-abc-142.eps)...executed.
 
-<out-abc-142.pdf, id=1407, 513.92pt x 122.4575pt>
+<out-abc-142.pdf, id=1412, 513.92pt x 122.4575pt>
 File: out-abc-142.pdf Graphic file (type pdf)
 <use out-abc-142.pdf>
-Package pdftex.def Info: out-abc-142.pdf  used on input line 2608.
+Package pdftex.def Info: out-abc-142.pdf  used on input line 2626.
 (pdftex.def)             Requested size: 513.11745pt x 122.27592pt.
 \openout3 = `out-abc-143.abc'.
 
@@ -2138,10 +2136,10 @@ runsystem(ps2eps -f out-abc-143.ps )...executed.
 
 runsystem(epstopdf out-abc-143.eps)...executed.
 
-<out-abc-143.pdf, id=1408, 513.92pt x 197.73875pt>
+<out-abc-143.pdf, id=1413, 513.92pt x 197.73875pt>
 File: out-abc-143.pdf Graphic file (type pdf)
 <use out-abc-143.pdf>
-Package pdftex.def Info: out-abc-143.pdf  used on input line 2628.
+Package pdftex.def Info: out-abc-143.pdf  used on input line 2646.
 (pdftex.def)             Requested size: 513.11745pt x 197.44559pt.
 \openout3 = `out-abc-144.abc'.
 
@@ -2151,12 +2149,12 @@ runsystem(ps2eps -f out-abc-144.ps )...executed.
 
 runsystem(epstopdf out-abc-144.eps)...executed.
 
-<out-abc-144.pdf, id=1409, 513.92pt x 130.4875pt>
+<out-abc-144.pdf, id=1414, 513.92pt x 130.4875pt>
 File: out-abc-144.pdf Graphic file (type pdf)
 <use out-abc-144.pdf>
-Package pdftex.def Info: out-abc-144.pdf  used on input line 2645.
+Package pdftex.def Info: out-abc-144.pdf  used on input line 2663.
 (pdftex.def)             Requested size: 513.11745pt x 130.29402pt.
- [43 <./out-abc-140.pdf> <./out-abc-141.pdf> <./out-abc-142.pdf> <./out-abc-143
+ [44 <./out-abc-140.pdf> <./out-abc-141.pdf> <./out-abc-142.pdf> <./out-abc-143
 .pdf>]
 \openout3 = `out-abc-145.abc'.
 
@@ -2166,10 +2164,10 @@ runsystem(ps2eps -f out-abc-145.ps )...executed.
 
 runsystem(epstopdf out-abc-145.eps)...executed.
 
-<out-abc-145.pdf, id=1444, 513.92pt x 185.69376pt>
+<out-abc-145.pdf, id=1448, 513.92pt x 185.69376pt>
 File: out-abc-145.pdf Graphic file (type pdf)
 <use out-abc-145.pdf>
-Package pdftex.def Info: out-abc-145.pdf  used on input line 2664.
+Package pdftex.def Info: out-abc-145.pdf  used on input line 2682.
 (pdftex.def)             Requested size: 513.11745pt x 185.41844pt.
 \openout3 = `out-abc-146.abc'.
 
@@ -2179,10 +2177,10 @@ runsystem(ps2eps -f out-abc-146.ps )...executed.
 
 runsystem(epstopdf out-abc-146.eps)...executed.
 
-<out-abc-146.pdf, id=1445, 513.92pt x 168.63pt>
+<out-abc-146.pdf, id=1449, 513.92pt x 168.63pt>
 File: out-abc-146.pdf Graphic file (type pdf)
 <use out-abc-146.pdf>
-Package pdftex.def Info: out-abc-146.pdf  used on input line 2680.
+Package pdftex.def Info: out-abc-146.pdf  used on input line 2698.
 (pdftex.def)             Requested size: 513.11745pt x 168.37997pt.
 \openout3 = `out-abc-147.abc'.
 
@@ -2192,10 +2190,10 @@ runsystem(ps2eps -f out-abc-147.ps )...executed.
 
 runsystem(epstopdf out-abc-147.eps)...executed.
 
-<out-abc-147.pdf, id=1446, 513.92pt x 167.62625pt>
+<out-abc-147.pdf, id=1450, 513.92pt x 167.62625pt>
 File: out-abc-147.pdf Graphic file (type pdf)
 <use out-abc-147.pdf>
-Package pdftex.def Info: out-abc-147.pdf  used on input line 2697.
+Package pdftex.def Info: out-abc-147.pdf  used on input line 2715.
 (pdftex.def)             Requested size: 513.11745pt x 167.37772pt.
 \openout3 = `out-abc-148.abc'.
 
@@ -2205,12 +2203,12 @@ runsystem(ps2eps -f out-abc-148.ps )...executed.
 
 runsystem(epstopdf out-abc-148.eps)...executed.
 
-<out-abc-148.pdf, id=1447, 513.92pt x 170.6375pt>
+<out-abc-148.pdf, id=1451, 513.92pt x 170.6375pt>
 File: out-abc-148.pdf Graphic file (type pdf)
 <use out-abc-148.pdf>
-Package pdftex.def Info: out-abc-148.pdf  used on input line 2713.
+Package pdftex.def Info: out-abc-148.pdf  used on input line 2731.
 (pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
- [44 <./out-abc-144.pdf> <./out-abc-145.pdf> <./out-abc-146.pdf> <./out-abc-147
+ [45 <./out-abc-144.pdf> <./out-abc-145.pdf> <./out-abc-146.pdf> <./out-abc-147
 .pdf>]
 \openout3 = `out-abc-149.abc'.
 
@@ -2220,10 +2218,10 @@ runsystem(ps2eps -f out-abc-149.ps )...executed.
 
 runsystem(epstopdf out-abc-149.eps)...executed.
 
-<out-abc-149.pdf, id=1486, 513.92pt x 131.49126pt>
+<out-abc-149.pdf, id=1490, 513.92pt x 131.49126pt>
 File: out-abc-149.pdf Graphic file (type pdf)
 <use out-abc-149.pdf>
-Package pdftex.def Info: out-abc-149.pdf  used on input line 2731.
+Package pdftex.def Info: out-abc-149.pdf  used on input line 2749.
 (pdftex.def)             Requested size: 513.11745pt x 131.2963pt.
 \openout3 = `out-abc-150.abc'.
 
@@ -2233,10 +2231,10 @@ runsystem(ps2eps -f out-abc-150.ps )...executed.
 
 runsystem(epstopdf out-abc-150.eps)...executed.
 
-<out-abc-150.pdf, id=1487, 513.92pt x 155.58125pt>
+<out-abc-150.pdf, id=1491, 513.92pt x 155.58125pt>
 File: out-abc-150.pdf Graphic file (type pdf)
 <use out-abc-150.pdf>
-Package pdftex.def Info: out-abc-150.pdf  used on input line 2749.
+Package pdftex.def Info: out-abc-150.pdf  used on input line 2767.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
 \openout3 = `out-abc-151.abc'.
 
@@ -2246,10 +2244,10 @@ runsystem(ps2eps -f out-abc-151.ps )...executed.
 
 runsystem(epstopdf out-abc-151.eps)...executed.
 
-<out-abc-151.pdf, id=1488, 513.92pt x 120.45pt>
+<out-abc-151.pdf, id=1492, 513.92pt x 120.45pt>
 File: out-abc-151.pdf Graphic file (type pdf)
 <use out-abc-151.pdf>
-Package pdftex.def Info: out-abc-151.pdf  used on input line 2766.
+Package pdftex.def Info: out-abc-151.pdf  used on input line 2784.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
 \openout3 = `out-abc-152.abc'.
 
@@ -2259,12 +2257,12 @@ runsystem(ps2eps -f out-abc-152.ps )...executed.
 
 runsystem(epstopdf out-abc-152.eps)...executed.
 
-<out-abc-152.pdf, id=1489, 513.92pt x 120.45pt>
+<out-abc-152.pdf, id=1493, 513.92pt x 120.45pt>
 File: out-abc-152.pdf Graphic file (type pdf)
 <use out-abc-152.pdf>
-Package pdftex.def Info: out-abc-152.pdf  used on input line 2782.
+Package pdftex.def Info: out-abc-152.pdf  used on input line 2800.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
- [45 <./out-abc-148.pdf> <./out-abc-149.pdf> <./out-abc-150.pdf> <./out-abc-151
+ [46 <./out-abc-148.pdf> <./out-abc-149.pdf> <./out-abc-150.pdf> <./out-abc-151
 .pdf>]
 \openout3 = `out-abc-153.abc'.
 
@@ -2274,10 +2272,10 @@ runsystem(ps2eps -f out-abc-153.ps )...executed.
 
 runsystem(epstopdf out-abc-153.eps)...executed.
 
-<out-abc-153.pdf, id=1526, 513.92pt x 157.58875pt>
+<out-abc-153.pdf, id=1530, 513.92pt x 157.58875pt>
 File: out-abc-153.pdf Graphic file (type pdf)
 <use out-abc-153.pdf>
-Package pdftex.def Info: out-abc-153.pdf  used on input line 2800.
+Package pdftex.def Info: out-abc-153.pdf  used on input line 2818.
 (pdftex.def)             Requested size: 513.11745pt x 157.35509pt.
 \openout3 = `out-abc-154.abc'.
 
@@ -2287,10 +2285,10 @@ runsystem(ps2eps -f out-abc-154.ps )...executed.
 
 runsystem(epstopdf out-abc-154.eps)...executed.
 
-<out-abc-154.pdf, id=1527, 513.92pt x 119.44624pt>
+<out-abc-154.pdf, id=1531, 513.92pt x 119.44624pt>
 File: out-abc-154.pdf Graphic file (type pdf)
 <use out-abc-154.pdf>
-Package pdftex.def Info: out-abc-154.pdf  used on input line 2817.
+Package pdftex.def Info: out-abc-154.pdf  used on input line 2835.
 (pdftex.def)             Requested size: 513.11745pt x 119.26913pt.
 \openout3 = `out-abc-155.abc'.
 
@@ -2300,10 +2298,10 @@ runsystem(ps2eps -f out-abc-155.ps )...executed.
 
 runsystem(epstopdf out-abc-155.eps)...executed.
 
-<out-abc-155.pdf, id=1528, 513.92pt x 169.63374pt>
+<out-abc-155.pdf, id=1532, 513.92pt x 169.63374pt>
 File: out-abc-155.pdf Graphic file (type pdf)
 <use out-abc-155.pdf>
-Package pdftex.def Info: out-abc-155.pdf  used on input line 2833.
+Package pdftex.def Info: out-abc-155.pdf  used on input line 2851.
 (pdftex.def)             Requested size: 513.11745pt x 169.38223pt.
 \openout3 = `out-abc-156.abc'.
 
@@ -2313,12 +2311,12 @@ runsystem(ps2eps -f out-abc-156.ps )...executed.
 
 runsystem(epstopdf out-abc-156.eps)...executed.
 
-<out-abc-156.pdf, id=1529, 513.92pt x 119.44624pt>
+<out-abc-156.pdf, id=1533, 513.92pt x 119.44624pt>
 File: out-abc-156.pdf Graphic file (type pdf)
 <use out-abc-156.pdf>
-Package pdftex.def Info: out-abc-156.pdf  used on input line 2850.
+Package pdftex.def Info: out-abc-156.pdf  used on input line 2868.
 (pdftex.def)             Requested size: 513.11745pt x 119.26913pt.
- [46 <./out-abc-152.pdf> <./out-abc-153.pdf> <./out-abc-154.pdf> <./out-abc-155
+ [47 <./out-abc-152.pdf> <./out-abc-153.pdf> <./out-abc-154.pdf> <./out-abc-155
 .pdf>]
 \openout3 = `out-abc-157.abc'.
 
@@ -2328,10 +2326,10 @@ runsystem(ps2eps -f out-abc-157.ps )...executed.
 
 runsystem(epstopdf out-abc-157.eps)...executed.
 
-<out-abc-157.pdf, id=1559, 513.92pt x 131.49126pt>
+<out-abc-157.pdf, id=1563, 513.92pt x 131.49126pt>
 File: out-abc-157.pdf Graphic file (type pdf)
 <use out-abc-157.pdf>
-Package pdftex.def Info: out-abc-157.pdf  used on input line 2866.
+Package pdftex.def Info: out-abc-157.pdf  used on input line 2884.
 (pdftex.def)             Requested size: 513.11745pt x 131.2963pt.
 \openout3 = `out-abc-158.abc'.
 
@@ -2341,10 +2339,10 @@ runsystem(ps2eps -f out-abc-158.ps )...executed.
 
 runsystem(epstopdf out-abc-158.eps)...executed.
 
-<out-abc-158.pdf, id=1560, 513.92pt x 92.345pt>
+<out-abc-158.pdf, id=1564, 513.92pt x 92.345pt>
 File: out-abc-158.pdf Graphic file (type pdf)
 <use out-abc-158.pdf>
-Package pdftex.def Info: out-abc-158.pdf  used on input line 2884.
+Package pdftex.def Info: out-abc-158.pdf  used on input line 2902.
 (pdftex.def)             Requested size: 513.11745pt x 92.20807pt.
 \openout3 = `out-abc-159.abc'.
 
@@ -2354,10 +2352,10 @@ runsystem(ps2eps -f out-abc-159.ps )...executed.
 
 runsystem(epstopdf out-abc-159.eps)...executed.
 
-<out-abc-159.pdf, id=1561, 513.92pt x 121.45375pt>
+<out-abc-159.pdf, id=1565, 513.92pt x 121.45375pt>
 File: out-abc-159.pdf Graphic file (type pdf)
 <use out-abc-159.pdf>
-Package pdftex.def Info: out-abc-159.pdf  used on input line 2903.
+Package pdftex.def Info: out-abc-159.pdf  used on input line 2921.
 (pdftex.def)             Requested size: 513.11745pt x 121.27367pt.
 \openout3 = `out-abc-160.abc'.
 
@@ -2367,12 +2365,12 @@ runsystem(ps2eps -f out-abc-160.ps )...executed.
 
 runsystem(epstopdf out-abc-160.eps)...executed.
 
-<out-abc-160.pdf, id=1562, 513.92pt x 178.6675pt>
+<out-abc-160.pdf, id=1566, 513.92pt x 178.6675pt>
 File: out-abc-160.pdf Graphic file (type pdf)
 <use out-abc-160.pdf>
-Package pdftex.def Info: out-abc-160.pdf  used on input line 2920.
+Package pdftex.def Info: out-abc-160.pdf  used on input line 2938.
 (pdftex.def)             Requested size: 513.11745pt x 178.4026pt.
- [47 <./out-abc-156.pdf> <./out-abc-157.pdf> <./out-abc-158.pdf> <./out-abc-159
+ [48 <./out-abc-156.pdf> <./out-abc-157.pdf> <./out-abc-158.pdf> <./out-abc-159
 .pdf>]
 \openout3 = `out-abc-161.abc'.
 
@@ -2382,10 +2380,10 @@ runsystem(ps2eps -f out-abc-161.ps )...executed.
 
 runsystem(epstopdf out-abc-161.eps)...executed.
 
-<out-abc-161.pdf, id=1599, 513.92pt x 167.62625pt>
+<out-abc-161.pdf, id=1603, 513.92pt x 167.62625pt>
 File: out-abc-161.pdf Graphic file (type pdf)
 <use out-abc-161.pdf>
-Package pdftex.def Info: out-abc-161.pdf  used on input line 2937.
+Package pdftex.def Info: out-abc-161.pdf  used on input line 2955.
 (pdftex.def)             Requested size: 513.11745pt x 167.37772pt.
 \openout3 = `out-abc-162.abc'.
 
@@ -2395,10 +2393,10 @@ runsystem(ps2eps -f out-abc-162.ps )...executed.
 
 runsystem(epstopdf out-abc-162.eps)...executed.
 
-<out-abc-162.pdf, id=1600, 513.92pt x 120.45pt>
+<out-abc-162.pdf, id=1604, 513.92pt x 120.45pt>
 File: out-abc-162.pdf Graphic file (type pdf)
 <use out-abc-162.pdf>
-Package pdftex.def Info: out-abc-162.pdf  used on input line 2954.
+Package pdftex.def Info: out-abc-162.pdf  used on input line 2972.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
 \openout3 = `out-abc-163.abc'.
 
@@ -2408,10 +2406,10 @@ runsystem(ps2eps -f out-abc-163.ps )...executed.
 
 runsystem(epstopdf out-abc-163.eps)...executed.
 
-<out-abc-163.pdf, id=1601, 513.92pt x 126.4725pt>
+<out-abc-163.pdf, id=1605, 513.92pt x 126.4725pt>
 File: out-abc-163.pdf Graphic file (type pdf)
 <use out-abc-163.pdf>
-Package pdftex.def Info: out-abc-163.pdf  used on input line 2971.
+Package pdftex.def Info: out-abc-163.pdf  used on input line 2989.
 (pdftex.def)             Requested size: 513.11745pt x 126.28499pt.
 \openout3 = `out-abc-164.abc'.
 
@@ -2421,12 +2419,12 @@ runsystem(ps2eps -f out-abc-164.ps )...executed.
 
 runsystem(epstopdf out-abc-164.eps)...executed.
 
-<out-abc-164.pdf, id=1602, 513.92pt x 154.5775pt>
+<out-abc-164.pdf, id=1606, 513.92pt x 154.5775pt>
 File: out-abc-164.pdf Graphic file (type pdf)
 <use out-abc-164.pdf>
-Package pdftex.def Info: out-abc-164.pdf  used on input line 2991.
+Package pdftex.def Info: out-abc-164.pdf  used on input line 3009.
 (pdftex.def)             Requested size: 513.11745pt x 154.34831pt.
- [48 <./out-abc-160.pdf> <./out-abc-161.pdf> <./out-abc-162.pdf> <./out-abc-163
+ [49 <./out-abc-160.pdf> <./out-abc-161.pdf> <./out-abc-162.pdf> <./out-abc-163
 .pdf>]
 \openout3 = `out-abc-165.abc'.
 
@@ -2436,10 +2434,10 @@ runsystem(ps2eps -f out-abc-165.ps )...executed.
 
 runsystem(epstopdf out-abc-165.eps)...executed.
 
-<out-abc-165.pdf, id=1632, 513.92pt x 120.45pt>
+<out-abc-165.pdf, id=1637, 513.92pt x 120.45pt>
 File: out-abc-165.pdf Graphic file (type pdf)
 <use out-abc-165.pdf>
-Package pdftex.def Info: out-abc-165.pdf  used on input line 3008.
+Package pdftex.def Info: out-abc-165.pdf  used on input line 3026.
 (pdftex.def)             Requested size: 513.11745pt x 120.27141pt.
 \openout3 = `out-abc-166.abc'.
 
@@ -2449,10 +2447,10 @@ runsystem(ps2eps -f out-abc-166.ps )...executed.
 
 runsystem(epstopdf out-abc-166.eps)...executed.
 
-<out-abc-166.pdf, id=1633, 513.92pt x 155.58125pt>
+<out-abc-166.pdf, id=1638, 513.92pt x 155.58125pt>
 File: out-abc-166.pdf Graphic file (type pdf)
 <use out-abc-166.pdf>
-Package pdftex.def Info: out-abc-166.pdf  used on input line 3024.
+Package pdftex.def Info: out-abc-166.pdf  used on input line 3042.
 (pdftex.def)             Requested size: 513.11745pt x 155.35057pt.
 \openout3 = `out-abc-167.abc'.
 
@@ -2462,10 +2460,10 @@ runsystem(ps2eps -f out-abc-167.ps )...executed.
 
 runsystem(epstopdf out-abc-167.eps)...executed.
 
-<out-abc-167.pdf, id=1634, 513.92pt x 109.40875pt>
+<out-abc-167.pdf, id=1639, 513.92pt x 109.40875pt>
 File: out-abc-167.pdf Graphic file (type pdf)
 <use out-abc-167.pdf>
-Package pdftex.def Info: out-abc-167.pdf  used on input line 3044.
+Package pdftex.def Info: out-abc-167.pdf  used on input line 3062.
 (pdftex.def)             Requested size: 513.11745pt x 109.24652pt.
 \openout3 = `out-abc-168.abc'.
 
@@ -2475,12 +2473,12 @@ runsystem(ps2eps -f out-abc-168.ps )...executed.
 
 runsystem(epstopdf out-abc-168.eps)...executed.
 
-<out-abc-168.pdf, id=1635, 513.92pt x 128.48pt>
+<out-abc-168.pdf, id=1640, 513.92pt x 128.48pt>
 File: out-abc-168.pdf Graphic file (type pdf)
 <use out-abc-168.pdf>
-Package pdftex.def Info: out-abc-168.pdf  used on input line 3060.
+Package pdftex.def Info: out-abc-168.pdf  used on input line 3078.
 (pdftex.def)             Requested size: 513.11745pt x 128.2895pt.
- [49 <./out-abc-164.pdf> <./out-abc-165.pdf> <./out-abc-166.pdf> <./out-abc-167
+ [50 <./out-abc-164.pdf> <./out-abc-165.pdf> <./out-abc-166.pdf> <./out-abc-167
 .pdf>]
 \openout3 = `out-abc-169.abc'.
 
@@ -2490,11 +2488,11 @@ runsystem(ps2eps -f out-abc-169.ps )...executed.
 
 runsystem(epstopdf out-abc-169.eps)...executed.
 
-<out-abc-169.pdf, id=1673, 513.92pt x 171.64125pt>
+<out-abc-169.pdf, id=1677, 513.92pt x 170.6375pt>
 File: out-abc-169.pdf Graphic file (type pdf)
 <use out-abc-169.pdf>
-Package pdftex.def Info: out-abc-169.pdf  used on input line 3078.
-(pdftex.def)             Requested size: 513.11745pt x 171.38675pt.
+Package pdftex.def Info: out-abc-169.pdf  used on input line 3096.
+(pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
 \openout3 = `out-abc-170.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-170.abc )...executed.
@@ -2503,11 +2501,11 @@ runsystem(ps2eps -f out-abc-170.ps )...executed.
 
 runsystem(epstopdf out-abc-170.eps)...executed.
 
-<out-abc-170.pdf, id=1674, 513.92pt x 101.37875pt>
+<out-abc-170.pdf, id=1678, 513.92pt x 100.375pt>
 File: out-abc-170.pdf Graphic file (type pdf)
 <use out-abc-170.pdf>
-Package pdftex.def Info: out-abc-170.pdf  used on input line 3095.
-(pdftex.def)             Requested size: 513.11745pt x 101.22844pt.
+Package pdftex.def Info: out-abc-170.pdf  used on input line 3113.
+(pdftex.def)             Requested size: 513.11745pt x 100.22617pt.
 \openout3 = `out-abc-171.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-171.abc )...executed.
@@ -2516,10 +2514,10 @@ runsystem(ps2eps -f out-abc-171.ps )...executed.
 
 runsystem(epstopdf out-abc-171.eps)...executed.
 
-<out-abc-171.pdf, id=1675, 513.92pt x 121.45375pt>
+<out-abc-171.pdf, id=1679, 513.92pt x 121.45375pt>
 File: out-abc-171.pdf Graphic file (type pdf)
 <use out-abc-171.pdf>
-Package pdftex.def Info: out-abc-171.pdf  used on input line 3113.
+Package pdftex.def Info: out-abc-171.pdf  used on input line 3131.
 (pdftex.def)             Requested size: 513.11745pt x 121.27367pt.
 \openout3 = `out-abc-172.abc'.
 
@@ -2529,12 +2527,12 @@ runsystem(ps2eps -f out-abc-172.ps )...executed.
 
 runsystem(epstopdf out-abc-172.eps)...executed.
 
-<out-abc-172.pdf, id=1676, 513.92pt x 157.58875pt>
+<out-abc-172.pdf, id=1680, 513.92pt x 157.58875pt>
 File: out-abc-172.pdf Graphic file (type pdf)
 <use out-abc-172.pdf>
-Package pdftex.def Info: out-abc-172.pdf  used on input line 3132.
+Package pdftex.def Info: out-abc-172.pdf  used on input line 3150.
 (pdftex.def)             Requested size: 513.11745pt x 157.35509pt.
- [50 <./out-abc-168.pdf> <./out-abc-169.pdf> <./out-abc-170.pdf> <./out-abc-171
+ [51 <./out-abc-168.pdf> <./out-abc-169.pdf> <./out-abc-170.pdf> <./out-abc-171
 .pdf>]
 \openout3 = `out-abc-173.abc'.
 
@@ -2544,10 +2542,10 @@ runsystem(ps2eps -f out-abc-173.ps )...executed.
 
 runsystem(epstopdf out-abc-173.eps)...executed.
 
-<out-abc-173.pdf, id=1711, 513.92pt x 148.555pt>
+<out-abc-173.pdf, id=1715, 513.92pt x 148.555pt>
 File: out-abc-173.pdf Graphic file (type pdf)
 <use out-abc-173.pdf>
-Package pdftex.def Info: out-abc-173.pdf  used on input line 3151.
+Package pdftex.def Info: out-abc-173.pdf  used on input line 3169.
 (pdftex.def)             Requested size: 513.11745pt x 148.33475pt.
 \openout3 = `out-abc-174.abc'.
 
@@ -2557,10 +2555,10 @@ runsystem(ps2eps -f out-abc-174.ps )...executed.
 
 runsystem(epstopdf out-abc-174.eps)...executed.
 
-<out-abc-174.pdf, id=1712, 513.92pt x 246.9225pt>
+<out-abc-174.pdf, id=1716, 513.92pt x 246.9225pt>
 File: out-abc-174.pdf Graphic file (type pdf)
 <use out-abc-174.pdf>
-Package pdftex.def Info: out-abc-174.pdf  used on input line 3172.
+Package pdftex.def Info: out-abc-174.pdf  used on input line 3190.
 (pdftex.def)             Requested size: 513.11745pt x 246.5564pt.
 \openout3 = `out-abc-175.abc'.
 
@@ -2570,13 +2568,13 @@ runsystem(ps2eps -f out-abc-175.ps )...executed.
 
 runsystem(epstopdf out-abc-175.eps)...executed.
 
-<out-abc-175.pdf, id=1713, 513.92pt x 186.6975pt>
+<out-abc-175.pdf, id=1717, 513.92pt x 186.6975pt>
 File: out-abc-175.pdf Graphic file (type pdf)
 <use out-abc-175.pdf>
-Package pdftex.def Info: out-abc-175.pdf  used on input line 3194.
+Package pdftex.def Info: out-abc-175.pdf  used on input line 3212.
 (pdftex.def)             Requested size: 513.11745pt x 186.4207pt.
 
-[51 <./out-abc-172.pdf> <./out-abc-173.pdf> <./out-abc-174.pdf>]
+[52 <./out-abc-172.pdf> <./out-abc-173.pdf> <./out-abc-174.pdf>]
 \openout3 = `out-abc-176.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-176.abc )...executed.
@@ -2585,10 +2583,10 @@ runsystem(ps2eps -f out-abc-176.ps )...executed.
 
 runsystem(epstopdf out-abc-176.eps)...executed.
 
-<out-abc-176.pdf, id=1746, 513.92pt x 173.64874pt>
+<out-abc-176.pdf, id=1750, 513.92pt x 173.64874pt>
 File: out-abc-176.pdf Graphic file (type pdf)
 <use out-abc-176.pdf>
-Package pdftex.def Info: out-abc-176.pdf  used on input line 3211.
+Package pdftex.def Info: out-abc-176.pdf  used on input line 3229.
 (pdftex.def)             Requested size: 513.11745pt x 173.3913pt.
 \openout3 = `out-abc-177.abc'.
 
@@ -2598,10 +2596,10 @@ runsystem(ps2eps -f out-abc-177.ps )...executed.
 
 runsystem(epstopdf out-abc-177.eps)...executed.
 
-<out-abc-177.pdf, id=1747, 513.92pt x 101.37875pt>
+<out-abc-177.pdf, id=1751, 513.92pt x 101.37875pt>
 File: out-abc-177.pdf Graphic file (type pdf)
 <use out-abc-177.pdf>
-Package pdftex.def Info: out-abc-177.pdf  used on input line 3228.
+Package pdftex.def Info: out-abc-177.pdf  used on input line 3246.
 (pdftex.def)             Requested size: 513.11745pt x 101.22844pt.
 \openout3 = `out-abc-178.abc'.
 
@@ -2611,12 +2609,12 @@ runsystem(ps2eps -f out-abc-178.ps )...executed.
 
 runsystem(epstopdf out-abc-178.eps)...executed.
 
-<out-abc-178.pdf, id=1748, 513.92pt x 207.77625pt>
+<out-abc-178.pdf, id=1752, 513.92pt x 207.77625pt>
 File: out-abc-178.pdf Graphic file (type pdf)
 <use out-abc-178.pdf>
-Package pdftex.def Info: out-abc-178.pdf  used on input line 3245.
+Package pdftex.def Info: out-abc-178.pdf  used on input line 3263.
 (pdftex.def)             Requested size: 513.11745pt x 207.46819pt.
- [52 <./out-abc-175.pdf> <./out-abc-176.pdf> <./out-abc-177.pdf>]
+ [53 <./out-abc-175.pdf> <./out-abc-176.pdf> <./out-abc-177.pdf>]
 \openout3 = `out-abc-179.abc'.
 
 runsystem(abcm2ps -O= -c  out-abc-179.abc )...executed.
@@ -2625,20 +2623,20 @@ runsystem(ps2eps -f out-abc-179.ps )...executed.
 
 runsystem(epstopdf out-abc-179.eps)...executed.
 
-<out-abc-179.pdf, id=1779, 513.92pt x 170.6375pt>
+<out-abc-179.pdf, id=1783, 513.92pt x 170.6375pt>
 File: out-abc-179.pdf Graphic file (type pdf)
 <use out-abc-179.pdf>
-Package pdftex.def Info: out-abc-179.pdf  used on input line 3263.
+Package pdftex.def Info: out-abc-179.pdf  used on input line 3281.
 (pdftex.def)             Requested size: 513.11745pt x 170.3845pt.
- [53 <./out-abc-178.pdf> <./out-abc-179.pdf>] (./tuneDump.aux) ) 
+ [54 <./out-abc-178.pdf> <./out-abc-179.pdf>] (./tuneDump.aux) ) 
 Here is how much of TeX's memory you used:
- 3591 strings out of 478051
- 66453 string characters out of 5840943
- 1867330 words of memory out of 5000000
- 23550 multiletter control sequences out of 15000+600000
- 516235 words of font info for 45 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 72i,6n,76p,228b,226s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 3559 strings out of 478287
+ 65652 string characters out of 5849290
+ 348906 words of memory out of 5000000
+ 21585 multiletter control sequences out of 15000+600000
+ 473207 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,6n,76p,228b,224s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-d
@@ -2646,10 +2644,10 @@ ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr17.pfb>
-Output written on tuneDump.pdf (53 pages, 2265031 bytes).
+Output written on tuneDump.pdf (54 pages, 2288704 bytes).
 PDF statistics:
- 1823 PDF objects out of 2073 (max. 8388607)
- 1166 compressed objects within 12 object streams
+ 1827 PDF objects out of 2073 (max. 8388607)
+ 1169 compressed objects within 12 object streams
  0 named destinations out of 1000 (max. 500000)
  896 words of extra memory for PDF output out of 10000 (max. 10000000)
 
