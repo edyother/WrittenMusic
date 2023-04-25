@@ -425,6 +425,7 @@ T:Ballydesmond Polka #1
 R:Polka
 M:2/4
 S:Julia Clifford, Denis Murphy
+L:1/8
 K:Ador
 A>b AG | EF GE | A>B AG | Ad d/e/d/c/ |
 A>b AG | EF G2 | AB CE | ED D2 :|
@@ -501,3 +502,16 @@ K:D
 DFAF GBAG | FAde fdAF | G2gf edce | dcde d2 :|
 cd |: eAA2 fAA2 | (3gag (3fgf eAA2 | (3gag (3fgf edcd | (3efe (3dcB (3ABA (3GFE |
 DFAF GBAG | FAde fdAF | G2gf edce | dcde d2 :|
+
+X:1
+T:Shoe the Donkey
+S:Memory
+M:3/4
+R:Mazurka
+K:G
+L:1/8
+DF | A2 AG FA | d2 dA BA | G2 GB AB | FG EF DF |
+A2 AG FA | d2 dA BA | G2 Gg fe | d4 :|
+Ad |: f2 fa gf | e2 eg fe | d2 df ed | cd Bc Ad |
+f2 fa gf | e2 eg fe | dc df ed | d4 :|
+
