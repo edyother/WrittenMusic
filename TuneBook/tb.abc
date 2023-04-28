@@ -2013,6 +2013,17 @@ def gfe | ded BAG | ABC BAB | GEE E3 :|
 %%scale .7
 %%staffsep 40
 
+X:152.5
+T:Shoe the Donkey
+M:3/4
+R:Mazurka
+L:1/8
+K:G
+DG | B2 B2 DG | B2 B2 DG | B2 c2 B2 | A4 DF |
+A2 A2 DF | A2 A2 DF | A2 B2 A2 | G4 :|
+GA |: B2 g2 f2 | e4 AB | c2 e2 d2 | B4 B2 |
+B2 A2 B2 | c4 cd | e2 d2 F2 | G4 :|
+
 X:153
 T:Sonny's Mazurka
 L:1/8
