@@ -2545,3 +2545,41 @@ FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
 |: ~D3 ~D3 c3 | c2B c2A GED | ~D3 ~D3 d2^c | dfe dcA GED :|
 |: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
 
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:184
+T:Rakes of Mallow, The
+S:Memory
+R:Polka
+M:2/4
+L:1/8
+K:G
+GB GB | GB c/B/A/G/ | FA FA | FA d/c/B/A/ |
+GB GB | GB d2 | c/B/A/G/ F/G/A/c/ | BG G2 :|
+|: gf/e/ dc | Bc d2 | gf/e/ dc | Bc A2 |
+gf/e/ dc | Bc d2 | c/B/A/G/ F/G/A/c/ | BG G2 :| 
+
+X:155
+T:Kerry Polka, The
+L:1/8
+R:Polka
+M:2/4
+K:D
+fA BA | fA BA | d2 e>f | ed BA |
+fA BA | fa BA | d2 e>f | ed d2 :|
+|: fb fe | ed BA | d2 e>f | ed BA |
+fb fe | ed BA | d2 e>f | ed d2 :|
+
+X:185
+T:John Ryan's Polka
+L:1/8
+R:Polka
+M:2/4
+K:D
+dd B/c/d/c/ | BF BF | dd B/c/d/c/ | BA FD |
+dd B/c/d/c/ | BF Bd/e/ | fd ec | d2 d2 :|
+|: fd de/f/ | gf ed | fd Bd | fg a2 |
+fd de/f/ | gf ed | fd ec | d2 d2 :| 
+
