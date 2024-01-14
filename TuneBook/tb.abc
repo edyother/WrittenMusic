@@ -1188,7 +1188,7 @@ FGA AFA c2A | BAG FAF GED | FGA AFA d2A | dfe dcA GED :|
 |: d^cd e/f/ge =c2A | d^cd fdf g3 | agf ged c2A | BAG FAF GED :|
 
 X:93
-T:ButterFly, The
+T:Butterfly, The
 R:Slip Jig
 M:9/8
 L:1/8
@@ -2121,7 +2121,7 @@ c2A BAG | ABA ABc | dcA AGE | GED D3 :|
 %%staffsep 40
 
 X:93
-T:ButterFly, The
+T:Butterfly, The
 R:Slip Jig
 M:9/8
 L:1/8
@@ -2129,6 +2129,16 @@ K:Emin
 B2E G2E F3 | B2E G2E FED | B2E G2E F3 | B2d d2B AGF :|
 |: B2d e2f g3 | B2d g2e dBA | B2d e2f g2a | b2a g2e dBA :|
 |: B3 B2A G2A | B3 BAB dBA | B3 B2A G2A | B2d g2e dBA :|
+
+X:186
+T:Snowy Path, The
+R:slip jig
+M:9/8
+L:1/8
+K:D
+F2A B2F A3 | G2B d2e dBA | F2A B2F A3 |1 E2D E2F GFE :|2 E2E E2F GAB |
+c3 c2e d2c | B2G B2c d2e | f3 f2e d2B | A2G F2G A2B |
+c3 c2e d2c | B2G B2c d3 | d2A B2F A3 | E2D E2F GFE || 
 
 X:159
 T:Foxhunter's Jig, The
