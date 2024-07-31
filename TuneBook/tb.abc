@@ -2594,3 +2594,66 @@ dd B/c/d/c/ | BF Bd/e/ | fd ec | d2 d2 :|
 |: fd de/f/ | gf ed | fd Bd | fg a2 |
 fd de/f/ | gf ed | fd ec | d2 d2 :| 
 
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:35
+T:Gander in the Pratie Hole
+M:6/8
+R:jig
+K:Dmix
+FAD FAD | GFG EFG | FAD FAD | GED D3 |
+FAD FAD | GFG EFG | fed cAG | FDD D3 :|
+|: Add ded | cAB cBA | Add ded | cAB c2c |
+Add ded | cAB cde | fed cAG | FDD D3 :|
+
+X:174
+T:Humors of Glendart, The
+S:Seán Gavin
+R:jig
+M:6/8
+K:D
+L:1/8
+BAF AFD | F3 DFA | BAF AFD | FED E3 |
+BAF AFD | F3 DFA | dcB AFE | FEE E3 :|
+|: def d2B | AFA AFA | def d2f | ede fdB |
+def d2B | AFA ABc | dcB AFE | FEE E3 :|
+
+X:175
+T:Tá an Coileach Ag Fógairt an Lae
+S:Seán Gavin
+R:jig
+M:6/8
+L:1/8
+K:G
+D | GAB BAG | d3 d2D | GAB BAG | A3 A2D |
+GAB BAG | Bcd efg | dBG AFD | G3 G2D :|
+d |: gdd gdd | c3 c2d | gdd gdB | A3 A2d |
+gdd gdd | Bcd efg | dBG AFD | G3 G2 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:186
+T:Moll Ha'penny
+M:4/4
+L:1/8
+R:hornpipe
+K:Dmix
+cd | edcA d2cA | GEE2 G2cd | edcA d2cd | eaag a2cd | 
+edcA d2cA | GEE2 G2cd | edcA dcAG | A2GB A2:|
+|: (3(Bcd) | eggf g2ed | cAAB c3d | eaag abag | ecd^c d2 (3(Bcd) |
+eggf g2ed | cAAB c3d | edcA dcAG | A2GB A2 :|
+
+X:187
+T:Poll Ha'penny
+M:4/4
+L:1/8
+R:hornpipe
+K:Dmix
+ed | c2EF GEE2 | GcAE G2cd | (3(efg) ed cdcA | GcAE G2EG | 
+A3B c3B | d^cde g2(3(efg) | afge fdec | A2Gc A2 :|
+|: (3(Bcd) | egga ged2 | egga ged2 | eaag abag | eaag abag | 
+f3d efe^c | d2(3(B^cd) efge | aged cAGB | A2AG A2 :|
