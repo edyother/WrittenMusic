@@ -2589,9 +2589,9 @@ L:1/8
 R:Polka
 M:2/4
 K:D
-dd B/c/d/c/ | BF BF | dd B/c/d/c/ | BA FD |
-dd B/c/d/c/ | BF Bd/e/ | fd ec | d2 d2 :|
-|: fd de/f/ | gf ed | fd Bd | fg a2 |
+dd B/c/d/c/ | AF AF | dd B/c/d/c/ | AF ED |
+dd B/c/d/c/ | AF Ad/e/ | fd ec | d2 d2 :|
+|: fd de/f/ | gf ed | fd Ad | fg a2 |
 fd de/f/ | gf ed | fd ec | d2 d2 :| 
 
 %%newpage
@@ -2657,3 +2657,28 @@ ed | c2EF GEE2 | GcAE G2cd | (3(efg) ed cdcA | GcAE G2EG |
 A3B c3B | d^cde g2(3(efg) | afge fdec | A2Gc A2 :|
 |: (3(Bcd) | egga ged2 | egga ged2 | eaag abag | eaag abag | 
 f3d efe^c | d2(3(B^cd) efge | aged cAGB | A2AG A2 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:69
+T:Bohola Jig
+R:jig
+M:6/8
+K:D
+e | fef d2B | ABA ABd | efe edB | efe e2e |
+fef d2B | ABA ABd | efe edB | ded d2 :|
+e | fef a2e | fef a2f | efe edB | efe e2e |
+|[1 fef a2e | fef a2f | efe edB | ded d2:|
+|[2 fef d2B | ABA ABd | efe edB | ded d2 |]
+
+X:69
+T:Rose in the Heather, The
+M:6/8
+R:jig
+K:D
+F3 EFE | DFA BAF | ABd ede | fdB AFE |
+F3 EFE | DFA BAF | AdB AFE | FDD D3 :|
+|: fdB ABd | f2a afd | g3 fed | Bee efg |
+fdB ABd | f2a afa | baf afe | fdc d3 :|
