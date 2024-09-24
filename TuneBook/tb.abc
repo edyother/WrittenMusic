@@ -1449,8 +1449,8 @@ R:Polka
 K:A
 A>B cA | BA cA | A>B cA | BA F2 |
 A>B cA | BA ce | A>B AF | FE E2 :|
-e>f ec | BA Bc | A>B AF | FE E2 :|
 |: e>f ec | BA Bc | e>f ec | BA F2 |
+e>f ec | BA Bc | A>B AF | FE E2 :|
 
 %%newpage
 %%scale .6
@@ -1895,6 +1895,17 @@ b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 %%newpage
 %%scale .7
 %%staffsep 40
+
+X:191
+T: Roosky Polka, The
+M:2/4
+R:polka
+L:1/8
+K:D
+B/c/ |: d2 de/f/ | g/f/e/d/ BG | Be dG | BA AB/c/ | 
+d2 de/f/ | g/f/e/d/ BG | Bd g>a | ba G2 :|
+|: Bd g>a | ba a/b/a/g/ | fd fa | gf ed | 
+Bd g>a | ba a/b/a/g/ | fd fa | gf g2 :| 
 
 X:144
 T:Church St Polka, The
