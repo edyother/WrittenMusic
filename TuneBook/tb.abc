@@ -982,10 +982,10 @@ M:2/4
 R:Polka
 L:1/8
 K:D
-Bd AF | Ad ff/f/ | gf ed | fe dB |
-Bd AF | Ad ff/f/ | gf ea | fe d2 :|
-|: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
-Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 |]
+B>d AF | Ad f>f | gf ed | fe dB |
+B>d AF | Ad f>f | gf ea | fe d2 :|
+|: B>c BA | FA D2 | F>A FA | BA FA |
+B>c BA | FA D2 |[1 E>F ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 |]
 
 X:79
 T:Face the Table
@@ -995,10 +995,10 @@ M:2/4
 R:Polka
 L:1/8
 K:D
-DD/E/ FA | BA Bd | DD/E/ FB | AF ED |
-DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
-|: dd/d/ df | ed ef | dd/d/ df | ed BA |
-dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
+D>E FA | BA Bd | D>E FB | AF ED |
+D>E FA | BA Bd | de/d/ cd/c/ | BA FE :|
+|: d>e df | ed ef | d>e df | ed BA |
+d>e df | ed ef |[1 ga/g/ fg/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
 
 X:80
 T:Untitled Polka
@@ -1008,10 +1008,10 @@ M:2/4
 R:Polka
 L:1/8
 K:D
-af/f/ ed | ef ed | Bg/g/ gf | fe fg |
-af/f/ ed | ef ed | Bg BA | EF D2 :|
-|: EF DE | FA dB/B/ | Bg BA | Bc BA |
-EF DE | FA dB/B/ | Bg BA | EF D2 :|
+a>f ed | ef ed | B>g gf | fe fg |
+a>f ed | ef ed | Bg BA | EF D2 :|
+|: EF DE | FA d>B | Bg BA | Bc BA |
+EF DE | FA d>B | Bg BA | EF D2 :|
 
 %%newpage
 %%scale .75
