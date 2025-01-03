@@ -1453,7 +1453,7 @@ A>B cA | BA ce | A>B AF | FE E2 :|
 e>f ec | BA Bc | A>B AF | FE E2 :|
 
 %%newpage
-%%scale .6
+%%scale .7
 %%staffsep 35
 
 X:113
@@ -1893,7 +1893,7 @@ dGBd GB d2 | d2 c2 A3 B | c2 A2 e2 d2 | G4 G4 :|
 b3 b2 a gb | a3 a2 g ef | gage d2 (3(Bcd) | e2 g2 g4 :|
 
 %%newpage
-%%scale .7
+%%scale .65
 %%staffsep 40
 
 X:191
@@ -2061,7 +2061,7 @@ K:D
 GA/B/ ed | B2 BA | GA/B/ ed | A2 AG |
 FD FA | f3 e |[1 dc/d/ ed | B3 A :|[2 dc/d/ ef | g3 d |]
 |: g2 fe | dB Bd | g2 fe | d2 dA |
-eA eA | f3 e c/d/ ed | B3 d :|[2 dc/d/ ef | gd BA |]
+eA eA |[1 f3 e c/d/ ed | B3 d :|[2 dc/d/ ef | gd BA |]
 
 X:155
 T:Kerry Polka, The
@@ -2081,8 +2081,8 @@ L:1/8
 R:Polka
 M:2/4
 K:A
-e>fe/ ce | Ae ce | fa/f/ ec | BA F2 |
-e>fe/ ce | Ae ce | f/a/g/f/ ec | BA A2 :|
+ef/e/ ce | Ae ce | fa/f/ ec | BA F2 |
+ef/e/ ce | Ae ce | f/a/g/f/ ec | BA A2 :|
 |: G/A/c a>f | ec BA | G/A/c a>f | ec B2 |
 G/A/c a>f | ec BA | f/a/g/f/ ec | BA A2 :|
 
@@ -2147,7 +2147,7 @@ R:slip jig
 M:9/8
 L:1/8
 K:D
-F2A B2F A3 | G2B d2e dBA | F2A B2F A3 |1 E2D E2F GFE :|2 E2E E2F GAB |
+F2A B2F A3 | G2B d2e dBA | F2A B2F A3 |[1 E2D E2F GFE ]:|[2 E2E E2F GAB ]|
 c3 c2e d2c | B2G B2c d2e | f3 f2e d2B | A2G F2G A2B |
 c3 c2e d2c | B2G B2c d3 | d2A B2F A3 | E2D E2F GFE || 
 
