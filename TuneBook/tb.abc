@@ -2253,6 +2253,7 @@ Adfd edfd | Adfd edBd | fa3 bfaf | defd efdB |]
 
 X:166
 T:Torn Jacket, The
+C:Connie O'Connel
 S:Seán Gavin
 R:reel
 M:C|
@@ -2426,7 +2427,7 @@ g3 d3 | ege d3 | efg a2g |1 fef gba :|2 fef gBA ||
 
 
 %%newpage
-%%scale .7
+%%scale .65
 %%staffsep 40
 
 X:179
@@ -2681,7 +2682,7 @@ T: Rambling Pitchfork, The
 M:6/8
 R:jig
 K:D
-F3 AFF | dFF Aff | G3 ABc | ded cAG | 
+F3 AFF | dFF AFF | G3 ABc | ded cAG | 
 F3 AFF | dFF AFF | G3 BAB | AFD D3 :| 
 |: d2e fed | ecA AFA | d2e fed | faf gfe | 
 d2e fed | ecA AGF | G3 BAB | AFD D3 :|
