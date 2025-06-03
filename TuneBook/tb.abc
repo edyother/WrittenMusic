@@ -2686,3 +2686,42 @@ F3 AFF | dFF AFF | G3 ABc | ded cAG |
 F3 AFF | dFF AFF | G3 BAB | AFD D3 :| 
 |: d2e fed | ecA AFA | d2e fed | faf gfe | 
 d2e fed | ecA AGF | G3 BAB | AFD D3 :|
+
+%%newpage
+%%scale .7
+%%staffsep 40
+
+X:190
+T:Flowers of Edingurgh
+M:C|
+R:reel
+L:1/8
+K:G
+GE | D2DE G2GA | BABd cBAG | FGEF DEFG | AGcG E2 |
+GE | D2DE G2GA | BABd efge | dcBA GFGA | B2G2 G2 :|
+|: (3(def) | g2g2 gbag | f2fe fagf | edef gfed | B2e2 e2ge |
+dBGB d3d | edef g2fe | dcBA GFGA | B2G2 G2 :|
+
+X: 191
+T: Spootiskerry
+R: reel
+M: C|
+L: 1/8
+K: G
+DE|G2 DE GDEG|DEGA B2 AB|G2 DE GABd|eged B2 AB|
+G2 DE GDEG|DEGA B2 AB|g2 ed edBA|B2 G2 G2:|
+ef|g2 ed ed B2|BABG E2 DE|GABd eged|B2 A2 A2 ef|
+g2 ed ed B2|BABG E2 DE|GABd eged|B2 G2 G2 ef|
+g2 ed ed B2|BABG E2 DE|GABd eged|B2 A2 A2 DE|
+G2 DE GDEG|DEGA B2 AB|g2 ed edBA|B2 G2 G2||
+
+X:192
+T:Old Copperplate, The
+R:reel
+M:C|
+L:1/8
+K:Ador
+A2EA cAA2 | aged cAEA | G2DG BGBd | gedc BGG2 |
+A2EA cAA2 | aged cAA2 | ABcd efge | aged cAA2 :|
+|: ageg a2bg | aged cAA2 | gede g2af | gedc BGG2 |
+ageg a2bg | aged cAA2 | ABcd efge | aged cAA2 :|
