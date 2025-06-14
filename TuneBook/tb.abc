@@ -2749,8 +2749,8 @@ R:jig
 M:6/8
 L:1/8
 K:D
-F2F FEF | F2D DED | F2E EFA | d2e fdA |
-F2F FEF | F2D DED | AFE EFA | B3 d3 :|
+F2E EDE | F2D DED | F2E EFA | d2e fdA |
+F2E EDE | F2D DED | AFE EFA | B3 d3 :|
 |: AB/c/d e2f | d2c B2A | AB/c/d e2f | d2A B3 |
 1 AB/c/d e2f | d2c B2A | AFE EFA | B3 d3 :|
 2 AB/c/d ede | fdB BAF | AFE EFA | d2e fdB ||
