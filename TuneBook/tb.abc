@@ -2765,3 +2765,44 @@ F3 DED | D2d cAG | F3 DED | A2F GFE |
 F3 DED | D2d cAG | F3 G3 | A2F GFE :|
 |: D2d cAd | cAd cAG | F2d cAG | F3 GFE |
 D2d cde | fed cAG | F3 G3 | A2F GFE :|
+
+%%newpage
+%%scale .65
+%%staffsep 40
+
+X:196
+T:McHughes' Jig
+S:Larry Nugent
+M:6/8
+R:jig
+L:1/8
+K:G
+G2A |: BAG AGE | DGD EDB | DEG AGA | BdB AGA |
+BAG AGE | DGD EDB | D2B AGA | BGF G3 :|
+[| d3 d2g | edB dBA | GAB dBd | egg g2e |
+d3 d2g | edB dBA | GAB AGA BGF G2B |
+d3 d2g | edB dBA | GAB dBd | egg g2a |
+bag age | dgd edB | GAB AGA | BGF G3 |]
+
+X:197
+T:Brian O'Lynn's
+S:Larry Nugent
+M:6/8
+R:jig
+L:1/8
+K:G
+G | EDB D2G | EDB D2G | EDB DEG | A2A AGA |
+BAB e2d | Bed BAG | GED E2F | G3 G2 :|
+A |: BAB e2d | Bed BAG | gfe dBG | A2A AGA |
+BAB e2d | Bed BAG | GED E2F | G3 G2 :|
+
+T:Cricket's March Over the Saltbox, The
+S:Larry Nugent
+M:6/8
+R:jig
+L:1/8
+K:D
+A | DED FED | F2A d2A | Bcd A2F | E2D B2A |
+DED FED | F2A d2A | Bcd A2F | E2D D2 :|
+B |: A2F FEF | d2B BAB | f2B BAB | a2f fef |
+gfe fed | efe d2A | Bcd A2F | E2D D2 :|
