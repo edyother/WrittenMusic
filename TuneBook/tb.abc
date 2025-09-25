@@ -2065,14 +2065,15 @@ eA eA |[1 f3 e c/d/ ed | B3 d :|[2 dc/d/ ef | gd BA |]
 
 X:155
 T:Kerry Polka, The
+T:Egan's Polka
 L:1/8
 R:Polka
 M:2/4
 K:D
 fA BA | fA BA | d2 e>f | ed BA |
-fA BA | fa BA | d2 e>f | ed d2 :|
-|: fb fe | ed BA | d2 e>f | ed BA |
-fb fe | ed BA | d2 e>f | ed d2 :|
+fA BA | fA BA | d2 e>f | ed d2 :|
+|: fa fe | ed BA | d2 e>f | ed BA |
+fa fe | ed BA | d2 e>f | ed d2 :|
 
 X:156
 T:Sweeney's Polka
@@ -2485,7 +2486,7 @@ T:Old Favorite, The
 R:jig
 M:6/8
 K:G
-B3 BAB | dBA G2B | ded d2B | ded B2a |
+B3 BAB | dBA G2B | ded d2B | ded B2A |
 B3 BAB | dBA G2B | ded cBA | G3 G3 :|
 |: g3 fgf | efe d2B | ded d2B | ded B2d |
 g3 fgf | efe d2B |1 dge dBA | G3 Gde :|2 dge dge | dge dBA ||
@@ -2554,14 +2555,15 @@ gf/e/ dc | Bc d2 | c/B/A/G/ F/G/A/c/ | BG G2 :|
 
 X:155
 T:Kerry Polka, The
+T:Egan's Polka
 L:1/8
 R:Polka
 M:2/4
 K:D
 fA BA | fA BA | d2 e>f | ed BA |
-fA BA | fa BA | d2 e>f | ed d2 :|
-|: fb fe | ed BA | d2 e>f | ed BA |
-fb fe | ed BA | d2 e>f | ed d2 :|
+fA BA | fA BA | d2 e>f | ed d2 :|
+|: fa fe | ed BA | d2 e>f | ed BA |
+fa fe | ed BA | d2 e>f | ed d2 :|
 
 X:185
 T:John Ryan's Polka
