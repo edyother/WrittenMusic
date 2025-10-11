@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.1)  28 SEP 2025 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.1)  11 OCT 2025 11:52
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **TuneBook.tex
 (./TuneBook.tex
@@ -2962,7 +2962,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on TuneBook.pdf (89 pages, 2236601 bytes).
+Output written on TuneBook.pdf (89 pages, 2236278 bytes).
 PDF statistics:
  580 PDF objects out of 1000 (max. 8388607)
  223 compressed objects within 3 object streams
