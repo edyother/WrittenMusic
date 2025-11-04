@@ -2840,3 +2840,20 @@ E2A ABA | G2A Bcd | efe dBA | G3 F2G |
 E2A ABA | G2A Bcd | efe dcB |1 A3 A2G :|2 A3 A3 ||
 |: e3 efe | d3 c2d | e2A ABA | GAG FGF |
 E2A ABA | G2A Bcd | efe dcB | A3 A3 :|
+
+%%newpage
+%%scale .65
+%%staffsep 40
+
+X: 201
+T: The Rake
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3d^c=c | BGDG BGdB | (3gfg (3agf gdBG | FEFG ABcA | d^cde fdcA |
+BGDG BGdB | (3gfg (3agf gdBG | (3Bcd gd cAFG | AGGF G2 :|
+AG | F2D2 D2 dc | B2G2G2 AG | F2D2 d^ced |fed^c d2 AG |
+F2D2 D2 dc | B2G2G2 AG | FAdf ed^ce | d4 =c4 |
+BGDG BGdB | (3gfg (3agf gdBG | FEFG ABcA | d^cde fdcA |
+BGDG BGdB | (3gfg (3agf gdBG | (3Bcd gd cAFG | AGGF G2 ||
