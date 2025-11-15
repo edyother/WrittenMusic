@@ -2870,10 +2870,11 @@ R:Jig
 M:6/8
 K:D
 G3 BGG | dGG BGG | A3 ABd | edB AGF |
-G3 BGG | dGG B3 | ABc BAB GEE E3 |:
+G3 BGG | dGG B3 | ABc BAB GEE E3 :|
 |: def gfe | ded BAG | A3 ABd edB AGE |
 def gfe | ded BAG | ABC BAB | GEE E3 :|
 
+X:202
 T:Down the Green Fields
 M:6/8
 R:jig
@@ -2882,5 +2883,5 @@ S:Seán Gavin
 K:G
 f | gfe d2B | cAA BGG | gfe d2B | cBA Gef |
 gfe d2B | cAA BGG | def gdB |cAF G2 :|
-F | EFG A2B | cAA BGF | EFG A2B | cBA G2F |
+|: F | EFG A2B | cAA BGF | EFG A2B | cBA G2F |
 EFG A2B | cAA BGG | def gdB |cAF G2 :|
