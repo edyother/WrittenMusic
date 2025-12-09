@@ -810,7 +810,10 @@ EAAB AGEF | G2GA GED2 | cBcd eged | ^cdef gedB |
 A2AB AGEF | G2GA GED2 | cBcd eged | cABG A2AG :|
 |: eaab agef | g2ga ged2 | cBcd eged | ^cdef gdeg |
 a2ab agef | g2ga ged2 | cBcd eged | cABG A2 A2 |:
+
 %%newpage
+%%scale .75
+%%staffsep 30
 
 X:69
 T:Joe Cooley's
@@ -843,6 +846,40 @@ E2BE dEBE | E2BE AFDF | E2BE dEBE |[1 BABc dAFD :|[2 BABc dAFA |]
 |: d2fd c2ec | defg afge |[1 d2fd c2ec | BABc BAFA :|[2 afge fded BABc dAFD |]
 
 %%newpage
+%%scale .75
+%%staffsep 30
+
+X:69
+T:Joe Cooley's
+R:reel
+C:Joe Mills
+M:C|
+K:Edor
+EBBA (3(BcB) EB | B2AB dBAG | (3(FED) AD BDAD | (3(FED) FA dAFD|
+EBBA (3(BcB) EB | B2AB defg | afef dBAF|[1 DE (3(FED) E2ED:|[2 DE (3(FED) E2gf|]
+|:eBB2 eBgB|eBB2 gedB|A2FA DAFA|A2FA defg|
+eBB2 eBgB|eBB2 defg|afef dBAF|[1 DE (3(FED) E2gf:|[2 DE (3(FED) E2ED|]
+
+X:69
+T:Toss the Feathers
+R:reel
+M:C|
+K:Dmix
+D2 (3(FED) AD (3(FED)|ABcA GEE2|D2 (3(FED) AD (3(FED)|d2ed cAGE|
+D2 (3(FED) AD (3(FED)|ABcA GEE2|cABG A2B^c|dfed cAGE:|
+|:Add2 Add2|Add2 ed^cd|eaag a2ag|eaag ed^cd|
+efge afge|dfed cAAB|cABG A2B^c|dfed cAGE:|
+
+X:203
+T:Toss the Feathers
+R:Reel
+M:4/4
+L:1/8
+K:Edor
+
+%%newpage
+%%scale .75
+%%staffsep 30
 
 X:68
 T:Lark in the Morning, The
