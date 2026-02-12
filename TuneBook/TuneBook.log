@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.1)  15 DEC 2025 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.1.1)  12 FEB 2026 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3034,9 +3034,41 @@ Package pdftex.def Info: tb.pdf , page86 used on input line 682.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
  [86
 
- <./tb.pdf>] (./TuneBook.ind [87
+ <./tb.pdf>]
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf>
+Package pdftex.def Info: tb.pdf  used on input line 689.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf>
+Package pdftex.def Info: tb.pdf  used on input line 689.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<tb.pdf, id=560, page=87, 614.295pt x 794.97pt>
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf, page 87>
+Package pdftex.def Info: tb.pdf , page87 used on input line 689.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf, page 87>
+Package pdftex.def Info: tb.pdf , page87 used on input line 689.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf, page 87>
+Package pdftex.def Info: tb.pdf , page87 used on input line 689.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf, page 87>
+Package pdftex.def Info: tb.pdf , page87 used on input line 689.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: tb.pdf Graphic file (type pdf)
+<use tb.pdf, page 87>
+Package pdftex.def Info: tb.pdf , page87 used on input line 689.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[87
 
-] [88] [89
+ <./tb.pdf>] (./TuneBook.ind [88
+
+] [89] [90
 
 ]) (./TuneBook.aux)
  ***********
@@ -3045,10 +3077,10 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3805 strings out of 474222
- 63022 string characters out of 5748734
+ 3808 strings out of 474222
+ 63095 string characters out of 5748734
  1943975 words of memory out of 5000000
- 26034 multiletter control sequences out of 15000+600000
+ 26037 multiletter control sequences out of 15000+600000
  562625 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,17n,79p,1070b,429s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3058,10 +3090,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on TuneBook.pdf (92 pages, 2302408 bytes).
+Output written on TuneBook.pdf (93 pages, 2317862 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
- 230 compressed objects within 3 object streams
+ 605 PDF objects out of 1000 (max. 8388607)
+ 232 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1296 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1311 words of extra memory for PDF output out of 10000 (max. 10000000)
 

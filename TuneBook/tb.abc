@@ -2925,3 +2925,27 @@ f | gfe d2B | cAA BGG | gfe d2B | cBA Gef |
 gfe d2B | cAA BGG | def gdB |cAF G2 :|
 |: F | EFG A2B | cAA BGF | EFG A2B | cBA G2F |
 EFG A2B | cAA BGG | def gdB |cAF G2 :|
+
+%%newpage
+%%scale .65
+%%staffsep 40
+
+X:203
+T:Moll Roe
+R:slip jig
+M:9/8
+L:1/8
+K:Dmix
+|: D2G GAG FGA | B3 GAB c2A | D2G GAG FGA |1 B3 cAF G2E :|2 B3 cAF G3 ||
+|: d3 dcA FED | ded cAB c3 | d3 dcA FGA |1 B3 cAF G3 :|2 B3 cAF G2E ||
+
+X:102
+T:Hardiman The Fiddler
+R:slip jig
+M:9/8
+L:1/8
+K:Ador
+|: A2G FDE F2G | A3 AGA cAG | A2G FDE F2G | Add ded cAG :|
+| Add d2e f3 | Add ded cAG | Add d2e f2g | agf gfe dcA |
+| Add d2e f3 | Add ded cAG | dcA d2e f2g | agf gfe dcA |
+
