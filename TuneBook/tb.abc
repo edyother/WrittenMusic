@@ -2949,3 +2949,34 @@ K:Ador
 | Add d2e f3 | Add ded cAG | Add d2e f2g | agf gfe dcA |
 | Add d2e f3 | Add ded cAG | dcA d2e f2g | agf gfe dcA |
 
+%%newpage
+%%scale .65
+%%staffsep 40
+
+X:204
+T:Battering Ram, The
+R:jig
+M:6/8
+L:1/8
+K:G
+B | dBG BAG | dBG G2B | dBG AGE | GED D2B |
+dBG BAG | BdB BAG | A3 BAB | GED D2:|
+|:B | deg aga | bge edB | deg aga | bge ega |
+bag age | g3 ege | dBG AGE |1 GED D2 :|2 GED D3 ||
+|: B2G A2G | B2D D3 | BAG AGE | GED D3 |
+B2G A2G | BdB BAG | A3 BAB |1 GED D3 :|2 GED D2 ||
+
+X:205
+T:Tell Her I Am
+S:Lomond Hotel Session in Melbourne
+R:jig
+M:6/8
+K:G
+g |: edB G3 | DED G3 | DED c2d | BGE E2g |
+edB G3 | DED G3 | AGF GBA |1 GFE D2g :|2 GFE D3 ||
+|: B3 dBG | B3 dBG | A3 ABA | AGF E3 |
+B3 deg | age d3 | cBA GBA | GFE D3 :|
+|| efg efg | dBG GBd | e2a aga | bge e3 |
+efg efg | dBG GBd | agf gba | gfe d3 |
+efg efg | dBG GBd | e2a aga | bge e2B |
+def gba | gfe d2B | cBA GBA | GFE D2 ||
