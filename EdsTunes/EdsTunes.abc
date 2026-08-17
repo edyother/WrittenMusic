@@ -148,7 +148,7 @@ DGG^F (3GGG GA | BAGd cAGF | dcde fedc | AdcA GFDC :|
 GABc (3ddd dg | fagd fdcA | c=Bcd fdcA |[1 GBAG FDCD :|]2 (3ccc cA GFDC ||
 
 X:1
-T:Ed Yother's Reel #1
+T:Untitled Reel #1
 C:Ed Yother
 C:c.2016
 C:http://edyother.com
@@ -158,6 +158,17 @@ M:4/4
 EAAG EDB,D | GBAd cAGF | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 EAAG EDB,D | (3DEF AB dBAG | EAAG EDB,G, | (3A,B,A, A,B, GB,A,2 |
 |: EAAd cAGF | Eeef gfed | (3BcB Bc dcBA | FBAF EDB,D :|
+
+X:1
+T:Untitled Reel #2
+C:Ed Yother 2026
+M:C|
+R:reel
+K:Em
+GA |: BEED EFGA | BeeB dBAc | BEED EFGA | B3c BAGA |
+BEED EFGA | BeeB dBAc | d3e f3g | agfe gfed :|
+|: e3f g3f | eBBA BEGB | eBBA BEGB | d2de dcBd |
+e3f g3f | eBBA BEGB | eBBA BEGB | dcBA BAGF :|
 
 %%newpage
 %%begintext
