@@ -36,31 +36,7 @@ More on that at http://creativecommons.org/licenses/by/3.0/us/
 %%endtext
 %%newpage
 
-%%textfont Times-Roman 32
-%%vskip 40
-%%begintext center
-Table of Contents
-%%endtext
-%%textfont Times-Roman 15
-%%begintext
 
-
-
-
-
-Reels ~ Page 3
-
-Jigs ~ Page 6
-
-Polkas ~ Page 10
-
-Hornpipes ~ Page 12
-
-Waltzes ~ Page 13
-
-
-%%endtext
-%%newpage
 %%textfont Times-Roman 32
 %%begintext
 Reels
@@ -287,7 +263,7 @@ FEF GFG | AFD AFD | BAB cBA | FGA D3 :|
 |: dcA dcA | FAd fed | dcA dcA | FGA AFD |
 dcA dcA | FAd fed | cAB cBA | FGA D3 :|
 |: cAB cAd | cAd cAB | cAB cAd | cAF GAB |
-cAB cAd | cAd cAB | cAd cAF | FGA D3 :|
+cAB cAd | cAd cAB | cAd cAG | FGA D3 :|
 
 X:1
 T:Untitled Jig #3
@@ -323,6 +299,20 @@ DD/E/ FA | BA Bd | dd/d/ cc/c/ | BA FE :|
 |: dd/d/ df | ed ef | dd/d/ df | ed BA |
 dd/d/ df | ed ef |[1 gg/g/ ff/f/ | ed BA :|[2 gg/g/ aa/a/ | fe dB |]
 
+X:39
+T:Face the Table
+C:Ed Yother
+C:c.2010
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+D>E FA | BA Bd | D>E FB | AF ED |
+D>E FA | BA Bd | d>d c>c | BA FE :|
+|: d>d df | ed ef | d>d df | ed BA |
+d>d df | ed ef |[1 g>g f>f | ed BA :|[2 g>g a>a | fe dB |]
+
 
 X:1
 T:Untitled Polka #1
@@ -339,6 +329,20 @@ af/f/ ed | ef ed | Bg BA | EF D2 :|
 EF DE | FA dB/B/ | Bg BA | EF D2 :|
 
 X:1
+T:Untitled Polka #1
+C:Ed Yother
+C:c.2010
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+a>f ed | ef ed | B>g gf | fe fg |
+a>f ed | ef ed | Bg BA | EF D2 :|
+|: EF DE | FA d>B | Bg BA | Bc BA |
+EF DE | FA d>B | Bg BA | EF D2 :|
+
+X:1
 T:Untitled Polka #2
 C:Ed Yother
 C:c.2010
@@ -351,6 +355,20 @@ Bd AF | Ad ff/f/ | gf ed | fe dB |
 Bd AF | Ad ff/f/ | gf ea | fe d2 :|
 |: Bc/c/ BA | FA D2 | FA/A/ FA | BA FA |
 Bc/c/ BA | FA D2 |[1 EF/F/ ED | B,D A,2 :|[2 BA Ff | (3(efe) d2 ||
+
+X:1
+T:Untitled Polka #2
+C:Ed Yother
+C:c.2010
+C:http://edyother.com
+M:2/4
+R:Polka
+L:1/8
+K:D
+Bd AF | Ad f>f | gf ed | fe dB |
+Bd AF | Ad f>f | gf ea | fe d2 :|
+|: B>c BA | FA D2 | F>A FA | BA FA |
+B>c BA | FA D2 |[1 E>F ED | B,D A,2 :|[2 BA Ff | e2 d2 ||
 
 %%newpage
 %%begintext
