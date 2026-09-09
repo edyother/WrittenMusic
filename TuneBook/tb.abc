@@ -2991,3 +2991,30 @@ B3 deg | age d3 | cBA GBA | GFE D3 :|
 efg efg | dBG GBd | agf gba | gfe d3 |
 efg efg | dBG GBd | e2a aga | bge e2B |
 def gba | gfe d2B | cBA GBA | GFE D2 ||
+
+%%newpage
+%%staffsep 40
+%%scale .65
+
+X:206
+T:Comb Your Hair and Curl It
+S:The Chieftains First Album
+R:slip jig
+M:9/8
+L:1/8
+K:Em
+B2E E2F G2A | B2e eBe dBA | B2E E2F G2A | BcB A2G FED :|
+g2e efe e2f | g3 efg afd | g2e efe e2^c | d2B ABG FED |
+g2e efe e2f | g3 efg afd | gfe agf gfe | d2B ABG FED ||
+
+X:207
+T: Boys of Ballisodare, The
+S:The Chieftains First Album
+R:hop jig
+M:9/8
+L:1/8
+K:D
+D2G G2A B2d | ege d2e g3 | D2G G2B d2B | A3 B2G E2G |
+D2G G2A B2d | ege d2e g2a | b2a g2e d2B | A3 B2G E2G :|
+|: B2d d2B d2B | d3 def g3 | B2d d2B d2B | A3 B2G E2G |
+B2d d2B d2B | d3 def g2a | b2a g2e d2B | A3 B2G E2G :|
